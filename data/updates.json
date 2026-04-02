@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-04-02T12:26:55.178Z",
+  "fetchedAt": "2026-04-02T12:34:42.199Z",
   "tools": [
     {
       "tool": "Semrush",
@@ -44,33 +44,64 @@
       "tool": "SurferSEO",
       "slug": "surferseo",
       "category": "SEO・キーワード調査",
-      "feedUrl": "https://surferseo.com/blog/feed/",
+      "feedUrl": "",
       "items": [],
-      "error": "Status code 404"
+      "error": "no_url"
     },
     {
       "tool": "Google サーチコンソール",
       "slug": "google-search-console",
-      "category": "SEO・キーワード調査",
-      "feedUrl": "https://developers.google.com/search/blog/atom.xml",
-      "items": [],
-      "error": "Status code 404"
-    },
-    {
-      "tool": "ラッコキーワード",
-      "slug": "rakko-keyword",
       "category": "SEO・キーワード調査",
       "feedUrl": "",
       "items": [],
       "error": "no_url"
     },
     {
+      "tool": "ラッコキーワード",
+      "slug": "rakko-keyword",
+      "category": "SEO・キーワード調査",
+      "feedUrl": "https://rakkokeyword.com/techo/feed/",
+      "items": [
+        {
+          "title": "【2026最新】ブログを始めるならどこがいい？目的別に12選を徹底比較！",
+          "link": "https://rakkokeyword.com/techo/blog-platform-comparison/",
+          "date": "Thu, 02 Apr 2026 07:27:32 +0000",
+          "summary": "「これからブログを始めたいけれど、種類（プラットフォーム）が多すぎてどこがいいのかわからない」と悩んでいませんか？ ブログサービスにはたくさんの選択肢があり、迷ってなかなか第一歩を踏み出せないという方も多いのではないでし ..."
+        },
+        {
+          "title": "【最短10分】WordPressでブログを始める方法！初心者も失敗しない完全図解",
+          "link": "https://rakkokeyword.com/techo/wordpress-start-guide/",
+          "date": "Thu, 02 Apr 2026 06:20:54 +0000",
+          "summary": "「副業や趣味でブログを始めたいけれど、ITの知識がないから自分にできるか不安……」 「設定が難しそうで、なかなか一歩を踏み出せない」 このような悩みを抱えていませんか？専門的な知識がなくても、最短10分で自分だけのブログ ..."
+        },
+        {
+          "title": "ラップタイム計算ツール",
+          "link": "https://rakkokeyword.com/techo/tool-marathon-pace-calculator/",
+          "date": "Wed, 01 Apr 2026 06:37:23 +0000",
+          "summary": "1. 目標タイム 時 分 秒 2. 走行距離を選択 フル ハーフ 10km 5km 3000m 1500m 400m kmm 3. ラップ表示単位 kmごとmごと 計算する リセット 必要な平均ペース –‘–“/km 通 ..."
+        },
+        {
+          "title": "【最短10分】ブログの始め方！知識ゼロから最初の1記事を書くまでの全手順",
+          "link": "https://rakkokeyword.com/techo/how-to-start-blog/",
+          "date": "Mon, 30 Mar 2026 05:03:26 +0000",
+          "summary": "ブログを始めてみたいけれど、「何から手をつければいいかわからない」「自分にはどのサービスが合っているのだろう」と悩んでいませんか？ 結論からお伝えすると、ブログは正しい手順を踏めば、初心者の方でも10分程度で簡単に始める ..."
+        },
+        {
+          "title": "外食先ルーレットツール",
+          "link": "https://rakkokeyword.com/techo/tool-food-roulette/",
+          "date": "Fri, 27 Mar 2026 06:34:06 +0000",
+          "summary": "定番 サクッと ゆっくり がっつり！ ルーレットの選択肢（1行に1つ入力） 回す 直近の結果履歴 まだ履歴はありません 今日の外食は… 周辺のお店を探す(Google Maps) もう一度回す Xでシェア 外食で食べたい ..."
+        }
+      ],
+      "error": null
+    },
+    {
       "tool": "Claude / Claude Code",
       "slug": "claude",
       "category": "AI・リサーチ",
-      "feedUrl": "https://www.anthropic.com/feed.xml",
+      "feedUrl": "",
       "items": [],
-      "error": "Status code 404"
+      "error": "no_url"
     },
     {
       "tool": "NotebookLM",
@@ -123,17 +154,17 @@
       "tool": "Figma",
       "slug": "figma",
       "category": "制作・デザイン",
-      "feedUrl": "https://www.figma.com/blog/feed/",
+      "feedUrl": "",
       "items": [],
-      "error": "Status code 404"
+      "error": "no_url"
     },
     {
       "tool": "Canva",
       "slug": "canva",
       "category": "制作・デザイン",
-      "feedUrl": "https://www.canva.com/learn/feed/",
+      "feedUrl": "",
       "items": [],
-      "error": "Status code 404"
+      "error": "no_url"
     },
     {
       "tool": "WordPress",
@@ -178,9 +209,40 @@
       "tool": "Obsidian",
       "slug": "obsidian",
       "category": "情報管理・開発",
-      "feedUrl": "https://obsidian.md/changelog/rss.xml",
-      "items": [],
-      "error": "Status code 404"
+      "feedUrl": "https://obsidian.md/changelog.xml",
+      "items": [
+        {
+          "title": "Obsidian 1.12.7 Mobile (Public)",
+          "link": "https://obsidian.md/changelog/2026-03-23-mobile-v1.12.7/",
+          "date": "2026-03-23T00:00:00.000Z",
+          "summary": "Includes all new features and bug fixes up to Obsidian Desktop v1.12.7."
+        },
+        {
+          "title": "Obsidian 1.12.7 Desktop (Public)",
+          "link": "https://obsidian.md/changelog/2026-03-23-desktop-v1.12.7/",
+          "date": "2026-03-23T00:00:00.000Z",
+          "summary": "Improvements Obsidian CLI The Obsidian Installer is now bundled with a new binary file for using the CLI. This new method replaces the old method of calling the Electron binary, resulting in significa"
+        },
+        {
+          "title": "Obsidian 1.12.6 Mobile (Early access)",
+          "link": "https://obsidian.md/changelog/2026-03-18-mobile-v1.12.6/",
+          "date": "2026-03-18T00:00:00.000Z",
+          "summary": "Includes all new features and bug fixes up to Obsidian Desktop v1.12.6."
+        },
+        {
+          "title": "Obsidian 1.12.6 Desktop (Early access)",
+          "link": "https://obsidian.md/changelog/2026-03-18-desktop-v1.12.6/",
+          "date": "2026-03-18T00:00:00.000Z",
+          "summary": "Bug fixes CLI Fixed the Obsidian CLI incorrectly checking for a Linux-specific directory on macOS. Changed the CLI socket file to a hidden dotfile on macOS and Linux. Editor Fixed some regressions wit"
+        },
+        {
+          "title": "Obsidian 1.12.5 Mobile (Early access)",
+          "link": "https://obsidian.md/changelog/2026-03-05-mobile-v1.12.5/",
+          "date": "2026-03-05T00:00:00.000Z",
+          "summary": "Includes all new features and bug fixes up to Obsidian Desktop v1.12.5."
+        }
+      ],
+      "error": null
     },
     {
       "tool": "GitHub",

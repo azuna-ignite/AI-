@@ -9,25 +9,25 @@
     "tool": "SurferSEO",
     "slug": "surferseo",
     "category": "SEO・キーワード調査",
-    "feedUrl": "https://surferseo.com/blog/feed/"
+    "feedUrl": ""
   },
   {
     "tool": "Google サーチコンソール",
     "slug": "google-search-console",
     "category": "SEO・キーワード調査",
-    "feedUrl": "https://developers.google.com/search/blog/atom.xml"
+    "feedUrl": ""
   },
   {
     "tool": "ラッコキーワード",
     "slug": "rakko-keyword",
     "category": "SEO・キーワード調査",
-    "feedUrl": ""
+    "feedUrl": "https://rakkokeyword.com/techo/feed/"
   },
   {
     "tool": "Claude / Claude Code",
     "slug": "claude",
     "category": "AI・リサーチ",
-    "feedUrl": "https://www.anthropic.com/feed.xml"
+    "feedUrl": ""
   },
   {
     "tool": "NotebookLM",
@@ -45,13 +45,13 @@
     "tool": "Figma",
     "slug": "figma",
     "category": "制作・デザイン",
-    "feedUrl": "https://www.figma.com/blog/feed/"
+    "feedUrl": ""
   },
   {
     "tool": "Canva",
     "slug": "canva",
     "category": "制作・デザイン",
-    "feedUrl": "https://www.canva.com/learn/feed/"
+    "feedUrl": ""
   },
   {
     "tool": "WordPress",
@@ -63,7 +63,7 @@
     "tool": "Obsidian",
     "slug": "obsidian",
     "category": "情報管理・開発",
-    "feedUrl": "https://obsidian.md/changelog/rss.xml"
+    "feedUrl": "https://obsidian.md/changelog.xml"
   },
   {
     "tool": "GitHub",
