@@ -1,0 +1,112 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>実践 Tips — 海外マーケティング KB</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<header>
+  <div class="nav-inner">
+    <a href="index.html" class="site-title">🌍 海外マーケティング KB</a>
+    <nav>
+      <a href="index.html">ホーム</a>
+      <a href="glossary.html">用語集</a>
+      <a href="tips.html">Tips</a>
+      <a href="tools.html">ツール</a>
+    </nav>
+  </div>
+</header>
+
+<main>
+  <h1 class="page-title">実践 Tips</h1>
+  <p class="page-subtitle">海外マーケティングの現場で使えるノウハウをまとめています。</p>
+
+  <div class="search-wrap">
+    <input type="search" class="search-input" id="searchInput" placeholder="Tipsを検索（例：LP、CTA、メール…）">
+  </div>
+
+  <div class="card-list" id="tipsList">
+
+    <div class="card" data-tip="lp ランディングページ 最適化 cro">
+      <div class="card-tip-title">LPのファーストビューで決まる：3秒ルール</div>
+      <span class="tag">LP最適化</span>
+      <span class="tag">CRO</span>
+      <div class="card-body">
+        訪問者がページに留まるかを決めるのは最初の3秒。ファーストビューには「誰向けか・何が得られるか・次に何をするか」の3要素を必ず入れる。ヒーロー画像は具体的な成果や数字を使ったものが、抽象的なイメージ素材より CVR が高い傾向にある。
+      </div>
+    </div>
+
+    <div class="card" data-tip="cta call to action ボタン 文言">
+      <div class="card-tip-title">CTAボタンは「動詞＋ベネフィット」で書く</div>
+      <span class="tag">CTA</span>
+      <span class="tag">コピーライティング</span>
+      <div class="card-body">
+        「送信する」より「無料で始める」、「詳細を見る」より「30日間の無料トライアルを開始する」のほうがクリック率が上がる。ユーザーが得るメリットを動詞に続けて明示するのがポイント。色はページで最も目立つ配色を使い、ボタン周りの余白を十分に確保する。
+      </div>
+    </div>
+
+    <div class="card" data-tip="abテスト a/b test 仮説 実験">
+      <div class="card-tip-title">A/Bテストは「1変数1テスト」が鉄則</div>
+      <span class="tag">A/Bテスト</span>
+      <span class="tag">データ分析</span>
+      <div class="card-body">
+        同時に複数の要素を変えると、どれが効いたか判断できない。テストは「見出しだけ」「CTAボタンの色だけ」のように1変数に絞る。サンプルサイズは統計的有意性（p値 &lt; 0.05 が目安）を確認してから判断する。最低でも1〜2週間は継続し、曜日の影響を排除する。
+      </div>
+    </div>
+
+    <div class="card" data-tip="メール 件名 email subject line 開封率">
+      <div class="card-tip-title">メール件名の開封率を上げる5つのパターン</div>
+      <span class="tag">メールマーケティング</span>
+      <span class="tag">コピーライティング</span>
+      <div class="card-body">
+        開封率を高める件名パターン：①数字を入れる（「3つのミス」）、②好奇心を刺激する（「意外と知らない…」）、③緊急性を示す（「今日まで」）、④パーソナライズ（名前や会社名を入れる）、⑤質問形式（「〇〇に悩んでいませんか？」）。件名は40文字以内に収めるとモバイルで見切れにくい。
+      </div>
+    </div>
+
+    <div class="card" data-tip="seo コンテンツ 検索意図 キーワード">
+      <div class="card-tip-title">検索意図の4分類でコンテンツ設計を変える</div>
+      <span class="tag">SEO</span>
+      <span class="tag">コンテンツ設計</span>
+      <div class="card-body">
+        検索意図は「情報収集型（Know）」「ナビゲーション型（Go）」「購買検討型（Do）」「トランザクション型（Buy）」の4種類。キーワードによって意図が異なるため、記事の形式・ゴール・CTAもそれぞれ変える必要がある。たとえば「〇〇とは」は Know 系なので教育コンテンツに最適化し、購買系 CTA は控えめにする。
+      </div>
+    </div>
+
+  </div>
+
+  <p class="no-result" id="noResult" style="display:none;">該当する Tips が見つかりませんでした。</p>
+</main>
+
+<footer>
+  <p>海外マーケティング ナレッジベース — 学びの記録</p>
+</footer>
+
+<script>
+  // ナビハイライト
+  const current = location.pathname.split('/').pop() || 'index.html';
+  document.querySelectorAll('nav a').forEach(a => {
+    if (a.getAttribute('href') === current) a.classList.add('active');
+  });
+
+  // 検索フィルタリング
+  const input = document.getElementById('searchInput');
+  const cards = document.querySelectorAll('#tipsList .card');
+  const noResult = document.getElementById('noResult');
+
+  input.addEventListener('input', () => {
+    const q = input.value.trim().toLowerCase();
+    let visible = 0;
+    cards.forEach(card => {
+      const text = card.textContent.toLowerCase() + (card.dataset.tip || '');
+      const match = !q || text.includes(q);
+      card.style.display = match ? '' : 'none';
+      if (match) visible++;
+    });
+    noResult.style.display = visible === 0 ? '' : 'none';
+  });
+</script>
+</body>
+</html>

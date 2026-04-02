@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>ツール紹介 — 海外マーケティング KB</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<header>
+  <div class="nav-inner">
+    <a href="index.html" class="site-title">🌍 海外マーケティング KB</a>
+    <nav>
+      <a href="index.html">ホーム</a>
+      <a href="glossary.html">用語集</a>
+      <a href="tips.html">Tips</a>
+      <a href="tools.html">ツール</a>
+    </nav>
+  </div>
+</header>
+
+<main>
+  <h1 class="page-title">ツール紹介</h1>
+  <p class="page-subtitle">海外マーケティングの実務でよく使うツール・リソースをまとめています。</p>
+
+  <h2 class="section-heading" style="margin-bottom:1.25rem;">分析・SEO</h2>
+  <div class="tools-grid">
+
+    <div class="tool-card">
+      <span class="tag">SEO</span>
+      <span class="tag">無料プランあり</span>
+      <h3>Google Analytics 4</h3>
+      <p>Webサイトのトラフィック・ユーザー行動を無料で分析できるGoogle製ツール。イベントベースのトラッキングに移行しており、コンバージョン設定や Looker Studio との連携が便利。</p>
+      <a href="https://analytics.google.com/" class="tool-link" target="_blank" rel="noopener">公式サイト →</a>
+    </div>
+
+    <div class="tool-card">
+      <span class="tag">SEO</span>
+      <span class="tag">有料</span>
+      <h3>Semrush</h3>
+      <p>キーワードリサーチ・競合分析・バックリンク調査・サイト監査が1つのプラットフォームで完結する SEO ツール。英語圏の競合サイト調査に特に強い。無料トライアルあり。</p>
+      <a href="https://www.semrush.com/" class="tool-link" target="_blank" rel="noopener">公式サイト →</a>
+    </div>
+
+    <div class="tool-card">
+      <span class="tag">SEO</span>
+      <span class="tag">有料</span>
+      <h3>Ahrefs</h3>
+      <p>バックリンク分析の精度で定評がある SEO ツール。コンテンツギャップ分析やキーワード難易度の算出が強く、英語コンテンツ戦略の立案に活用できる。</p>
+      <a href="https://ahrefs.com/" class="tool-link" target="_blank" rel="noopener">公式サイト →</a>
+    </div>
+
+  </div>
+
+  <h2 class="section-heading" style="margin-top:2rem;margin-bottom:1.25rem;">制作・デザイン</h2>
+  <div class="tools-grid">
+
+    <div class="tool-card">
+      <span class="tag">デザイン</span>
+      <span class="tag">無料プランあり</span>
+      <h3>Canva</h3>
+      <p>テンプレートが豊富なノーコードデザインツール。SNS バナー・LP ヘッダー・インフォグラフィックの作成に最適。チームでの共同編集や Brand Kit 機能が便利。</p>
+      <a href="https://www.canva.com/" class="tool-link" target="_blank" rel="noopener">公式サイト →</a>
+    </div>
+
+    <div class="tool-card">
+      <span class="tag">ライティング</span>
+      <span class="tag">無料プランあり</span>
+      <h3>Grammarly</h3>
+      <p>英語のスペル・文法・スタイルをリアルタイムでチェックするライティングアシスタント。ブラウザ拡張機能もあり、英語メールや広告コピーの校正に役立つ。</p>
+      <a href="https://www.grammarly.com/" class="tool-link" target="_blank" rel="noopener">公式サイト →</a>
+    </div>
+
+  </div>
+</main>
+
+<footer>
+  <p>海外マーケティング ナレッジベース — 学びの記録</p>
+</footer>
+
+<script>
+  // ナビハイライト
+  const current = location.pathname.split('/').pop() || 'index.html';
+  document.querySelectorAll('nav a').forEach(a => {
+    if (a.getAttribute('href') === current) a.classList.add('active');
+  });
+</script>
+</body>
+</html>

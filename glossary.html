@@ -1,0 +1,120 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>用語集 — 海外マーケティング KB</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<header>
+  <div class="nav-inner">
+    <a href="index.html" class="site-title">🌍 海外マーケティング KB</a>
+    <nav>
+      <a href="index.html">ホーム</a>
+      <a href="glossary.html">用語集</a>
+      <a href="tips.html">Tips</a>
+      <a href="tools.html">ツール</a>
+    </nav>
+  </div>
+</header>
+
+<main>
+  <h1 class="page-title">用語集</h1>
+  <p class="page-subtitle">海外マーケティングでよく使われる用語をアルファベット順にまとめています。</p>
+
+  <div class="search-wrap">
+    <input type="search" class="search-input" id="searchInput" placeholder="用語を検索（例：CTR、LTV…）">
+  </div>
+
+  <div class="card-list" id="glossaryList">
+
+    <!-- C -->
+    <div class="card" data-term="cac customer acquisition cost">
+      <div class="card-term">CAC</div>
+      <div class="card-en">Customer Acquisition Cost（顧客獲得コスト）</div>
+      <div class="card-body">新規顧客1人を獲得するためにかかった平均コスト。マーケティング費用 ÷ 新規顧客数で算出。LTV とセットで見て、LTV &gt; CAC であれば事業として健全と判断できる。</div>
+    </div>
+
+    <div class="card" data-term="churn rate 解約率 離脱率">
+      <div class="card-term">Churn Rate</div>
+      <div class="card-en">Churn Rate（解約率・離脱率）</div>
+      <div class="card-body">一定期間内に既存顧客やユーザーが離脱した割合。SaaS ビジネスでは月次 Churn Rate が重要指標となる。低いほど顧客維持ができている証拠。</div>
+    </div>
+
+    <div class="card" data-term="conversion rate コンバージョン率 cvr">
+      <div class="card-term">Conversion Rate（CVR）</div>
+      <div class="card-en">Conversion Rate（コンバージョン率）</div>
+      <div class="card-body">訪問者のうち、目標アクション（購入・登録・問い合わせなど）を実行した割合。コンバージョン数 ÷ 訪問者数 × 100 で算出。LP 改善の主要指標。</div>
+    </div>
+
+    <div class="card" data-term="ctr click through rate クリック率">
+      <div class="card-term">CTR</div>
+      <div class="card-en">Click-Through Rate（クリック率）</div>
+      <div class="card-body">広告や検索結果が表示された回数のうち、クリックされた割合。クリック数 ÷ インプレッション数 × 100 で算出。広告のクリエイティブや見出しの効果を測る指標。</div>
+    </div>
+
+    <!-- L -->
+    <div class="card" data-term="ltv lifetime value 顧客生涯価値">
+      <div class="card-term">LTV</div>
+      <div class="card-en">Lifetime Value（顧客生涯価値）</div>
+      <div class="card-body">1人の顧客が取引期間中にもたらす総収益の予測値。LTV = 平均購入単価 × 購入頻度 × 顧客継続期間。CAC と比較することで顧客獲得施策の収益性を評価できる。</div>
+    </div>
+
+    <!-- M -->
+    <div class="card" data-term="mql marketing qualified lead マーケティング適格リード">
+      <div class="card-term">MQL</div>
+      <div class="card-en">Marketing Qualified Lead（マーケティング適格リード）</div>
+      <div class="card-body">マーケティング部門が「営業に引き渡せる」と判断したリード。資料ダウンロードやウェビナー参加などのアクションをもとにスコアリングして定義する。SQL との違いは営業へのパス前か後か。</div>
+    </div>
+
+    <!-- R -->
+    <div class="card" data-term="roas return on ad spend 広告費用対効果">
+      <div class="card-term">ROAS</div>
+      <div class="card-en">Return on Ad Spend（広告費用対効果）</div>
+      <div class="card-body">広告費1円あたりどれだけの売上を生んだかを示す指標。売上 ÷ 広告費 × 100（%）で算出。ROI と異なり、コスト（原価等）は含まない純粋な売上ベースの効率指標。</div>
+    </div>
+
+    <!-- S -->
+    <div class="card" data-term="sql sales qualified lead 営業適格リード">
+      <div class="card-term">SQL</div>
+      <div class="card-en">Sales Qualified Lead（営業適格リード）</div>
+      <div class="card-body">営業部門が商談化できると判断したリード。MQL から営業がアプローチし、予算・権限・ニーズ・タイミング（BANT）などを確認したうえで SQL に昇格させる。</div>
+    </div>
+
+  </div>
+
+  <p class="no-result" id="noResult" style="display:none;">該当する用語が見つかりませんでした。</p>
+</main>
+
+<footer>
+  <p>海外マーケティング ナレッジベース — 学びの記録</p>
+</footer>
+
+<script>
+  // ナビハイライト
+  const current = location.pathname.split('/').pop() || 'index.html';
+  document.querySelectorAll('nav a').forEach(a => {
+    if (a.getAttribute('href') === current) a.classList.add('active');
+  });
+
+  // 検索フィルタリング
+  const input = document.getElementById('searchInput');
+  const cards = document.querySelectorAll('#glossaryList .card');
+  const noResult = document.getElementById('noResult');
+
+  input.addEventListener('input', () => {
+    const q = input.value.trim().toLowerCase();
+    let visible = 0;
+    cards.forEach(card => {
+      const text = card.textContent.toLowerCase() + (card.dataset.term || '');
+      const match = !q || text.includes(q);
+      card.style.display = match ? '' : 'none';
+      if (match) visible++;
+    });
+    noResult.style.display = visible === 0 ? '' : 'none';
+  });
+</script>
+</body>
+</html>

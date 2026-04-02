@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>海外マーケティング ナレッジベース</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<header>
+  <div class="nav-inner">
+    <a href="index.html" class="site-title">🌍 海外マーケティング KB</a>
+    <nav>
+      <a href="index.html">ホーム</a>
+      <a href="glossary.html">用語集</a>
+      <a href="tips.html">Tips</a>
+      <a href="tools.html">ツール</a>
+    </nav>
+  </div>
+</header>
+
+<main>
+  <div class="hero">
+    <h1>海外マーケティング ナレッジベース</h1>
+    <p>ライターとして学んだ海外マーケティングの知識・ノウハウを体系的にまとめています。用語集・実践Tips・おすすめツールを随時追加中。</p>
+  </div>
+
+  <h2 class="section-heading">コンテンツ一覧</h2>
+  <div class="quick-links">
+    <a href="glossary.html" class="quick-link-card">
+      <span class="icon">📖</span>
+      <div class="link-text">
+        <strong>用語集</strong>
+        <span>海外マーケティング用語をアルファベット順に整理</span>
+      </div>
+    </a>
+    <a href="tips.html" class="quick-link-card">
+      <span class="icon">💡</span>
+      <div class="link-text">
+        <strong>実践 Tips</strong>
+        <span>現場で使えるノウハウと実践的なアドバイス</span>
+      </div>
+    </a>
+    <a href="tools.html" class="quick-link-card">
+      <span class="icon">🛠️</span>
+      <div class="link-text">
+        <strong>ツール紹介</strong>
+        <span>海外マーケティングに役立つツール・リソース</span>
+      </div>
+    </a>
+  </div>
+
+  <h2 class="section-heading">最近追加したコンテンツ</h2>
+  <ul class="recent-list">
+    <li><span class="badge">用語集</span> ROAS（広告費用対効果）を追加</li>
+    <li><span class="badge">Tips</span> メール件名のベストプラクティスを追加</li>
+    <li><span class="badge">ツール</span> Semrush の使い方ガイドを追加</li>
+    <li><span class="badge">用語集</span> MQL / SQL の違いを追加</li>
+    <li><span class="badge">Tips</span> A/Bテストの設計方法を追加</li>
+  </ul>
+</main>
+
+<footer>
+  <p>海外マーケティング ナレッジベース — 学びの記録</p>
+</footer>
+
+<script>
+  // 現在ページのナビリンクをハイライト
+  const current = location.pathname.split('/').pop() || 'index.html';
+  document.querySelectorAll('nav a').forEach(a => {
+    if (a.getAttribute('href') === current) a.classList.add('active');
+  });
+</script>
+</body>
+</html>
