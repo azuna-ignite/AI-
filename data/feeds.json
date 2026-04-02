@@ -3,6 +3,7 @@
     "tool": "ミエルカ（YouTube）",
     "slug": "mieruca",
     "category": "SEO・キーワード調査",
+    "sourceType": "youtube",
     "type": "youtube",
     "handle": "@mieruca-channel",
     "feedUrl": ""
@@ -11,90 +12,105 @@
     "tool": "Ahrefs",
     "slug": "ahrefs",
     "category": "SEO・キーワード調査",
+    "sourceType": "tool",
     "feedUrl": "https://ahrefs.com/blog/ja/feed/"
   },
   {
     "tool": "Semrush",
     "slug": "semrush",
     "category": "SEO・キーワード調査",
+    "sourceType": "tool",
     "feedUrl": "https://www.semrush.com/blog/feed/"
   },
   {
     "tool": "SurferSEO",
     "slug": "surferseo",
     "category": "SEO・キーワード調査",
+    "sourceType": "tool",
     "feedUrl": ""
   },
   {
     "tool": "Google サーチコンソール",
     "slug": "google-search-console",
     "category": "SEO・キーワード調査",
+    "sourceType": "tool",
     "feedUrl": ""
   },
   {
     "tool": "ラッコキーワード",
     "slug": "rakko-keyword",
     "category": "SEO・キーワード調査",
+    "sourceType": "tool",
     "feedUrl": "https://rakkokeyword.com/techo/feed/"
   },
   {
     "tool": "Claude / Claude Code",
     "slug": "claude",
     "category": "AI・リサーチ",
+    "sourceType": "tool",
     "feedUrl": ""
   },
   {
     "tool": "NotebookLM",
     "slug": "notebooklm",
     "category": "AI・リサーチ",
+    "sourceType": "tool",
     "feedUrl": "https://blog.google/technology/ai/rss/"
   },
   {
     "tool": "isgen",
     "slug": "isgen",
     "category": "AI・リサーチ",
+    "sourceType": "tool",
     "feedUrl": ""
   },
   {
     "tool": "Figma",
     "slug": "figma",
     "category": "制作・デザイン",
+    "sourceType": "tool",
     "feedUrl": ""
   },
   {
     "tool": "Canva",
     "slug": "canva",
     "category": "制作・デザイン",
+    "sourceType": "tool",
     "feedUrl": ""
   },
   {
     "tool": "WordPress",
     "slug": "wordpress",
     "category": "制作・デザイン",
+    "sourceType": "tool",
     "feedUrl": "https://wordpress.org/news/feed/"
   },
   {
     "tool": "Obsidian",
     "slug": "obsidian",
     "category": "情報管理・開発",
+    "sourceType": "tool",
     "feedUrl": "https://obsidian.md/changelog.xml"
   },
   {
     "tool": "GitHub",
     "slug": "github",
     "category": "情報管理・開発",
+    "sourceType": "tool",
     "feedUrl": "https://github.blog/feed/"
   },
   {
     "tool": "マインドファクトリー",
     "slug": "mindfactory",
     "category": "制作・デザイン",
+    "sourceType": "media",
     "feedUrl": "https://www.mindfactory.co.jp/blog/feed/"
   },
   {
     "tool": "Empathy Writing",
     "slug": "empathywriting",
     "category": "制作・デザイン",
+    "sourceType": "media",
     "feedUrl": "https://empathywriting.com/feed/"
   }
 ]

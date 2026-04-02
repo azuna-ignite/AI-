@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>ツール更新情報 — Writing KB</title>
+  <title>更新情報 — Writing KB</title>
   <link rel="stylesheet" href="style.css">
   <style>
     .update-meta {
@@ -12,9 +12,28 @@
       margin-bottom: 2rem;
     }
 
+    .updates-group {
+      margin-bottom: 2.5rem;
+    }
+
+    .updates-group-heading {
+      font-size: 1.05rem;
+      font-weight: 700;
+      margin-bottom: 1rem;
+      padding-bottom: 0.5rem;
+      border-bottom: 2px solid var(--color-border);
+      display: flex;
+      align-items: center;
+      gap: 0.6rem;
+    }
+
+    .updates-group-heading .group-icon {
+      font-size: 1rem;
+    }
+
     .update-grid {
       display: grid;
-      gap: 1.5rem;
+      gap: 1rem;
     }
 
     .update-tool-section {
@@ -26,17 +45,16 @@
     }
 
     .update-tool-header {
-      padding: 0.85rem 1.25rem;
+      padding: 0.75rem 1.25rem;
       background: var(--color-bg);
       border-bottom: 1px solid var(--color-border);
       display: flex;
       align-items: center;
-      justify-content: space-between;
       gap: 0.75rem;
     }
 
     .update-tool-header h3 {
-      font-size: 0.95rem;
+      font-size: 0.93rem;
       font-weight: 700;
       margin: 0;
     }
@@ -48,7 +66,7 @@
     }
 
     .update-item {
-      padding: 0.75rem 1.25rem;
+      padding: 0.7rem 1.25rem;
       border-bottom: 1px solid var(--color-border);
       display: grid;
       grid-template-columns: 1fr auto;
@@ -79,12 +97,6 @@
       padding-top: 0.15rem;
     }
 
-    .update-error {
-      padding: 0.75rem 1.25rem;
-      font-size: 0.85rem;
-      color: var(--color-muted);
-    }
-
     .loading-msg {
       text-align: center;
       padding: 3rem;
@@ -109,20 +121,12 @@
 </header>
 
 <main>
-  <h1 class="page-title">ツール更新情報</h1>
-  <p class="page-subtitle">ライティング・SEO関連ツールの公式ブログ・更新情報を毎朝9時に自動取得しています。</p>
+  <h1 class="page-title">更新情報</h1>
+  <p class="page-subtitle">ツール公式・メディア・YouTubeの最新情報を毎朝9時に自動取得しています。</p>
 
-  <div id="updateMeta" class="update-meta"></div>
+  <p id="updateMeta" class="update-meta"></p>
 
-  <div class="filter-wrap" id="filterWrap">
-    <button class="filter-btn active" data-cat="all">すべて</button>
-    <button class="filter-btn" data-cat="SEO・キーワード調査">SEO・キーワード調査</button>
-    <button class="filter-btn" data-cat="AI・リサーチ">AI・リサーチ</button>
-    <button class="filter-btn" data-cat="制作・デザイン">制作・デザイン</button>
-    <button class="filter-btn" data-cat="情報管理・開発">情報管理・開発</button>
-  </div>
-
-  <div id="updateGrid" class="update-grid">
+  <div id="updateRoot">
     <p class="loading-msg">読み込み中...</p>
   </div>
 </main>
@@ -138,8 +142,11 @@
     if (a.getAttribute('href') === current) a.classList.add('active');
   });
 
-  let allTools = [];
-  let activeCategory = 'all';
+  const SOURCE_GROUPS = [
+    { key: 'tool',    label: 'ツール公式',  icon: '🛠️' },
+    { key: 'media',   label: 'メディア記事', icon: '📰' },
+    { key: 'youtube', label: 'YouTube',      icon: '▶️' },
+  ];
 
   function formatDate(dateStr) {
     if (!dateStr) return '';
@@ -148,70 +155,54 @@
     return d.toLocaleDateString('ja-JP', { year: 'numeric', month: 'short', day: 'numeric' });
   }
 
-  function renderTools(tools) {
-    const grid = document.getElementById('updateGrid');
-    const filtered = activeCategory === 'all'
-      ? tools
-      : tools.filter(t => t.category === activeCategory);
+  function renderAll(tools) {
+    const root = document.getElementById('updateRoot');
+    let html = '';
 
-    if (filtered.length === 0) {
-      grid.innerHTML = '<p class="loading-msg">該当するツールがありません。</p>';
-      return;
-    }
+    SOURCE_GROUPS.forEach(({ key, label, icon }) => {
+      const group = tools.filter(t => t.sourceType === key && t.items && t.items.length > 0);
+      if (group.length === 0) return;
 
-    grid.innerHTML = filtered.map(tool => {
-      const hasItems = tool.items && tool.items.length > 0;
-
-      const itemsHtml = hasItems
-        ? tool.items.map(item => `
-            <li class="update-item">
-              <a href="${item.link}" target="_blank" rel="noopener">${item.title}</a>
-              <span class="update-item-date">${formatDate(item.date)}</span>
-            </li>`).join('')
-        : `<p class="update-error">${
-            tool.error === 'no_url'
-              ? 'フィードURL未設定'
-              : '取得できませんでした'
-          }</p>`;
-
-      return `
-        <div class="update-tool-section" data-category="${tool.category}">
-          <div class="update-tool-header">
-            <h3>${tool.tool}</h3>
-            <span class="tag">${tool.category}</span>
+      html += `
+        <div class="updates-group">
+          <h2 class="updates-group-heading">
+            <span class="group-icon">${icon}</span>${label}
+          </h2>
+          <div class="update-grid">
+            ${group.map(tool => `
+              <div class="update-tool-section">
+                <div class="update-tool-header">
+                  <h3>${tool.tool}</h3>
+                </div>
+                <ul class="update-items">
+                  ${tool.items.map(item => `
+                    <li class="update-item">
+                      <a href="${item.link}" target="_blank" rel="noopener">${item.title}</a>
+                      <span class="update-item-date">${formatDate(item.date)}</span>
+                    </li>`).join('')}
+                </ul>
+              </div>`).join('')}
           </div>
-          <ul class="update-items">${itemsHtml}</ul>
         </div>`;
-    }).join('');
+    });
+
+    root.innerHTML = html || '<p class="loading-msg">まだデータが取得されていません。</p>';
   }
 
-  // フィルターボタン
-  document.querySelectorAll('.filter-btn').forEach(btn => {
-    btn.addEventListener('click', () => {
-      document.querySelectorAll('.filter-btn').forEach(b => b.classList.remove('active'));
-      btn.classList.add('active');
-      activeCategory = btn.dataset.cat;
-      renderTools(allTools);
-    });
-  });
-
-  // updates.json を読み込み
   fetch('data/updates.json')
     .then(r => r.json())
     .then(data => {
-      allTools = data.tools || [];
+      const tools = data.tools || [];
 
       const meta = document.getElementById('updateMeta');
-      if (data.fetchedAt) {
-        meta.textContent = `最終取得: ${formatDate(data.fetchedAt)}`;
-      } else {
-        meta.textContent = 'まだデータが取得されていません。GitHub Actions を手動実行してください。';
-      }
+      meta.textContent = data.fetchedAt
+        ? `最終取得: ${formatDate(data.fetchedAt)}`
+        : 'まだデータが取得されていません。GitHub Actions を手動実行してください。';
 
-      renderTools(allTools);
+      renderAll(tools);
     })
     .catch(() => {
-      document.getElementById('updateGrid').innerHTML =
+      document.getElementById('updateRoot').innerHTML =
         '<p class="loading-msg">データの読み込みに失敗しました。</p>';
     });
 </script>
