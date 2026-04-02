@@ -1,5 +1,11 @@
 [
   {
+    "tool": "Ahrefs",
+    "slug": "ahrefs",
+    "category": "SEO・キーワード調査",
+    "feedUrl": "https://ahrefs.com/blog/ja/feed/"
+  },
+  {
     "tool": "Semrush",
     "slug": "semrush",
     "category": "SEO・キーワード調査",
