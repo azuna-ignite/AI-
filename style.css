@@ -300,6 +300,91 @@ main {
   padding: 1rem 0;
 }
 
+/* ---- Note article page ---- */
+.note-header {
+  margin-bottom: 2rem;
+}
+
+.note-header .breadcrumb {
+  font-size: 0.82rem;
+  color: var(--color-muted);
+  margin-bottom: 0.75rem;
+}
+
+.note-header .breadcrumb a {
+  color: var(--color-primary);
+  text-decoration: none;
+}
+
+.note-header .breadcrumb a:hover {
+  text-decoration: underline;
+}
+
+.note-meta {
+  font-size: 0.82rem;
+  color: var(--color-muted);
+  margin-top: 0.4rem;
+}
+
+.note-body h2 {
+  font-size: 1.15rem;
+  font-weight: 700;
+  margin: 2rem 0 0.6rem;
+  padding-bottom: 0.4rem;
+  border-bottom: 2px solid var(--color-border);
+}
+
+.note-body h3 {
+  font-size: 1rem;
+  font-weight: 700;
+  margin: 1.25rem 0 0.4rem;
+}
+
+.note-body p {
+  margin-bottom: 0.85rem;
+  font-size: 0.95rem;
+}
+
+.note-body ul,
+.note-body ol {
+  padding-left: 1.4rem;
+  margin-bottom: 0.85rem;
+  font-size: 0.95rem;
+}
+
+.note-body li {
+  margin-bottom: 0.3rem;
+}
+
+.note-body .placeholder {
+  background: var(--color-bg);
+  border: 1.5px dashed var(--color-border);
+  border-radius: var(--radius);
+  padding: 1.5rem;
+  text-align: center;
+  color: var(--color-muted);
+  font-size: 0.9rem;
+  margin: 1.5rem 0;
+}
+
+.official-link {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.4rem;
+  font-size: 0.85rem;
+  color: var(--color-muted);
+  text-decoration: none;
+  border: 1px solid var(--color-border);
+  border-radius: var(--radius);
+  padding: 0.35rem 0.75rem;
+  margin-top: 0.5rem;
+}
+
+.official-link:hover {
+  border-color: var(--color-primary);
+  color: var(--color-primary);
+}
+
 /* ---- Footer ---- */
 footer {
   text-align: center;
