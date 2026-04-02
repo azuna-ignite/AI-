@@ -205,7 +205,7 @@
     <div class="seo-dock-widget">
       <div class="seo-dock-panel" id="seoDockPanel"></div>
       <div class="seo-dock-bar">
-        <button class="seo-dock-btn seo-dock-primary active" data-key="purpose">目的</button>
+        <button class="seo-dock-btn seo-dock-primary" data-key="purpose">目的</button>
         <div class="seo-dock-secondary-group">
           <button class="seo-dock-btn seo-dock-secondary" data-key="steps">執筆の5ステップ</button>
           <button class="seo-dock-btn seo-dock-secondary" data-key="title">タイトル・見出し</button>
@@ -699,8 +699,6 @@
     const panel = document.getElementById('seoDockPanel');
     if (panel) panel.innerHTML = SEO_PANELS[key] || '';
   }
-
-  renderSeoPanel('purpose');
 
   document.querySelectorAll('.seo-dock-btn').forEach(btn => {
     btn.addEventListener('click', () => {
