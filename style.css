@@ -591,6 +591,47 @@ main {
   color: var(--color-primary);
 }
 
+/* ---- Basics TOC (index page) ---- */
+.basics-toc {
+  margin-bottom: 2.5rem;
+}
+
+.basics-toc .updates-header {
+  margin-bottom: 1rem;
+}
+
+.basics-popup {
+  background: var(--color-surface);
+  border: 1px solid var(--color-primary);
+  border-radius: var(--radius);
+  padding: 1.1rem 1.4rem;
+  margin-top: 0.75rem;
+  box-shadow: 0 2px 8px rgba(37,99,235,0.08);
+  animation: fadeIn 0.18s ease;
+}
+
+.basics-popup-title {
+  font-size: 0.9rem;
+  font-weight: 700;
+  color: var(--color-primary);
+  margin-bottom: 0.45rem;
+}
+
+.basics-popup-body {
+  font-size: 0.93rem;
+  color: var(--color-text);
+  line-height: 1.7;
+  margin-bottom: 0.65rem;
+}
+
+.basics-popup-link {
+  font-size: 0.85rem;
+  color: var(--color-primary);
+  text-decoration: none;
+}
+
+.basics-popup-link:hover { text-decoration: underline; }
+
 /* ---- Basics page ---- */
 .basics-section {
   display: none;
