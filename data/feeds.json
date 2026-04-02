@@ -1,0 +1,74 @@
+[
+  {
+    "tool": "Semrush",
+    "slug": "semrush",
+    "category": "SEO・キーワード調査",
+    "feedUrl": "https://www.semrush.com/blog/feed/"
+  },
+  {
+    "tool": "SurferSEO",
+    "slug": "surferseo",
+    "category": "SEO・キーワード調査",
+    "feedUrl": "https://surferseo.com/blog/feed/"
+  },
+  {
+    "tool": "Google サーチコンソール",
+    "slug": "google-search-console",
+    "category": "SEO・キーワード調査",
+    "feedUrl": "https://developers.google.com/search/blog/atom.xml"
+  },
+  {
+    "tool": "ラッコキーワード",
+    "slug": "rakko-keyword",
+    "category": "SEO・キーワード調査",
+    "feedUrl": ""
+  },
+  {
+    "tool": "Claude / Claude Code",
+    "slug": "claude",
+    "category": "AI・リサーチ",
+    "feedUrl": "https://www.anthropic.com/feed.xml"
+  },
+  {
+    "tool": "NotebookLM",
+    "slug": "notebooklm",
+    "category": "AI・リサーチ",
+    "feedUrl": "https://blog.google/technology/ai/rss/"
+  },
+  {
+    "tool": "isgen",
+    "slug": "isgen",
+    "category": "AI・リサーチ",
+    "feedUrl": ""
+  },
+  {
+    "tool": "Figma",
+    "slug": "figma",
+    "category": "制作・デザイン",
+    "feedUrl": "https://www.figma.com/blog/feed/"
+  },
+  {
+    "tool": "Canva",
+    "slug": "canva",
+    "category": "制作・デザイン",
+    "feedUrl": "https://www.canva.com/learn/feed/"
+  },
+  {
+    "tool": "WordPress",
+    "slug": "wordpress",
+    "category": "制作・デザイン",
+    "feedUrl": "https://wordpress.org/news/feed/"
+  },
+  {
+    "tool": "Obsidian",
+    "slug": "obsidian",
+    "category": "情報管理・開発",
+    "feedUrl": "https://obsidian.md/changelog/rss.xml"
+  },
+  {
+    "tool": "GitHub",
+    "slug": "github",
+    "category": "情報管理・開発",
+    "feedUrl": "https://github.blog/feed/"
+  }
+]

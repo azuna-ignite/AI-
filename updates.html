@@ -1,0 +1,218 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>ツール更新情報 — 海外マーケティング KB</title>
+  <link rel="stylesheet" href="style.css">
+  <style>
+    .update-meta {
+      font-size: 0.8rem;
+      color: var(--color-muted);
+      margin-bottom: 2rem;
+    }
+
+    .update-grid {
+      display: grid;
+      gap: 1.5rem;
+    }
+
+    .update-tool-section {
+      background: var(--color-surface);
+      border: 1px solid var(--color-border);
+      border-radius: var(--radius);
+      overflow: hidden;
+      box-shadow: var(--shadow);
+    }
+
+    .update-tool-header {
+      padding: 0.85rem 1.25rem;
+      background: var(--color-bg);
+      border-bottom: 1px solid var(--color-border);
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      gap: 0.75rem;
+    }
+
+    .update-tool-header h3 {
+      font-size: 0.95rem;
+      font-weight: 700;
+      margin: 0;
+    }
+
+    .update-items {
+      list-style: none;
+      padding: 0;
+      margin: 0;
+    }
+
+    .update-item {
+      padding: 0.75rem 1.25rem;
+      border-bottom: 1px solid var(--color-border);
+      display: grid;
+      grid-template-columns: 1fr auto;
+      gap: 0.5rem;
+      align-items: start;
+    }
+
+    .update-item:last-child {
+      border-bottom: none;
+    }
+
+    .update-item a {
+      color: var(--color-text);
+      text-decoration: none;
+      font-size: 0.9rem;
+      line-height: 1.5;
+    }
+
+    .update-item a:hover {
+      color: var(--color-primary);
+      text-decoration: underline;
+    }
+
+    .update-item-date {
+      font-size: 0.78rem;
+      color: var(--color-muted);
+      white-space: nowrap;
+      padding-top: 0.15rem;
+    }
+
+    .update-error {
+      padding: 0.75rem 1.25rem;
+      font-size: 0.85rem;
+      color: var(--color-muted);
+    }
+
+    .loading-msg {
+      text-align: center;
+      padding: 3rem;
+      color: var(--color-muted);
+    }
+  </style>
+</head>
+<body>
+
+<header>
+  <div class="nav-inner">
+    <a href="index.html" class="site-title">🌍 海外マーケティング KB</a>
+    <nav>
+      <a href="index.html">ホーム</a>
+      <a href="glossary.html">用語集</a>
+      <a href="tips.html">Tips</a>
+      <a href="tools.html">ツール</a>
+      <a href="updates.html">更新情報</a>
+    </nav>
+  </div>
+</header>
+
+<main>
+  <h1 class="page-title">ツール更新情報</h1>
+  <p class="page-subtitle">登録ツールの公式ブログ・更新情報を毎朝9時に自動取得しています。</p>
+
+  <div id="updateMeta" class="update-meta"></div>
+
+  <div class="filter-wrap" id="filterWrap">
+    <button class="filter-btn active" data-cat="all">すべて</button>
+    <button class="filter-btn" data-cat="SEO・キーワード調査">SEO・キーワード調査</button>
+    <button class="filter-btn" data-cat="AI・リサーチ">AI・リサーチ</button>
+    <button class="filter-btn" data-cat="制作・デザイン">制作・デザイン</button>
+    <button class="filter-btn" data-cat="情報管理・開発">情報管理・開発</button>
+  </div>
+
+  <div id="updateGrid" class="update-grid">
+    <p class="loading-msg">読み込み中...</p>
+  </div>
+</main>
+
+<footer>
+  <p>海外マーケティング ナレッジベース — 学びの記録</p>
+</footer>
+
+<script>
+  // ナビハイライト
+  const current = location.pathname.split('/').pop() || 'index.html';
+  document.querySelectorAll('nav a').forEach(a => {
+    if (a.getAttribute('href') === current) a.classList.add('active');
+  });
+
+  let allTools = [];
+  let activeCategory = 'all';
+
+  function formatDate(dateStr) {
+    if (!dateStr) return '';
+    const d = new Date(dateStr);
+    if (isNaN(d)) return dateStr.slice(0, 10);
+    return d.toLocaleDateString('ja-JP', { year: 'numeric', month: 'short', day: 'numeric' });
+  }
+
+  function renderTools(tools) {
+    const grid = document.getElementById('updateGrid');
+    const filtered = activeCategory === 'all'
+      ? tools
+      : tools.filter(t => t.category === activeCategory);
+
+    if (filtered.length === 0) {
+      grid.innerHTML = '<p class="loading-msg">該当するツールがありません。</p>';
+      return;
+    }
+
+    grid.innerHTML = filtered.map(tool => {
+      const hasItems = tool.items && tool.items.length > 0;
+
+      const itemsHtml = hasItems
+        ? tool.items.map(item => `
+            <li class="update-item">
+              <a href="${item.link}" target="_blank" rel="noopener">${item.title}</a>
+              <span class="update-item-date">${formatDate(item.date)}</span>
+            </li>`).join('')
+        : `<p class="update-error">${
+            tool.error === 'no_url'
+              ? 'フィードURL未設定'
+              : '取得できませんでした'
+          }</p>`;
+
+      return `
+        <div class="update-tool-section" data-category="${tool.category}">
+          <div class="update-tool-header">
+            <h3>${tool.tool}</h3>
+            <span class="tag">${tool.category}</span>
+          </div>
+          <ul class="update-items">${itemsHtml}</ul>
+        </div>`;
+    }).join('');
+  }
+
+  // フィルターボタン
+  document.querySelectorAll('.filter-btn').forEach(btn => {
+    btn.addEventListener('click', () => {
+      document.querySelectorAll('.filter-btn').forEach(b => b.classList.remove('active'));
+      btn.classList.add('active');
+      activeCategory = btn.dataset.cat;
+      renderTools(allTools);
+    });
+  });
+
+  // updates.json を読み込み
+  fetch('data/updates.json')
+    .then(r => r.json())
+    .then(data => {
+      allTools = data.tools || [];
+
+      const meta = document.getElementById('updateMeta');
+      if (data.fetchedAt) {
+        meta.textContent = `最終取得: ${formatDate(data.fetchedAt)}`;
+      } else {
+        meta.textContent = 'まだデータが取得されていません。GitHub Actions を手動実行してください。';
+      }
+
+      renderTools(allTools);
+    })
+    .catch(() => {
+      document.getElementById('updateGrid').innerHTML =
+        '<p class="loading-msg">データの読み込みに失敗しました。</p>';
+    });
+</script>
+</body>
+</html>
