@@ -1,6 +1,86 @@
 {
-  "fetchedAt": "2026-04-02T12:48:59.507Z",
+  "fetchedAt": "2026-04-02T21:54:10.943Z",
   "tools": [
+    {
+      "tool": "ミエルカ（YouTube）",
+      "slug": "mieruca",
+      "category": "SEO・キーワード調査",
+      "type": "youtube",
+      "handle": "@mieruca-channel",
+      "feedUrl": "",
+      "items": [
+        {
+          "title": "Googleサーチコンソールの主要レポートの役割と見方を解説｜検索パフォーマンスからインデックス登録まで",
+          "link": "https://www.youtube.com/watch?v=6Tr7OTFNytQ",
+          "date": "2026-04-01T09:00:00.000Z",
+          "summary": ""
+        },
+        {
+          "title": "2026年3月Googleコアアップデート開始、スパムアプデは異例の早さで完了｜SEO Weekly Update",
+          "link": "https://www.youtube.com/watch?v=AD-Gcdz-9Kg",
+          "date": "2026-03-29T23:00:00.000Z",
+          "summary": ""
+        },
+        {
+          "title": "SEOでやってはいけない施策4選｜今のうちに見直したい考え方",
+          "link": "https://www.youtube.com/watch?v=1M0eDw_uYcQ",
+          "date": "2026-03-25T23:00:02.000Z",
+          "summary": ""
+        },
+        {
+          "title": "被リンクは今でも重要？サイテーションから相互リンクの注意点まで全解説【SEO外部対策】",
+          "link": "https://www.youtube.com/watch?v=tTsZPYvzECc",
+          "date": "2026-03-24T09:01:17.000Z",
+          "summary": ""
+        },
+        {
+          "title": "GEO/LLMO対策がSEOを壊す？やってはいけない危険な手法｜SEO Weekly Update",
+          "link": "https://www.youtube.com/watch?v=Ealu9dxjxEY",
+          "date": "2026-03-22T23:00:13.000Z",
+          "summary": ""
+        }
+      ],
+      "error": null
+    },
+    {
+      "tool": "Ahrefs",
+      "slug": "ahrefs",
+      "category": "SEO・キーワード調査",
+      "feedUrl": "https://ahrefs.com/blog/ja/feed/",
+      "items": [
+        {
+          "title": "Google Web Guide とは？仕組み・AIによる概要との違い・SEO 対策まで解説",
+          "link": "https://ahrefs.com/blog/ja/google-web-guide/",
+          "date": "Thu, 02 Apr 2026 07:54:45 +0000",
+          "summary": "Google Web Guide は、Search Labs の実験機能で、Gemini のカスタムモデルを使用して検索結果をテーマ別のグループに整理します。従来の「10 本の青いリンク」とは異なるアプローチです。 Google は 2025年7月24日にオプトイン方式の実験として Web Guide をローンチしました。当初は Google 検索の「ウェブ」タブにのみ表示されていましたが、その後"
+        },
+        {
+          "title": "AI が最も信頼するドメイン TOP 10【2026 年 4 月最新版】Ahrefs ブランドレーダー で分析",
+          "link": "https://ahrefs.com/blog/ja/brand-radar-top-10-cited-domains-2026-update/",
+          "date": "Wed, 01 Apr 2026 04:43:32 +0000",
+          "summary": "6 ヶ月で大きく動いた AI の情報源：ChatGPT・AI モード・AI による概要・Perplexity・Copilot が引用するドメイン最新ランキング 公開日：2026 年 4 月 1 日 / データ出典：Ahrefs ブランドレーダー（2025 年 12 月〜2026 年 3 月） AI が回答を生成する際、どのサイトを「信頼できる情報源」として引用しているのかご存じですか？ Googl"
+        },
+        {
+          "title": "SEO から LLMO へ、データドリブンで挑む。株式会社プリンシプルが Ahrefs に見出した可能性",
+          "link": "https://ahrefs.com/blog/ja/case-study-principle/",
+          "date": "Fri, 27 Mar 2026 01:52:08 +0000",
+          "summary": "AI 検索時代にいち早く対応するために。LLMO 戦略を支える Ahrefs の価値 SEO コンサルティングの現場で、今まさに大きな地殻変動が起きています。生成 AI が検索行動を塗り替えつつあるなか、データドリブンなアプローチで業界をリードしてきた株式会社プリンシプルは、一足早く LLMO（Large Language Model Optimization）に本格参入しました。その戦略の中核に"
+        },
+        {
+          "title": "キーワードからトピックへ：よりスマートな SEO 戦略",
+          "link": "https://ahrefs.com/blog/ja/topics-not-keywords/",
+          "date": "Tue, 24 Mar 2026 07:46:03 +0000",
+          "summary": "キーワード単位ではなくトピック全体で最適化するには、スケールと発想の転換が不可欠です。個々のクエリではなく、それらを取り巻くトピック全体を捉える視点へ。本記事では、その方法を分かりやすく解説します。コンテンツ SEO やコンテンツマーケティングにおいても、この視点はますます重要になっています。 Read more › The post キーワードからトピックへ：よりスマートな SEO 戦略 app"
+        },
+        {
+          "title": "二次キーワードとは？検索トラフィックを 2 〜 3 倍に増やすための探し方と活用術",
+          "link": "https://ahrefs.com/blog/ja/secondary-keywords/",
+          "date": "Tue, 24 Mar 2026 07:07:26 +0000",
+          "summary": "あるキーワードで 1 位にランクインしているページの多くは、その単語だけでなく、数百、時には数千の関連キーワードでもランクインしています。二次キーワードは、その追加のトラフィックを獲得するための手段です。 Read more › The post 二次キーワードとは？検索トラフィックを 2 〜 3 倍に増やすための探し方と活用術 appeared first on Ahrefs 公式ブログ."
+        }
+      ],
+      "error": null
+    },
     {
       "tool": "Semrush",
       "slug": "semrush",
@@ -115,6 +195,20 @@
       "feedUrl": "https://blog.google/technology/ai/rss/",
       "items": [
         {
+          "title": "Gemini APIでコストと信頼性をバランスさせる新しい方法",
+          "titleOrig": "New ways to balance cost and reliability in the Gemini API",
+          "link": "https://blog.google/innovation-and-ai/technology/developers-tools/introducing-flex-and-priority-inference/",
+          "date": "Thu, 02 Apr 2026 16:00:00 +0000",
+          "summary": "Google is introducing two new inference tiers to the Gemini API, Flex and Priority, to balance cost and latency."
+        },
+        {
+          "title": "Google Vidsで無料で動画を作成、編集、共有",
+          "titleOrig": "Create, edit and share videos at no cost in Google Vids",
+          "link": "https://blog.google/products-and-platforms/products/workspace/google-vids-updates-lyria-veo/",
+          "date": "Thu, 02 Apr 2026 16:00:00 +0000",
+          "summary": "New AI capabilities are coming to Google Vids, powered by Lyria 3 and Veo 3.1, like high-quality video generation at no cost and more."
+        },
+        {
           "title": "ブラジルの森林を保護するため、新しい衛星画像マップを作成しています。",
           "titleOrig": "We’re creating a new satellite imagery map to help protect Brazil’s forests.",
           "link": "https://blog.google/products-and-platforms/products/earth/satellite-imagery-brazilian-deforestation/",
@@ -134,20 +228,6 @@
           "link": "https://blog.google/innovation-and-ai/technology/ai/veo-3-1-lite/",
           "date": "Tue, 31 Mar 2026 16:00:00 +0000",
           "summary": "Veo 3.1 Lite is now available in paid preview through the Gemini API and for testing in Google AI Studio."
-        },
-        {
-          "title": "James ManyikaがLL COOL JとAIと創造性について語るのをご覧ください。",
-          "titleOrig": "Watch James Manyika talk AI and creativity with LL COOL J.",
-          "link": "https://blog.google/innovation-and-ai/technology/ai/ll-cool-j-dialogues/",
-          "date": "Thu, 26 Mar 2026 17:00:00 +0000",
-          "summary": "In the latest episode of our Dialogues on Technology and Society series, LL COOL J sits down with James Manyika."
-        },
-        {
-          "title": "IOSでヘッドフォンをライブパーソナルトランスレーターに変換します。",
-          "titleOrig": "Transform your headphones into a live personal translator on iOS.",
-          "link": "https://blog.google/products-and-platforms/products/translate/live-translate-with-headphones/",
-          "date": "Thu, 26 Mar 2026 16:00:00 +0000",
-          "summary": "Google Translate’s Live translate with headphones is officially arriving on iOS! And we're expanding the capability for both iOS and Android users to even more countries…"
         }
       ],
       "error": null
@@ -183,6 +263,13 @@
       "feedUrl": "https://wordpress.org/news/feed/",
       "items": [
         {
+          "title": "WordCamp Asia 2026でのAIからオープンソースへ",
+          "titleOrig": "From AI to Open Source at WordCamp Asia 2026",
+          "link": "https://wordpress.org/news/2026/04/wcasia-2026-sessions/",
+          "date": "Thu, 02 Apr 2026 16:10:35 +0000",
+          "summary": "April 9-11, 2026 | Jio World Convention Centre, Mumbai, India WordCamp Asia 2026 brings the WordPress community to Mumbai, India, from April 9 to 11, with a schedule shaped around artificial intellige"
+        },
+        {
           "title": "WordPress 7.0リリース候補2",
           "titleOrig": "WordPress 7.0 Release Candidate 2",
           "link": "https://wordpress.org/news/2026/03/wordpress-7-0-release-candidate-2/",
@@ -209,13 +296,6 @@
           "link": "https://wordpress.org/news/2026/03/wordpress-7-0-beta-5/",
           "date": "Thu, 12 Mar 2026 15:49:14 +0000",
           "summary": "WordPress 7.0 Beta 5 is ready for download and testing! This version of the WordPress software is still under development. Please do not install, run, or test this version of WordPress on production o"
-        },
-        {
-          "title": "WordPress 6.9.4リリース",
-          "titleOrig": "WordPress 6.9.4 Release",
-          "link": "https://wordpress.org/news/2026/03/wordpress-6-9-4-release/",
-          "date": "Wed, 11 Mar 2026 15:34:58 +0000",
-          "summary": "WordPress 6.9.4 is now available WordPress 6.9.2 and WordPress 6.9.3 were released yesterday, addressing 10 security issues and a bug that affected template file loading on a limited number of sites. "
         }
       ],
       "error": null

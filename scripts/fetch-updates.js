@@ -61,16 +61,61 @@ async function translateTitle(text) {
   }
 }
 
+// ── YouTube ハンドル → RSS URL 解決 ────────────────────
+
+/**
+ * @handle 形式から YouTube チャンネル RSS フィード URL を解決する
+ * YouTube チャンネルページの HTML から channelId を抽出する
+ */
+async function resolveYouTubeHandle(handle) {
+  try {
+    const url = `https://www.youtube.com/${handle}`;
+    const res  = await fetch(url, {
+      signal: AbortSignal.timeout(10000),
+      headers: { 'User-Agent': 'Mozilla/5.0 (compatible; AI-KnowledgeBase/1.0)' },
+    });
+    const html = await res.text();
+
+    // channelId を探す（複数パターンに対応）
+    const patterns = [
+      /"channelId":"(UC[^"]{20,})"/,
+      /"externalId":"(UC[^"]{20,})"/,
+      /channel\/(UC[^"/?]{20,})/,
+    ];
+
+    for (const pattern of patterns) {
+      const m = html.match(pattern);
+      if (m) {
+        const channelId = m[1];
+        return `https://www.youtube.com/feeds/videos.xml?channel_id=${channelId}`;
+      }
+    }
+
+    console.warn(`  ⚠️  YouTube: チャンネルID が見つかりませんでした (${handle})`);
+    return null;
+  } catch (err) {
+    console.warn(`  ⚠️  YouTube: ハンドル解決失敗 — ${err.message}`);
+    return null;
+  }
+}
+
 // ── フィード取得 ────────────────────────────────────────
 
 async function fetchFeed(feed) {
-  if (!feed.feedUrl) {
+  // YouTube ハンドルから feedUrl を自動解決
+  let feedUrl = feed.feedUrl;
+  if (feed.type === 'youtube' && !feedUrl && feed.handle) {
+    console.log(`  🔍  ${feed.tool}: YouTubeチャンネルIDを解決中...`);
+    feedUrl = await resolveYouTubeHandle(feed.handle);
+  }
+
+  if (!feedUrl) {
     console.log(`  ⏭  ${feed.tool}: フィードURL未設定のためスキップ`);
     return { ...feed, items: [], error: 'no_url' };
   }
 
   try {
-    const result = await parser.parseURL(feed.feedUrl);
+    const result = await parser.parseURL(feedUrl);
     const rawItems = (result.items || []).slice(0, ITEMS_PER_FEED);
 
     // タイトルを翻訳（順番に処理してレート制限を回避）

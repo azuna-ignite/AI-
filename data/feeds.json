@@ -1,5 +1,13 @@
 [
   {
+    "tool": "ミエルカ（YouTube）",
+    "slug": "mieruca",
+    "category": "SEO・キーワード調査",
+    "type": "youtube",
+    "handle": "@mieruca-channel",
+    "feedUrl": ""
+  },
+  {
     "tool": "Ahrefs",
     "slug": "ahrefs",
     "category": "SEO・キーワード調査",
