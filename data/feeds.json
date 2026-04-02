@@ -84,5 +84,17 @@
     "slug": "github",
     "category": "情報管理・開発",
     "feedUrl": "https://github.blog/feed/"
+  },
+  {
+    "tool": "マインドファクトリー",
+    "slug": "mindfactory",
+    "category": "制作・デザイン",
+    "feedUrl": "https://www.mindfactory.co.jp/blog/feed/"
+  },
+  {
+    "tool": "Empathy Writing",
+    "slug": "empathywriting",
+    "category": "制作・デザイン",
+    "feedUrl": "https://empathywriting.com/feed/"
   }
 ]
