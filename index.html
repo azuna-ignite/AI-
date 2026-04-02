@@ -60,6 +60,27 @@
     <li><span class="badge">用語集</span> MQL / SQL の違いを追加</li>
     <li><span class="badge">Tips</span> A/Bテストの設計方法を追加</li>
   </ul>
+
+  <!-- ツールアップデート スライダー -->
+  <div class="updates-section">
+    <div class="updates-header">
+      <h2 class="section-heading" style="margin:0;">ツール最新情報</h2>
+      <a href="updates.html" class="updates-more">すべて見る →</a>
+    </div>
+
+    <div class="slider-tabs" id="sliderTabs"></div>
+
+    <div class="slider-wrap">
+      <button class="slider-btn prev" id="sliderPrev" aria-label="前へ">&#8249;</button>
+      <div class="slider-viewport">
+        <div class="slider-track" id="sliderTrack"></div>
+      </div>
+      <button class="slider-btn next" id="sliderNext" aria-label="次へ">&#8250;</button>
+    </div>
+
+    <div class="slider-dots" id="sliderDots"></div>
+    <p class="updates-fetched" id="updatesFetchedAt"></p>
+  </div>
 </main>
 
 <footer>
@@ -67,11 +88,133 @@
 </footer>
 
 <script>
-  // 現在ページのナビリンクをハイライト
+  // ナビハイライト
   const current = location.pathname.split('/').pop() || 'index.html';
   document.querySelectorAll('nav a').forEach(a => {
     if (a.getAttribute('href') === current) a.classList.add('active');
   });
+
+  // ── ツールアップデート スライダー ──────────────────────
+  const CATEGORIES = [
+    'SEO・キーワード調査',
+    'AI・リサーチ',
+    '制作・デザイン',
+    '情報管理・開発',
+  ];
+
+  let slides = [];     // 現在カテゴリのスライド配列
+  let current_idx = 0; // 現在スライドインデックス
+  let autoTimer = null;
+
+  function formatDate(str) {
+    if (!str) return '';
+    const d = new Date(str);
+    if (isNaN(d)) return str.slice(0, 10);
+    return d.toLocaleDateString('ja-JP', { month: 'short', day: 'numeric' });
+  }
+
+  // スライドを構築してカテゴリデータをセット
+  function buildSlides(tools, category) {
+    const filtered = tools.filter(t => t.category === category && t.items && t.items.length > 0);
+    slides = [];
+    filtered.forEach(tool => {
+      tool.items.forEach(item => {
+        slides.push({ tool: tool.tool, ...item });
+      });
+    });
+    current_idx = 0;
+  }
+
+  function renderSlider() {
+    const track = document.getElementById('sliderTrack');
+    const dots  = document.getElementById('sliderDots');
+
+    if (slides.length === 0) {
+      track.innerHTML = '<div class="slide"><p class="slide-empty">このカテゴリは取得データがありません</p></div>';
+      dots.innerHTML  = '';
+      return;
+    }
+
+    track.innerHTML = slides.map((s, i) => `
+      <div class="slide${i === 0 ? ' active' : ''}">
+        <span class="slide-tool">${s.tool}</span>
+        <a href="${s.link}" class="slide-title" target="_blank" rel="noopener">${s.title}</a>
+        <span class="slide-date">${formatDate(s.date)}</span>
+      </div>`).join('');
+
+    dots.innerHTML = slides.map((_, i) =>
+      `<button class="dot${i === 0 ? ' active' : ''}" data-i="${i}" aria-label="${i + 1}枚目"></button>`
+    ).join('');
+
+    dots.querySelectorAll('.dot').forEach(d => {
+      d.addEventListener('click', () => goTo(Number(d.dataset.i)));
+    });
+  }
+
+  function goTo(idx) {
+    const track    = document.getElementById('sliderTrack');
+    const dots     = document.getElementById('sliderDots');
+    const allSlides = track.querySelectorAll('.slide');
+    const allDots   = dots.querySelectorAll('.dot');
+
+    allSlides[current_idx]?.classList.remove('active');
+    allDots[current_idx]?.classList.remove('active');
+    current_idx = (idx + slides.length) % slides.length;
+    allSlides[current_idx]?.classList.add('active');
+    allDots[current_idx]?.classList.add('active');
+    resetAuto();
+  }
+
+  function resetAuto() {
+    clearInterval(autoTimer);
+    autoTimer = setInterval(() => goTo(current_idx + 1), 5000);
+  }
+
+  // カテゴリタブを描画
+  function renderTabs(tools) {
+    const tabsEl = document.getElementById('sliderTabs');
+    tabsEl.innerHTML = CATEGORIES.map((cat, i) => {
+      const count = tools.filter(t => t.category === cat && t.items && t.items.length > 0).length;
+      return `<button class="slider-tab${i === 0 ? ' active' : ''}" data-cat="${cat}">
+        ${cat}<span class="tab-count">${count}</span>
+      </button>`;
+    }).join('');
+
+    tabsEl.querySelectorAll('.slider-tab').forEach(btn => {
+      btn.addEventListener('click', () => {
+        tabsEl.querySelectorAll('.slider-tab').forEach(b => b.classList.remove('active'));
+        btn.classList.add('active');
+        buildSlides(tools, btn.dataset.cat);
+        renderSlider();
+        resetAuto();
+      });
+    });
+  }
+
+  // prev / next ボタン
+  document.getElementById('sliderPrev').addEventListener('click', () => goTo(current_idx - 1));
+  document.getElementById('sliderNext').addEventListener('click', () => goTo(current_idx + 1));
+
+  // データ取得
+  fetch('data/updates.json')
+    .then(r => r.json())
+    .then(data => {
+      const tools = data.tools || [];
+      renderTabs(tools);
+      buildSlides(tools, CATEGORIES[0]);
+      renderSlider();
+      resetAuto();
+
+      if (data.fetchedAt) {
+        const d = new Date(data.fetchedAt);
+        document.getElementById('updatesFetchedAt').textContent =
+          `最終取得: ${d.toLocaleDateString('ja-JP', { year: 'numeric', month: 'short', day: 'numeric' })}`;
+      }
+    })
+    .catch(() => {
+      document.getElementById('sliderTrack').innerHTML =
+        '<div class="slide"><p class="slide-empty">データを読み込めませんでした</p></div>';
+    });
 </script>
 </body>
 </html>
