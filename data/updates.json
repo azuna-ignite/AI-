@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-04-02T12:34:42.199Z",
+  "fetchedAt": "2026-04-02T12:48:59.507Z",
   "tools": [
     {
       "tool": "Semrush",
@@ -8,31 +8,36 @@
       "feedUrl": "https://www.semrush.com/blog/feed/",
       "items": [
         {
-          "title": "Does AI content rank well in search? [Survey + Data study]",
+          "title": "AIコンテンツは検索で上位にランクインしていますか？ [アンケート+データ調査]",
+          "titleOrig": "Does AI content rank well in search? [Survey + Data study]",
           "link": "https://www.semrush.com/blog/does-ai-content-rank-in-search-data-study/",
           "date": "Wed, 01 Apr 2026 16:09:00 +0000",
           "summary": "Does AI content rank on Google? We analyzed 42,000 blog posts to find out. The answer depends less on whether you used AI — and more on whether your content shows it."
         },
         {
-          "title": "8 Best AI SEO Tools for 2026 (Tested Firsthand)",
+          "title": "2026年に最適な8つのAI SEOツール（直接テスト済み）",
+          "titleOrig": "8 Best AI SEO Tools for 2026 (Tested Firsthand)",
           "link": "https://www.semrush.com/blog/best-ai-seo-tools/",
           "date": "Wed, 01 Apr 2026 14:05:00 +0000",
           "summary": "Discover the top AI SEO tools to track visibility, optimize content, and automate workflows. Real tests, clear picks, and expert tips for 2026."
         },
         {
-          "title": "The 9 Best LLM Monitoring Tools for Brand Visibility in 2026",
+          "title": "2026年のブランド可視性のための9つの最高のLLMモニタリングツール",
+          "titleOrig": "The 9 Best LLM Monitoring Tools for Brand Visibility in 2026",
           "link": "https://www.semrush.com/blog/llm-monitoring-tools/",
           "date": "Wed, 01 Apr 2026 14:05:00 +0000",
           "summary": "Discover the 9 best LLM monitoring tools. Compare features, pricing, & capabilities to track your AI presence."
         },
         {
-          "title": "AI content optimization: The complete guide",
+          "title": "AIコンテンツの最適化：完全ガイド",
+          "titleOrig": "AI content optimization: The complete guide",
           "link": "https://www.semrush.com/blog/ai-content-optimization/",
           "date": "Wed, 01 Apr 2026 08:21:00 +0000",
           "summary": "AI content optimization is the practice of using AI tools to improve content and enhance its performance."
         },
         {
-          "title": "What Is an AI Agent? (And What AI Agents Mean for Your Brand’s Visibility)",
+          "title": "AIエージェントとは？ （そして、あなたのブランドの可視性にとってAIエージェントが意味すること）",
+          "titleOrig": "What Is an AI Agent? (And What AI Agents Mean for Your Brand’s Visibility)",
           "link": "https://www.semrush.com/blog/what-is-an-ai-agent/",
           "date": "Mon, 30 Mar 2026 20:48:00 +0000",
           "summary": "AI agents research, evaluate, and act on behalf of users. Learn how they work, why they matter for brand visibility, and how to prepare your digital presence."
@@ -110,31 +115,36 @@
       "feedUrl": "https://blog.google/technology/ai/rss/",
       "items": [
         {
-          "title": "We’re creating a new satellite imagery map to help protect Brazil’s forests.",
+          "title": "ブラジルの森林を保護するため、新しい衛星画像マップを作成しています。",
+          "titleOrig": "We’re creating a new satellite imagery map to help protect Brazil’s forests.",
           "link": "https://blog.google/products-and-platforms/products/earth/satellite-imagery-brazilian-deforestation/",
           "date": "Wed, 01 Apr 2026 13:30:00 +0000",
           "summary": "Google partnered with the Brazilian government on a satellite imagery map to help protect the country’s forests."
         },
         {
-          "title": "The latest AI news we announced in March 2026",
+          "title": "2026年3月に発表した最新のAIニュース",
+          "titleOrig": "The latest AI news we announced in March 2026",
           "link": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-march-2026/",
           "date": "Wed, 01 Apr 2026 13:00:00 +0000",
           "summary": "Here are Google’s latest AI updates from March 2026"
         },
         {
-          "title": "Build with Veo 3.1 Lite, our most cost-effective video generation model",
+          "title": "当社の最も費用対効果の高いビデオ生成モデルであるVeo 3.1 Liteを使用して構築",
+          "titleOrig": "Build with Veo 3.1 Lite, our most cost-effective video generation model",
           "link": "https://blog.google/innovation-and-ai/technology/ai/veo-3-1-lite/",
           "date": "Tue, 31 Mar 2026 16:00:00 +0000",
           "summary": "Veo 3.1 Lite is now available in paid preview through the Gemini API and for testing in Google AI Studio."
         },
         {
-          "title": "Watch James Manyika talk AI and creativity with LL COOL J.",
+          "title": "James ManyikaがLL COOL JとAIと創造性について語るのをご覧ください。",
+          "titleOrig": "Watch James Manyika talk AI and creativity with LL COOL J.",
           "link": "https://blog.google/innovation-and-ai/technology/ai/ll-cool-j-dialogues/",
           "date": "Thu, 26 Mar 2026 17:00:00 +0000",
           "summary": "In the latest episode of our Dialogues on Technology and Society series, LL COOL J sits down with James Manyika."
         },
         {
-          "title": "Transform your headphones into a live personal translator on iOS.",
+          "title": "IOSでヘッドフォンをライブパーソナルトランスレーターに変換します。",
+          "titleOrig": "Transform your headphones into a live personal translator on iOS.",
           "link": "https://blog.google/products-and-platforms/products/translate/live-translate-with-headphones/",
           "date": "Thu, 26 Mar 2026 16:00:00 +0000",
           "summary": "Google Translate’s Live translate with headphones is officially arriving on iOS! And we're expanding the capability for both iOS and Android users to even more countries…"
@@ -173,31 +183,36 @@
       "feedUrl": "https://wordpress.org/news/feed/",
       "items": [
         {
-          "title": "WordPress 7.0 Release Candidate 2",
+          "title": "WordPress 7.0リリース候補2",
+          "titleOrig": "WordPress 7.0 Release Candidate 2",
           "link": "https://wordpress.org/news/2026/03/wordpress-7-0-release-candidate-2/",
           "date": "Thu, 26 Mar 2026 18:37:28 +0000",
           "summary": "The second Release Candidate (“RC2”) for WordPress 7.0 is ready for download and testing! This version of the WordPress software is under development. Please do not install, run, or test this version "
         },
         {
-          "title": "WP Packages is Working the Way Open Source Should",
+          "title": "WPパッケージはオープンソースが望むように機能しています",
+          "titleOrig": "WP Packages is Working the Way Open Source Should",
           "link": "https://wordpress.org/news/2026/03/wp-packages/",
           "date": "Wed, 25 Mar 2026 15:27:24 +0000",
           "summary": "When WP Engine acquired WPackagist on March 12, the WordPress developer community faced a familiar question: what happens when critical open source infrastructure ends up under corporate control? The "
         },
         {
-          "title": "WordPress 7.0 Release Candidate 1",
+          "title": "WordPress 7.0リリース候補1",
+          "titleOrig": "WordPress 7.0 Release Candidate 1",
           "link": "https://wordpress.org/news/2026/03/wordpress-7-0-release-candidate-1/",
           "date": "Tue, 24 Mar 2026 19:32:15 +0000",
           "summary": "The first Release Candidate (“RC1”) for WordPress 7.0 is ready for download and testing! This version of the WordPress software is still under development. Please do not install, run, or test this ver"
         },
         {
-          "title": "WordPress 7.0 Beta 5",
+          "title": "WordPress 7.0ベータ5",
+          "titleOrig": "WordPress 7.0 Beta 5",
           "link": "https://wordpress.org/news/2026/03/wordpress-7-0-beta-5/",
           "date": "Thu, 12 Mar 2026 15:49:14 +0000",
           "summary": "WordPress 7.0 Beta 5 is ready for download and testing! This version of the WordPress software is still under development. Please do not install, run, or test this version of WordPress on production o"
         },
         {
-          "title": "WordPress 6.9.4 Release",
+          "title": "WordPress 6.9.4リリース",
+          "titleOrig": "WordPress 6.9.4 Release",
           "link": "https://wordpress.org/news/2026/03/wordpress-6-9-4-release/",
           "date": "Wed, 11 Mar 2026 15:34:58 +0000",
           "summary": "WordPress 6.9.4 is now available WordPress 6.9.2 and WordPress 6.9.3 were released yesterday, addressing 10 security issues and a bug that affected template file loading on a limited number of sites. "
@@ -212,31 +227,36 @@
       "feedUrl": "https://obsidian.md/changelog.xml",
       "items": [
         {
-          "title": "Obsidian 1.12.7 Mobile (Public)",
+          "title": "Obsidian 1.12.7モバイル（パブリック）",
+          "titleOrig": "Obsidian 1.12.7 Mobile (Public)",
           "link": "https://obsidian.md/changelog/2026-03-23-mobile-v1.12.7/",
           "date": "2026-03-23T00:00:00.000Z",
           "summary": "Includes all new features and bug fixes up to Obsidian Desktop v1.12.7."
         },
         {
-          "title": "Obsidian 1.12.7 Desktop (Public)",
+          "title": "Obsidian 1.12.7デスクトップ（パブリック）",
+          "titleOrig": "Obsidian 1.12.7 Desktop (Public)",
           "link": "https://obsidian.md/changelog/2026-03-23-desktop-v1.12.7/",
           "date": "2026-03-23T00:00:00.000Z",
           "summary": "Improvements Obsidian CLI The Obsidian Installer is now bundled with a new binary file for using the CLI. This new method replaces the old method of calling the Electron binary, resulting in significa"
         },
         {
-          "title": "Obsidian 1.12.6 Mobile (Early access)",
+          "title": "Obsidian 1.12.6モバイル（早期アクセス）",
+          "titleOrig": "Obsidian 1.12.6 Mobile (Early access)",
           "link": "https://obsidian.md/changelog/2026-03-18-mobile-v1.12.6/",
           "date": "2026-03-18T00:00:00.000Z",
           "summary": "Includes all new features and bug fixes up to Obsidian Desktop v1.12.6."
         },
         {
-          "title": "Obsidian 1.12.6 Desktop (Early access)",
+          "title": "Obsidian 1.12.6デスクトップ（先行アクセス）",
+          "titleOrig": "Obsidian 1.12.6 Desktop (Early access)",
           "link": "https://obsidian.md/changelog/2026-03-18-desktop-v1.12.6/",
           "date": "2026-03-18T00:00:00.000Z",
           "summary": "Bug fixes CLI Fixed the Obsidian CLI incorrectly checking for a Linux-specific directory on macOS. Changed the CLI socket file to a hidden dotfile on macOS and Linux. Editor Fixed some regressions wit"
         },
         {
-          "title": "Obsidian 1.12.5 Mobile (Early access)",
+          "title": "Obsidian 1.12.5モバイル（早期アクセス）",
+          "titleOrig": "Obsidian 1.12.5 Mobile (Early access)",
           "link": "https://obsidian.md/changelog/2026-03-05-mobile-v1.12.5/",
           "date": "2026-03-05T00:00:00.000Z",
           "summary": "Includes all new features and bug fixes up to Obsidian Desktop v1.12.5."
@@ -251,31 +271,36 @@
       "feedUrl": "https://github.blog/feed/",
       "items": [
         {
-          "title": "Securing the open source supply chain across GitHub",
+          "title": "GitHub全体のオープンソースサプライチェーンの保護",
+          "titleOrig": "Securing the open source supply chain across GitHub",
           "link": "https://github.blog/security/supply-chain-security/securing-the-open-source-supply-chain-across-github/",
           "date": "Wed, 01 Apr 2026 19:20:12 +0000",
           "summary": "Recent attacks on open source focus on exfiltrating secrets; here are the prevention steps you can take today, plus a look at the security capabilities GitHub is working on. The post Securing the open"
         },
         {
-          "title": "Run multiple agents at once with /fleet in Copilot CLI",
+          "title": "Copilot CLIで/fleetを使用して複数のエージェントを一度に実行する",
+          "titleOrig": "Run multiple agents at once with /fleet in Copilot CLI",
           "link": "https://github.blog/ai-and-ml/github-copilot/run-multiple-agents-at-once-with-fleet-in-copilot-cli/",
           "date": "Wed, 01 Apr 2026 15:00:00 +0000",
           "summary": "/fleet lets Copilot CLI dispatch multiple agents in parallel. Learn how to write prompts that split work across files, declare dependencies, and avoid common pitfalls. The post Run multiple agents at "
         },
         {
-          "title": "Agent-driven development in Copilot Applied Science",
+          "title": "Copilot応用科学におけるエージェント主導の開発",
+          "titleOrig": "Agent-driven development in Copilot Applied Science",
           "link": "https://github.blog/ai-and-ml/github-copilot/agent-driven-development-in-copilot-applied-science/",
           "date": "Tue, 31 Mar 2026 16:00:00 +0000",
           "summary": "I used coding agents to build agents that automated part of my job. Here's what I learned about working better with coding agents. The post Agent-driven development in Copilot Applied Science appeared"
         },
         {
-          "title": "GitHub for Beginners: Getting started with GitHub security",
+          "title": "初心者のためのGitHub ： GitHubセキュリティの始め方",
+          "titleOrig": "GitHub for Beginners: Getting started with GitHub security",
           "link": "https://github.blog/developer-skills/github/github-for-beginners-getting-started-with-github-security/",
           "date": "Mon, 30 Mar 2026 16:00:00 +0000",
           "summary": "Learn how to secure your projects and keep them safe with GitHub Advanced Security. The post GitHub for Beginners: Getting started with GitHub security appeared first on The GitHub Blog."
         },
         {
-          "title": "What’s coming to our GitHub Actions 2026 security roadmap",
+          "title": "GitHub Actions 2026セキュリティロードマップの概要",
+          "titleOrig": "What’s coming to our GitHub Actions 2026 security roadmap",
           "link": "https://github.blog/news-insights/product-news/whats-coming-to-our-github-actions-2026-security-roadmap/",
           "date": "Thu, 26 Mar 2026 16:49:14 +0000",
           "summary": "A look at GitHub Actions’ 2026 roadmap, outlining how secure defaults, policy controls, and CI/CD observability harden the software supply chain end to end. The post What’s coming to our GitHub Action"
