@@ -1,0 +1,11 @@
+{
+  "name": "ai-knowledge-base",
+  "version": "1.0.0",
+  "description": "海外マーケティング ナレッジベース",
+  "scripts": {
+    "publish": "node publish.js"
+  },
+  "dependencies": {
+    "marked": "^12.0.0"
+  }
+}
