@@ -708,6 +708,13 @@
     });
   });
 
+  // カードアコーディオン
+  document.querySelectorAll('.basics-card').forEach(card => {
+    const h3 = card.querySelector('h3');
+    if (!h3) return;
+    h3.addEventListener('click', () => card.classList.toggle('open'));
+  });
+
   // タブ切り替え
   const tabs = document.querySelectorAll('#tabWrap .filter-btn');
   const sections = document.querySelectorAll('.basics-section');

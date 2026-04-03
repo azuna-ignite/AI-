@@ -685,18 +685,43 @@ main {
   text-transform: uppercase;
   letter-spacing: 0.04em;
   color: var(--color-primary);
+  margin-bottom: 0;
+  cursor: pointer;
+  user-select: none;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.basics-card h3::after {
+  content: '▸';
+  font-size: 0.8rem;
+  flex-shrink: 0;
+  margin-left: 0.5rem;
+}
+
+.basics-card.open h3 {
   margin-bottom: 0.75rem;
+}
+
+.basics-card.open h3::after {
+  content: '▾';
 }
 
 .basics-card ul {
   padding-left: 1.2rem;
   margin: 0;
+  display: none;
+}
+
+.basics-card.open ul {
+  display: block;
 }
 
 .basics-card li {
-  font-size: 0.92rem;
+  font-size: 1rem;
   margin-bottom: 0.35rem;
-  line-height: 1.55;
+  line-height: 1.6;
 }
 
 .basics-tool-link {
