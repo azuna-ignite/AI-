@@ -79,6 +79,13 @@
     "feedUrl": ""
   },
   {
+    "tool": "Paper",
+    "slug": "paper",
+    "category": "制作・デザイン",
+    "sourceType": "tool",
+    "feedUrl": ""
+  },
+  {
     "tool": "WordPress",
     "slug": "wordpress",
     "category": "制作・デザイン",
