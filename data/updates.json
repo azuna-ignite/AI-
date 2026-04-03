@@ -1,10 +1,11 @@
 {
-  "fetchedAt": "2026-04-02T21:54:10.943Z",
+  "fetchedAt": "2026-04-03T02:31:43.239Z",
   "tools": [
     {
       "tool": "ミエルカ（YouTube）",
       "slug": "mieruca",
       "category": "SEO・キーワード調査",
+      "sourceType": "youtube",
       "type": "youtube",
       "handle": "@mieruca-channel",
       "feedUrl": "",
@@ -46,6 +47,7 @@
       "tool": "Ahrefs",
       "slug": "ahrefs",
       "category": "SEO・キーワード調査",
+      "sourceType": "tool",
       "feedUrl": "https://ahrefs.com/blog/ja/feed/",
       "items": [
         {
@@ -85,6 +87,7 @@
       "tool": "Semrush",
       "slug": "semrush",
       "category": "SEO・キーワード調査",
+      "sourceType": "tool",
       "feedUrl": "https://www.semrush.com/blog/feed/",
       "items": [
         {
@@ -129,6 +132,7 @@
       "tool": "SurferSEO",
       "slug": "surferseo",
       "category": "SEO・キーワード調査",
+      "sourceType": "tool",
       "feedUrl": "",
       "items": [],
       "error": "no_url"
@@ -137,6 +141,7 @@
       "tool": "Google サーチコンソール",
       "slug": "google-search-console",
       "category": "SEO・キーワード調査",
+      "sourceType": "tool",
       "feedUrl": "",
       "items": [],
       "error": "no_url"
@@ -145,6 +150,7 @@
       "tool": "ラッコキーワード",
       "slug": "rakko-keyword",
       "category": "SEO・キーワード調査",
+      "sourceType": "tool",
       "feedUrl": "https://rakkokeyword.com/techo/feed/",
       "items": [
         {
@@ -184,6 +190,7 @@
       "tool": "Claude / Claude Code",
       "slug": "claude",
       "category": "AI・リサーチ",
+      "sourceType": "tool",
       "feedUrl": "",
       "items": [],
       "error": "no_url"
@@ -192,6 +199,7 @@
       "tool": "NotebookLM",
       "slug": "notebooklm",
       "category": "AI・リサーチ",
+      "sourceType": "tool",
       "feedUrl": "https://blog.google/technology/ai/rss/",
       "items": [
         {
@@ -236,6 +244,7 @@
       "tool": "isgen",
       "slug": "isgen",
       "category": "AI・リサーチ",
+      "sourceType": "tool",
       "feedUrl": "",
       "items": [],
       "error": "no_url"
@@ -244,6 +253,7 @@
       "tool": "Figma",
       "slug": "figma",
       "category": "制作・デザイン",
+      "sourceType": "tool",
       "feedUrl": "",
       "items": [],
       "error": "no_url"
@@ -252,6 +262,7 @@
       "tool": "Canva",
       "slug": "canva",
       "category": "制作・デザイン",
+      "sourceType": "tool",
       "feedUrl": "",
       "items": [],
       "error": "no_url"
@@ -260,6 +271,7 @@
       "tool": "WordPress",
       "slug": "wordpress",
       "category": "制作・デザイン",
+      "sourceType": "tool",
       "feedUrl": "https://wordpress.org/news/feed/",
       "items": [
         {
@@ -304,6 +316,7 @@
       "tool": "Obsidian",
       "slug": "obsidian",
       "category": "情報管理・開発",
+      "sourceType": "tool",
       "feedUrl": "https://obsidian.md/changelog.xml",
       "items": [
         {
@@ -348,6 +361,7 @@
       "tool": "GitHub",
       "slug": "github",
       "category": "情報管理・開発",
+      "sourceType": "tool",
       "feedUrl": "https://github.blog/feed/",
       "items": [
         {
@@ -384,6 +398,86 @@
           "link": "https://github.blog/news-insights/product-news/whats-coming-to-our-github-actions-2026-security-roadmap/",
           "date": "Thu, 26 Mar 2026 16:49:14 +0000",
           "summary": "A look at GitHub Actions’ 2026 roadmap, outlining how secure defaults, policy controls, and CI/CD observability harden the software supply chain end to end. The post What’s coming to our GitHub Action"
+        }
+      ],
+      "error": null
+    },
+    {
+      "tool": "マインドファクトリー",
+      "slug": "mindfactory",
+      "category": "制作・デザイン",
+      "sourceType": "media",
+      "feedUrl": "https://www.mindfactory.co.jp/blog/feed/",
+      "items": [
+        {
+          "title": "“伝わる”UIをつくれるデザイナーを目指して - インターン生インタビュー",
+          "link": "https://www.mindfactory.co.jp/blog/8370",
+          "date": "Fri, 27 Feb 2026 11:43:03 +0000",
+          "summary": "今年マインドファクトリーでは、初めてインターンシップの受け入れを行いました。 今回は、インターンで来てくれた名古屋モード学園グラフィック学科の水野君に、デザイナーを志したきっかけや弊社でのインターンの感想をインタビューし […]"
+        },
+        {
+          "title": "WEBメディア「CREATORS STATION」に代表富岡のインタビュー記事が掲載されました",
+          "link": "https://www.mindfactory.co.jp/blog/8364",
+          "date": "Mon, 16 Feb 2026 08:57:39 +0000",
+          "summary": "株式会社フェローズが運営する、日本全国のクリエイターを応援するためのWEBメディア「CREATORS STATION」に、弊社代表 富岡のインタビュー記事が掲載されました。自身のこれまでのキャリアから、事業内容、今後の展 […]"
+        },
+        {
+          "title": "年末年始休暇のお知らせ",
+          "link": "https://www.mindfactory.co.jp/blog/8357",
+          "date": "Fri, 05 Dec 2025 09:20:14 +0000",
+          "summary": "平素は格別のお引き立てを賜り、厚く御礼申し上げます。誠に勝手ながら、弊社は、下記の期間を年末年始休業とさせていただきます。 ■ 年末年始休暇期間2025年12月27日（土）～2026年1月4日（日） ご不便をおかけいたし […]"
+        },
+        {
+          "title": "岐阜の魅力を満喫！長良川研修ツアー体験記",
+          "link": "https://www.mindfactory.co.jp/blog/8333",
+          "date": "Tue, 04 Nov 2025 03:17:02 +0000",
+          "summary": "こんにちは。広告プランナーの野倉です。今回は、9月に参加した「岐阜県長良川研修ツアー」をレポートします！ 開会式とプレゼンテーションで旅が始まる ツアーは、朝の開会式からスタートしました。会場には少し緊張した面持ちの参加 […]"
+        },
+        {
+          "title": "株式会社桜とのパートナーシップ提携のご案内",
+          "link": "https://www.mindfactory.co.jp/blog/8312",
+          "date": "Thu, 04 Sep 2025 05:09:59 +0000",
+          "summary": "はじめに このたび、株式会社桜（以下 桜）と株式会社マインドファクトリー（以下 当社）は、ブランドコピーライティングとデジタルマーケティングにおいてパートナーシップ提携いたしました。桜が強みとする「ブランドコピーライティ […]"
+        }
+      ],
+      "error": null
+    },
+    {
+      "tool": "Empathy Writing",
+      "slug": "empathywriting",
+      "category": "制作・デザイン",
+      "sourceType": "media",
+      "feedUrl": "https://empathywriting.com/feed/",
+      "items": [
+        {
+          "title": "阿部 憲夫(Norio Abe)",
+          "link": "https://empathywriting.com/empathywriting_coach/norio_abe/?utm_source=rss&utm_medium=rss&utm_campaign=norio_abe",
+          "date": "Sun, 29 Aug 2021 23:32:00 +0000",
+          "summary": "ＬＬＣ阿部マネジメントオフィス代表一般社団法人グロウイングクラウド理事エンパシーライティング®認定コーチ経営士／ITコーディネータ ひと言自己紹介 絵本東北を中心に人材育成支援をおこなうコンサルタント。特に『コミュニケー […] The post 阿部 憲夫(Norio Abe) first appeared on エンパシーライティング公式サイト."
+        },
+        {
+          "title": "糸井 謙司(Kenji Itoi)",
+          "link": "https://empathywriting.com/empathywriting_coach/kenji_itoi/?utm_source=rss&utm_medium=rss&utm_campaign=kenji_itoi",
+          "date": "Sat, 28 Aug 2021 08:12:00 +0000",
+          "summary": "式会社白亞 代表取締役社長 Growth Mind Consultant／プロビジネスコーチ／アチーバストレーナー／ビル管理士エンパシーライティング®認定コーチ ひと言自己紹介 ２代目社長向けの経営サポート。組織改革の一 […] The post 糸井 謙司(Kenji Itoi) first appeared on エンパシーライティング公式サイト."
+        },
+        {
+          "title": "岩田 由美子(Yumiko Iwata)",
+          "link": "https://empathywriting.com/empathywriting_coach/yumiko-iwata/?utm_source=rss&utm_medium=rss&utm_campaign=yumiko-iwata",
+          "date": "Sat, 28 Aug 2021 01:51:00 +0000",
+          "summary": "Lifeコーディネーター整理収納アドバイザー１級時短家事コーディネーター®︎認定講師エンパシーライティング®認定コーチ ひと言自己紹介 「ちょっとずつ毎日が楽しくなる、くらしのコーディネート」がテーマ。講座開催・コーディ […] The post 岩田 由美子(Yumiko Iwata) first appeared on エンパシーライティング公式サイト."
+        },
+        {
+          "title": "伊藤あづさ(Adusa Ito)",
+          "link": "https://empathywriting.com/empathywriting_coach/adusa-ito/?utm_source=rss&utm_medium=rss&utm_campaign=adusa-ito",
+          "date": "Sat, 28 Aug 2021 00:17:07 +0000",
+          "summary": "ごきげんな暮らしを叶えるProp-Port COCORO-LABO 代表KAORI CREATOR🄬/臨床発達心理士/ミッションメンタリング®認定マスター/ミッションメンタリング®認定「自分らしさ」トレーナー/ IFA認 […] The post 伊藤あづさ(Adusa Ito) first appeared on エンパシーライティング公式サイト."
+        },
+        {
+          "title": "岡田 仲史(Nakafumi Okada)",
+          "link": "https://empathywriting.com/empathywriting_coach/nakafumi_okada/?utm_source=rss&utm_medium=rss&utm_campaign=nakafumi_okada",
+          "date": "Thu, 26 Aug 2021 23:16:00 +0000",
+          "summary": "一級建築士マンション管理士宅地建物取引士TRINITY LABO.認定 家族信託コンサルタントエンパシーライティング®認定コーチ ひと言自己紹介 『つなぐデザイン』を探求する一級建築士。建築と文章に[つなぐ]という共通点 […] The post 岡田 仲史(Nakafumi Okada) first appeared on エンパシーライティング公式サイト."
         }
       ],
       "error": null
