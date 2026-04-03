@@ -65,6 +65,13 @@
     "feedUrl": ""
   },
   {
+    "tool": "The Component Gallery",
+    "slug": "component-gallery",
+    "category": "制作・デザイン",
+    "sourceType": "tool",
+    "feedUrl": ""
+  },
+  {
     "tool": "Figma",
     "slug": "figma",
     "category": "制作・デザイン",
