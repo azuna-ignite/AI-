@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-04-03T02:31:43.239Z",
+  "fetchedAt": "2026-04-04T02:24:19.826Z",
   "tools": [
     {
       "tool": "ミエルカ（YouTube）",
@@ -154,6 +154,12 @@
       "feedUrl": "https://rakkokeyword.com/techo/feed/",
       "items": [
         {
+          "title": "夜ご飯ルーレットツール",
+          "link": "https://rakkokeyword.com/techo/tool-dinner-roulette/",
+          "date": "Fri, 03 Apr 2026 07:09:02 +0000",
+          "summary": "モード選択 単品 献立まとめて ジャンル絞り込み 和食 洋食 中華 エスニック ダイエット 簡単・時短 カスタム候補追加（任意） 追加 今日のメニュー ??? 主菜 ??? 副菜 ??? 汁物 ??? 回す！ ストップ！ ..."
+        },
+        {
           "title": "【2026最新】ブログを始めるならどこがいい？目的別に12選を徹底比較！",
           "link": "https://rakkokeyword.com/techo/blog-platform-comparison/",
           "date": "Thu, 02 Apr 2026 07:27:32 +0000",
@@ -176,12 +182,6 @@
           "link": "https://rakkokeyword.com/techo/how-to-start-blog/",
           "date": "Mon, 30 Mar 2026 05:03:26 +0000",
           "summary": "ブログを始めてみたいけれど、「何から手をつければいいかわからない」「自分にはどのサービスが合っているのだろう」と悩んでいませんか？ 結論からお伝えすると、ブログは正しい手順を踏めば、初心者の方でも10分程度で簡単に始める ..."
-        },
-        {
-          "title": "外食先ルーレットツール",
-          "link": "https://rakkokeyword.com/techo/tool-food-roulette/",
-          "date": "Fri, 27 Mar 2026 06:34:06 +0000",
-          "summary": "定番 サクッと ゆっくり がっつり！ ルーレットの選択肢（1行に1つ入力） 回す 直近の結果履歴 まだ履歴はありません 今日の外食は… 周辺のお店を探す(Google Maps) もう一度回す Xでシェア 外食で食べたい ..."
         }
       ],
       "error": null
@@ -250,6 +250,15 @@
       "error": "no_url"
     },
     {
+      "tool": "The Component Gallery",
+      "slug": "component-gallery",
+      "category": "制作・デザイン",
+      "sourceType": "tool",
+      "feedUrl": "",
+      "items": [],
+      "error": "no_url"
+    },
+    {
       "tool": "Figma",
       "slug": "figma",
       "category": "制作・デザイン",
@@ -261,6 +270,15 @@
     {
       "tool": "Canva",
       "slug": "canva",
+      "category": "制作・デザイン",
+      "sourceType": "tool",
+      "feedUrl": "",
+      "items": [],
+      "error": "no_url"
+    },
+    {
+      "tool": "Paper",
+      "slug": "paper",
       "category": "制作・デザイン",
       "sourceType": "tool",
       "feedUrl": "",
@@ -365,6 +383,13 @@
       "feedUrl": "https://github.blog/feed/",
       "items": [
         {
+          "title": "差分線を高性能にする上り坂",
+          "titleOrig": "The uphill climb of making diff lines performant",
+          "link": "https://github.blog/engineering/architecture-optimization/the-uphill-climb-of-making-diff-lines-performant/",
+          "date": "Fri, 03 Apr 2026 16:00:00 +0000",
+          "summary": "The path to better performance is often found in simplicity. The post The uphill climb of making diff lines performant appeared first on The GitHub Blog."
+        },
+        {
           "title": "GitHub全体のオープンソースサプライチェーンの保護",
           "titleOrig": "Securing the open source supply chain across GitHub",
           "link": "https://github.blog/security/supply-chain-security/securing-the-open-source-supply-chain-across-github/",
@@ -391,13 +416,6 @@
           "link": "https://github.blog/developer-skills/github/github-for-beginners-getting-started-with-github-security/",
           "date": "Mon, 30 Mar 2026 16:00:00 +0000",
           "summary": "Learn how to secure your projects and keep them safe with GitHub Advanced Security. The post GitHub for Beginners: Getting started with GitHub security appeared first on The GitHub Blog."
-        },
-        {
-          "title": "GitHub Actions 2026セキュリティロードマップの概要",
-          "titleOrig": "What’s coming to our GitHub Actions 2026 security roadmap",
-          "link": "https://github.blog/news-insights/product-news/whats-coming-to-our-github-actions-2026-security-roadmap/",
-          "date": "Thu, 26 Mar 2026 16:49:14 +0000",
-          "summary": "A look at GitHub Actions’ 2026 roadmap, outlining how secure defaults, policy controls, and CI/CD observability harden the software supply chain end to end. The post What’s coming to our GitHub Action"
         }
       ],
       "error": null
