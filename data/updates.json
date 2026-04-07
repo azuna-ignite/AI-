@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-04-06T02:40:32.730Z",
+  "fetchedAt": "2026-04-07T02:35:03.412Z",
   "tools": [
     {
       "tool": "ミエルカ（YouTube）",
@@ -9,39 +9,8 @@
       "type": "youtube",
       "handle": "@mieruca-channel",
       "feedUrl": "",
-      "items": [
-        {
-          "title": "AI Overviewsの「もっと見る」でAI モードへ。GoogleがPC検索でも自動遷移をテスト開始｜SEO Weekly Update",
-          "link": "https://www.youtube.com/watch?v=BX0CeyWUIms",
-          "date": "2026-04-05T23:00:18.000Z",
-          "summary": ""
-        },
-        {
-          "title": "Googleサーチコンソールの主要レポートの役割と見方を解説｜検索パフォーマンスからインデックス登録まで",
-          "link": "https://www.youtube.com/watch?v=6Tr7OTFNytQ",
-          "date": "2026-04-01T09:00:00.000Z",
-          "summary": ""
-        },
-        {
-          "title": "2026年3月Googleコアアップデート開始、スパムアプデは異例の早さで完了｜SEO Weekly Update",
-          "link": "https://www.youtube.com/watch?v=AD-Gcdz-9Kg",
-          "date": "2026-03-29T23:00:00.000Z",
-          "summary": ""
-        },
-        {
-          "title": "SEOでやってはいけない施策4選｜今のうちに見直したい考え方",
-          "link": "https://www.youtube.com/watch?v=1M0eDw_uYcQ",
-          "date": "2026-03-25T23:00:02.000Z",
-          "summary": ""
-        },
-        {
-          "title": "被リンクは今でも重要？サイテーションから相互リンクの注意点まで全解説【SEO外部対策】",
-          "link": "https://www.youtube.com/watch?v=tTsZPYvzECc",
-          "date": "2026-03-24T09:01:17.000Z",
-          "summary": ""
-        }
-      ],
-      "error": null
+      "items": [],
+      "error": "Status code 404"
     },
     {
       "tool": "Ahrefs",
@@ -154,6 +123,12 @@
       "feedUrl": "https://rakkokeyword.com/techo/feed/",
       "items": [
         {
+          "title": "【成功例】雑記ブログで初心者が稼ぐコツと特化ブログとの違い",
+          "link": "https://rakkokeyword.com/techo/misc-blog-monetize/",
+          "date": "Mon, 06 Apr 2026 07:51:07 +0000",
+          "summary": "「これからブログを始めたいけれど、特定のジャンルに絞る知識がない」 「雑記ブログは稼げないという声を聞くので、本当に収益化できるのか不安」 ブログを始めるにあたり、このような悩みを抱えている方は多いのではないでしょうか。 ..."
+        },
+        {
           "title": "夜ご飯ルーレットツール",
           "link": "https://rakkokeyword.com/techo/tool-dinner-roulette/",
           "date": "Fri, 03 Apr 2026 07:09:02 +0000",
@@ -176,12 +151,6 @@
           "link": "https://rakkokeyword.com/techo/tool-marathon-pace-calculator/",
           "date": "Wed, 01 Apr 2026 06:37:23 +0000",
           "summary": "1. 目標タイム 時 分 秒 2. 走行距離を選択 フル ハーフ 10km 5km 3000m 1500m 400m kmm 3. ラップ表示単位 kmごとmごと 計算する リセット 必要な平均ペース –‘–“/km 通 ..."
-        },
-        {
-          "title": "【最短10分】ブログの始め方！知識ゼロから最初の1記事を書くまでの全手順",
-          "link": "https://rakkokeyword.com/techo/how-to-start-blog/",
-          "date": "Mon, 30 Mar 2026 05:03:26 +0000",
-          "summary": "ブログを始めてみたいけれど、「何から手をつければいいかわからない」「自分にはどのサービスが合っているのだろう」と悩んでいませんか？ 結論からお伝えすると、ブログは正しい手順を踏めば、初心者の方でも10分程度で簡単に始める ..."
         }
       ],
       "error": null
@@ -383,6 +352,13 @@
       "feedUrl": "https://github.blog/feed/",
       "items": [
         {
+          "title": "GitHub Copilot CLIは、セカンドオピニオンのためにモデルファミリーを組み合わせています",
+          "titleOrig": "GitHub Copilot CLI combines model families for a second opinion",
+          "link": "https://github.blog/ai-and-ml/github-copilot/github-copilot-cli-combines-model-families-for-a-second-opinion/",
+          "date": "Mon, 06 Apr 2026 21:53:49 +0000",
+          "summary": "Discover how Rubber Duck provides a different perspective to GitHub Copilot CLI. The post GitHub Copilot CLI combines model families for a second opinion appeared first on The GitHub Blog."
+        },
+        {
           "title": "差分線を高性能にする上り坂",
           "titleOrig": "The uphill climb of making diff lines performant",
           "link": "https://github.blog/engineering/architecture-optimization/the-uphill-climb-of-making-diff-lines-performant/",
@@ -409,13 +385,6 @@
           "link": "https://github.blog/ai-and-ml/github-copilot/agent-driven-development-in-copilot-applied-science/",
           "date": "Tue, 31 Mar 2026 16:00:00 +0000",
           "summary": "I used coding agents to build agents that automated part of my job. Here's what I learned about working better with coding agents. The post Agent-driven development in Copilot Applied Science appeared"
-        },
-        {
-          "title": "初心者のためのGitHub ： GitHubセキュリティの始め方",
-          "titleOrig": "GitHub for Beginners: Getting started with GitHub security",
-          "link": "https://github.blog/developer-skills/github/github-for-beginners-getting-started-with-github-security/",
-          "date": "Mon, 30 Mar 2026 16:00:00 +0000",
-          "summary": "Learn how to secure your projects and keep them safe with GitHub Advanced Security. The post GitHub for Beginners: Getting started with GitHub security appeared first on The GitHub Blog."
         }
       ],
       "error": null
