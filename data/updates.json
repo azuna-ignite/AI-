@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-04-07T02:35:03.412Z",
+  "fetchedAt": "2026-04-08T02:35:50.986Z",
   "tools": [
     {
       "tool": "ミエルカ（YouTube）",
@@ -60,18 +60,25 @@
       "feedUrl": "https://www.semrush.com/blog/feed/",
       "items": [
         {
+          "title": "エージェント検索： AIエージェントがどのブランドが見つかるかを決定する方法",
+          "titleOrig": "Agentic search: How AI agents will decide which brands get found",
+          "link": "https://www.semrush.com/blog/what-is-agentic-search/",
+          "date": "Tue, 07 Apr 2026 15:17:00 +0000",
+          "summary": "Agentic search is AI that evaluates and acts on behalf of users. Learn how it works and what it means for your brand visibility."
+        },
+        {
+          "title": "ChatGPTトラフィック分析： 17か月間のクリックストリームデータからのインサイト",
+          "titleOrig": "ChatGPT traffic analysis: Insights from 17 months of clickstream data",
+          "link": "https://www.semrush.com/blog/chatgpt-search-insights/",
+          "date": "Tue, 07 Apr 2026 13:28:00 +0000",
+          "summary": "Discover how ChatGPT is reshaping search habits and web traffic patterns. Analysis of clickstream records reveals changing user behaviors and referral trends in AI-driven search."
+        },
+        {
           "title": "AIコンテンツは検索で上位にランクインしていますか？ [アンケート+データ調査]",
           "titleOrig": "Does AI content rank well in search? [Survey + Data study]",
           "link": "https://www.semrush.com/blog/does-ai-content-rank-in-search-data-study/",
           "date": "Wed, 01 Apr 2026 16:09:00 +0000",
           "summary": "Does AI content rank on Google? We analyzed 42,000 blog posts to find out. The answer depends less on whether you used AI — and more on whether your content shows it."
-        },
-        {
-          "title": "2026年に最適な8つのAI SEOツール（直接テスト済み）",
-          "titleOrig": "8 Best AI SEO Tools for 2026 (Tested Firsthand)",
-          "link": "https://www.semrush.com/blog/best-ai-seo-tools/",
-          "date": "Wed, 01 Apr 2026 14:05:00 +0000",
-          "summary": "Discover the top AI SEO tools to track visibility, optimize content, and automate workflows. Real tests, clear picks, and expert tips for 2026."
         },
         {
           "title": "2026年のブランド可視性のための9つの最高のLLMモニタリングツール",
@@ -81,18 +88,11 @@
           "summary": "Discover the 9 best LLM monitoring tools. Compare features, pricing, & capabilities to track your AI presence."
         },
         {
-          "title": "AIコンテンツの最適化：完全ガイド",
-          "titleOrig": "AI content optimization: The complete guide",
-          "link": "https://www.semrush.com/blog/ai-content-optimization/",
-          "date": "Wed, 01 Apr 2026 08:21:00 +0000",
-          "summary": "AI content optimization is the practice of using AI tools to improve content and enhance its performance."
-        },
-        {
-          "title": "AIエージェントとは？ （そして、あなたのブランドの可視性にとってAIエージェントが意味すること）",
-          "titleOrig": "What Is an AI Agent? (And What AI Agents Mean for Your Brand’s Visibility)",
-          "link": "https://www.semrush.com/blog/what-is-an-ai-agent/",
-          "date": "Mon, 30 Mar 2026 20:48:00 +0000",
-          "summary": "AI agents research, evaluate, and act on behalf of users. Learn how they work, why they matter for brand visibility, and how to prepare your digital presence."
+          "title": "2026年に最適な8つのAI SEOツール（直接テスト済み）",
+          "titleOrig": "8 Best AI SEO Tools for 2026 (Tested Firsthand)",
+          "link": "https://www.semrush.com/blog/best-ai-seo-tools/",
+          "date": "Wed, 01 Apr 2026 14:05:00 +0000",
+          "summary": "Discover the top AI SEO tools to track visibility, optimize content, and automate workflows. Real tests, clear picks, and expert tips for 2026."
         }
       ],
       "error": null
@@ -123,6 +123,18 @@
       "feedUrl": "https://rakkokeyword.com/techo/feed/",
       "items": [
         {
+          "title": "【初心者向け】特化ブログで稼ぐ！作り方とサイト設計のコツ",
+          "link": "https://rakkokeyword.com/techo/specialized-blog/",
+          "date": "Wed, 08 Apr 2026 02:10:59 +0000",
+          "summary": "「ブログで収益を得たいけれど、何から始めればいいのかわからない」「いろいろなテーマを書く雑記ブログを運営しているけれど、なかなかアクセス数や収益が伸びない」 ブログを始めたばかりの方や、これから始めようとしている方は、こ ..."
+        },
+        {
+          "title": "kW→kVA変換ツール",
+          "link": "https://rakkokeyword.com/techo/tool-kw-kva-converter/",
+          "date": "Tue, 07 Apr 2026 07:11:21 +0000",
+          "summary": "1. 消費電力を入力 消費電力 (kW) 電子レンジ(0.5kW) エアコン(1.2kW) エコキュート(3kW) 2. 力率を設定 力率: 0.80 ヒーター(1.0) モーター(0.8) 3. 相数を選択 単相 三相 ..."
+        },
+        {
           "title": "【成功例】雑記ブログで初心者が稼ぐコツと特化ブログとの違い",
           "link": "https://rakkokeyword.com/techo/misc-blog-monetize/",
           "date": "Mon, 06 Apr 2026 07:51:07 +0000",
@@ -139,18 +151,6 @@
           "link": "https://rakkokeyword.com/techo/blog-platform-comparison/",
           "date": "Thu, 02 Apr 2026 07:27:32 +0000",
           "summary": "「これからブログを始めたいけれど、種類（プラットフォーム）が多すぎてどこがいいのかわからない」と悩んでいませんか？ ブログサービスにはたくさんの選択肢があり、迷ってなかなか第一歩を踏み出せないという方も多いのではないでし ..."
-        },
-        {
-          "title": "【最短10分】WordPressでブログを始める方法！初心者も失敗しない完全図解",
-          "link": "https://rakkokeyword.com/techo/wordpress-start-guide/",
-          "date": "Thu, 02 Apr 2026 06:20:54 +0000",
-          "summary": "「副業や趣味でブログを始めたいけれど、ITの知識がないから自分にできるか不安……」 「設定が難しそうで、なかなか一歩を踏み出せない」 このような悩みを抱えていませんか？専門的な知識がなくても、最短10分で自分だけのブログ ..."
-        },
-        {
-          "title": "ラップタイム計算ツール",
-          "link": "https://rakkokeyword.com/techo/tool-marathon-pace-calculator/",
-          "date": "Wed, 01 Apr 2026 06:37:23 +0000",
-          "summary": "1. 目標タイム 時 分 秒 2. 走行距離を選択 フル ハーフ 10km 5km 3000m 1500m 400m kmm 3. ラップ表示単位 kmごとmごと 計算する リセット 必要な平均ペース –‘–“/km 通 ..."
         }
       ],
       "error": null
@@ -262,6 +262,13 @@
       "feedUrl": "https://wordpress.org/news/feed/",
       "items": [
         {
+          "title": "WordCamp Asia 2026ライブの視聴方法",
+          "titleOrig": "How to Watch WordCamp Asia 2026 Live",
+          "link": "https://wordpress.org/news/2026/04/watch-wc-asia-2026-live/",
+          "date": "Tue, 07 Apr 2026 13:57:21 +0000",
+          "summary": "WordCamp Asia 2026 will be available to watch live across three days of streaming, making it easy for the global WordPress community to follow along from anywhere. This year’s live streamed programmin"
+        },
+        {
           "title": "WordCamp Asia 2026でのAIからオープンソースへ",
           "titleOrig": "From AI to Open Source at WordCamp Asia 2026",
           "link": "https://wordpress.org/news/2026/04/wcasia-2026-sessions/",
@@ -288,13 +295,6 @@
           "link": "https://wordpress.org/news/2026/03/wordpress-7-0-release-candidate-1/",
           "date": "Tue, 24 Mar 2026 19:32:15 +0000",
           "summary": "The first Release Candidate (“RC1”) for WordPress 7.0 is ready for download and testing! This version of the WordPress software is still under development. Please do not install, run, or test this ver"
-        },
-        {
-          "title": "WordPress 7.0ベータ5",
-          "titleOrig": "WordPress 7.0 Beta 5",
-          "link": "https://wordpress.org/news/2026/03/wordpress-7-0-beta-5/",
-          "date": "Thu, 12 Mar 2026 15:49:14 +0000",
-          "summary": "WordPress 7.0 Beta 5 is ready for download and testing! This version of the WordPress software is still under development. Please do not install, run, or test this version of WordPress on production o"
         }
       ],
       "error": null
