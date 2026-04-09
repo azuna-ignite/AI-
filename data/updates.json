@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-04-08T02:35:50.986Z",
+  "fetchedAt": "2026-04-09T02:31:04.335Z",
   "tools": [
     {
       "tool": "ミエルカ（YouTube）",
@@ -9,8 +9,39 @@
       "type": "youtube",
       "handle": "@mieruca-channel",
       "feedUrl": "",
-      "items": [],
-      "error": "Status code 404"
+      "items": [
+        {
+          "title": "コンテンツSEOの基本を解説｜生成AI時代に重要な一次情報と独自性",
+          "link": "https://www.youtube.com/watch?v=wTNlTA74wF0",
+          "date": "2026-04-07T09:01:22.000Z",
+          "summary": ""
+        },
+        {
+          "title": "AI Overviewsの「もっと見る」でAI モードへ。GoogleがPC検索でも自動遷移をテスト開始｜SEO Weekly Update",
+          "link": "https://www.youtube.com/watch?v=BX0CeyWUIms",
+          "date": "2026-04-05T23:00:18.000Z",
+          "summary": ""
+        },
+        {
+          "title": "Googleサーチコンソールの主要レポートの役割と見方を解説｜検索パフォーマンスからインデックス登録まで",
+          "link": "https://www.youtube.com/watch?v=6Tr7OTFNytQ",
+          "date": "2026-04-01T09:00:00.000Z",
+          "summary": ""
+        },
+        {
+          "title": "2026年3月Googleコアアップデート開始、スパムアプデは異例の早さで完了｜SEO Weekly Update",
+          "link": "https://www.youtube.com/watch?v=AD-Gcdz-9Kg",
+          "date": "2026-03-29T23:00:00.000Z",
+          "summary": ""
+        },
+        {
+          "title": "SEOでやってはいけない施策4選｜今のうちに見直したい考え方",
+          "link": "https://www.youtube.com/watch?v=1M0eDw_uYcQ",
+          "date": "2026-03-25T23:00:02.000Z",
+          "summary": ""
+        }
+      ],
+      "error": null
     },
     {
       "tool": "Ahrefs",
@@ -60,6 +91,20 @@
       "feedUrl": "https://www.semrush.com/blog/feed/",
       "items": [
         {
+          "title": "Googleキーワードプランナーの使い方",
+          "titleOrig": "How to use Google Keyword Planner",
+          "link": "https://www.semrush.com/blog/google-keyword-planner/",
+          "date": "Wed, 08 Apr 2026 13:59:00 +0000",
+          "summary": "Google Keyword Planner is a free tool. Here’s how to use it to find terms for content and ad campaigns."
+        },
+        {
+          "title": "競争力のあるインテリジェンス101 ：それが何であるか、それを収集する方法",
+          "titleOrig": "Competitive intelligence 101: What it is & how to gather it",
+          "link": "https://www.semrush.com/blog/competitive-intelligence/",
+          "date": "Wed, 08 Apr 2026 11:13:00 +0000",
+          "summary": "Learn what competitive intelligence is and how you can gather it and use it to improve your own strategy."
+        },
+        {
           "title": "エージェント検索： AIエージェントがどのブランドが見つかるかを決定する方法",
           "titleOrig": "Agentic search: How AI agents will decide which brands get found",
           "link": "https://www.semrush.com/blog/what-is-agentic-search/",
@@ -79,20 +124,6 @@
           "link": "https://www.semrush.com/blog/does-ai-content-rank-in-search-data-study/",
           "date": "Wed, 01 Apr 2026 16:09:00 +0000",
           "summary": "Does AI content rank on Google? We analyzed 42,000 blog posts to find out. The answer depends less on whether you used AI — and more on whether your content shows it."
-        },
-        {
-          "title": "2026年のブランド可視性のための9つの最高のLLMモニタリングツール",
-          "titleOrig": "The 9 Best LLM Monitoring Tools for Brand Visibility in 2026",
-          "link": "https://www.semrush.com/blog/llm-monitoring-tools/",
-          "date": "Wed, 01 Apr 2026 14:05:00 +0000",
-          "summary": "Discover the 9 best LLM monitoring tools. Compare features, pricing, & capabilities to track your AI presence."
-        },
-        {
-          "title": "2026年に最適な8つのAI SEOツール（直接テスト済み）",
-          "titleOrig": "8 Best AI SEO Tools for 2026 (Tested Firsthand)",
-          "link": "https://www.semrush.com/blog/best-ai-seo-tools/",
-          "date": "Wed, 01 Apr 2026 14:05:00 +0000",
-          "summary": "Discover the top AI SEO tools to track visibility, optimize content, and automate workflows. Real tests, clear picks, and expert tips for 2026."
         }
       ],
       "error": null
@@ -123,6 +154,12 @@
       "feedUrl": "https://rakkokeyword.com/techo/feed/",
       "items": [
         {
+          "title": "kVA→kW変換ツール",
+          "link": "https://rakkokeyword.com/techo/tool-kva-kw-convert/",
+          "date": "Wed, 08 Apr 2026 06:37:47 +0000",
+          "summary": "kW ⇒ kVA kVA ⇒ kW 1. 皮相電力(容量)を入力 容量 (kVA) 5kVA 10kVA 20kVA 2. 力率を設定 力率: 0.80 1.0 (抵抗負荷) 0.8 (標準的) 3. 相数を選択 単相 ..."
+        },
+        {
           "title": "【初心者向け】特化ブログで稼ぐ！作り方とサイト設計のコツ",
           "link": "https://rakkokeyword.com/techo/specialized-blog/",
           "date": "Wed, 08 Apr 2026 02:10:59 +0000",
@@ -132,7 +169,7 @@
           "title": "kW→kVA変換ツール",
           "link": "https://rakkokeyword.com/techo/tool-kw-kva-converter/",
           "date": "Tue, 07 Apr 2026 07:11:21 +0000",
-          "summary": "1. 消費電力を入力 消費電力 (kW) 電子レンジ(0.5kW) エアコン(1.2kW) エコキュート(3kW) 2. 力率を設定 力率: 0.80 ヒーター(1.0) モーター(0.8) 3. 相数を選択 単相 三相 ..."
+          "summary": "kW ⇒ kVA kVA ⇒ kW 1. 消費電力を入力 消費電力 (kW) 電子レンジ(0.5kW) エアコン(1.2kW) エコキュート(3kW) 2. 力率を設定 力率: 0.80 ヒーター(1.0) モーター(0 ..."
         },
         {
           "title": "【成功例】雑記ブログで初心者が稼ぐコツと特化ブログとの違い",
@@ -145,12 +182,6 @@
           "link": "https://rakkokeyword.com/techo/tool-dinner-roulette/",
           "date": "Fri, 03 Apr 2026 07:09:02 +0000",
           "summary": "モード選択 単品 献立まとめて ジャンル絞り込み 和食 洋食 中華 エスニック ダイエット 簡単・時短 カスタム候補追加（任意） 追加 今日のメニュー ??? 主菜 ??? 副菜 ??? 汁物 ??? 回す！ すべてスト ..."
-        },
-        {
-          "title": "【2026最新】ブログを始めるならどこがいい？目的別に12選を徹底比較！",
-          "link": "https://rakkokeyword.com/techo/blog-platform-comparison/",
-          "date": "Thu, 02 Apr 2026 07:27:32 +0000",
-          "summary": "「これからブログを始めたいけれど、種類（プラットフォーム）が多すぎてどこがいいのかわからない」と悩んでいませんか？ ブログサービスにはたくさんの選択肢があり、迷ってなかなか第一歩を踏み出せないという方も多いのではないでし ..."
         }
       ],
       "error": null
@@ -352,6 +383,20 @@
       "feedUrl": "https://github.blog/feed/",
       "items": [
         {
+          "title": "GitHub可用性レポート： 2026年3月",
+          "titleOrig": "GitHub availability report: March 2026",
+          "link": "https://github.blog/news-insights/company-news/github-availability-report-march-2026/",
+          "date": "Thu, 09 Apr 2026 02:21:17 +0000",
+          "summary": "In March, we experienced four incidents that resulted in degraded performance across GitHub services. The post GitHub availability report: March 2026 appeared first on The GitHub Blog."
+        },
+        {
+          "title": "GitHub Universeが帰ってきました：ステージに上がってください",
+          "titleOrig": "GitHub Universe is back: We want you to take the stage",
+          "link": "https://github.blog/news-insights/company-news/github-universe-is-back-we-want-you-to-take-the-stage/",
+          "date": "Wed, 08 Apr 2026 16:35:46 +0000",
+          "summary": "Get inspired by five of the most memorable, magical, and quirky Universe sessions to date. The post GitHub Universe is back: We want you to take the stage appeared first on The GitHub Blog."
+        },
+        {
           "title": "GitHub Copilot CLIは、セカンドオピニオンのためにモデルファミリーを組み合わせています",
           "titleOrig": "GitHub Copilot CLI combines model families for a second opinion",
           "link": "https://github.blog/ai-and-ml/github-copilot/github-copilot-cli-combines-model-families-for-a-second-opinion/",
@@ -371,20 +416,6 @@
           "link": "https://github.blog/security/supply-chain-security/securing-the-open-source-supply-chain-across-github/",
           "date": "Wed, 01 Apr 2026 19:20:12 +0000",
           "summary": "Recent attacks on open source focus on exfiltrating secrets; here are the prevention steps you can take today, plus a look at the security capabilities GitHub is working on. The post Securing the open"
-        },
-        {
-          "title": "Copilot CLIで/fleetを使用して複数のエージェントを一度に実行する",
-          "titleOrig": "Run multiple agents at once with /fleet in Copilot CLI",
-          "link": "https://github.blog/ai-and-ml/github-copilot/run-multiple-agents-at-once-with-fleet-in-copilot-cli/",
-          "date": "Wed, 01 Apr 2026 15:00:00 +0000",
-          "summary": "/fleet lets Copilot CLI dispatch multiple agents in parallel. Learn how to write prompts that split work across files, declare dependencies, and avoid common pitfalls. The post Run multiple agents at "
-        },
-        {
-          "title": "Copilot応用科学におけるエージェント主導の開発",
-          "titleOrig": "Agent-driven development in Copilot Applied Science",
-          "link": "https://github.blog/ai-and-ml/github-copilot/agent-driven-development-in-copilot-applied-science/",
-          "date": "Tue, 31 Mar 2026 16:00:00 +0000",
-          "summary": "I used coding agents to build agents that automated part of my job. Here's what I learned about working better with coding agents. The post Agent-driven development in Copilot Applied Science appeared"
         }
       ],
       "error": null
