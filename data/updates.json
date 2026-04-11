@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-04-10T02:42:20.665Z",
+  "fetchedAt": "2026-04-11T02:27:16.908Z",
   "tools": [
     {
       "tool": "ミエルカ（YouTube）",
@@ -91,39 +91,39 @@
       "feedUrl": "https://www.semrush.com/blog/feed/",
       "items": [
         {
-          "title": "Googleキーワードプランナーの使い方",
-          "titleOrig": "How to use Google Keyword Planner",
-          "link": "https://www.semrush.com/blog/google-keyword-planner/",
-          "date": "Wed, 08 Apr 2026 13:59:00 +0000",
-          "summary": "Google Keyword Planner is a free tool. Here’s how to use it to find terms for content and ad campaigns."
+          "title": "2026年に効果的なSEOレポートを作成する方法(+無料テンプレート)",
+          "titleOrig": "How to Create an Effective SEO Report in 2026 (+ Free Template)",
+          "link": "https://www.semrush.com/blog/seo-report/",
+          "date": "Fri, 10 Apr 2026 13:15:00 +0000",
+          "summary": "Learn how to build detailed and actionable SEO reports to share with clients and key stakeholders."
         },
         {
-          "title": "競争力のあるインテリジェンス101 ：それが何であるか、それを収集する方法",
-          "titleOrig": "Competitive intelligence 101: What it is & how to gather it",
-          "link": "https://www.semrush.com/blog/competitive-intelligence/",
-          "date": "Wed, 08 Apr 2026 11:13:00 +0000",
-          "summary": "Learn what competitive intelligence is and how you can gather it and use it to improve your own strategy."
+          "title": "2026年のローカルSEOツールベスト11",
+          "titleOrig": "The 11 Best Local SEO Tools in 2026",
+          "link": "https://www.semrush.com/blog/local-seo-tools/",
+          "date": "Fri, 10 Apr 2026 13:06:00 +0000",
+          "summary": "The 11 best local SEO tools include Google Business Profile, Review Management, and Position Tracking."
         },
         {
-          "title": "エージェント検索： AIエージェントがどのブランドが見つかるかを決定する方法",
-          "titleOrig": "Agentic search: How AI agents will decide which brands get found",
-          "link": "https://www.semrush.com/blog/what-is-agentic-search/",
-          "date": "Tue, 07 Apr 2026 15:17:00 +0000",
-          "summary": "Agentic search is AI that evaluates and acts on behalf of users. Learn how it works and what it means for your brand visibility."
+          "title": "2026年に最適な10のウェブサイトトラフィック分析ツール（機能と価格設定）",
+          "titleOrig": "10 Best Website Traffic Analysis Tools for 2026 (Features & Pricing)",
+          "link": "https://www.semrush.com/blog/website-traffic-analysis-tools/",
+          "date": "Fri, 10 Apr 2026 12:53:00 +0000",
+          "summary": "These paid and free website traffic analysis tools help you learn about site performance and your users."
         },
         {
-          "title": "ChatGPTトラフィック分析： 17か月間のクリックストリームデータからのインサイト",
-          "titleOrig": "ChatGPT traffic analysis: Insights from 17 months of clickstream data",
-          "link": "https://www.semrush.com/blog/chatgpt-search-insights/",
-          "date": "Tue, 07 Apr 2026 13:28:00 +0000",
-          "summary": "Discover how ChatGPT is reshaping search habits and web traffic patterns. Analysis of clickstream records reveals changing user behaviors and referral trends in AI-driven search."
+          "title": "オーガニック検索におけるSEOランキングのガイド",
+          "titleOrig": "Your guide to SEO ranking in organic search",
+          "link": "https://www.semrush.com/blog/seo-ranking/",
+          "date": "Fri, 10 Apr 2026 09:05:00 +0000",
+          "summary": "SEO ranking is a webpage’s organic position for a search engine query. Here‘s what influences it."
         },
         {
-          "title": "AIコンテンツは検索で上位にランクインしていますか？ [アンケート+データ調査]",
-          "titleOrig": "Does AI content rank well in search? [Survey + Data study]",
-          "link": "https://www.semrush.com/blog/does-ai-content-rank-in-search-data-study/",
-          "date": "Wed, 01 Apr 2026 16:09:00 +0000",
-          "summary": "Does AI content rank on Google? We analyzed 42,000 blog posts to find out. The answer depends less on whether you used AI — and more on whether your content shows it."
+          "title": "アウトリーチ、配信、モニタリングのための10の最高のPRツール",
+          "titleOrig": "10 Best PR Tools for Outreach, Distribution & Monitoring",
+          "link": "https://www.semrush.com/blog/best-pr-tools/",
+          "date": "Fri, 10 Apr 2026 08:50:00 +0000",
+          "summary": "The best PR tools include Semrush‘s AI PR Toolkit, PitchFriendly, GlobeNewswire, and Media Monitoring."
         }
       ],
       "error": null
@@ -154,6 +154,12 @@
       "feedUrl": "https://rakkokeyword.com/techo/feed/",
       "items": [
         {
+          "title": "ブログで不労所得を目指す！ほぼ放置で月5万を稼ぐ仕組み化のコツ",
+          "link": "https://rakkokeyword.com/techo/blog-passive-income/",
+          "date": "Fri, 10 Apr 2026 03:27:50 +0000",
+          "summary": "副業に使える時間が限られている方や、将来に備えて自動で稼いでくれる収入源を作りたいと考えている方の中で、「ブログって不労所得になるのかな？」と気になっている方は多いのではないでしょうか。 結論からお伝えすると、ブログは正 ..."
+        },
+        {
           "title": "kVA→kW変換ツール",
           "link": "https://rakkokeyword.com/techo/tool-kva-kw-convert/",
           "date": "Wed, 08 Apr 2026 06:37:47 +0000",
@@ -176,12 +182,6 @@
           "link": "https://rakkokeyword.com/techo/misc-blog-monetize/",
           "date": "Mon, 06 Apr 2026 07:51:07 +0000",
           "summary": "「これからブログを始めたいけれど、特定のジャンルに絞る知識がない」 「雑記ブログは稼げないという声を聞くので、本当に収益化できるのか不安」 ブログを始めるにあたり、このような悩みを抱えている方は多いのではないでしょうか。 ..."
-        },
-        {
-          "title": "夜ご飯ルーレットツール",
-          "link": "https://rakkokeyword.com/techo/tool-dinner-roulette/",
-          "date": "Fri, 03 Apr 2026 07:09:02 +0000",
-          "summary": "モード選択 単品 献立まとめて ジャンル絞り込み 和食 洋食 中華 エスニック ダイエット 簡単・時短 カスタム候補追加（任意） 追加 今日のメニュー ??? 主菜 ??? 副菜 ??? 汁物 ??? 回す！ すべてスト ..."
         }
       ],
       "error": null
@@ -383,6 +383,13 @@
       "feedUrl": "https://github.blog/feed/",
       "items": [
         {
+          "title": "初心者向けGitHub Copilot CLI ： GitHub Copilot CLIの始め方",
+          "titleOrig": "GitHub Copilot CLI for Beginners: Getting started with GitHub Copilot CLI",
+          "link": "https://github.blog/ai-and-ml/github-copilot/github-copilot-cli-for-beginners-getting-started-with-github-copilot-cli/",
+          "date": "Fri, 10 Apr 2026 16:00:00 +0000",
+          "summary": "GitHub for Beginners: Getting started with the GitHub Copilot CLI, a step-by-step tutorial. The post GitHub Copilot CLI for Beginners: Getting started with GitHub Copilot CLI appeared first on The Git"
+        },
+        {
           "title": "GitHub可用性レポート： 2026年3月",
           "titleOrig": "GitHub availability report: March 2026",
           "link": "https://github.blog/news-insights/company-news/github-availability-report-march-2026/",
@@ -409,13 +416,6 @@
           "link": "https://github.blog/engineering/architecture-optimization/the-uphill-climb-of-making-diff-lines-performant/",
           "date": "Fri, 03 Apr 2026 16:00:00 +0000",
           "summary": "The path to better performance is often found in simplicity. The post The uphill climb of making diff lines performant appeared first on The GitHub Blog."
-        },
-        {
-          "title": "GitHub全体のオープンソースサプライチェーンの保護",
-          "titleOrig": "Securing the open source supply chain across GitHub",
-          "link": "https://github.blog/security/supply-chain-security/securing-the-open-source-supply-chain-across-github/",
-          "date": "Wed, 01 Apr 2026 19:20:12 +0000",
-          "summary": "Recent attacks on open source focus on exfiltrating secrets; here are the prevention steps you can take today, plus a look at the security capabilities GitHub is working on. The post Securing the open"
         }
       ],
       "error": null
