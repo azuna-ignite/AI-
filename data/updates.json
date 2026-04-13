@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-04-12T02:45:25.490Z",
+  "fetchedAt": "2026-04-13T02:50:40.684Z",
   "tools": [
     {
       "tool": "ミエルカ（YouTube）",
@@ -10,6 +10,12 @@
       "handle": "@mieruca-channel",
       "feedUrl": "",
       "items": [
+        {
+          "title": "Googleサーチコンソールのインプレッション修正でクリックやCTRはどうなる？｜SEO Weekly Update",
+          "link": "https://www.youtube.com/watch?v=i5CZ4zdUApY",
+          "date": "2026-04-13T02:00:37.000Z",
+          "summary": ""
+        },
         {
           "title": "コンテンツSEOの基本を解説｜生成AI時代に重要な一次情報と独自性",
           "link": "https://www.youtube.com/watch?v=wTNlTA74wF0",
@@ -32,12 +38,6 @@
           "title": "2026年3月Googleコアアップデート開始、スパムアプデは異例の早さで完了｜SEO Weekly Update",
           "link": "https://www.youtube.com/watch?v=AD-Gcdz-9Kg",
           "date": "2026-03-29T23:00:00.000Z",
-          "summary": ""
-        },
-        {
-          "title": "SEOでやってはいけない施策4選｜今のうちに見直したい考え方",
-          "link": "https://www.youtube.com/watch?v=1M0eDw_uYcQ",
-          "date": "2026-03-25T23:00:02.000Z",
           "summary": ""
         }
       ],
