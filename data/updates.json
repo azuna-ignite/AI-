@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-04-13T02:50:40.684Z",
+  "fetchedAt": "2026-04-14T02:43:08.394Z",
   "tools": [
     {
       "tool": "ミエルカ（YouTube）",
@@ -154,6 +154,24 @@
       "feedUrl": "https://rakkokeyword.com/techo/feed/",
       "items": [
         {
+          "title": "日本測地系→世界測地系変換ツール",
+          "link": "https://rakkokeyword.com/techo/tool-tokyo-wgs84/",
+          "date": "Tue, 14 Apr 2026 01:37:06 +0000",
+          "summary": "地図検索 現在地を取得 緯度 (日本測地系) 経度 (日本測地系) 世界測地系に変換する 入力をクリア 変換結果 (世界測地系) 10進法 60進法 (度分秒) – – 緯度・経度をセットでコピー 緯度をコピー 経度をコ ..."
+        },
+        {
+          "title": "世界測地系→日本測地系変換ツール",
+          "link": "https://rakkokeyword.com/techo/tool-wgs84-tokyo/",
+          "date": "Mon, 13 Apr 2026 23:51:43 +0000",
+          "summary": "地図検索 現在地を取得 緯度 (世界測地系) 経度 (世界測地系) 日本測地系に変換する 入力をクリア 変換結果 (日本測地系) 10進法 60進法 (度分秒) – – 緯度・経度をセットでコピー 緯度をコピー 経度をコ ..."
+        },
+        {
+          "title": "【初心者向け】ブログ収益化の仕組みとは？一般人が稼ぐ方法と始め方5ステップ",
+          "link": "https://rakkokeyword.com/techo/blog-monetization-guide/",
+          "date": "Mon, 13 Apr 2026 06:22:44 +0000",
+          "summary": "「ブログで副収入を得たいけれど、何から始めればいいのか全くわからない」 「特別なスキルがない一般人の自分でも、本当にお金を稼ぐことができるのか不安」 「ルールや法律など、始める前に気をつけるべきことがわからない」 このよ ..."
+        },
+        {
           "title": "ブログで不労所得を目指す！ほぼ放置で月5万を稼ぐ仕組み化のコツ",
           "link": "https://rakkokeyword.com/techo/blog-passive-income/",
           "date": "Fri, 10 Apr 2026 03:27:50 +0000",
@@ -164,24 +182,6 @@
           "link": "https://rakkokeyword.com/techo/tool-kva-kw-convert/",
           "date": "Wed, 08 Apr 2026 06:37:47 +0000",
           "summary": "kW ⇒ kVA kVA ⇒ kW 1. 皮相電力(容量)を入力 容量 (kVA) 5kVA 10kVA 20kVA 2. 力率を設定 力率: 0.80 1.0 (抵抗負荷) 0.8 (標準的) 3. 相数を選択 単相 ..."
-        },
-        {
-          "title": "【初心者向け】特化ブログで稼ぐ！作り方とサイト設計のコツ",
-          "link": "https://rakkokeyword.com/techo/specialized-blog/",
-          "date": "Wed, 08 Apr 2026 02:10:59 +0000",
-          "summary": "「ブログで収益を得たいけれど、何から始めればいいのかわからない」「いろいろなテーマを書く雑記ブログを運営しているけれど、なかなかアクセス数や収益が伸びない」 ブログを始めたばかりの方や、これから始めようとしている方は、こ ..."
-        },
-        {
-          "title": "kW→kVA変換ツール",
-          "link": "https://rakkokeyword.com/techo/tool-kw-kva-converter/",
-          "date": "Tue, 07 Apr 2026 07:11:21 +0000",
-          "summary": "kW ⇒ kVA kVA ⇒ kW 1. 消費電力を入力 消費電力 (kW) 電子レンジ(0.5kW) エアコン(1.2kW) エコキュート(3kW) 2. 力率を設定 力率: 0.80 ヒーター(1.0) モーター(0 ..."
-        },
-        {
-          "title": "【成功例】雑記ブログで初心者が稼ぐコツと特化ブログとの違い",
-          "link": "https://rakkokeyword.com/techo/misc-blog-monetize/",
-          "date": "Mon, 06 Apr 2026 07:51:07 +0000",
-          "summary": "「これからブログを始めたいけれど、特定のジャンルに絞る知識がない」 「雑記ブログは稼げないという声を聞くので、本当に収益化できるのか不安」 ブログを始めるにあたり、このような悩みを抱えている方は多いのではないでしょうか。 ..."
         }
       ],
       "error": null
@@ -383,6 +383,13 @@
       "feedUrl": "https://github.blog/feed/",
       "items": [
         {
+          "title": "初心者のためのGitHub ： GitHub Pagesの始め方",
+          "titleOrig": "GitHub for Beginners: Getting started with GitHub Pages",
+          "link": "https://github.blog/developer-skills/github/github-for-beginners-getting-started-with-github-pages/",
+          "date": "Mon, 13 Apr 2026 15:00:00 +0000",
+          "summary": "Learn how to create a free website for any repository on GitHub Pages. The post GitHub for Beginners: Getting started with GitHub Pages appeared first on The GitHub Blog."
+        },
+        {
           "title": "初心者向けGitHub Copilot CLI ： GitHub Copilot CLIの始め方",
           "titleOrig": "GitHub Copilot CLI for Beginners: Getting started with GitHub Copilot CLI",
           "link": "https://github.blog/ai-and-ml/github-copilot/github-copilot-cli-for-beginners-getting-started-with-github-copilot-cli/",
@@ -409,13 +416,6 @@
           "link": "https://github.blog/ai-and-ml/github-copilot/github-copilot-cli-combines-model-families-for-a-second-opinion/",
           "date": "Mon, 06 Apr 2026 21:53:49 +0000",
           "summary": "Discover how Rubber Duck provides a different perspective to GitHub Copilot CLI. The post GitHub Copilot CLI combines model families for a second opinion appeared first on The GitHub Blog."
-        },
-        {
-          "title": "差分線を高性能にする上り坂",
-          "titleOrig": "The uphill climb of making diff lines performant",
-          "link": "https://github.blog/engineering/architecture-optimization/the-uphill-climb-of-making-diff-lines-performant/",
-          "date": "Fri, 03 Apr 2026 16:00:00 +0000",
-          "summary": "The path to better performance is often found in simplicity. The post The uphill climb of making diff lines performant appeared first on The GitHub Blog."
         }
       ],
       "error": null
