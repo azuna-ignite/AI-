@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-04-14T02:43:08.394Z",
+  "fetchedAt": "2026-04-15T02:40:26.257Z",
   "tools": [
     {
       "tool": "ミエルカ（YouTube）",
@@ -9,39 +9,8 @@
       "type": "youtube",
       "handle": "@mieruca-channel",
       "feedUrl": "",
-      "items": [
-        {
-          "title": "Googleサーチコンソールのインプレッション修正でクリックやCTRはどうなる？｜SEO Weekly Update",
-          "link": "https://www.youtube.com/watch?v=i5CZ4zdUApY",
-          "date": "2026-04-13T02:00:37.000Z",
-          "summary": ""
-        },
-        {
-          "title": "コンテンツSEOの基本を解説｜生成AI時代に重要な一次情報と独自性",
-          "link": "https://www.youtube.com/watch?v=wTNlTA74wF0",
-          "date": "2026-04-07T09:01:22.000Z",
-          "summary": ""
-        },
-        {
-          "title": "AI Overviewsの「もっと見る」でAI モードへ。GoogleがPC検索でも自動遷移をテスト開始｜SEO Weekly Update",
-          "link": "https://www.youtube.com/watch?v=BX0CeyWUIms",
-          "date": "2026-04-05T23:00:18.000Z",
-          "summary": ""
-        },
-        {
-          "title": "Googleサーチコンソールの主要レポートの役割と見方を解説｜検索パフォーマンスからインデックス登録まで",
-          "link": "https://www.youtube.com/watch?v=6Tr7OTFNytQ",
-          "date": "2026-04-01T09:00:00.000Z",
-          "summary": ""
-        },
-        {
-          "title": "2026年3月Googleコアアップデート開始、スパムアプデは異例の早さで完了｜SEO Weekly Update",
-          "link": "https://www.youtube.com/watch?v=AD-Gcdz-9Kg",
-          "date": "2026-03-29T23:00:00.000Z",
-          "summary": ""
-        }
-      ],
-      "error": null
+      "items": [],
+      "error": "Status code 404"
     },
     {
       "tool": "Ahrefs",
@@ -91,6 +60,20 @@
       "feedUrl": "https://www.semrush.com/blog/feed/",
       "items": [
         {
+          "title": "2026年にウェブサイトの権限を高める5つの方法",
+          "titleOrig": "5 Ways to Increase Your Website Authority in 2026",
+          "link": "https://www.semrush.com/blog/how-to-build-website-authority/",
+          "date": "Tue, 14 Apr 2026 08:56:00 +0000",
+          "summary": "Increase your website‘s domain authority by building quality backlinks, focusing on the right keywords, etc."
+        },
+        {
+          "title": "SEOのためのローカルキーワードリサーチ：それが何であるか、そしてそれを行う方法",
+          "titleOrig": "Local Keyword Research for SEO: What It Is & How to Do It",
+          "link": "https://www.semrush.com/blog/local-keyword-research/",
+          "date": "Tue, 14 Apr 2026 08:19:00 +0000",
+          "summary": "Learn how to do local keyword research to find high-intent terms and improve visibility in local search and Maps."
+        },
+        {
           "title": "2026年に効果的なSEOレポートを作成する方法(+無料テンプレート)",
           "titleOrig": "How to Create an Effective SEO Report in 2026 (+ Free Template)",
           "link": "https://www.semrush.com/blog/seo-report/",
@@ -110,20 +93,6 @@
           "link": "https://www.semrush.com/blog/website-traffic-analysis-tools/",
           "date": "Fri, 10 Apr 2026 12:53:00 +0000",
           "summary": "These paid and free website traffic analysis tools help you learn about site performance and your users."
-        },
-        {
-          "title": "オーガニック検索におけるSEOランキングのガイド",
-          "titleOrig": "Your guide to SEO ranking in organic search",
-          "link": "https://www.semrush.com/blog/seo-ranking/",
-          "date": "Fri, 10 Apr 2026 09:05:00 +0000",
-          "summary": "SEO ranking is a webpage’s organic position for a search engine query. Here‘s what influences it."
-        },
-        {
-          "title": "アウトリーチ、配信、モニタリングのための10の最高のPRツール",
-          "titleOrig": "10 Best PR Tools for Outreach, Distribution & Monitoring",
-          "link": "https://www.semrush.com/blog/best-pr-tools/",
-          "date": "Fri, 10 Apr 2026 08:50:00 +0000",
-          "summary": "The best PR tools include Semrush‘s AI PR Toolkit, PitchFriendly, GlobeNewswire, and Media Monitoring."
         }
       ],
       "error": null
@@ -157,13 +126,13 @@
           "title": "日本測地系→世界測地系変換ツール",
           "link": "https://rakkokeyword.com/techo/tool-tokyo-wgs84/",
           "date": "Tue, 14 Apr 2026 01:37:06 +0000",
-          "summary": "地図検索 現在地を取得 緯度 (日本測地系) 経度 (日本測地系) 世界測地系に変換する 入力をクリア 変換結果 (世界測地系) 10進法 60進法 (度分秒) – – 緯度・経度をセットでコピー 緯度をコピー 経度をコ ..."
+          "summary": "世界測地系→日本測地系 日本測地系→世界測地系 地図検索 現在地を取得 緯度 (日本測地系) 経度 (日本測地系) 世界測地系に変換する 入力をクリア 変換結果 (世界測地系) 10進法 60進法 (度分秒) – – 緯 ..."
         },
         {
           "title": "世界測地系→日本測地系変換ツール",
           "link": "https://rakkokeyword.com/techo/tool-wgs84-tokyo/",
           "date": "Mon, 13 Apr 2026 23:51:43 +0000",
-          "summary": "地図検索 現在地を取得 緯度 (世界測地系) 経度 (世界測地系) 日本測地系に変換する 入力をクリア 変換結果 (日本測地系) 10進法 60進法 (度分秒) – – 緯度・経度をセットでコピー 緯度をコピー 経度をコ ..."
+          "summary": "世界測地系→日本測地系 日本測地系→世界測地系 地図検索 現在地を取得 緯度 (世界測地系) 経度 (世界測地系) 日本測地系に変換する 入力をクリア 変換結果 (日本測地系) 10進法 60進法 (度分秒) – – 緯 ..."
         },
         {
           "title": "【初心者向け】ブログ収益化の仕組みとは？一般人が稼ぐ方法と始め方5ステップ",
@@ -203,6 +172,20 @@
       "feedUrl": "https://blog.google/technology/ai/rss/",
       "items": [
         {
+          "title": "Chromeで最高のAIプロンプトをワンクリックツールに変換",
+          "titleOrig": "Turn your best AI prompts into one-click tools in Chrome",
+          "link": "https://blog.google/products-and-platforms/products/chrome/skills-in-chrome/",
+          "date": "Tue, 14 Apr 2026 17:00:00 +0000",
+          "summary": "Skills in Chrome let you discover, save and remix AI workflows — and repeat them instantly."
+        },
+        {
+          "title": "経済フォーラムのためのAIで人々を集める",
+          "titleOrig": "Bringing people together at AI for the Economy Forum",
+          "link": "https://blog.google/company-news/outreach-and-initiatives/creating-opportunity/ai-economy-forum/",
+          "date": "Tue, 14 Apr 2026 09:00:00 +0000",
+          "summary": "Google is bringing people together in Washington D.C. at our AI for the Economy Forum."
+        },
+        {
           "title": "Gemini APIでコストと信頼性をバランスさせる新しい方法",
           "titleOrig": "New ways to balance cost and reliability in the Gemini API",
           "link": "https://blog.google/innovation-and-ai/technology/developers-tools/introducing-flex-and-priority-inference/",
@@ -222,20 +205,6 @@
           "link": "https://blog.google/products-and-platforms/products/earth/satellite-imagery-brazilian-deforestation/",
           "date": "Wed, 01 Apr 2026 13:30:00 +0000",
           "summary": "Google partnered with the Brazilian government on a satellite imagery map to help protect the country’s forests."
-        },
-        {
-          "title": "2026年3月に発表した最新のAIニュース",
-          "titleOrig": "The latest AI news we announced in March 2026",
-          "link": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-march-2026/",
-          "date": "Wed, 01 Apr 2026 13:00:00 +0000",
-          "summary": "Here are Google’s latest AI updates from March 2026"
-        },
-        {
-          "title": "当社の最も費用対効果の高いビデオ生成モデルであるVeo 3.1 Liteを使用して構築",
-          "titleOrig": "Build with Veo 3.1 Lite, our most cost-effective video generation model",
-          "link": "https://blog.google/innovation-and-ai/technology/ai/veo-3-1-lite/",
-          "date": "Tue, 31 Mar 2026 16:00:00 +0000",
-          "summary": "Veo 3.1 Lite is now available in paid preview through the Gemini API and for testing in Google AI Studio."
         }
       ],
       "error": null
@@ -383,6 +352,20 @@
       "feedUrl": "https://github.blog/feed/",
       "items": [
         {
+          "title": "AIエージェントをハッキング： GitHub Secure Code GameでエージェントのAIセキュリティスキルを構築する",
+          "titleOrig": "Hack the AI agent: Build agentic AI security skills with the GitHub Secure Code Game",
+          "link": "https://github.blog/security/hack-the-ai-agent-build-agentic-ai-security-skills-with-the-github-secure-code-game/",
+          "date": "Tue, 14 Apr 2026 18:17:59 +0000",
+          "summary": "Learn to find and exploit real-world agentic AI vulnerabilities through five progressive challenges in this free, open source game that over 10,000 developers have already used to sharpen their securi"
+        },
+        {
+          "title": "コードはどの程度公開されていますか？数分で無料でご確認いただけます",
+          "titleOrig": "How exposed is your code? Find out in minutes—for free",
+          "link": "https://github.blog/security/application-security/how-exposed-is-your-code-find-out-in-minutes-for-free/",
+          "date": "Tue, 14 Apr 2026 15:00:00 +0000",
+          "summary": "The new Code Security Risk Assessment gives you a one-click view of vulnerabilities across your organization, at no cost. The post How exposed is your code? Find out in minutes—for free appeared first"
+        },
+        {
           "title": "初心者のためのGitHub ： GitHub Pagesの始め方",
           "titleOrig": "GitHub for Beginners: Getting started with GitHub Pages",
           "link": "https://github.blog/developer-skills/github/github-for-beginners-getting-started-with-github-pages/",
@@ -402,20 +385,6 @@
           "link": "https://github.blog/news-insights/company-news/github-availability-report-march-2026/",
           "date": "Thu, 09 Apr 2026 02:21:17 +0000",
           "summary": "In March, we experienced four incidents that resulted in degraded performance across GitHub services. The post GitHub availability report: March 2026 appeared first on The GitHub Blog."
-        },
-        {
-          "title": "GitHub Universeが帰ってきました：ステージに上がってください",
-          "titleOrig": "GitHub Universe is back: We want you to take the stage",
-          "link": "https://github.blog/news-insights/company-news/github-universe-is-back-we-want-you-to-take-the-stage/",
-          "date": "Wed, 08 Apr 2026 16:35:46 +0000",
-          "summary": "Get inspired by five of the most memorable, magical, and quirky Universe sessions to date. The post GitHub Universe is back: We want you to take the stage appeared first on The GitHub Blog."
-        },
-        {
-          "title": "GitHub Copilot CLIは、セカンドオピニオンのためにモデルファミリーを組み合わせています",
-          "titleOrig": "GitHub Copilot CLI combines model families for a second opinion",
-          "link": "https://github.blog/ai-and-ml/github-copilot/github-copilot-cli-combines-model-families-for-a-second-opinion/",
-          "date": "Mon, 06 Apr 2026 21:53:49 +0000",
-          "summary": "Discover how Rubber Duck provides a different perspective to GitHub Copilot CLI. The post GitHub Copilot CLI combines model families for a second opinion appeared first on The GitHub Blog."
         }
       ],
       "error": null
