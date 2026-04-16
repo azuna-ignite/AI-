@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-04-15T02:40:26.257Z",
+  "fetchedAt": "2026-04-16T02:48:36.492Z",
   "tools": [
     {
       "tool": "ミエルカ（YouTube）",
@@ -60,6 +60,27 @@
       "feedUrl": "https://www.semrush.com/blog/feed/",
       "items": [
         {
+          "title": "2026年にウェブサイト監査を行う方法（+無料トラッカー）",
+          "titleOrig": "How to do a website audit in 2026 (+ free tracker)",
+          "link": "https://www.semrush.com/blog/website-audit/",
+          "date": "Wed, 15 Apr 2026 09:59:00 +0000",
+          "summary": "Learn how to do a website audit that covers your site’s SEO, AI visibility, user experience, and more."
+        },
+        {
+          "title": "Googleナレッジグラフ：それが何であるか、なぜ重要なのか",
+          "titleOrig": "Google Knowledge Graph: What it is & why it matters",
+          "link": "https://www.semrush.com/blog/knowledge-graph/",
+          "date": "Wed, 15 Apr 2026 09:21:00 +0000",
+          "summary": "Google’s Knowledge Graph is an information database with entity details. Here’s how to optimize for it."
+        },
+        {
+          "title": "Google、AIモードで世界中のエージェントによるレストラン予約を開始",
+          "titleOrig": "Google rolls out worldwide agentic restaurant booking via AI Mode",
+          "link": "https://www.semrush.com/blog/ai-mode-agentic-restaurant-booking/",
+          "date": "Wed, 15 Apr 2026 08:59:00 +0000",
+          "summary": "Google made agentic restaurant booking through AI mode globally available. See what it means for you."
+        },
+        {
           "title": "2026年にウェブサイトの権限を高める5つの方法",
           "titleOrig": "5 Ways to Increase Your Website Authority in 2026",
           "link": "https://www.semrush.com/blog/how-to-build-website-authority/",
@@ -72,27 +93,6 @@
           "link": "https://www.semrush.com/blog/local-keyword-research/",
           "date": "Tue, 14 Apr 2026 08:19:00 +0000",
           "summary": "Learn how to do local keyword research to find high-intent terms and improve visibility in local search and Maps."
-        },
-        {
-          "title": "2026年に効果的なSEOレポートを作成する方法(+無料テンプレート)",
-          "titleOrig": "How to Create an Effective SEO Report in 2026 (+ Free Template)",
-          "link": "https://www.semrush.com/blog/seo-report/",
-          "date": "Fri, 10 Apr 2026 13:15:00 +0000",
-          "summary": "Learn how to build detailed and actionable SEO reports to share with clients and key stakeholders."
-        },
-        {
-          "title": "2026年のローカルSEOツールベスト11",
-          "titleOrig": "The 11 Best Local SEO Tools in 2026",
-          "link": "https://www.semrush.com/blog/local-seo-tools/",
-          "date": "Fri, 10 Apr 2026 13:06:00 +0000",
-          "summary": "The 11 best local SEO tools include Google Business Profile, Review Management, and Position Tracking."
-        },
-        {
-          "title": "2026年に最適な10のウェブサイトトラフィック分析ツール（機能と価格設定）",
-          "titleOrig": "10 Best Website Traffic Analysis Tools for 2026 (Features & Pricing)",
-          "link": "https://www.semrush.com/blog/website-traffic-analysis-tools/",
-          "date": "Fri, 10 Apr 2026 12:53:00 +0000",
-          "summary": "These paid and free website traffic analysis tools help you learn about site performance and your users."
         }
       ],
       "error": null
@@ -123,6 +123,12 @@
       "feedUrl": "https://rakkokeyword.com/techo/feed/",
       "items": [
         {
+          "title": "【5分で分かる】検索ボリュームとは？基礎知識・調べ方とSEOで勝つキーワード選定",
+          "link": "https://rakkokeyword.com/techo/keyword-search-volume/",
+          "date": "Wed, 15 Apr 2026 06:40:49 +0000",
+          "summary": "ブログや自社のWebサイトで一生懸命に記事を書いているのに、なかなかアクセスが伸びないと悩んでいませんか？ その原因は、もしかすると「誰も検索していない言葉（キーワード）」で記事を書いているからかもしれません。 SEO対 ..."
+        },
+        {
           "title": "日本測地系→世界測地系変換ツール",
           "link": "https://rakkokeyword.com/techo/tool-tokyo-wgs84/",
           "date": "Tue, 14 Apr 2026 01:37:06 +0000",
@@ -145,12 +151,6 @@
           "link": "https://rakkokeyword.com/techo/blog-passive-income/",
           "date": "Fri, 10 Apr 2026 03:27:50 +0000",
           "summary": "副業に使える時間が限られている方や、将来に備えて自動で稼いでくれる収入源を作りたいと考えている方の中で、「ブログって不労所得になるのかな？」と気になっている方は多いのではないでしょうか。 結論からお伝えすると、ブログは正 ..."
-        },
-        {
-          "title": "kVA→kW変換ツール",
-          "link": "https://rakkokeyword.com/techo/tool-kva-kw-convert/",
-          "date": "Wed, 08 Apr 2026 06:37:47 +0000",
-          "summary": "kW ⇒ kVA kVA ⇒ kW 1. 皮相電力(容量)を入力 容量 (kVA) 5kVA 10kVA 20kVA 2. 力率を設定 力率: 0.80 1.0 (抵抗負荷) 0.8 (標準的) 3. 相数を選択 単相 ..."
         }
       ],
       "error": null
@@ -171,6 +171,13 @@
       "sourceType": "tool",
       "feedUrl": "https://blog.google/technology/ai/rss/",
       "items": [
+        {
+          "title": "Gemini 3.1 Flash TTS ：次世代の表現力豊かなAI音声",
+          "titleOrig": "Gemini 3.1 Flash TTS: the next generation of expressive AI speech",
+          "link": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-1-flash-tts/",
+          "date": "Wed, 15 Apr 2026 15:00:00 +0000",
+          "summary": "Gemini 3.1 Flash TTS is now available across Google products."
+        },
         {
           "title": "Chromeで最高のAIプロンプトをワンクリックツールに変換",
           "titleOrig": "Turn your best AI prompts into one-click tools in Chrome",
@@ -198,13 +205,6 @@
           "link": "https://blog.google/products-and-platforms/products/workspace/google-vids-updates-lyria-veo/",
           "date": "Thu, 02 Apr 2026 16:00:00 +0000",
           "summary": "New AI capabilities are coming to Google Vids, powered by Lyria 3 and Veo 3.1, like high-quality video generation at no cost and more."
-        },
-        {
-          "title": "ブラジルの森林を保護するため、新しい衛星画像マップを作成しています。",
-          "titleOrig": "We’re creating a new satellite imagery map to help protect Brazil’s forests.",
-          "link": "https://blog.google/products-and-platforms/products/earth/satellite-imagery-brazilian-deforestation/",
-          "date": "Wed, 01 Apr 2026 13:30:00 +0000",
-          "summary": "Google partnered with the Brazilian government on a satellite imagery map to help protect the country’s forests."
         }
       ],
       "error": null
@@ -352,6 +352,20 @@
       "feedUrl": "https://github.blog/feed/",
       "items": [
         {
+          "title": "GitHub Copilot CLIを使用して個人の組織コマンドセンターを構築する",
+          "titleOrig": "Build a personal organization command center with GitHub Copilot CLI",
+          "link": "https://github.blog/ai-and-ml/github-copilot/build-a-personal-organization-command-center-with-github-copilot-cli/",
+          "date": "Wed, 15 Apr 2026 17:00:00 +0000",
+          "summary": "Learn about the productivity tool one GitHub engineer built, and how AI supported the development process. The post Build a personal organization command center with GitHub Copilot CLI appeared first "
+        },
+        {
+          "title": "デベロッパーポリシーの更新：仲介責任、著作権、透明性",
+          "titleOrig": "Developer policy update: Intermediary liability, copyright, and transparency",
+          "link": "https://github.blog/news-insights/policy-news-and-insights/developer-policy-update-intermediary-liability-copyright-and-transparency/",
+          "date": "Wed, 15 Apr 2026 15:00:00 +0000",
+          "summary": "We’re sharing recent policy updates that developers should know about, updating our Transparency Center with the full year of 2025 data, and looking to what’s ahead. The post Developer policy update: "
+        },
+        {
           "title": "AIエージェントをハッキング： GitHub Secure Code GameでエージェントのAIセキュリティスキルを構築する",
           "titleOrig": "Hack the AI agent: Build agentic AI security skills with the GitHub Secure Code Game",
           "link": "https://github.blog/security/hack-the-ai-agent-build-agentic-ai-security-skills-with-the-github-secure-code-game/",
@@ -371,20 +385,6 @@
           "link": "https://github.blog/developer-skills/github/github-for-beginners-getting-started-with-github-pages/",
           "date": "Mon, 13 Apr 2026 15:00:00 +0000",
           "summary": "Learn how to create a free website for any repository on GitHub Pages. The post GitHub for Beginners: Getting started with GitHub Pages appeared first on The GitHub Blog."
-        },
-        {
-          "title": "初心者向けGitHub Copilot CLI ： GitHub Copilot CLIの始め方",
-          "titleOrig": "GitHub Copilot CLI for Beginners: Getting started with GitHub Copilot CLI",
-          "link": "https://github.blog/ai-and-ml/github-copilot/github-copilot-cli-for-beginners-getting-started-with-github-copilot-cli/",
-          "date": "Fri, 10 Apr 2026 16:00:00 +0000",
-          "summary": "GitHub for Beginners: Getting started with the GitHub Copilot CLI, a step-by-step tutorial. The post GitHub Copilot CLI for Beginners: Getting started with GitHub Copilot CLI appeared first on The Git"
-        },
-        {
-          "title": "GitHub可用性レポート： 2026年3月",
-          "titleOrig": "GitHub availability report: March 2026",
-          "link": "https://github.blog/news-insights/company-news/github-availability-report-march-2026/",
-          "date": "Thu, 09 Apr 2026 02:21:17 +0000",
-          "summary": "In March, we experienced four incidents that resulted in degraded performance across GitHub services. The post GitHub availability report: March 2026 appeared first on The GitHub Blog."
         }
       ],
       "error": null
