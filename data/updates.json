@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-04-16T02:48:36.492Z",
+  "fetchedAt": "2026-04-17T02:43:43.871Z",
   "tools": [
     {
       "tool": "ミエルカ（YouTube）",
@@ -60,6 +60,20 @@
       "feedUrl": "https://www.semrush.com/blog/feed/",
       "items": [
         {
+          "title": "応答エンジン最適化とは何ですか？そして、どのようにそれを行うか",
+          "titleOrig": "What Is Answer Engine Optimization? And How to Do It",
+          "link": "https://www.semrush.com/blog/answer-engine-optimization/",
+          "date": "Thu, 16 Apr 2026 12:20:00 +0000",
+          "summary": "Answer engine optimization is the process of optimizing your brand to appear in AI-generated answers."
+        },
+        {
+          "title": "ジェネレーティブエンジン最適化：実用的なガイド",
+          "titleOrig": "Generative Engine Optimization: A Practical Guide",
+          "link": "https://www.semrush.com/blog/generative-engine-optimization/",
+          "date": "Thu, 16 Apr 2026 12:11:00 +0000",
+          "summary": "Learn how generative engine optimization helps you appear in AI-powered search results."
+        },
+        {
           "title": "2026年にウェブサイト監査を行う方法（+無料トラッカー）",
           "titleOrig": "How to do a website audit in 2026 (+ free tracker)",
           "link": "https://www.semrush.com/blog/website-audit/",
@@ -79,20 +93,6 @@
           "link": "https://www.semrush.com/blog/ai-mode-agentic-restaurant-booking/",
           "date": "Wed, 15 Apr 2026 08:59:00 +0000",
           "summary": "Google made agentic restaurant booking through AI mode globally available. See what it means for you."
-        },
-        {
-          "title": "2026年にウェブサイトの権限を高める5つの方法",
-          "titleOrig": "5 Ways to Increase Your Website Authority in 2026",
-          "link": "https://www.semrush.com/blog/how-to-build-website-authority/",
-          "date": "Tue, 14 Apr 2026 08:56:00 +0000",
-          "summary": "Increase your website‘s domain authority by building quality backlinks, focusing on the right keywords, etc."
-        },
-        {
-          "title": "SEOのためのローカルキーワードリサーチ：それが何であるか、そしてそれを行う方法",
-          "titleOrig": "Local Keyword Research for SEO: What It Is & How to Do It",
-          "link": "https://www.semrush.com/blog/local-keyword-research/",
-          "date": "Tue, 14 Apr 2026 08:19:00 +0000",
-          "summary": "Learn how to do local keyword research to find high-intent terms and improve visibility in local search and Maps."
         }
       ],
       "error": null
@@ -123,6 +123,12 @@
       "feedUrl": "https://rakkokeyword.com/techo/feed/",
       "items": [
         {
+          "title": "wordpress記事情報出力ツール",
+          "link": "https://rakkokeyword.com/techo/tool-wordpress-export/",
+          "date": "Fri, 17 Apr 2026 01:30:22 +0000",
+          "summary": "WordPress サイトの URL（サブディレクトリ設置対応） 分析開始 停止 準備中… CORS エラーが発生しています。 ブラウザから直接アクセスできません。対象サイトの functions.php またはプラグイ ..."
+        },
+        {
           "title": "【5分で分かる】検索ボリュームとは？基礎知識・調べ方とSEOで勝つキーワード選定",
           "link": "https://rakkokeyword.com/techo/keyword-search-volume/",
           "date": "Wed, 15 Apr 2026 06:40:49 +0000",
@@ -145,12 +151,6 @@
           "link": "https://rakkokeyword.com/techo/blog-monetization-guide/",
           "date": "Mon, 13 Apr 2026 06:22:44 +0000",
           "summary": "「ブログで副収入を得たいけれど、何から始めればいいのか全くわからない」 「特別なスキルがない一般人の自分でも、本当にお金を稼ぐことができるのか不安」 「ルールや法律など、始める前に気をつけるべきことがわからない」 このよ ..."
-        },
-        {
-          "title": "ブログで不労所得を目指す！ほぼ放置で月5万を稼ぐ仕組み化のコツ",
-          "link": "https://rakkokeyword.com/techo/blog-passive-income/",
-          "date": "Fri, 10 Apr 2026 03:27:50 +0000",
-          "summary": "副業に使える時間が限られている方や、将来に備えて自動で稼いでくれる収入源を作りたいと考えている方の中で、「ブログって不労所得になるのかな？」と気になっている方は多いのではないでしょうか。 結論からお伝えすると、ブログは正 ..."
         }
       ],
       "error": null
@@ -172,6 +172,20 @@
       "feedUrl": "https://blog.google/technology/ai/rss/",
       "items": [
         {
+          "title": "ChromeのAIモードでウェブを探索する新しい方法",
+          "titleOrig": "A new way to explore the web with AI Mode in Chrome",
+          "link": "https://blog.google/products-and-platforms/products/search/ai-mode-chrome/",
+          "date": "Thu, 16 Apr 2026 17:00:00 +0000",
+          "summary": "Today’s upgrades for AI Mode in Chrome transform how you interact with the web"
+        },
+        {
+          "title": "Geminiアプリでパーソナライズされた画像を作成する新しい方法",
+          "titleOrig": "New ways to create personalized images in the Gemini app",
+          "link": "https://blog.google/innovation-and-ai/products/gemini-app/personal-intelligence-nano-banana/",
+          "date": "Thu, 16 Apr 2026 16:00:00 +0000",
+          "summary": "Nano Banana 2 now uses your personal context and Google Photos to create images that reflect your unique life."
+        },
+        {
           "title": "Gemini 3.1 Flash TTS ：次世代の表現力豊かなAI音声",
           "titleOrig": "Gemini 3.1 Flash TTS: the next generation of expressive AI speech",
           "link": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-1-flash-tts/",
@@ -191,20 +205,6 @@
           "link": "https://blog.google/company-news/outreach-and-initiatives/creating-opportunity/ai-economy-forum/",
           "date": "Tue, 14 Apr 2026 09:00:00 +0000",
           "summary": "Google is bringing people together in Washington D.C. at our AI for the Economy Forum."
-        },
-        {
-          "title": "Gemini APIでコストと信頼性をバランスさせる新しい方法",
-          "titleOrig": "New ways to balance cost and reliability in the Gemini API",
-          "link": "https://blog.google/innovation-and-ai/technology/developers-tools/introducing-flex-and-priority-inference/",
-          "date": "Thu, 02 Apr 2026 16:00:00 +0000",
-          "summary": "Google is introducing two new inference tiers to the Gemini API, Flex and Priority, to balance cost and latency."
-        },
-        {
-          "title": "Google Vidsで無料で動画を作成、編集、共有",
-          "titleOrig": "Create, edit and share videos at no cost in Google Vids",
-          "link": "https://blog.google/products-and-platforms/products/workspace/google-vids-updates-lyria-veo/",
-          "date": "Thu, 02 Apr 2026 16:00:00 +0000",
-          "summary": "New AI capabilities are coming to Google Vids, powered by Lyria 3 and Veo 3.1, like high-quality video generation at no cost and more."
         }
       ],
       "error": null
@@ -352,6 +352,13 @@
       "feedUrl": "https://github.blog/feed/",
       "items": [
         {
+          "title": "GitHubがeBPFを使用して展開の安全性を向上させる方法",
+          "titleOrig": "How GitHub uses eBPF to improve deployment safety",
+          "link": "https://github.blog/engineering/infrastructure/how-github-uses-ebpf-to-improve-deployment-safety/",
+          "date": "Thu, 16 Apr 2026 16:00:00 +0000",
+          "summary": "Learn how Github uses eBPF to detect and prevent circular dependencies in its deployment tooling. The post How GitHub uses eBPF to improve deployment safety appeared first on The GitHub Blog."
+        },
+        {
           "title": "GitHub Copilot CLIを使用して個人の組織コマンドセンターを構築する",
           "titleOrig": "Build a personal organization command center with GitHub Copilot CLI",
           "link": "https://github.blog/ai-and-ml/github-copilot/build-a-personal-organization-command-center-with-github-copilot-cli/",
@@ -378,13 +385,6 @@
           "link": "https://github.blog/security/application-security/how-exposed-is-your-code-find-out-in-minutes-for-free/",
           "date": "Tue, 14 Apr 2026 15:00:00 +0000",
           "summary": "The new Code Security Risk Assessment gives you a one-click view of vulnerabilities across your organization, at no cost. The post How exposed is your code? Find out in minutes—for free appeared first"
-        },
-        {
-          "title": "初心者のためのGitHub ： GitHub Pagesの始め方",
-          "titleOrig": "GitHub for Beginners: Getting started with GitHub Pages",
-          "link": "https://github.blog/developer-skills/github/github-for-beginners-getting-started-with-github-pages/",
-          "date": "Mon, 13 Apr 2026 15:00:00 +0000",
-          "summary": "Learn how to create a free website for any repository on GitHub Pages. The post GitHub for Beginners: Getting started with GitHub Pages appeared first on The GitHub Blog."
         }
       ],
       "error": null
