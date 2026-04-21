@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-04-20T02:51:45.316Z",
+  "fetchedAt": "2026-04-21T02:44:47.720Z",
   "tools": [
     {
       "tool": "ミエルカ（YouTube）",
@@ -60,6 +60,20 @@
       "feedUrl": "https://www.semrush.com/blog/feed/",
       "items": [
         {
+          "title": "ブランドメンション：トラッキング、測定、最適化の完全ガイド",
+          "titleOrig": "Brand Mentions: Complete Guide to Tracking, Measuring & Optimizing",
+          "link": "https://www.semrush.com/blog/brand-mentions/",
+          "date": "Mon, 20 Apr 2026 15:06:00 +0000",
+          "summary": "Learn why brand mentions matter for SEO and AI SEO, how to get more brand mentions, and how to track them."
+        },
+        {
+          "title": "SEOチェックリスト：ウェブサイトを最適化する43のヒント",
+          "titleOrig": "SEO checklist: 43 tips to optimize your website",
+          "link": "https://www.semrush.com/blog/seo-checklist/",
+          "date": "Mon, 20 Apr 2026 08:35:00 +0000",
+          "summary": "Use this SEO checklist to optimize your site for both Google and AI-driven search results."
+        },
+        {
           "title": "応答エンジン最適化とは何ですか？そして、どのようにそれを行うか",
           "titleOrig": "What Is Answer Engine Optimization? And How to Do It",
           "link": "https://www.semrush.com/blog/answer-engine-optimization/",
@@ -79,20 +93,6 @@
           "link": "https://www.semrush.com/blog/website-audit/",
           "date": "Wed, 15 Apr 2026 09:59:00 +0000",
           "summary": "Learn how to do a website audit that covers your site’s SEO, AI visibility, user experience, and more."
-        },
-        {
-          "title": "Googleナレッジグラフ：それが何であるか、なぜ重要なのか",
-          "titleOrig": "Google Knowledge Graph: What it is & why it matters",
-          "link": "https://www.semrush.com/blog/knowledge-graph/",
-          "date": "Wed, 15 Apr 2026 09:21:00 +0000",
-          "summary": "Google’s Knowledge Graph is an information database with entity details. Here’s how to optimize for it."
-        },
-        {
-          "title": "Google、AIモードで世界中のエージェントによるレストラン予約を開始",
-          "titleOrig": "Google rolls out worldwide agentic restaurant booking via AI Mode",
-          "link": "https://www.semrush.com/blog/ai-mode-agentic-restaurant-booking/",
-          "date": "Wed, 15 Apr 2026 08:59:00 +0000",
-          "summary": "Google made agentic restaurant booking through AI mode globally available. See what it means for you."
         }
       ],
       "error": null
@@ -123,6 +123,12 @@
       "feedUrl": "https://rakkokeyword.com/techo/feed/",
       "items": [
         {
+          "title": "集中線メーカー",
+          "link": "https://rakkokeyword.com/techo/tool-focus-line/",
+          "date": "Mon, 20 Apr 2026 23:58:28 +0000",
+          "summary": "安心設計：画像はお客様の端末内で処理され、サーバーには送信されません 画像をドラッグ＆ドロップ またはクリックして選択 対応形式: JPG, PNG, GIF, WEBP ※キャンバスの何もない部分をドラッグして、集中線 ..."
+        },
+        {
           "title": "【初心者向け】被リンクとは？SEO効果や良質な被リンクの増やし方・確認方法を解説",
           "link": "https://rakkokeyword.com/techo/backlinks-seo-basics/",
           "date": "Fri, 17 Apr 2026 06:02:42 +0000",
@@ -145,12 +151,6 @@
           "link": "https://rakkokeyword.com/techo/tool-tokyo-wgs84/",
           "date": "Tue, 14 Apr 2026 01:37:06 +0000",
           "summary": "世界測地系→日本測地系 日本測地系→世界測地系 地図検索 現在地を取得 緯度 (日本測地系) 経度 (日本測地系) 世界測地系に変換する 入力をクリア 変換結果 (世界測地系) 10進法 60進法 (度分秒) – – 緯 ..."
-        },
-        {
-          "title": "世界測地系→日本測地系変換ツール",
-          "link": "https://rakkokeyword.com/techo/tool-wgs84-tokyo/",
-          "date": "Mon, 13 Apr 2026 23:51:43 +0000",
-          "summary": "世界測地系→日本測地系 日本測地系→世界測地系 地図検索 現在地を取得 緯度 (世界測地系) 経度 (世界測地系) 日本測地系に変換する 入力をクリア 変換結果 (日本測地系) 10進法 60進法 (度分秒) – – 緯 ..."
         }
       ],
       "error": null
@@ -352,6 +352,20 @@
       "feedUrl": "https://github.blog/feed/",
       "items": [
         {
+          "title": "GitHub Copilot個人プランの変更",
+          "titleOrig": "Changes to GitHub Copilot Individual plans",
+          "link": "https://github.blog/news-insights/company-news/changes-to-github-copilot-individual-plans/",
+          "date": "Mon, 20 Apr 2026 18:15:28 +0000",
+          "summary": "We're making these changes to ensure a reliable and predictable experience for existing customers. The post Changes to GitHub Copilot Individual plans appeared first on The GitHub Blog."
+        },
+        {
+          "title": "Git 2.54のハイライト",
+          "titleOrig": "Highlights from Git 2.54",
+          "link": "https://github.blog/open-source/git/highlights-from-git-2-54/",
+          "date": "Mon, 20 Apr 2026 16:43:57 +0000",
+          "summary": "The open source Git project just released Git 2.54. Here is GitHub’s look at some of the most interesting features and changes introduced since last time. The post Highlights from Git 2.54 appeared fi"
+        },
+        {
           "title": "GitHub Copilot CLIを使用した絵文字リストジェネレータの構築",
           "titleOrig": "Building an emoji list generator with the GitHub Copilot CLI",
           "link": "https://github.blog/ai-and-ml/github-copilot/building-an-emoji-list-generator-with-the-github-copilot-cli/",
@@ -371,20 +385,6 @@
           "link": "https://github.blog/engineering/infrastructure/how-github-uses-ebpf-to-improve-deployment-safety/",
           "date": "Thu, 16 Apr 2026 16:00:00 +0000",
           "summary": "Learn how Github uses eBPF to detect and prevent circular dependencies in its deployment tooling. The post How GitHub uses eBPF to improve deployment safety appeared first on The GitHub Blog."
-        },
-        {
-          "title": "GitHub Copilot CLIを使用して個人の組織コマンドセンターを構築する",
-          "titleOrig": "Build a personal organization command center with GitHub Copilot CLI",
-          "link": "https://github.blog/ai-and-ml/github-copilot/build-a-personal-organization-command-center-with-github-copilot-cli/",
-          "date": "Wed, 15 Apr 2026 17:00:00 +0000",
-          "summary": "Learn about the productivity tool one GitHub engineer built, and how AI supported the development process. The post Build a personal organization command center with GitHub Copilot CLI appeared first "
-        },
-        {
-          "title": "デベロッパーポリシーの更新：仲介責任、著作権、透明性",
-          "titleOrig": "Developer policy update: Intermediary liability, copyright, and transparency",
-          "link": "https://github.blog/news-insights/policy-news-and-insights/developer-policy-update-intermediary-liability-copyright-and-transparency/",
-          "date": "Wed, 15 Apr 2026 15:00:00 +0000",
-          "summary": "We’re sharing recent policy updates that developers should know about, updating our Transparency Center with the full year of 2025 data, and looking to what’s ahead. The post Developer policy update: "
         }
       ],
       "error": null
