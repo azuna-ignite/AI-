@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-04-21T02:44:47.720Z",
+  "fetchedAt": "2026-04-22T02:42:47.735Z",
   "tools": [
     {
       "tool": "ミエルカ（YouTube）",
@@ -19,6 +19,12 @@
       "sourceType": "tool",
       "feedUrl": "https://ahrefs.com/blog/ja/feed/",
       "items": [
+        {
+          "title": "人気記事とベスト記事が ChatGPT の引用に与える影響：26,283URL の分析結果",
+          "link": "https://ahrefs.com/blog/ja/best-lists-research-3/",
+          "date": "Tue, 21 Apr 2026 08:39:31 +0000",
+          "summary": "[/intro_text] https://ahrefs.canny.io/ Ahrefs をもっと活用 👉▶︎ Ahrefs 公式ブログ — 本社発信の記事▶︎ Ahrefs Canny — 開発チームへ意見を送る▶︎ X 公式アカウント— 最新情報をリアルタイムで▶︎ YouTube 公式チャンネル— 動画コンテンツをチェック▶︎ Ahrefs note — 日本チーム発信の記事 Ahref"
+        },
         {
           "title": "クエリファンアウトとは？AI 検索の隠れたクエリ技術を解説",
           "link": "https://ahrefs.com/blog/ja/query-fan-out/",
@@ -42,12 +48,6 @@
           "link": "https://ahrefs.com/blog/ja/brand-radar-top-10-cited-domains-2026-update/",
           "date": "Wed, 01 Apr 2026 04:43:32 +0000",
           "summary": "6 ヶ月で大きく動いた AI の情報源：ChatGPT・AI モード・AI による概要・Perplexity・Copilot が引用するドメイン最新ランキング 公開日：2026 年 4 月 1 日 / データ出典：Ahrefs ブランドレーダー（2025 年 12 月〜2026 年 3 月） AI が回答を生成する際、どのサイトを「信頼できる情報源」として引用しているのかご存じですか？ Googl"
-        },
-        {
-          "title": "SEO から LLMO へ、データドリブンで挑む。株式会社プリンシプルが Ahrefs に見出した可能性",
-          "link": "https://ahrefs.com/blog/ja/case-study-principle/",
-          "date": "Fri, 27 Mar 2026 01:52:08 +0000",
-          "summary": "AI 検索時代にいち早く対応するために。LLMO 戦略を支える Ahrefs の価値 SEO コンサルティングの現場で、今まさに大きな地殻変動が起きています。生成 AI が検索行動を塗り替えつつあるなか、データドリブンなアプローチで業界をリードしてきた株式会社プリンシプルは、一足早く LLMO（Large Language Model Optimization）に本格参入しました。その戦略の中核に"
         }
       ],
       "error": null
@@ -123,6 +123,18 @@
       "feedUrl": "https://rakkokeyword.com/techo/feed/",
       "items": [
         {
+          "title": "【最新】YouTubeで収益化は難しい？収益化を達成するコツと収入の目安！",
+          "link": "https://rakkokeyword.com/techo/youtube-monetization-hard/",
+          "date": "Tue, 21 Apr 2026 08:02:27 +0000",
+          "summary": "「本業や家事の合間を縫って、動画を制作しているのに、再生回数や登録者数が一向に伸びない。」「YouTubeの収益化はもう難しいのではないか」このような不安を抱えていませんか？ あなたのチャンネルが伸び悩んでいるのは、「収 ..."
+        },
+        {
+          "title": "まだ間に合う？YouTubeで稼げるジャンル17選！顔出しなし・今からでも勝てる狙い目",
+          "link": "https://rakkokeyword.com/techo/youtube-profitable-genre/",
+          "date": "Tue, 21 Apr 2026 03:51:42 +0000",
+          "summary": "「YouTubeで副業を始めたいけれど、今から始めても遅いのではないか」「稼げるジャンルを知りたいけれど、どれを選べばいいかわからない」 今、このような悩みを持っていませんか？ 結論からお伝えすると、2026年の今からで ..."
+        },
+        {
           "title": "集中線メーカー",
           "link": "https://rakkokeyword.com/techo/tool-focus-line/",
           "date": "Mon, 20 Apr 2026 23:58:28 +0000",
@@ -139,18 +151,6 @@
           "link": "https://rakkokeyword.com/techo/tool-wordpress-export/",
           "date": "Fri, 17 Apr 2026 01:30:22 +0000",
           "summary": "WordPress サイトの URL（サブディレクトリ設置対応） 分析開始 停止 準備中… CORS エラーが発生しています。 ブラウザから直接アクセスできません。対象サイトの functions.php またはプラグイ ..."
-        },
-        {
-          "title": "【5分で分かる】検索ボリュームとは？基礎知識・調べ方とSEOで勝つキーワード選定",
-          "link": "https://rakkokeyword.com/techo/keyword-search-volume/",
-          "date": "Wed, 15 Apr 2026 06:40:49 +0000",
-          "summary": "ブログや自社のWebサイトで一生懸命に記事を書いているのに、なかなかアクセスが伸びないと悩んでいませんか？ その原因は、もしかすると「誰も検索していない言葉（キーワード）」で記事を書いているからかもしれません。 SEO対 ..."
-        },
-        {
-          "title": "日本測地系→世界測地系変換ツール",
-          "link": "https://rakkokeyword.com/techo/tool-tokyo-wgs84/",
-          "date": "Tue, 14 Apr 2026 01:37:06 +0000",
-          "summary": "世界測地系→日本測地系 日本測地系→世界測地系 地図検索 現在地を取得 緯度 (日本測地系) 経度 (日本測地系) 世界測地系に変換する 入力をクリア 変換結果 (世界測地系) 10進法 60進法 (度分秒) – – 緯 ..."
         }
       ],
       "error": null
@@ -171,6 +171,13 @@
       "sourceType": "tool",
       "feedUrl": "https://blog.google/technology/ai/rss/",
       "items": [
+        {
+          "title": "Ads AdvisorがGoogle Adsをより安全で高速にする3つの新しい方法",
+          "titleOrig": "3 new ways Ads Advisor is making Google Ads safer and faster",
+          "link": "https://blog.google/products/ads-commerce/ads-advisor-google-ads/",
+          "date": "Tue, 21 Apr 2026 14:30:00 +0000",
+          "summary": "Three new agentic safety and policy features integrated into Ads Advisor will help protect and streamline your Google Ads account."
+        },
         {
           "title": "Googleの助けを借りて、この夏よりスマートに旅行する7つの方法",
           "titleOrig": "7 ways to travel smarter this summer, with help from Google",
@@ -198,13 +205,6 @@
           "link": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-1-flash-tts/",
           "date": "Wed, 15 Apr 2026 15:00:00 +0000",
           "summary": "Gemini 3.1 Flash TTS is now available across Google products."
-        },
-        {
-          "title": "Chromeで最高のAIプロンプトをワンクリックツールに変換",
-          "titleOrig": "Turn your best AI prompts into one-click tools in Chrome",
-          "link": "https://blog.google/products-and-platforms/products/chrome/skills-in-chrome/",
-          "date": "Tue, 14 Apr 2026 17:00:00 +0000",
-          "summary": "Skills in Chrome let you discover, save and remix AI workflows — and repeat them instantly."
         }
       ],
       "error": null
