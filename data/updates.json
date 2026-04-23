@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-04-22T02:42:47.735Z",
+  "fetchedAt": "2026-04-23T02:46:49.868Z",
   "tools": [
     {
       "tool": "ミエルカ（YouTube）",
@@ -60,39 +60,39 @@
       "feedUrl": "https://www.semrush.com/blog/feed/",
       "items": [
         {
+          "title": "Semrushをキーワードリサーチに使用する方法",
+          "titleOrig": "How to use Semrush for keyword research",
+          "link": "https://www.semrush.com/blog/how-to-use-semrush-keyword-research/",
+          "date": "Wed, 22 Apr 2026 17:34:00 +0000",
+          "summary": "Learn how to use Semrush to find what your audience searches for in Google and AI tools."
+        },
+        {
+          "title": "2026年にも機能する10のリンク構築戦略",
+          "titleOrig": "10 link building strategies that still work in 2026",
+          "link": "https://www.semrush.com/blog/link-building-strategies/",
+          "date": "Wed, 22 Apr 2026 10:19:00 +0000",
+          "summary": "Learn 10 link building strategies that can help you grow your brand’s authority and search visibility."
+        },
+        {
+          "title": "2026年にバックリンクを取得する方法：実際に機能する10の戦術",
+          "titleOrig": "How to Get Backlinks in 2026: 10 Tactics That Actually Work",
+          "link": "https://www.semrush.com/blog/how-to-get-backlinks/",
+          "date": "Wed, 22 Apr 2026 10:02:00 +0000",
+          "summary": "Backlink strategies include finding unlinked brand mentions and fixing broken backlinks. Learn all 10 tactics."
+        },
+        {
+          "title": "20ステップで完全なSEO監査を実行する方法",
+          "titleOrig": "How to Perform a Complete SEO Audit in 20 Steps",
+          "link": "https://www.semrush.com/blog/seo-audit/",
+          "date": "Wed, 22 Apr 2026 09:43:00 +0000",
+          "summary": "Learn how to perform a complete SEO audit for 2026. Follow a step-by-step checklist to improve rankings, fix issues, and boost AI visibility."
+        },
+        {
           "title": "ブランドメンション：トラッキング、測定、最適化の完全ガイド",
           "titleOrig": "Brand Mentions: Complete Guide to Tracking, Measuring & Optimizing",
           "link": "https://www.semrush.com/blog/brand-mentions/",
           "date": "Mon, 20 Apr 2026 15:06:00 +0000",
           "summary": "Learn why brand mentions matter for SEO and AI SEO, how to get more brand mentions, and how to track them."
-        },
-        {
-          "title": "SEOチェックリスト：ウェブサイトを最適化する43のヒント",
-          "titleOrig": "SEO checklist: 43 tips to optimize your website",
-          "link": "https://www.semrush.com/blog/seo-checklist/",
-          "date": "Mon, 20 Apr 2026 08:35:00 +0000",
-          "summary": "Use this SEO checklist to optimize your site for both Google and AI-driven search results."
-        },
-        {
-          "title": "応答エンジン最適化とは何ですか？そして、どのようにそれを行うか",
-          "titleOrig": "What Is Answer Engine Optimization? And How to Do It",
-          "link": "https://www.semrush.com/blog/answer-engine-optimization/",
-          "date": "Thu, 16 Apr 2026 12:20:00 +0000",
-          "summary": "Answer engine optimization is the process of optimizing your brand to appear in AI-generated answers."
-        },
-        {
-          "title": "ジェネレーティブエンジン最適化：実用的なガイド",
-          "titleOrig": "Generative Engine Optimization: A Practical Guide",
-          "link": "https://www.semrush.com/blog/generative-engine-optimization/",
-          "date": "Thu, 16 Apr 2026 12:11:00 +0000",
-          "summary": "Learn how generative engine optimization helps you appear in AI-powered search results."
-        },
-        {
-          "title": "2026年にウェブサイト監査を行う方法（+無料トラッカー）",
-          "titleOrig": "How to do a website audit in 2026 (+ free tracker)",
-          "link": "https://www.semrush.com/blog/website-audit/",
-          "date": "Wed, 15 Apr 2026 09:59:00 +0000",
-          "summary": "Learn how to do a website audit that covers your site’s SEO, AI visibility, user experience, and more."
         }
       ],
       "error": null
@@ -123,6 +123,12 @@
       "feedUrl": "https://rakkokeyword.com/techo/feed/",
       "items": [
         {
+          "title": "相関図メーカー",
+          "link": "https://rakkokeyword.com/techo/tool-correlation-chart/",
+          "date": "Wed, 22 Apr 2026 03:32:54 +0000",
+          "summary": "相関図メーカーへようこそ テンプレートを選んで作成を開始してください 白紙から作る ドラマ・アニメ・漫画 会社組織図 + 人物・組織追加 線でつなぐ (OFF) 線を消す (OFF) 戻る (Undo) 整列 一時保存 ..."
+        },
+        {
           "title": "【最新】YouTubeで収益化は難しい？収益化を達成するコツと収入の目安！",
           "link": "https://rakkokeyword.com/techo/youtube-monetization-hard/",
           "date": "Tue, 21 Apr 2026 08:02:27 +0000",
@@ -145,12 +151,6 @@
           "link": "https://rakkokeyword.com/techo/backlinks-seo-basics/",
           "date": "Fri, 17 Apr 2026 06:02:42 +0000",
           "summary": "自社のWebサイトを運営していて、「記事をたくさん書いているのに、なかなか検索順位が上がらない」と悩んでいませんか？ SEO（検索エンジン最適化）について調べていると、「被リンクが重要だ」という言葉をよく目にすると思いま ..."
-        },
-        {
-          "title": "wordpress記事情報分析ツール",
-          "link": "https://rakkokeyword.com/techo/tool-wordpress-export/",
-          "date": "Fri, 17 Apr 2026 01:30:22 +0000",
-          "summary": "WordPress サイトの URL（サブディレクトリ設置対応） 分析開始 停止 準備中… CORS エラーが発生しています。 ブラウザから直接アクセスできません。対象サイトの functions.php またはプラグイ ..."
         }
       ],
       "error": null
@@ -171,6 +171,13 @@
       "sourceType": "tool",
       "feedUrl": "https://blog.google/technology/ai/rss/",
       "items": [
+        {
+          "title": "エージェント時代のための2つの特別なTPUを発売します。",
+          "titleOrig": "We're launching two specialized TPUs for the agentic era.",
+          "link": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/tpus-8t-8i-cloud-next/",
+          "date": "Wed, 22 Apr 2026 12:00:00 +0000",
+          "summary": "The eighth generation of Google’s TPU includes two specialized chips that will power the future of AI."
+        },
         {
           "title": "Ads AdvisorがGoogle Adsをより安全で高速にする3つの新しい方法",
           "titleOrig": "3 new ways Ads Advisor is making Google Ads safer and faster",
@@ -198,13 +205,6 @@
           "link": "https://blog.google/innovation-and-ai/products/gemini-app/personal-intelligence-nano-banana/",
           "date": "Thu, 16 Apr 2026 16:00:00 +0000",
           "summary": "Nano Banana 2 now uses your personal context and Google Photos to create images that reflect your unique life."
-        },
-        {
-          "title": "Gemini 3.1 Flash TTS ：次世代の表現力豊かなAI音声",
-          "titleOrig": "Gemini 3.1 Flash TTS: the next generation of expressive AI speech",
-          "link": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-1-flash-tts/",
-          "date": "Wed, 15 Apr 2026 15:00:00 +0000",
-          "summary": "Gemini 3.1 Flash TTS is now available across Google products."
         }
       ],
       "error": null
