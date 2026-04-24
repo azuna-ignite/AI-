@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-04-23T02:46:49.868Z",
+  "fetchedAt": "2026-04-24T02:47:11.500Z",
   "tools": [
     {
       "tool": "ミエルカ（YouTube）",
@@ -10,7 +10,7 @@
       "handle": "@mieruca-channel",
       "feedUrl": "",
       "items": [],
-      "error": "Status code 404"
+      "error": "Status code 500"
     },
     {
       "tool": "Ahrefs",
@@ -60,6 +60,27 @@
       "feedUrl": "https://www.semrush.com/blog/feed/",
       "items": [
         {
+          "title": "2026年のSEOのためのGoogleトレンドの使い方",
+          "titleOrig": "How to use Google Trends for SEO in 2026",
+          "link": "https://www.semrush.com/blog/google-trends/",
+          "date": "Thu, 23 Apr 2026 10:16:00 +0000",
+          "summary": "Learn how to use Google Trends for SEO in 2026. Discover trends, compare keywords, and find opportunities to drive more organic traffic."
+        },
+        {
+          "title": "オンページSEOチェックリスト： 2026年の完全なタスクリスト",
+          "titleOrig": "On-page SEO checklist: The complete task list for 2026",
+          "link": "https://www.semrush.com/blog/on-page-seo-checklist/",
+          "date": "Thu, 23 Apr 2026 09:46:00 +0000",
+          "summary": "Follow this 14-step on-page SEO checklist to improve your visibility in traditional and AI search."
+        },
+        {
+          "title": "技術的なSEOとは何ですか？基本とベストプラクティス",
+          "titleOrig": "What is technical SEO? Basics and best practices",
+          "link": "https://www.semrush.com/blog/technical-seo/",
+          "date": "Thu, 23 Apr 2026 09:22:00 +0000",
+          "summary": "Learn what technical SEO is and how to optimize your site for crawling, indexing, and AI visibility with proven best practices."
+        },
+        {
           "title": "Semrushをキーワードリサーチに使用する方法",
           "titleOrig": "How to use Semrush for keyword research",
           "link": "https://www.semrush.com/blog/how-to-use-semrush-keyword-research/",
@@ -72,27 +93,6 @@
           "link": "https://www.semrush.com/blog/link-building-strategies/",
           "date": "Wed, 22 Apr 2026 10:19:00 +0000",
           "summary": "Learn 10 link building strategies that can help you grow your brand’s authority and search visibility."
-        },
-        {
-          "title": "2026年にバックリンクを取得する方法：実際に機能する10の戦術",
-          "titleOrig": "How to Get Backlinks in 2026: 10 Tactics That Actually Work",
-          "link": "https://www.semrush.com/blog/how-to-get-backlinks/",
-          "date": "Wed, 22 Apr 2026 10:02:00 +0000",
-          "summary": "Backlink strategies include finding unlinked brand mentions and fixing broken backlinks. Learn all 10 tactics."
-        },
-        {
-          "title": "20ステップで完全なSEO監査を実行する方法",
-          "titleOrig": "How to Perform a Complete SEO Audit in 20 Steps",
-          "link": "https://www.semrush.com/blog/seo-audit/",
-          "date": "Wed, 22 Apr 2026 09:43:00 +0000",
-          "summary": "Learn how to perform a complete SEO audit for 2026. Follow a step-by-step checklist to improve rankings, fix issues, and boost AI visibility."
-        },
-        {
-          "title": "ブランドメンション：トラッキング、測定、最適化の完全ガイド",
-          "titleOrig": "Brand Mentions: Complete Guide to Tracking, Measuring & Optimizing",
-          "link": "https://www.semrush.com/blog/brand-mentions/",
-          "date": "Mon, 20 Apr 2026 15:06:00 +0000",
-          "summary": "Learn why brand mentions matter for SEO and AI SEO, how to get more brand mentions, and how to track them."
         }
       ],
       "error": null
@@ -123,6 +123,12 @@
       "feedUrl": "https://rakkokeyword.com/techo/feed/",
       "items": [
         {
+          "title": "文字化け変換ツール",
+          "link": "https://rakkokeyword.com/techo/tool-mojibake-decoder/",
+          "date": "Thu, 23 Apr 2026 06:36:45 +0000",
+          "summary": "文字化けさせる 文字化けを復元する 正常なテキストを入力（リアルタイムで変換されます） 文字化けパターンの選択 よくあるバグ文字（UTF-8 を Shift_JIS で解釈）謎の記号・漢字（UTF-8 を EUC-JP ..."
+        },
+        {
           "title": "相関図メーカー",
           "link": "https://rakkokeyword.com/techo/tool-correlation-chart/",
           "date": "Wed, 22 Apr 2026 03:32:54 +0000",
@@ -145,12 +151,6 @@
           "link": "https://rakkokeyword.com/techo/tool-focus-line/",
           "date": "Mon, 20 Apr 2026 23:58:28 +0000",
           "summary": "安心設計：画像はお客様の端末内で処理され、サーバーには送信されません 画像をドラッグ＆ドロップ またはクリックして選択 対応形式: JPG, PNG, GIF, WEBP ※キャンバスの何もない部分をドラッグして、集中線 ..."
-        },
-        {
-          "title": "【初心者向け】被リンクとは？SEO効果や良質な被リンクの増やし方・確認方法を解説",
-          "link": "https://rakkokeyword.com/techo/backlinks-seo-basics/",
-          "date": "Fri, 17 Apr 2026 06:02:42 +0000",
-          "summary": "自社のWebサイトを運営していて、「記事をたくさん書いているのに、なかなか検索順位が上がらない」と悩んでいませんか？ SEO（検索エンジン最適化）について調べていると、「被リンクが重要だ」という言葉をよく目にすると思いま ..."
         }
       ],
       "error": null
@@ -172,6 +172,20 @@
       "feedUrl": "https://blog.google/technology/ai/rss/",
       "items": [
         {
+          "title": "ここでは、TPUがますます要求の厳しいAIワークロードにどのように対応しているかを説明します。",
+          "titleOrig": "Here’s how our TPUs power increasingly demanding AI workloads.",
+          "link": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/what-is-a-tpu/",
+          "date": "Thu, 23 Apr 2026 12:00:00 +0000",
+          "summary": "Learn how Google’s TPUs power increasingly demanding AI workloads with this new video."
+        },
+        {
+          "title": "オーストリアの高度化： Googleはアルプスに最初のデータセンターを投資しています。",
+          "titleOrig": "Elevating Austria: Google invests in its first data center in the Alps.",
+          "link": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/google-data-center-austria/",
+          "date": "Thu, 23 Apr 2026 09:00:00 +0000",
+          "summary": "Google has been a proud part of Austria’s landscape for years, and today, we’re announcing our first data center in Kronstorf, generating 100 direct jobs. This facility …"
+        },
+        {
           "title": "エージェント時代のための2つの特別なTPUを発売します。",
           "titleOrig": "We're launching two specialized TPUs for the agentic era.",
           "link": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/tpus-8t-8i-cloud-next/",
@@ -191,20 +205,6 @@
           "link": "https://blog.google/products-and-platforms/products/search/summer-travel-tips-google-search-ai/",
           "date": "Fri, 17 Apr 2026 14:00:00 +0000",
           "summary": "The latest tools from Google can help you plan trips, find a great deal and explore your next destination."
-        },
-        {
-          "title": "ChromeのAIモードでウェブを探索する新しい方法",
-          "titleOrig": "A new way to explore the web with AI Mode in Chrome",
-          "link": "https://blog.google/products-and-platforms/products/search/ai-mode-chrome/",
-          "date": "Thu, 16 Apr 2026 17:00:00 +0000",
-          "summary": "Today’s upgrades for AI Mode in Chrome transform how you interact with the web"
-        },
-        {
-          "title": "Geminiアプリでパーソナライズされた画像を作成する新しい方法",
-          "titleOrig": "New ways to create personalized images in the Gemini app",
-          "link": "https://blog.google/innovation-and-ai/products/gemini-app/personal-intelligence-nano-banana/",
-          "date": "Thu, 16 Apr 2026 16:00:00 +0000",
-          "summary": "Nano Banana 2 now uses your personal context and Google Photos to create images that reflect your unique life."
         }
       ],
       "error": null
