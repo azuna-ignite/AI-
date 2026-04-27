@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-04-26T02:52:47.803Z",
+  "fetchedAt": "2026-04-27T02:55:39.796Z",
   "tools": [
     {
       "tool": "ミエルカ（YouTube）",
@@ -9,39 +9,8 @@
       "type": "youtube",
       "handle": "@mieruca-channel",
       "feedUrl": "",
-      "items": [
-        {
-          "title": "Googleのマーティン・スプリット氏に聞く｜構造化データ・AI学習ブロック・クロール上限の正解",
-          "link": "https://www.youtube.com/watch?v=ZXgOejjHkaU",
-          "date": "2026-04-23T23:00:48.000Z",
-          "summary": ""
-        },
-        {
-          "title": "GA4×生成AI活用｜データ接続から分析・改善まで実例で徹底解説【2026年版】",
-          "link": "https://www.youtube.com/watch?v=QnMsbHUrE78",
-          "date": "2026-04-22T09:00:43.000Z",
-          "summary": ""
-        },
-        {
-          "title": "あと2か月で適用。Googleが「戻るボタンの乗っ取り」をスパム違反に明確化｜SEO Weekly Update",
-          "link": "https://www.youtube.com/watch?v=zjj_B9aciW8",
-          "date": "2026-04-19T23:00:58.000Z",
-          "summary": ""
-        },
-        {
-          "title": "MEO対策の基本｜Googleビジネスプロフィール・口コミ・店舗集客を解説【ローカルSEO】",
-          "link": "https://www.youtube.com/watch?v=Ts2BdlTDOZE",
-          "date": "2026-04-15T09:00:51.000Z",
-          "summary": ""
-        },
-        {
-          "title": "Googleサーチコンソールのインプレッション修正でクリックやCTRはどうなる？｜SEO Weekly Update",
-          "link": "https://www.youtube.com/watch?v=i5CZ4zdUApY",
-          "date": "2026-04-13T02:00:37.000Z",
-          "summary": ""
-        }
-      ],
-      "error": null
+      "items": [],
+      "error": "Status code 500"
     },
     {
       "tool": "Ahrefs",
