@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-04-27T02:55:39.796Z",
+  "fetchedAt": "2026-04-28T03:24:30.720Z",
   "tools": [
     {
       "tool": "ミエルカ（YouTube）",
@@ -10,7 +10,7 @@
       "handle": "@mieruca-channel",
       "feedUrl": "",
       "items": [],
-      "error": "Status code 500"
+      "error": "Status code 404"
     },
     {
       "tool": "Ahrefs",
@@ -60,6 +60,27 @@
       "feedUrl": "https://www.semrush.com/blog/feed/",
       "items": [
         {
+          "title": "何十億ものウェブ訪問を分析しました： AIがトラフィックチャネルをどのように再形成しているか",
+          "titleOrig": "We analyzed billions of web visits: How AI is reshaping traffic channels",
+          "link": "https://www.semrush.com/blog/traffic-channel-mix-study/",
+          "date": "Mon, 27 Apr 2026 12:03:00 +0000",
+          "summary": "We analyzed billions of visits across 50,000+ sites to understand which traffic channels are growing, which are declining, and how the mix is shifting across industries."
+        },
+        {
+          "title": "SaaS AI検索最適化： 8ステッププレイブック",
+          "titleOrig": "SaaS AI search optimization: The 8-step playbook",
+          "link": "https://www.semrush.com/blog/saas-ai-search-optimization/",
+          "date": "Mon, 27 Apr 2026 09:34:00 +0000",
+          "summary": "Earn citations in ChatGPT, Perplexity, and Google‘s AI Overviews with an 8-step SaaS playbook covering schema, llms.txt, and common pitfalls."
+        },
+        {
+          "title": "AIがサイトの代わりにサードパーティのソースを引用しているのはなぜですか？",
+          "titleOrig": "Why AI Is Citing Third-Party Sources Instead of Your Site?",
+          "link": "https://www.semrush.com/blog/ai-citing-my-site-vs-third-party-sources/",
+          "date": "Mon, 27 Apr 2026 09:11:00 +0000",
+          "summary": "Learn how AI tools like ChatGPT & Perplexity choose and cite sources. Check if your site is in sources and what to do if it’s not."
+        },
+        {
           "title": "AIコンテンツの最適化：完全ガイド",
           "titleOrig": "AI content optimization: The complete guide",
           "link": "https://www.semrush.com/blog/ai-content-optimization/",
@@ -72,27 +93,6 @@
           "link": "https://www.semrush.com/blog/how-to-find-and-manage-google-reviews/",
           "date": "Fri, 24 Apr 2026 13:45:00 +0000",
           "summary": "You can find Google reviews by searching your business on Google or Maps. Follow these steps."
-        },
-        {
-          "title": "Semrushで競合度の低いキーワードを見つける方法",
-          "titleOrig": "How to find low-competition keywords with Semrush",
-          "link": "https://www.semrush.com/blog/how-to-find-low-competition-keywords-with-semrush/",
-          "date": "Fri, 24 Apr 2026 13:03:00 +0000",
-          "summary": "How can you find low-competition keywords to boost your website’s SEO rankings? Find out here."
-        },
-        {
-          "title": "2026年のSEOのためのGoogleトレンドの使い方",
-          "titleOrig": "How to use Google Trends for SEO in 2026",
-          "link": "https://www.semrush.com/blog/google-trends/",
-          "date": "Thu, 23 Apr 2026 10:16:00 +0000",
-          "summary": "Learn how to use Google Trends for SEO in 2026. Discover trends, compare keywords, and find opportunities to drive more organic traffic."
-        },
-        {
-          "title": "オンページSEOチェックリスト： 2026年の完全なタスクリスト",
-          "titleOrig": "On-page SEO checklist: The complete task list for 2026",
-          "link": "https://www.semrush.com/blog/on-page-seo-checklist/",
-          "date": "Thu, 23 Apr 2026 09:46:00 +0000",
-          "summary": "Follow this 14-step on-page SEO checklist to improve your visibility in traditional and AI search."
         }
       ],
       "error": null
@@ -123,6 +123,24 @@
       "feedUrl": "https://rakkokeyword.com/techo/feed/",
       "items": [
         {
+          "title": "正規表現チェッカー",
+          "link": "https://rakkokeyword.com/techo/tool-regex-checker/",
+          "date": "Tue, 28 Apr 2026 00:12:25 +0000",
+          "summary": "パターンと対象文字列を設定 プリセット パターンを上書き パターンの末尾に追加 メールアドレス 電話番号(ハイフンあり) 郵便番号(ハイフンあり) URL 全角カタカナのみ 数字のみ HTMLタグ 正規表現パターン 構文 ..."
+        },
+        {
+          "title": "YouTubeで稼ぐには？収益化の条件・手順と挫折しないための後発でも勝てる戦略",
+          "link": "https://rakkokeyword.com/techo/how-to-make-money-youtube/",
+          "date": "Mon, 27 Apr 2026 04:05:35 +0000",
+          "summary": "「YouTubeで副業を始めてみたいけれど、何から手をつければいいのかわからない」「今から始めても遅いのではないか」 今、このように悩んでいませんか。 結論からお伝えすると、今からYouTubeを始めてもお金を稼ぐことは ..."
+        },
+        {
+          "title": "【完全ガイド】YouTubeチャンネル登録者10万人の収入はいくら？リアルな目安と稼ぐ仕組みを徹底解説",
+          "link": "https://rakkokeyword.com/techo/youtube-subscriber-income/",
+          "date": "Mon, 27 Apr 2026 03:41:46 +0000",
+          "summary": "YouTubeでチャンネル登録者10万人という数字は、銀の盾がもらえる大きな節目です。しかし、チャンネル登録者10万人を達成したYouTuberが実際にどれくらいの収入を得ているのか、具体的な金額を知る機会は少ないのでは ..."
+        },
+        {
           "title": "パーセント計算ツール",
           "link": "https://rakkokeyword.com/techo/tool-percent-calc/",
           "date": "Fri, 24 Apr 2026 05:51:45 +0000",
@@ -133,24 +151,6 @@
           "link": "https://rakkokeyword.com/techo/tool-mojibake-decoder/",
           "date": "Thu, 23 Apr 2026 06:36:45 +0000",
           "summary": "文字化けさせる 文字化けを復元する 正常なテキストを入力（リアルタイムで変換されます） 文字化けパターンの選択 よくあるバグ文字（UTF-8 を Shift_JIS で解釈）謎の記号・漢字（UTF-8 を EUC-JP ..."
-        },
-        {
-          "title": "相関図メーカー",
-          "link": "https://rakkokeyword.com/techo/tool-correlation-chart/",
-          "date": "Wed, 22 Apr 2026 03:32:54 +0000",
-          "summary": "相関図メーカーへようこそ テンプレートを選んで作成を開始してください 白紙から作る ドラマ・アニメ・漫画 会社組織図 + 人物・組織追加 線でつなぐ (OFF) 線を消す (OFF) 戻る (Undo) 整列 一時保存 ..."
-        },
-        {
-          "title": "【最新】YouTubeで収益化は難しい？収益化を達成するコツと収入の目安！",
-          "link": "https://rakkokeyword.com/techo/youtube-monetization-hard/",
-          "date": "Tue, 21 Apr 2026 08:02:27 +0000",
-          "summary": "「本業や家事の合間を縫って、動画を制作しているのに、再生回数や登録者数が一向に伸びない。」「YouTubeの収益化はもう難しいのではないか」このような不安を抱えていませんか？ あなたのチャンネルが伸び悩んでいるのは、「収 ..."
-        },
-        {
-          "title": "まだ間に合う？YouTubeで稼げるジャンル17選！顔出しなし・今からでも勝てる狙い目",
-          "link": "https://rakkokeyword.com/techo/youtube-profitable-genre/",
-          "date": "Tue, 21 Apr 2026 03:51:42 +0000",
-          "summary": "「YouTubeで副業を始めたいけれど、今から始めても遅いのではないか」「稼げるジャンルを知りたいけれど、どれを選べばいいかわからない」 今、このような悩みを持っていませんか？ 結論からお伝えすると、2026年の今からで ..."
         }
       ],
       "error": null
@@ -171,6 +171,13 @@
       "sourceType": "tool",
       "feedUrl": "https://blog.google/technology/ai/rss/",
       "items": [
+        {
+          "title": "GoogleとKaggleの新しいAIエージェントバイブコーディングコースに参加する",
+          "titleOrig": "Join the new AI Agents Vibe Coding Course from Google and Kaggle",
+          "link": "https://blog.google/innovation-and-ai/technology/developers-tools/kaggle-genai-intensive-course-vibe-coding-june-2026/",
+          "date": "Mon, 27 Apr 2026 13:00:00 +0000",
+          "summary": "Google is bringing back its 5-Day AI Agents Intensive Course with Kaggle and registration is open."
+        },
         {
           "title": "お部屋（と生活）を整理するための8つのジェミニのヒント",
           "titleOrig": "8 Gemini tips for organizing your space (and life)",
@@ -198,13 +205,6 @@
           "link": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/tpus-8t-8i-cloud-next/",
           "date": "Wed, 22 Apr 2026 12:00:00 +0000",
           "summary": "The eighth generation of Google’s TPU includes two specialized chips that will power the future of AI."
-        },
-        {
-          "title": "Ads AdvisorがGoogle Adsをより安全で高速にする3つの新しい方法",
-          "titleOrig": "3 new ways Ads Advisor is making Google Ads safer and faster",
-          "link": "https://blog.google/products/ads-commerce/ads-advisor-google-ads/",
-          "date": "Tue, 21 Apr 2026 14:30:00 +0000",
-          "summary": "Three new agentic safety and policy features integrated into Ads Advisor will help protect and streamline your Google Ads account."
         }
       ],
       "error": null
@@ -352,6 +352,13 @@
       "feedUrl": "https://github.blog/feed/",
       "items": [
         {
+          "title": "GitHub Copilotは使用量ベースの請求に移行しています",
+          "titleOrig": "GitHub Copilot is moving to usage-based billing",
+          "link": "https://github.blog/news-insights/company-news/github-copilot-is-moving-to-usage-based-billing/",
+          "date": "Mon, 27 Apr 2026 15:58:22 +0000",
+          "summary": "Starting June 1, your Copilot usage will consume GitHub AI Credits. The post GitHub Copilot is moving to usage-based billing appeared first on The GitHub Blog."
+        },
+        {
           "title": "GitHub Copilot個人プランの変更",
           "titleOrig": "Changes to GitHub Copilot Individual plans",
           "link": "https://github.blog/news-insights/company-news/changes-to-github-copilot-individual-plans/",
@@ -378,13 +385,6 @@
           "link": "https://github.blog/news-insights/company-news/bringing-more-transparency-to-githubs-status-page/",
           "date": "Fri, 17 Apr 2026 16:00:00 +0000",
           "summary": "Changes to the status page will provide more specific data, so you'll have better insight into the overall health of the platform. The post Bringing more transparency to GitHub’s status page appeared "
-        },
-        {
-          "title": "GitHubがeBPFを使用して展開の安全性を向上させる方法",
-          "titleOrig": "How GitHub uses eBPF to improve deployment safety",
-          "link": "https://github.blog/engineering/infrastructure/how-github-uses-ebpf-to-improve-deployment-safety/",
-          "date": "Thu, 16 Apr 2026 16:00:00 +0000",
-          "summary": "Learn how Github uses eBPF to detect and prevent circular dependencies in its deployment tooling. The post How GitHub uses eBPF to improve deployment safety appeared first on The GitHub Blog."
         }
       ],
       "error": null
