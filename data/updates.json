@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-04-28T03:24:30.720Z",
+  "fetchedAt": "2026-04-29T03:22:52.714Z",
   "tools": [
     {
       "tool": "ミエルカ（YouTube）",
@@ -10,7 +10,7 @@
       "handle": "@mieruca-channel",
       "feedUrl": "",
       "items": [],
-      "error": "Status code 404"
+      "error": "Status code 500"
     },
     {
       "tool": "Ahrefs",
@@ -123,6 +123,18 @@
       "feedUrl": "https://rakkokeyword.com/techo/feed/",
       "items": [
         {
+          "title": "【YouTubeネタ切れ】原因と無限に企画が思いつく探し方・鉄板ネタを徹底解説！",
+          "link": "https://rakkokeyword.com/techo/youtube-no-ideas/",
+          "date": "Tue, 28 Apr 2026 06:18:48 +0000",
+          "summary": "「YouTubeの動画企画がまったく思いつかない……」 「このままではチャンネルの更新が止まってしまう……」 1人でパソコンに向かって考えてもアイデアが出ず、焦りや精神的な負担を感じている方も多いのではないでしょうか。 ..."
+        },
+        {
+          "title": "縦書き変換ツール",
+          "link": "https://rakkokeyword.com/techo/tool-tategaki-converter/",
+          "date": "Tue, 28 Apr 2026 03:27:37 +0000",
+          "summary": "1. 変換したい文章を入力 古池や 蛙飛び込む 水の音。 FURUIKE YA KAWAZU TOBIKOMU MIZU NO OTO. 2. プレビュー用フォント 明朝体ゴシック体筆文字 ※フォントはプレビュー用です。 ..."
+        },
+        {
           "title": "正規表現チェッカー",
           "link": "https://rakkokeyword.com/techo/tool-regex-checker/",
           "date": "Tue, 28 Apr 2026 00:12:25 +0000",
@@ -139,18 +151,6 @@
           "link": "https://rakkokeyword.com/techo/youtube-subscriber-income/",
           "date": "Mon, 27 Apr 2026 03:41:46 +0000",
           "summary": "YouTubeでチャンネル登録者10万人という数字は、銀の盾がもらえる大きな節目です。しかし、チャンネル登録者10万人を達成したYouTuberが実際にどれくらいの収入を得ているのか、具体的な金額を知る機会は少ないのでは ..."
-        },
-        {
-          "title": "パーセント計算ツール",
-          "link": "https://rakkokeyword.com/techo/tool-percent-calc/",
-          "date": "Fri, 24 Apr 2026 05:51:45 +0000",
-          "summary": "基準値から指定した割合を求める の % は？ クリア – コピー 計算式を見る 部分が全体の何%かを求める は の何%？ クリア – コピー 計算式を見る 割引（オフ）計算 の % 引きは？ クリア – コピー 計算式を ..."
-        },
-        {
-          "title": "文字化け変換ツール",
-          "link": "https://rakkokeyword.com/techo/tool-mojibake-decoder/",
-          "date": "Thu, 23 Apr 2026 06:36:45 +0000",
-          "summary": "文字化けさせる 文字化けを復元する 正常なテキストを入力（リアルタイムで変換されます） 文字化けパターンの選択 よくあるバグ文字（UTF-8 を Shift_JIS で解釈）謎の記号・漢字（UTF-8 を EUC-JP ..."
         }
       ],
       "error": null
@@ -171,6 +171,13 @@
       "sourceType": "tool",
       "feedUrl": "https://blog.google/technology/ai/rss/",
       "items": [
+        {
+          "title": "Google翻訳の20周年を祝う：おもしろい事実、ヒント、試してみるべき新機能",
+          "titleOrig": "Celebrating 20 years of Google Translate: Fun facts, tips and new features to try",
+          "link": "https://blog.google/products-and-platforms/products/translate/fun-facts-google-translate-20-years/",
+          "date": "Tue, 28 Apr 2026 16:00:00 +0000",
+          "summary": "Google’s sharing 20 fun facts to celebrate Google Translate turning 20, from its roots as a 2006 AI experiment to supporting almost 250 languages today."
+        },
         {
           "title": "GoogleとKaggleの新しいAIエージェントバイブコーディングコースに参加する",
           "titleOrig": "Join the new AI Agents Vibe Coding Course from Google and Kaggle",
@@ -198,13 +205,6 @@
           "link": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/google-data-center-austria/",
           "date": "Thu, 23 Apr 2026 09:00:00 +0000",
           "summary": "Google has been a proud part of Austria’s landscape for years, and today, we’re announcing our first data center in Kronstorf, generating 100 direct jobs. This facility …"
-        },
-        {
-          "title": "エージェント時代のための2つの特別なTPUを発売します。",
-          "titleOrig": "We're launching two specialized TPUs for the agentic era.",
-          "link": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/tpus-8t-8i-cloud-next/",
-          "date": "Wed, 22 Apr 2026 12:00:00 +0000",
-          "summary": "The eighth generation of Google’s TPU includes two specialized chips that will power the future of AI."
         }
       ],
       "error": null
@@ -352,6 +352,27 @@
       "feedUrl": "https://github.blog/feed/",
       "items": [
         {
+          "title": "初心者のためのGitHub ： Markdownの始め方",
+          "titleOrig": "GitHub for Beginners: Getting started with Markdown",
+          "link": "https://github.blog/developer-skills/github/github-for-beginners-getting-started-with-markdown/",
+          "date": "Tue, 28 Apr 2026 18:00:00 +0000",
+          "summary": "Discover how to format and edit your comments and posts using Markdown. The post GitHub for Beginners: Getting started with Markdown appeared first on The GitHub Blog."
+        },
+        {
+          "title": "Gitプッシュパイプラインの保護：重大なリモートコード実行の脆弱性への対応",
+          "titleOrig": "Securing the git push pipeline: Responding to a critical remote code execution vulnerability",
+          "link": "https://github.blog/security/securing-the-git-push-pipeline-responding-to-a-critical-remote-code-execution-vulnerability/",
+          "date": "Tue, 28 Apr 2026 15:30:00 +0000",
+          "summary": "How we validated, fixed, and investigated a critical vulnerability in under two hours, and confirmed no exploitation. The post Securing the git push pipeline: Responding to a critical remote code exec"
+        },
+        {
+          "title": "GitHubの可用性に関する最新情報",
+          "titleOrig": "An update on GitHub availability",
+          "link": "https://github.blog/news-insights/company-news/an-update-on-github-availability/",
+          "date": "Tue, 28 Apr 2026 10:01:37 +0000",
+          "summary": "Here’s what we’ve done—and what we’re still doing—to improve our availability and reliability. The post An update on GitHub availability appeared first on The GitHub Blog."
+        },
+        {
           "title": "GitHub Copilotは使用量ベースの請求に移行しています",
           "titleOrig": "GitHub Copilot is moving to usage-based billing",
           "link": "https://github.blog/news-insights/company-news/github-copilot-is-moving-to-usage-based-billing/",
@@ -364,27 +385,6 @@
           "link": "https://github.blog/news-insights/company-news/changes-to-github-copilot-individual-plans/",
           "date": "Mon, 20 Apr 2026 18:15:28 +0000",
           "summary": "We're making these changes to ensure a reliable and predictable experience for existing customers. The post Changes to GitHub Copilot Individual plans appeared first on The GitHub Blog."
-        },
-        {
-          "title": "Git 2.54のハイライト",
-          "titleOrig": "Highlights from Git 2.54",
-          "link": "https://github.blog/open-source/git/highlights-from-git-2-54/",
-          "date": "Mon, 20 Apr 2026 16:43:57 +0000",
-          "summary": "The open source Git project just released Git 2.54. Here is GitHub’s look at some of the most interesting features and changes introduced since last time. The post Highlights from Git 2.54 appeared fi"
-        },
-        {
-          "title": "GitHub Copilot CLIを使用した絵文字リストジェネレータの構築",
-          "titleOrig": "Building an emoji list generator with the GitHub Copilot CLI",
-          "link": "https://github.blog/ai-and-ml/github-copilot/building-an-emoji-list-generator-with-the-github-copilot-cli/",
-          "date": "Fri, 17 Apr 2026 18:00:00 +0000",
-          "summary": "See how we created an emoji list generator during the Rubber Duck Thursday stream. The post Building an emoji list generator with the GitHub Copilot CLI appeared first on The GitHub Blog."
-        },
-        {
-          "title": "GitHubのステータスページの透明性を高める",
-          "titleOrig": "Bringing more transparency to GitHub’s status page",
-          "link": "https://github.blog/news-insights/company-news/bringing-more-transparency-to-githubs-status-page/",
-          "date": "Fri, 17 Apr 2026 16:00:00 +0000",
-          "summary": "Changes to the status page will provide more specific data, so you'll have better insight into the overall health of the platform. The post Bringing more transparency to GitHub’s status page appeared "
         }
       ],
       "error": null
