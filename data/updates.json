@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-04-29T03:22:52.714Z",
+  "fetchedAt": "2026-04-30T03:24:00.257Z",
   "tools": [
     {
       "tool": "ミエルカ（YouTube）",
@@ -60,39 +60,39 @@
       "feedUrl": "https://www.semrush.com/blog/feed/",
       "items": [
         {
+          "title": "AI検索でブランドの可視性を構築する方法",
+          "titleOrig": "How to build brand visibility in AI search",
+          "link": "https://www.semrush.com/blog/brand-visibility/",
+          "date": "Wed, 29 Apr 2026 10:04:00 +0000",
+          "summary": "Brand visibility is your share of presence across search, AI answers, and community platforms. Here‘s how to measure it and grow it in the AI search era."
+        },
+        {
+          "title": "コンテンツマーケティングファネル：ステージ、テンプレート、指標",
+          "titleOrig": "Content marketing funnel: stages, templates & metrics",
+          "link": "https://www.semrush.com/blog/content-marketing-funnel/",
+          "date": "Wed, 29 Apr 2026 09:42:00 +0000",
+          "summary": "Build a content marketing funnel that attracts, nurtures, and converts. Compare models, get templates, track ROI."
+        },
+        {
+          "title": "Googleでランク付けし、AIに引用されるための11のSEOブログのヒント",
+          "titleOrig": "11 SEO blog tips to rank in Google and get cited by AI",
+          "link": "https://www.semrush.com/blog/blog-seo/",
+          "date": "Wed, 29 Apr 2026 08:51:00 +0000",
+          "summary": "Blog SEO isn‘t just about Google anymore. 11 tips to rank and get cited by ChatGPT, Perplexity, and other AI tools."
+        },
+        {
+          "title": "SEOの間違い：一般的なSEOの問題と修正方法",
+          "titleOrig": "SEO mistakes: Common SEO issues & how to fix them",
+          "link": "https://www.semrush.com/blog/biggest-seo-mistakes/",
+          "date": "Wed, 29 Apr 2026 08:24:00 +0000",
+          "summary": "Common SEO mistakes include duplicate content, slow pages, and more. Learn how to fix each one."
+        },
+        {
           "title": "何十億ものウェブ訪問を分析しました： AIがトラフィックチャネルをどのように再形成しているか",
           "titleOrig": "We analyzed billions of web visits: How AI is reshaping traffic channels",
           "link": "https://www.semrush.com/blog/traffic-channel-mix-study/",
           "date": "Mon, 27 Apr 2026 12:03:00 +0000",
           "summary": "We analyzed billions of visits across 50,000+ sites to understand which traffic channels are growing, which are declining, and how the mix is shifting across industries."
-        },
-        {
-          "title": "SaaS AI検索最適化： 8ステッププレイブック",
-          "titleOrig": "SaaS AI search optimization: The 8-step playbook",
-          "link": "https://www.semrush.com/blog/saas-ai-search-optimization/",
-          "date": "Mon, 27 Apr 2026 09:34:00 +0000",
-          "summary": "Earn citations in ChatGPT, Perplexity, and Google‘s AI Overviews with an 8-step SaaS playbook covering schema, llms.txt, and common pitfalls."
-        },
-        {
-          "title": "AIがサイトの代わりにサードパーティのソースを引用しているのはなぜですか？",
-          "titleOrig": "Why AI Is Citing Third-Party Sources Instead of Your Site?",
-          "link": "https://www.semrush.com/blog/ai-citing-my-site-vs-third-party-sources/",
-          "date": "Mon, 27 Apr 2026 09:11:00 +0000",
-          "summary": "Learn how AI tools like ChatGPT & Perplexity choose and cite sources. Check if your site is in sources and what to do if it’s not."
-        },
-        {
-          "title": "AIコンテンツの最適化：完全ガイド",
-          "titleOrig": "AI content optimization: The complete guide",
-          "link": "https://www.semrush.com/blog/ai-content-optimization/",
-          "date": "Fri, 24 Apr 2026 13:50:00 +0000",
-          "summary": "AI content optimization is the practice of using AI tools to improve content and enhance its performance."
-        },
-        {
-          "title": "Googleレビューを確認して簡単に管理する方法",
-          "titleOrig": "How to See Your Google Reviews and Easily Manage Them",
-          "link": "https://www.semrush.com/blog/how-to-find-and-manage-google-reviews/",
-          "date": "Fri, 24 Apr 2026 13:45:00 +0000",
-          "summary": "You can find Google reviews by searching your business on Google or Maps. Follow these steps."
         }
       ],
       "error": null
@@ -123,6 +123,12 @@
       "feedUrl": "https://rakkokeyword.com/techo/feed/",
       "items": [
         {
+          "title": "アナグラム生成ツール",
+          "link": "https://rakkokeyword.com/techo/tool-anagram-generator/",
+          "date": "Thu, 30 Apr 2026 01:54:11 +0000",
+          "summary": "アナグラム作成条件 文字種の自動変換 そのまま ひらがな カタカナ ローマ字 ネーミング専用フィルター (任意) 前半/後半で区切る (スペース挿入) 発音しにくい文字列を除外する アナグラムを生成する 生成中… ★ お ..."
+        },
+        {
           "title": "【YouTubeネタ切れ】原因と無限に企画が思いつく探し方・鉄板ネタを徹底解説！",
           "link": "https://rakkokeyword.com/techo/youtube-no-ideas/",
           "date": "Tue, 28 Apr 2026 06:18:48 +0000",
@@ -145,12 +151,6 @@
           "link": "https://rakkokeyword.com/techo/how-to-make-money-youtube/",
           "date": "Mon, 27 Apr 2026 04:05:35 +0000",
           "summary": "「YouTubeで副業を始めてみたいけれど、何から手をつければいいのかわからない」「今から始めても遅いのではないか」 今、このように悩んでいませんか。 結論からお伝えすると、今からYouTubeを始めてもお金を稼ぐことは ..."
-        },
-        {
-          "title": "【完全ガイド】YouTubeチャンネル登録者10万人の収入はいくら？リアルな目安と稼ぐ仕組みを徹底解説",
-          "link": "https://rakkokeyword.com/techo/youtube-subscriber-income/",
-          "date": "Mon, 27 Apr 2026 03:41:46 +0000",
-          "summary": "YouTubeでチャンネル登録者10万人という数字は、銀の盾がもらえる大きな節目です。しかし、チャンネル登録者10万人を達成したYouTuberが実際にどれくらいの収入を得ているのか、具体的な金額を知る機会は少ないのでは ..."
         }
       ],
       "error": null
@@ -262,6 +262,13 @@
       "feedUrl": "https://wordpress.org/news/feed/",
       "items": [
         {
+          "title": "WordPress学生クラブが勢いをつける",
+          "titleOrig": "WordPress Student Clubs Build Momentum",
+          "link": "https://wordpress.org/news/2026/04/student-clubs-build-momentum/",
+          "date": "Wed, 29 Apr 2026 13:14:55 +0000",
+          "summary": "WordPress Student Clubs are beginning to take shape as a new way to carry the momentum of WordPress Campus Connect beyond one-time workshops. What starts as an introduction to WordPress and open sourc"
+        },
+        {
           "title": "WordCamp Asia 2026でコミュニティを祝う",
           "titleOrig": "Celebrating Community at WordCamp Asia 2026",
           "link": "https://wordpress.org/news/2026/04/celebrating-wcasia-2026/",
@@ -288,13 +295,6 @@
           "link": "https://wordpress.org/news/2026/03/wordpress-7-0-release-candidate-2/",
           "date": "Thu, 26 Mar 2026 18:37:28 +0000",
           "summary": "The second Release Candidate (“RC2”) for WordPress 7.0 is ready for download and testing! This version of the WordPress software is under development. Please do not install, run, or test this version "
-        },
-        {
-          "title": "WPパッケージはオープンソースが望むように機能しています",
-          "titleOrig": "WP Packages is Working the Way Open Source Should",
-          "link": "https://wordpress.org/news/2026/03/wp-packages/",
-          "date": "Wed, 25 Mar 2026 15:27:24 +0000",
-          "summary": "When WP Engine acquired WPackagist on March 12, the WordPress developer community faced a familiar question: what happens when critical open source infrastructure ends up under corporate control? The "
         }
       ],
       "error": null
