@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-04-30T03:24:00.257Z",
+  "fetchedAt": "2026-05-01T03:33:56.276Z",
   "tools": [
     {
       "tool": "ミエルカ（YouTube）",
@@ -9,8 +9,39 @@
       "type": "youtube",
       "handle": "@mieruca-channel",
       "feedUrl": "",
-      "items": [],
-      "error": "Status code 500"
+      "items": [
+        {
+          "title": "【SEO】コアアップデートはAI検索にどう影響する？｜グレン・ゲイブ氏",
+          "link": "https://www.youtube.com/shorts/W5Dcz5r4MAE",
+          "date": "2026-04-28T09:00:42.000Z",
+          "summary": ""
+        },
+        {
+          "title": "GEO/LLMO対策とは？AI検索時代のSEOとの違い、やること・やらないことを完全解説【2026年版】",
+          "link": "https://www.youtube.com/watch?v=28-uFWvcJfA",
+          "date": "2026-04-28T02:30:01.000Z",
+          "summary": ""
+        },
+        {
+          "title": "Googleのマーティン・スプリット氏に聞く｜構造化データ・AI学習ブロック・クロール上限の正解",
+          "link": "https://www.youtube.com/watch?v=ZXgOejjHkaU",
+          "date": "2026-04-23T23:00:48.000Z",
+          "summary": ""
+        },
+        {
+          "title": "GA4×生成AI活用｜データ接続から分析・改善まで実例で徹底解説【2026年版】",
+          "link": "https://www.youtube.com/watch?v=QnMsbHUrE78",
+          "date": "2026-04-22T09:00:43.000Z",
+          "summary": ""
+        },
+        {
+          "title": "あと2か月で適用。Googleが「戻るボタンの乗っ取り」をスパム違反に明確化｜SEO Weekly Update",
+          "link": "https://www.youtube.com/watch?v=zjj_B9aciW8",
+          "date": "2026-04-19T23:00:58.000Z",
+          "summary": ""
+        }
+      ],
+      "error": null
     },
     {
       "tool": "Ahrefs",
@@ -60,6 +91,20 @@
       "feedUrl": "https://www.semrush.com/blog/feed/",
       "items": [
         {
+          "title": "ニッチなAIの概要を監視するための6つのSemrushツール",
+          "titleOrig": "6 Semrush tools to monitor AI Overviews in your niche",
+          "link": "https://www.semrush.com/blog/semrush-tools-to-monitor-ai-overviews/",
+          "date": "Thu, 30 Apr 2026 13:42:00 +0000",
+          "summary": "Learn how to use six Semrush tools to monitor AI Overviews, track brand citations, benchmark competitors, and improve your visibility across AIOs."
+        },
+        {
+          "title": "クロードコードをSEOアナリストに変える方法（ Semrushデータを使用）",
+          "titleOrig": "How to turn Claude Code into your SEO analyst (with Semrush data)",
+          "link": "https://www.semrush.com/blog/claude-code-seo/",
+          "date": "Thu, 30 Apr 2026 08:53:00 +0000",
+          "summary": "Learn how to use Claude Code with Google Search Console, Analytics, and the Semrush MCP for data analysis, dashboards, and reports."
+        },
+        {
           "title": "AI検索でブランドの可視性を構築する方法",
           "titleOrig": "How to build brand visibility in AI search",
           "link": "https://www.semrush.com/blog/brand-visibility/",
@@ -79,20 +124,6 @@
           "link": "https://www.semrush.com/blog/blog-seo/",
           "date": "Wed, 29 Apr 2026 08:51:00 +0000",
           "summary": "Blog SEO isn‘t just about Google anymore. 11 tips to rank and get cited by ChatGPT, Perplexity, and other AI tools."
-        },
-        {
-          "title": "SEOの間違い：一般的なSEOの問題と修正方法",
-          "titleOrig": "SEO mistakes: Common SEO issues & how to fix them",
-          "link": "https://www.semrush.com/blog/biggest-seo-mistakes/",
-          "date": "Wed, 29 Apr 2026 08:24:00 +0000",
-          "summary": "Common SEO mistakes include duplicate content, slow pages, and more. Learn how to fix each one."
-        },
-        {
-          "title": "何十億ものウェブ訪問を分析しました： AIがトラフィックチャネルをどのように再形成しているか",
-          "titleOrig": "We analyzed billions of web visits: How AI is reshaping traffic channels",
-          "link": "https://www.semrush.com/blog/traffic-channel-mix-study/",
-          "date": "Mon, 27 Apr 2026 12:03:00 +0000",
-          "summary": "We analyzed billions of visits across 50,000+ sites to understand which traffic channels are growing, which are declining, and how the mix is shifting across industries."
         }
       ],
       "error": null
@@ -123,6 +154,18 @@
       "feedUrl": "https://rakkokeyword.com/techo/feed/",
       "items": [
         {
+          "title": "マンカラゲーム",
+          "link": "https://rakkokeyword.com/techo/tool-mancala-game/",
+          "date": "Fri, 01 May 2026 02:28:03 +0000",
+          "summary": "マンカラゲームへようこそ コンピューターの強さ 簡単普通難しい 初期の石の数 3個4個 (標準)5個6個 手番の選択 あなたが先手コンピューターが先手ランダム ゲームを開始する 準備中… ヒント サウンド: ON リセッ ..."
+        },
+        {
+          "title": "【大手の真似はNG】Youtubeのネタ一覧！個人が伸びる企画50選とアイデアの出し方・探し方",
+          "link": "https://rakkokeyword.com/techo/youtube-content-ideas/",
+          "date": "Thu, 30 Apr 2026 07:16:48 +0000",
+          "summary": "「YouTubeの動画投稿を始めたものの、個人レベルでできるネタが思いつかない」という悩みを抱えていませんか。 本記事では、お金や人数をかけなくても、アイデア次第でチャンネルを伸ばすことができる厳選した50個の企画をお伝 ..."
+        },
+        {
           "title": "アナグラム生成ツール",
           "link": "https://rakkokeyword.com/techo/tool-anagram-generator/",
           "date": "Thu, 30 Apr 2026 01:54:11 +0000",
@@ -139,18 +182,6 @@
           "link": "https://rakkokeyword.com/techo/tool-tategaki-converter/",
           "date": "Tue, 28 Apr 2026 03:27:37 +0000",
           "summary": "1. 変換したい文章を入力 古池や 蛙飛び込む 水の音。 FURUIKE YA KAWAZU TOBIKOMU MIZU NO OTO. 2. プレビュー用フォント 明朝体ゴシック体筆文字 ※フォントはプレビュー用です。 ..."
-        },
-        {
-          "title": "正規表現チェッカー",
-          "link": "https://rakkokeyword.com/techo/tool-regex-checker/",
-          "date": "Tue, 28 Apr 2026 00:12:25 +0000",
-          "summary": "パターンと対象文字列を設定 プリセット パターンを上書き パターンの末尾に追加 メールアドレス 電話番号(ハイフンあり) 郵便番号(ハイフンあり) URL 全角カタカナのみ 数字のみ HTMLタグ 正規表現パターン 構文 ..."
-        },
-        {
-          "title": "YouTubeで稼ぐには？収益化の条件・手順と挫折しないための後発でも勝てる戦略",
-          "link": "https://rakkokeyword.com/techo/how-to-make-money-youtube/",
-          "date": "Mon, 27 Apr 2026 04:05:35 +0000",
-          "summary": "「YouTubeで副業を始めてみたいけれど、何から手をつければいいのかわからない」「今から始めても遅いのではないか」 今、このように悩んでいませんか。 結論からお伝えすると、今からYouTubeを始めてもお金を稼ぐことは ..."
         }
       ],
       "error": null
@@ -352,6 +383,13 @@
       "feedUrl": "https://github.blog/feed/",
       "items": [
         {
+          "title": "初心者向けGitHub Copilot CLI ：インタラクティブモードと非インタラクティブモード",
+          "titleOrig": "GitHub Copilot CLI for Beginners: Interactive v. non-interactive mode",
+          "link": "https://github.blog/ai-and-ml/github-copilot/github-copilot-cli-for-beginners-interactive-v-non-interactive-mode/",
+          "date": "Thu, 30 Apr 2026 16:09:02 +0000",
+          "summary": "Learn the difference between CLI interactive v. non-interactive modes. The post GitHub Copilot CLI for Beginners: Interactive v. non-interactive mode appeared first on The GitHub Blog."
+        },
+        {
           "title": "初心者のためのGitHub ： Markdownの始め方",
           "titleOrig": "GitHub for Beginners: Getting started with Markdown",
           "link": "https://github.blog/developer-skills/github/github-for-beginners-getting-started-with-markdown/",
@@ -378,13 +416,6 @@
           "link": "https://github.blog/news-insights/company-news/github-copilot-is-moving-to-usage-based-billing/",
           "date": "Mon, 27 Apr 2026 15:58:22 +0000",
           "summary": "Starting June 1, your Copilot usage will consume GitHub AI Credits. The post GitHub Copilot is moving to usage-based billing appeared first on The GitHub Blog."
-        },
-        {
-          "title": "GitHub Copilot個人プランの変更",
-          "titleOrig": "Changes to GitHub Copilot Individual plans",
-          "link": "https://github.blog/news-insights/company-news/changes-to-github-copilot-individual-plans/",
-          "date": "Mon, 20 Apr 2026 18:15:28 +0000",
-          "summary": "We're making these changes to ensure a reliable and predictable experience for existing customers. The post Changes to GitHub Copilot Individual plans appeared first on The GitHub Blog."
         }
       ],
       "error": null
