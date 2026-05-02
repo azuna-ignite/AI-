@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-05-01T03:33:56.276Z",
+  "fetchedAt": "2026-05-02T02:50:10.437Z",
   "tools": [
     {
       "tool": "ミエルカ（YouTube）",
@@ -9,39 +9,8 @@
       "type": "youtube",
       "handle": "@mieruca-channel",
       "feedUrl": "",
-      "items": [
-        {
-          "title": "【SEO】コアアップデートはAI検索にどう影響する？｜グレン・ゲイブ氏",
-          "link": "https://www.youtube.com/shorts/W5Dcz5r4MAE",
-          "date": "2026-04-28T09:00:42.000Z",
-          "summary": ""
-        },
-        {
-          "title": "GEO/LLMO対策とは？AI検索時代のSEOとの違い、やること・やらないことを完全解説【2026年版】",
-          "link": "https://www.youtube.com/watch?v=28-uFWvcJfA",
-          "date": "2026-04-28T02:30:01.000Z",
-          "summary": ""
-        },
-        {
-          "title": "Googleのマーティン・スプリット氏に聞く｜構造化データ・AI学習ブロック・クロール上限の正解",
-          "link": "https://www.youtube.com/watch?v=ZXgOejjHkaU",
-          "date": "2026-04-23T23:00:48.000Z",
-          "summary": ""
-        },
-        {
-          "title": "GA4×生成AI活用｜データ接続から分析・改善まで実例で徹底解説【2026年版】",
-          "link": "https://www.youtube.com/watch?v=QnMsbHUrE78",
-          "date": "2026-04-22T09:00:43.000Z",
-          "summary": ""
-        },
-        {
-          "title": "あと2か月で適用。Googleが「戻るボタンの乗っ取り」をスパム違反に明確化｜SEO Weekly Update",
-          "link": "https://www.youtube.com/watch?v=zjj_B9aciW8",
-          "date": "2026-04-19T23:00:58.000Z",
-          "summary": ""
-        }
-      ],
-      "error": null
+      "items": [],
+      "error": "Status code 404"
     },
     {
       "tool": "Ahrefs",
@@ -91,11 +60,25 @@
       "feedUrl": "https://www.semrush.com/blog/feed/",
       "items": [
         {
+          "title": "Semrushのキーワードクラスタリングツールを使用して戦略を構築する",
+          "titleOrig": "Use Semrush's keyword clustering tool to build your strategy",
+          "link": "https://www.semrush.com/blog/keyword-manager-clustering-tool/",
+          "date": "Fri, 01 May 2026 16:19:00 +0000",
+          "summary": "Clustering keywords lets you target more than one keyword, which can lead to more traffic. To help you get there faster, use the Keyword Strategy Builder."
+        },
+        {
+          "title": "Semrushでエージェント検索を最適化する方法",
+          "titleOrig": "How to optimize for agentic search with Semrush",
+          "link": "https://www.semrush.com/blog/agentic-search-optimization-with-semrush/",
+          "date": "Fri, 01 May 2026 14:03:00 +0000",
+          "summary": "Learn how to use Semrush tools to prepare your site for agentic search."
+        },
+        {
           "title": "ニッチなAIの概要を監視するための6つのSemrushツール",
           "titleOrig": "6 Semrush tools to monitor AI Overviews in your niche",
           "link": "https://www.semrush.com/blog/semrush-tools-to-monitor-ai-overviews/",
           "date": "Thu, 30 Apr 2026 13:42:00 +0000",
-          "summary": "Learn how to use six Semrush tools to monitor AI Overviews, track brand citations, benchmark competitors, and improve your visibility across AIOs."
+          "summary": "Review the Semrush tools that help you monitor AI Overviews and track your brand visibility in Google‘s AI answers."
         },
         {
           "title": "クロードコードをSEOアナリストに変える方法（ Semrushデータを使用）",
@@ -110,20 +93,6 @@
           "link": "https://www.semrush.com/blog/brand-visibility/",
           "date": "Wed, 29 Apr 2026 10:04:00 +0000",
           "summary": "Brand visibility is your share of presence across search, AI answers, and community platforms. Here‘s how to measure it and grow it in the AI search era."
-        },
-        {
-          "title": "コンテンツマーケティングファネル：ステージ、テンプレート、指標",
-          "titleOrig": "Content marketing funnel: stages, templates & metrics",
-          "link": "https://www.semrush.com/blog/content-marketing-funnel/",
-          "date": "Wed, 29 Apr 2026 09:42:00 +0000",
-          "summary": "Build a content marketing funnel that attracts, nurtures, and converts. Compare models, get templates, track ROI."
-        },
-        {
-          "title": "Googleでランク付けし、AIに引用されるための11のSEOブログのヒント",
-          "titleOrig": "11 SEO blog tips to rank in Google and get cited by AI",
-          "link": "https://www.semrush.com/blog/blog-seo/",
-          "date": "Wed, 29 Apr 2026 08:51:00 +0000",
-          "summary": "Blog SEO isn‘t just about Google anymore. 11 tips to rank and get cited by ChatGPT, Perplexity, and other AI tools."
         }
       ],
       "error": null
@@ -154,6 +123,12 @@
       "feedUrl": "https://rakkokeyword.com/techo/feed/",
       "items": [
         {
+          "title": "インド式計算ツール",
+          "link": "https://rakkokeyword.com/techo/tool-mental-math-multiplication/",
+          "date": "Fri, 01 May 2026 07:41:46 +0000",
+          "summary": "計算する数値 × 計算する リセット ANSWER コピー このツールは、2桁の掛け算を瞬時に計算し、さらに「インド式計算」などの効率的な解き方をステップごとに視覚化して解説する計算・学習支援ツールです。 このツールでで ..."
+        },
+        {
           "title": "マンカラゲーム",
           "link": "https://rakkokeyword.com/techo/tool-mancala-game/",
           "date": "Fri, 01 May 2026 02:28:03 +0000",
@@ -176,12 +151,6 @@
           "link": "https://rakkokeyword.com/techo/youtube-no-ideas/",
           "date": "Tue, 28 Apr 2026 06:18:48 +0000",
           "summary": "「YouTubeの動画企画がまったく思いつかない……」 「このままではチャンネルの更新が止まってしまう……」 1人でパソコンに向かって考えてもアイデアが出ず、焦りや精神的な負担を感じている方も多いのではないでしょうか。 ..."
-        },
-        {
-          "title": "縦書き変換ツール",
-          "link": "https://rakkokeyword.com/techo/tool-tategaki-converter/",
-          "date": "Tue, 28 Apr 2026 03:27:37 +0000",
-          "summary": "1. 変換したい文章を入力 古池や 蛙飛び込む 水の音。 FURUIKE YA KAWAZU TOBIKOMU MIZU NO OTO. 2. プレビュー用フォント 明朝体ゴシック体筆文字 ※フォントはプレビュー用です。 ..."
         }
       ],
       "error": null
