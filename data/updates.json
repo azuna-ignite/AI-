@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-05-02T02:50:10.437Z",
+  "fetchedAt": "2026-05-03T03:25:04.168Z",
   "tools": [
     {
       "tool": "ミエルカ（YouTube）",
@@ -9,8 +9,39 @@
       "type": "youtube",
       "handle": "@mieruca-channel",
       "feedUrl": "",
-      "items": [],
-      "error": "Status code 404"
+      "items": [
+        {
+          "title": "【SEO】コアアップデートはAI検索にどう影響する？｜グレン・ゲイブ氏",
+          "link": "https://www.youtube.com/shorts/W5Dcz5r4MAE",
+          "date": "2026-04-28T09:00:42.000Z",
+          "summary": ""
+        },
+        {
+          "title": "GEO/LLMO対策とは？AI検索時代のSEOとの違い、やること・やらないことを完全解説【2026年版】",
+          "link": "https://www.youtube.com/watch?v=28-uFWvcJfA",
+          "date": "2026-04-28T02:30:01.000Z",
+          "summary": ""
+        },
+        {
+          "title": "Googleのマーティン・スプリット氏に聞く｜構造化データ・AI学習ブロック・クロール上限の正解",
+          "link": "https://www.youtube.com/watch?v=ZXgOejjHkaU",
+          "date": "2026-04-23T23:00:48.000Z",
+          "summary": ""
+        },
+        {
+          "title": "GA4×生成AI活用｜データ接続から分析・改善まで実例で徹底解説【2026年版】",
+          "link": "https://www.youtube.com/watch?v=QnMsbHUrE78",
+          "date": "2026-04-22T09:00:43.000Z",
+          "summary": ""
+        },
+        {
+          "title": "あと2か月で適用。Googleが「戻るボタンの乗っ取り」をスパム違反に明確化｜SEO Weekly Update",
+          "link": "https://www.youtube.com/watch?v=zjj_B9aciW8",
+          "date": "2026-04-19T23:00:58.000Z",
+          "summary": ""
+        }
+      ],
+      "error": null
     },
     {
       "tool": "Ahrefs",
