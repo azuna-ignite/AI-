@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-05-04T03:23:47.827Z",
+  "fetchedAt": "2026-05-05T02:51:38.304Z",
   "tools": [
     {
       "tool": "ミエルカ（YouTube）",
@@ -91,39 +91,39 @@
       "feedUrl": "https://www.semrush.com/blog/feed/",
       "items": [
         {
+          "title": "Googleで最も検索されたもの[2026]",
+          "titleOrig": "The Most Searched Things on Google [2026]",
+          "link": "https://www.semrush.com/blog/most-searched-keywords-google/",
+          "date": "Mon, 04 May 2026 11:13:00 +0000",
+          "summary": "The word “youtube” is the most searched thing on Google. It gets 1.38 billion global searches per month."
+        },
+        {
+          "title": "2026年にウェブサイトコンテンツ監査を行う方法（テンプレート付き）",
+          "titleOrig": "How to do a website content audit in 2026 (with template)",
+          "link": "https://www.semrush.com/blog/content-audit/",
+          "date": "Mon, 04 May 2026 10:27:00 +0000",
+          "summary": "Learn how to perform a thorough content audit with step-by-step instructions. Improve SEO and AI visibility."
+        },
+        {
+          "title": "AI検索でのランク付け方法（ 6か月プレイブック）",
+          "titleOrig": "How to rank in AI search (6-month playbook)",
+          "link": "https://www.semrush.com/blog/how-to-rank-in-ai-search/",
+          "date": "Mon, 04 May 2026 09:47:00 +0000",
+          "summary": "Use our 6-month playbook with a free template to rank in AI search across ChatGPT, Google AI Overviews, Perplexity, and Gemini."
+        },
+        {
+          "title": "フィンテックAI検索のケーススタディ： Wise.comからの4つの教訓",
+          "titleOrig": "Fintech AI search case study: 4 lessons from Wise.com",
+          "link": "https://www.semrush.com/blog/fintech-in-ai-search-how-wise-com-wins-ai-visibility/",
+          "date": "Mon, 04 May 2026 09:19:00 +0000",
+          "summary": "Wise is a market leader when it comes to AI visibility. Here are four factors driving their success."
+        },
+        {
           "title": "Semrushのキーワードクラスタリングツールを使用して戦略を構築する",
           "titleOrig": "Use Semrush's keyword clustering tool to build your strategy",
           "link": "https://www.semrush.com/blog/keyword-manager-clustering-tool/",
           "date": "Fri, 01 May 2026 16:19:00 +0000",
           "summary": "Clustering keywords lets you target more than one keyword, which can lead to more traffic. To help you get there faster, use the Keyword Strategy Builder."
-        },
-        {
-          "title": "Semrushでエージェント検索を最適化する方法",
-          "titleOrig": "How to optimize for agentic search with Semrush",
-          "link": "https://www.semrush.com/blog/agentic-search-optimization-with-semrush/",
-          "date": "Fri, 01 May 2026 14:03:00 +0000",
-          "summary": "Learn how to use Semrush tools to prepare your site for agentic search."
-        },
-        {
-          "title": "ニッチなAIの概要を監視するための6つのSemrushツール",
-          "titleOrig": "6 Semrush tools to monitor AI Overviews in your niche",
-          "link": "https://www.semrush.com/blog/semrush-tools-to-monitor-ai-overviews/",
-          "date": "Thu, 30 Apr 2026 13:42:00 +0000",
-          "summary": "Review the Semrush tools that help you monitor AI Overviews and track your brand visibility in Google‘s AI answers."
-        },
-        {
-          "title": "クロードコードをSEOアナリストに変える方法（ Semrushデータを使用）",
-          "titleOrig": "How to turn Claude Code into your SEO analyst (with Semrush data)",
-          "link": "https://www.semrush.com/blog/claude-code-seo/",
-          "date": "Thu, 30 Apr 2026 08:53:00 +0000",
-          "summary": "Learn how to use Claude Code with Google Search Console, Analytics, and the Semrush MCP for data analysis, dashboards, and reports."
-        },
-        {
-          "title": "AI検索でブランドの可視性を構築する方法",
-          "titleOrig": "How to build brand visibility in AI search",
-          "link": "https://www.semrush.com/blog/brand-visibility/",
-          "date": "Wed, 29 Apr 2026 10:04:00 +0000",
-          "summary": "Brand visibility is your share of presence across search, AI answers, and community platforms. Here‘s how to measure it and grow it in the AI search era."
         }
       ],
       "error": null
@@ -203,6 +203,20 @@
       "feedUrl": "https://blog.google/technology/ai/rss/",
       "items": [
         {
+          "title": "2026年4月に発表した最新のAIニュース",
+          "titleOrig": "The latest AI news we announced in April 2026",
+          "link": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-april-2026/",
+          "date": "Mon, 04 May 2026 17:00:00 +0000",
+          "summary": "Here are Google’s latest AI updates from April 2026"
+        },
+        {
+          "title": "Gemini APIのWebhookを使用して、長時間実行するジョブの摩擦とレイテンシを削減",
+          "titleOrig": "Reduce friction and latency for long-running jobs with Webhooks in Gemini API",
+          "link": "https://blog.google/innovation-and-ai/technology/developers-tools/event-driven-webhooks/",
+          "date": "Mon, 04 May 2026 15:30:00 +0000",
+          "summary": "Event-Driven Webhooks are a push-based notification system that eliminates the need for inefficient polling."
+        },
+        {
           "title": "Google翻訳の20周年を祝う：おもしろい事実、ヒント、試してみるべき新機能",
           "titleOrig": "Celebrating 20 years of Google Translate: Fun facts, tips and new features to try",
           "link": "https://blog.google/products-and-platforms/products/translate/fun-facts-google-translate-20-years/",
@@ -222,20 +236,6 @@
           "link": "https://blog.google/products-and-platforms/products/gemini/gemini-spring-cleaning-tips/",
           "date": "Fri, 24 Apr 2026 19:00:00 +0000",
           "summary": "Organize your home and digital space with Gemini. Use AI-powered tips for cleaning schedules, inbox decluttering, seasonal chores."
-        },
-        {
-          "title": "ここでは、TPUがますます要求の厳しいAIワークロードにどのように対応しているかを説明します。",
-          "titleOrig": "Here’s how our TPUs power increasingly demanding AI workloads.",
-          "link": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/what-is-a-tpu/",
-          "date": "Thu, 23 Apr 2026 12:00:00 +0000",
-          "summary": "Learn how Google’s TPUs power increasingly demanding AI workloads with this new video."
-        },
-        {
-          "title": "オーストリアの高度化： Googleはアルプスに最初のデータセンターを投資しています。",
-          "titleOrig": "Elevating Austria: Google invests in its first data center in the Alps.",
-          "link": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/google-data-center-austria/",
-          "date": "Thu, 23 Apr 2026 09:00:00 +0000",
-          "summary": "Google has been a proud part of Austria’s landscape for years, and today, we’re announcing our first data center in Kronstorf, generating 100 direct jobs. This facility …"
         }
       ],
       "error": null
@@ -293,6 +293,13 @@
       "feedUrl": "https://wordpress.org/news/feed/",
       "items": [
         {
+          "title": "フェニックスのWordCamp US 2026に参加する",
+          "titleOrig": "Get Involved With WordCamp US 2026 in Phoenix",
+          "link": "https://wordpress.org/news/2026/05/wcus-2026-get-involved/",
+          "date": "Mon, 04 May 2026 18:10:10 +0000",
+          "summary": "WordCamp US 2026 will take place August 16–19 in Phoenix, Arizona, and applications are now open for sponsors, speakers, and volunteers. WordCamp US is the flagship gathering for the WordPress communi"
+        },
+        {
           "title": "WordPress学生クラブが勢いをつける",
           "titleOrig": "WordPress Student Clubs Build Momentum",
           "link": "https://wordpress.org/news/2026/04/student-clubs-build-momentum/",
@@ -319,13 +326,6 @@
           "link": "https://wordpress.org/news/2026/04/wcasia-2026-sessions/",
           "date": "Thu, 02 Apr 2026 16:10:35 +0000",
           "summary": "April 9-11, 2026 | Jio World Convention Centre, Mumbai, India WordCamp Asia 2026 brings the WordPress community to Mumbai, India, from April 9 to 11, with a schedule shaped around artificial intellige"
-        },
-        {
-          "title": "WordPress 7.0リリース候補2",
-          "titleOrig": "WordPress 7.0 Release Candidate 2",
-          "link": "https://wordpress.org/news/2026/03/wordpress-7-0-release-candidate-2/",
-          "date": "Thu, 26 Mar 2026 18:37:28 +0000",
-          "summary": "The second Release Candidate (“RC2”) for WordPress 7.0 is ready for download and testing! This version of the WordPress software is under development. Please do not install, run, or test this version "
         }
       ],
       "error": null
@@ -383,6 +383,13 @@
       "feedUrl": "https://github.blog/feed/",
       "items": [
         {
+          "title": "OpenClawに今すぐ登録： After Hours @ GitHub",
+          "titleOrig": "Register now for OpenClaw: After Hours @ GitHub",
+          "link": "https://github.blog/open-source/register-now-for-openclaw-after-hours-github/",
+          "date": "Mon, 04 May 2026 15:00:00 +0000",
+          "summary": "OpenClaw builders will gather at GitHub HQ during Microsoft Build 2026 for demos and conversations. Join in person, or watch the livestream on Twitch. The post Register now for OpenClaw: After Hours @"
+        },
+        {
           "title": "初心者向けGitHub Copilot CLI ：インタラクティブモードと非インタラクティブモード",
           "titleOrig": "GitHub Copilot CLI for Beginners: Interactive v. non-interactive mode",
           "link": "https://github.blog/ai-and-ml/github-copilot/github-copilot-cli-for-beginners-interactive-v-non-interactive-mode/",
@@ -409,13 +416,6 @@
           "link": "https://github.blog/news-insights/company-news/an-update-on-github-availability/",
           "date": "Tue, 28 Apr 2026 10:01:37 +0000",
           "summary": "Here’s what we’ve done—and what we’re still doing—to improve our availability and reliability. The post An update on GitHub availability appeared first on The GitHub Blog."
-        },
-        {
-          "title": "GitHub Copilotは使用量ベースの請求に移行しています",
-          "titleOrig": "GitHub Copilot is moving to usage-based billing",
-          "link": "https://github.blog/news-insights/company-news/github-copilot-is-moving-to-usage-based-billing/",
-          "date": "Mon, 27 Apr 2026 15:58:22 +0000",
-          "summary": "Starting June 1, your Copilot usage will consume GitHub AI Credits. The post GitHub Copilot is moving to usage-based billing appeared first on The GitHub Blog."
         }
       ],
       "error": null
