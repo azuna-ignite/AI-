@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-05-05T02:51:38.304Z",
+  "fetchedAt": "2026-05-06T02:58:26.126Z",
   "tools": [
     {
       "tool": "ミエルカ（YouTube）",
@@ -91,6 +91,27 @@
       "feedUrl": "https://www.semrush.com/blog/feed/",
       "items": [
         {
+          "title": "2026年にキーワードリサーチを行う方法（ 6つの方法+フレームワーク）",
+          "titleOrig": "How to do keyword research in 2026 (6 ways + framework)",
+          "link": "https://www.semrush.com/blog/keyword-research/",
+          "date": "Tue, 05 May 2026 15:15:00 +0000",
+          "summary": "Learn 6 ways to do keyword research to find relevant terms you can use on your site to grow visibility."
+        },
+        {
+          "title": "完全なWebサイト移行チェックリスト[SEOに優しい]",
+          "titleOrig": "The Complete Website Migration Checklist [SEO-Friendly]",
+          "link": "https://www.semrush.com/blog/website-migration-checklist/",
+          "date": "Tue, 05 May 2026 14:57:00 +0000",
+          "summary": "Protect your rankings, prevent traffic loss, and avoid common SEO mistakes before, during, and after migration."
+        },
+        {
+          "title": "エージェント検索のアトリビューションギャップ：それを閉じる方法",
+          "titleOrig": "Attribution gap in agentic search: how to close it",
+          "link": "https://www.semrush.com/blog/attribution-gap-in-agentic-search/",
+          "date": "Tue, 05 May 2026 08:23:00 +0000",
+          "summary": "Your analytics can‘t see the AI tools shaping buying decisions. Here‘s how to close the attribution gap."
+        },
+        {
           "title": "Googleで最も検索されたもの[2026]",
           "titleOrig": "The Most Searched Things on Google [2026]",
           "link": "https://www.semrush.com/blog/most-searched-keywords-google/",
@@ -103,27 +124,6 @@
           "link": "https://www.semrush.com/blog/content-audit/",
           "date": "Mon, 04 May 2026 10:27:00 +0000",
           "summary": "Learn how to perform a thorough content audit with step-by-step instructions. Improve SEO and AI visibility."
-        },
-        {
-          "title": "AI検索でのランク付け方法（ 6か月プレイブック）",
-          "titleOrig": "How to rank in AI search (6-month playbook)",
-          "link": "https://www.semrush.com/blog/how-to-rank-in-ai-search/",
-          "date": "Mon, 04 May 2026 09:47:00 +0000",
-          "summary": "Use our 6-month playbook with a free template to rank in AI search across ChatGPT, Google AI Overviews, Perplexity, and Gemini."
-        },
-        {
-          "title": "フィンテックAI検索のケーススタディ： Wise.comからの4つの教訓",
-          "titleOrig": "Fintech AI search case study: 4 lessons from Wise.com",
-          "link": "https://www.semrush.com/blog/fintech-in-ai-search-how-wise-com-wins-ai-visibility/",
-          "date": "Mon, 04 May 2026 09:19:00 +0000",
-          "summary": "Wise is a market leader when it comes to AI visibility. Here are four factors driving their success."
-        },
-        {
-          "title": "Semrushのキーワードクラスタリングツールを使用して戦略を構築する",
-          "titleOrig": "Use Semrush's keyword clustering tool to build your strategy",
-          "link": "https://www.semrush.com/blog/keyword-manager-clustering-tool/",
-          "date": "Fri, 01 May 2026 16:19:00 +0000",
-          "summary": "Clustering keywords lets you target more than one keyword, which can lead to more traffic. To help you get there faster, use the Keyword Strategy Builder."
         }
       ],
       "error": null
@@ -203,6 +203,13 @@
       "feedUrl": "https://blog.google/technology/ai/rss/",
       "items": [
         {
+          "title": "GoogleはXPRIZEとRange Media Partnersと提携して、350万$のFuture Vision映画コンペティションを開催しています。",
+          "titleOrig": "Google is partnering with XPRIZE and Range Media Partners on the $3.5 million Future Vision film competition.",
+          "link": "https://blog.google/innovation-and-ai/technology/ai/future-vision-film-competition-xprize/",
+          "date": "Tue, 05 May 2026 16:00:00 +0000",
+          "summary": "Google is partnering with XPRIZE and Range Media Partners on the $3.5 million Future Vision film competition."
+        },
+        {
           "title": "2026年4月に発表した最新のAIニュース",
           "titleOrig": "The latest AI news we announced in April 2026",
           "link": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-april-2026/",
@@ -229,13 +236,6 @@
           "link": "https://blog.google/innovation-and-ai/technology/developers-tools/kaggle-genai-intensive-course-vibe-coding-june-2026/",
           "date": "Mon, 27 Apr 2026 13:00:00 +0000",
           "summary": "Google is bringing back its 5-Day AI Agents Intensive Course with Kaggle and registration is open."
-        },
-        {
-          "title": "お部屋（と生活）を整理するための8つのジェミニのヒント",
-          "titleOrig": "8 Gemini tips for organizing your space (and life)",
-          "link": "https://blog.google/products-and-platforms/products/gemini/gemini-spring-cleaning-tips/",
-          "date": "Fri, 24 Apr 2026 19:00:00 +0000",
-          "summary": "Organize your home and digital space with Gemini. Use AI-powered tips for cleaning schedules, inbox decluttering, seasonal chores."
         }
       ],
       "error": null
@@ -383,6 +383,13 @@
       "feedUrl": "https://github.blog/feed/",
       "items": [
         {
+          "title": "メンテナー月間へようこそ：コードの背後にいる人々を祝う",
+          "titleOrig": "Welcome to Maintainer Month: Celebrating the people behind the code",
+          "link": "https://github.blog/open-source/maintainers/welcome-to-maintainer-month-celebrating-the-people-behind-the-code/",
+          "date": "Tue, 05 May 2026 14:30:00 +0000",
+          "summary": "What maintainers are telling us, what we've shipped, and how to celebrate the people behind open source. The post Welcome to Maintainer Month: Celebrating the people behind the code appeared first on "
+        },
+        {
           "title": "OpenClawに今すぐ登録： After Hours @ GitHub",
           "titleOrig": "Register now for OpenClaw: After Hours @ GitHub",
           "link": "https://github.blog/open-source/register-now-for-openclaw-after-hours-github/",
@@ -409,13 +416,6 @@
           "link": "https://github.blog/security/securing-the-git-push-pipeline-responding-to-a-critical-remote-code-execution-vulnerability/",
           "date": "Tue, 28 Apr 2026 15:30:00 +0000",
           "summary": "How we validated, fixed, and investigated a critical vulnerability in under two hours, and confirmed no exploitation. The post Securing the git push pipeline: Responding to a critical remote code exec"
-        },
-        {
-          "title": "GitHubの可用性に関する最新情報",
-          "titleOrig": "An update on GitHub availability",
-          "link": "https://github.blog/news-insights/company-news/an-update-on-github-availability/",
-          "date": "Tue, 28 Apr 2026 10:01:37 +0000",
-          "summary": "Here’s what we’ve done—and what we’re still doing—to improve our availability and reliability. The post An update on GitHub availability appeared first on The GitHub Blog."
         }
       ],
       "error": null
