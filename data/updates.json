@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-05-06T02:58:26.126Z",
+  "fetchedAt": "2026-05-07T02:58:44.183Z",
   "tools": [
     {
       "tool": "ミエルカ（YouTube）",
@@ -9,39 +9,8 @@
       "type": "youtube",
       "handle": "@mieruca-channel",
       "feedUrl": "",
-      "items": [
-        {
-          "title": "【SEO】コアアップデートはAI検索にどう影響する？｜グレン・ゲイブ氏",
-          "link": "https://www.youtube.com/shorts/W5Dcz5r4MAE",
-          "date": "2026-04-28T09:00:42.000Z",
-          "summary": ""
-        },
-        {
-          "title": "GEO/LLMO対策とは？AI検索時代のSEOとの違い、やること・やらないことを完全解説【2026年版】",
-          "link": "https://www.youtube.com/watch?v=28-uFWvcJfA",
-          "date": "2026-04-28T02:30:01.000Z",
-          "summary": ""
-        },
-        {
-          "title": "Googleのマーティン・スプリット氏に聞く｜構造化データ・AI学習ブロック・クロール上限の正解",
-          "link": "https://www.youtube.com/watch?v=ZXgOejjHkaU",
-          "date": "2026-04-23T23:00:48.000Z",
-          "summary": ""
-        },
-        {
-          "title": "GA4×生成AI活用｜データ接続から分析・改善まで実例で徹底解説【2026年版】",
-          "link": "https://www.youtube.com/watch?v=QnMsbHUrE78",
-          "date": "2026-04-22T09:00:43.000Z",
-          "summary": ""
-        },
-        {
-          "title": "あと2か月で適用。Googleが「戻るボタンの乗っ取り」をスパム違反に明確化｜SEO Weekly Update",
-          "link": "https://www.youtube.com/watch?v=zjj_B9aciW8",
-          "date": "2026-04-19T23:00:58.000Z",
-          "summary": ""
-        }
-      ],
-      "error": null
+      "items": [],
+      "error": "Status code 500"
     },
     {
       "tool": "Ahrefs",
@@ -91,6 +60,20 @@
       "feedUrl": "https://www.semrush.com/blog/feed/",
       "items": [
         {
+          "title": "あなたと競合他社のChatGPTトラフィックを追跡する方法",
+          "titleOrig": "How to track ChatGPT traffic for you and for competitors",
+          "link": "https://www.semrush.com/blog/track-chatgpt-traffic-and-competitors/",
+          "date": "Wed, 06 May 2026 12:50:00 +0000",
+          "summary": "Learn how to track ChatGPT traffic, benchmark against competitors, and connect AI visits to visibility signals."
+        },
+        {
+          "title": "2026年のAI検索結果に最適化する方法",
+          "titleOrig": "How to optimize for AI search results in 2026",
+          "link": "https://www.semrush.com/blog/ai-search-optimization/",
+          "date": "Wed, 06 May 2026 08:31:00 +0000",
+          "summary": "AI search optimization gets your content cited by ChatGPT, AI Overviews, and Perplexity. Here‘s how to do it."
+        },
+        {
           "title": "2026年にキーワードリサーチを行う方法（ 6つの方法+フレームワーク）",
           "titleOrig": "How to do keyword research in 2026 (6 ways + framework)",
           "link": "https://www.semrush.com/blog/keyword-research/",
@@ -110,20 +93,6 @@
           "link": "https://www.semrush.com/blog/attribution-gap-in-agentic-search/",
           "date": "Tue, 05 May 2026 08:23:00 +0000",
           "summary": "Your analytics can‘t see the AI tools shaping buying decisions. Here‘s how to close the attribution gap."
-        },
-        {
-          "title": "Googleで最も検索されたもの[2026]",
-          "titleOrig": "The Most Searched Things on Google [2026]",
-          "link": "https://www.semrush.com/blog/most-searched-keywords-google/",
-          "date": "Mon, 04 May 2026 11:13:00 +0000",
-          "summary": "The word “youtube” is the most searched thing on Google. It gets 1.38 billion global searches per month."
-        },
-        {
-          "title": "2026年にウェブサイトコンテンツ監査を行う方法（テンプレート付き）",
-          "titleOrig": "How to do a website content audit in 2026 (with template)",
-          "link": "https://www.semrush.com/blog/content-audit/",
-          "date": "Mon, 04 May 2026 10:27:00 +0000",
-          "summary": "Learn how to perform a thorough content audit with step-by-step instructions. Improve SEO and AI visibility."
         }
       ],
       "error": null
@@ -203,6 +172,13 @@
       "feedUrl": "https://blog.google/technology/ai/rss/",
       "items": [
         {
+          "title": "検索で試すことができる5つのガーデニングのヒント",
+          "titleOrig": "5 gardening tips you can try right in Search",
+          "link": "https://blog.google/products-and-platforms/products/search/gardening-tips/",
+          "date": "Wed, 06 May 2026 16:00:00 +0000",
+          "summary": "We’ve rounded up the top ways you can use Google’s AI Mode, Search Live and Shopping to help your plants thrive."
+        },
+        {
           "title": "GoogleはXPRIZEとRange Media Partnersと提携して、350万$のFuture Vision映画コンペティションを開催しています。",
           "titleOrig": "Google is partnering with XPRIZE and Range Media Partners on the $3.5 million Future Vision film competition.",
           "link": "https://blog.google/innovation-and-ai/technology/ai/future-vision-film-competition-xprize/",
@@ -229,13 +205,6 @@
           "link": "https://blog.google/products-and-platforms/products/translate/fun-facts-google-translate-20-years/",
           "date": "Tue, 28 Apr 2026 16:00:00 +0000",
           "summary": "Google’s sharing 20 fun facts to celebrate Google Translate turning 20, from its roots as a 2006 AI experiment to supporting almost 250 languages today."
-        },
-        {
-          "title": "GoogleとKaggleの新しいAIエージェントバイブコーディングコースに参加する",
-          "titleOrig": "Join the new AI Agents Vibe Coding Course from Google and Kaggle",
-          "link": "https://blog.google/innovation-and-ai/technology/developers-tools/kaggle-genai-intensive-course-vibe-coding-june-2026/",
-          "date": "Mon, 27 Apr 2026 13:00:00 +0000",
-          "summary": "Google is bringing back its 5-Day AI Agents Intensive Course with Kaggle and registration is open."
         }
       ],
       "error": null
@@ -383,6 +352,13 @@
       "feedUrl": "https://github.blog/feed/",
       "items": [
         {
+          "title": "「正しい」が決定論的でない場合のエージェントの行動の検証",
+          "titleOrig": "Validating agentic behavior when “correct” isn’t deterministic",
+          "link": "https://github.blog/ai-and-ml/generative-ai/validating-agentic-behavior-when-correct-isnt-deterministic/",
+          "date": "Wed, 06 May 2026 21:16:31 +0000",
+          "summary": "How to build the “Trust Layer” for Github Copilot Coding Agents without brittle scripts or black-box judgements by using dominatory analysis. The post Validating agentic behavior when “correct” isn’t "
+        },
+        {
           "title": "メンテナー月間へようこそ：コードの背後にいる人々を祝う",
           "titleOrig": "Welcome to Maintainer Month: Celebrating the people behind the code",
           "link": "https://github.blog/open-source/maintainers/welcome-to-maintainer-month-celebrating-the-people-behind-the-code/",
@@ -409,13 +385,6 @@
           "link": "https://github.blog/developer-skills/github/github-for-beginners-getting-started-with-markdown/",
           "date": "Tue, 28 Apr 2026 18:00:00 +0000",
           "summary": "Discover how to format and edit your comments and posts using Markdown. The post GitHub for Beginners: Getting started with Markdown appeared first on The GitHub Blog."
-        },
-        {
-          "title": "Gitプッシュパイプラインの保護：重大なリモートコード実行の脆弱性への対応",
-          "titleOrig": "Securing the git push pipeline: Responding to a critical remote code execution vulnerability",
-          "link": "https://github.blog/security/securing-the-git-push-pipeline-responding-to-a-critical-remote-code-execution-vulnerability/",
-          "date": "Tue, 28 Apr 2026 15:30:00 +0000",
-          "summary": "How we validated, fixed, and investigated a critical vulnerability in under two hours, and confirmed no exploitation. The post Securing the git push pipeline: Responding to a critical remote code exec"
         }
       ],
       "error": null
