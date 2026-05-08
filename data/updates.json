@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-05-07T02:58:44.183Z",
+  "fetchedAt": "2026-05-08T03:19:55.542Z",
   "tools": [
     {
       "tool": "ミエルカ（YouTube）",
@@ -9,8 +9,39 @@
       "type": "youtube",
       "handle": "@mieruca-channel",
       "feedUrl": "",
-      "items": [],
-      "error": "Status code 500"
+      "items": [
+        {
+          "title": "SEOとは？SEO対策の基本・始め方・注意点を初心者向けに解説【2026年最新版】",
+          "link": "https://www.youtube.com/watch?v=lcVTg_BT4I4",
+          "date": "2026-05-07T09:01:05.000Z",
+          "summary": ""
+        },
+        {
+          "title": "【SEO】コアアップデートはAI検索にどう影響する？｜グレン・ゲイブ氏",
+          "link": "https://www.youtube.com/shorts/W5Dcz5r4MAE",
+          "date": "2026-04-28T09:00:42.000Z",
+          "summary": ""
+        },
+        {
+          "title": "GEO/LLMO対策とは？AI検索時代のSEOとの違い、やること・やらないことを完全解説【2026年版】",
+          "link": "https://www.youtube.com/watch?v=28-uFWvcJfA",
+          "date": "2026-04-28T02:30:01.000Z",
+          "summary": ""
+        },
+        {
+          "title": "Googleのマーティン・スプリット氏に聞く｜構造化データ・AI学習ブロック・クロール上限の正解",
+          "link": "https://www.youtube.com/watch?v=ZXgOejjHkaU",
+          "date": "2026-04-23T23:00:48.000Z",
+          "summary": ""
+        },
+        {
+          "title": "GA4×生成AI活用｜データ接続から分析・改善まで実例で徹底解説【2026年版】",
+          "link": "https://www.youtube.com/watch?v=QnMsbHUrE78",
+          "date": "2026-04-22T09:00:43.000Z",
+          "summary": ""
+        }
+      ],
+      "error": null
     },
     {
       "tool": "Ahrefs",
@@ -60,6 +91,20 @@
       "feedUrl": "https://www.semrush.com/blog/feed/",
       "items": [
         {
+          "title": "11広告費収益率を最大化するためのGoogle Adsのベストプラクティス",
+          "titleOrig": "11 Google Ads best practices to maximize return on ad spend",
+          "link": "https://www.semrush.com/blog/google-ads-best-practices/",
+          "date": "Thu, 07 May 2026 14:57:00 +0000",
+          "summary": "Check out the top Google Ads best practices you need to follow to get better results from your ad campaigns."
+        },
+        {
+          "title": "Googleのユニバーサルコマースプロトコル機能がメインSERPに拡張",
+          "titleOrig": "Google’s Universal Commerce Protocol capabilities expand to main SERP",
+          "link": "https://www.semrush.com/blog/google-ucp-checkout-in-main-serp/",
+          "date": "Thu, 07 May 2026 08:36:00 +0000",
+          "summary": "Google started rolling out UCP-powered checkout to product listings to allow buying directly on the SERP."
+        },
+        {
           "title": "あなたと競合他社のChatGPTトラフィックを追跡する方法",
           "titleOrig": "How to track ChatGPT traffic for you and for competitors",
           "link": "https://www.semrush.com/blog/track-chatgpt-traffic-and-competitors/",
@@ -79,20 +124,6 @@
           "link": "https://www.semrush.com/blog/keyword-research/",
           "date": "Tue, 05 May 2026 15:15:00 +0000",
           "summary": "Learn 6 ways to do keyword research to find relevant terms you can use on your site to grow visibility."
-        },
-        {
-          "title": "完全なWebサイト移行チェックリスト[SEOに優しい]",
-          "titleOrig": "The Complete Website Migration Checklist [SEO-Friendly]",
-          "link": "https://www.semrush.com/blog/website-migration-checklist/",
-          "date": "Tue, 05 May 2026 14:57:00 +0000",
-          "summary": "Protect your rankings, prevent traffic loss, and avoid common SEO mistakes before, during, and after migration."
-        },
-        {
-          "title": "エージェント検索のアトリビューションギャップ：それを閉じる方法",
-          "titleOrig": "Attribution gap in agentic search: how to close it",
-          "link": "https://www.semrush.com/blog/attribution-gap-in-agentic-search/",
-          "date": "Tue, 05 May 2026 08:23:00 +0000",
-          "summary": "Your analytics can‘t see the AI tools shaping buying decisions. Here‘s how to close the attribution gap."
         }
       ],
       "error": null
@@ -123,6 +154,24 @@
       "feedUrl": "https://rakkokeyword.com/techo/feed/",
       "items": [
         {
+          "title": "YouTube収益計算ツール",
+          "link": "https://rakkokeyword.com/techo/tool-youtube-revenue-calculator/",
+          "date": "Fri, 08 May 2026 01:09:52 +0000",
+          "summary": "日収（推定） 0 円 月収（推定） 0 円 年収（推定） 0 円 動画フォーマット 通常動画 ショート動画 発信ジャンル 一般的なエンタメ (平均値)ビジネスゲーム実況Vlogキッズ 1動画あたりの平均再生回数 回 月間 ..."
+        },
+        {
+          "title": "【2026年最新】Youtubeのおすすめに乗る方法！今日からできる実践テクニック",
+          "link": "https://rakkokeyword.com/techo/youtube-recommendation-tips/",
+          "date": "Thu, 07 May 2026 07:44:00 +0000",
+          "summary": "「一生懸命動画を編集して投稿しているのに、再生回数やチャンネル登録者数が全然伸びない」「自分の動画が誰の『おすすめ』にも表示されず、新しい視聴者に見てもらえない」 YouTubeチャンネルを運営していて、このような焦りや ..."
+        },
+        {
+          "title": "【2026年最新】YouTubeの狙い目ジャンル15選！初心者が稼ぐための選び方",
+          "link": "https://rakkokeyword.com/techo/youtube-niche-for-beginners/",
+          "date": "Thu, 07 May 2026 05:16:55 +0000",
+          "summary": "「YouTubeで副業を始めたいけれど、どのジャンルを選べばいいかわからない」 「2026年の今からYouTubeを始めても、競合が多すぎて遅いのではないか」 このような悩みや不安を抱えていませんか？過去にYouTube ..."
+        },
+        {
           "title": "インド式計算ツール",
           "link": "https://rakkokeyword.com/techo/tool-mental-math-multiplication/",
           "date": "Fri, 01 May 2026 07:41:46 +0000",
@@ -133,24 +182,6 @@
           "link": "https://rakkokeyword.com/techo/tool-mancala-game/",
           "date": "Fri, 01 May 2026 02:28:03 +0000",
           "summary": "マンカラゲームへようこそ コンピューターの強さ 簡単普通難しい 初期の石の数 3個4個 (標準)5個6個 手番の選択 あなたが先手コンピューターが先手ランダム ゲームを開始する 準備中… ヒント サウンド: ON リセッ ..."
-        },
-        {
-          "title": "【大手の真似はNG】Youtubeのネタ一覧！個人が伸びる企画50選とアイデアの出し方・探し方",
-          "link": "https://rakkokeyword.com/techo/youtube-content-ideas/",
-          "date": "Thu, 30 Apr 2026 07:16:48 +0000",
-          "summary": "「YouTubeの動画投稿を始めたものの、個人レベルでできるネタが思いつかない」という悩みを抱えていませんか。 本記事では、お金や人数をかけなくても、アイデア次第でチャンネルを伸ばすことができる厳選した50個の企画をお伝 ..."
-        },
-        {
-          "title": "アナグラム生成ツール",
-          "link": "https://rakkokeyword.com/techo/tool-anagram-generator/",
-          "date": "Thu, 30 Apr 2026 01:54:11 +0000",
-          "summary": "アナグラム作成条件 文字種の自動変換 そのまま ひらがな カタカナ ローマ字 ネーミング専用フィルター (任意) 前半/後半で区切る (スペース挿入) 発音しにくい文字列を除外する アナグラムを生成する 生成中… ★ お ..."
-        },
-        {
-          "title": "【YouTubeネタ切れ】原因と無限に企画が思いつく探し方・鉄板ネタを徹底解説！",
-          "link": "https://rakkokeyword.com/techo/youtube-no-ideas/",
-          "date": "Tue, 28 Apr 2026 06:18:48 +0000",
-          "summary": "「YouTubeの動画企画がまったく思いつかない……」 「このままではチャンネルの更新が止まってしまう……」 1人でパソコンに向かって考えてもアイデアが出ず、焦りや精神的な負担を感じている方も多いのではないでしょうか。 ..."
         }
       ],
       "error": null
@@ -352,6 +383,20 @@
       "feedUrl": "https://github.blog/feed/",
       "items": [
         {
+          "title": "GitHub Agenticワークフローのトークン効率の向上",
+          "titleOrig": "Improving token efficiency in GitHub Agentic Workflows",
+          "link": "https://github.blog/ai-and-ml/github-copilot/improving-token-efficiency-in-github-agentic-workflows/",
+          "date": "Thu, 07 May 2026 23:00:00 +0000",
+          "summary": "Agentic workflows that run on every pull request can quietly accumulate large API bills. Here's how we instrumented our own production workflows, found the inefficiencies, and built agents to fix them"
+        },
+        {
+          "title": "エージェントのプルリクエストはどこにでもあります。内容を確認する方法は次のとおりです。",
+          "titleOrig": "Agent pull requests are everywhere. Here’s how to review them.",
+          "link": "https://github.blog/ai-and-ml/generative-ai/agent-pull-requests-are-everywhere-heres-how-to-review-them/",
+          "date": "Thu, 07 May 2026 19:00:00 +0000",
+          "summary": "A practical guide to reviewing agent-generated pull requests: what to look for, where issues hide, and how to catch technical debt before it ships. The post Agent pull requests are everywhere. Here’s "
+        },
+        {
           "title": "「正しい」が決定論的でない場合のエージェントの行動の検証",
           "titleOrig": "Validating agentic behavior when “correct” isn’t deterministic",
           "link": "https://github.blog/ai-and-ml/generative-ai/validating-agentic-behavior-when-correct-isnt-deterministic/",
@@ -371,20 +416,6 @@
           "link": "https://github.blog/open-source/register-now-for-openclaw-after-hours-github/",
           "date": "Mon, 04 May 2026 15:00:00 +0000",
           "summary": "OpenClaw builders will gather at GitHub HQ during Microsoft Build 2026 for demos and conversations. Join in person, or watch the livestream on Twitch. The post Register now for OpenClaw: After Hours @"
-        },
-        {
-          "title": "初心者向けGitHub Copilot CLI ：インタラクティブモードと非インタラクティブモード",
-          "titleOrig": "GitHub Copilot CLI for Beginners: Interactive v. non-interactive mode",
-          "link": "https://github.blog/ai-and-ml/github-copilot/github-copilot-cli-for-beginners-interactive-v-non-interactive-mode/",
-          "date": "Thu, 30 Apr 2026 16:09:02 +0000",
-          "summary": "Learn the difference between CLI interactive v. non-interactive modes. The post GitHub Copilot CLI for Beginners: Interactive v. non-interactive mode appeared first on The GitHub Blog."
-        },
-        {
-          "title": "初心者のためのGitHub ： Markdownの始め方",
-          "titleOrig": "GitHub for Beginners: Getting started with Markdown",
-          "link": "https://github.blog/developer-skills/github/github-for-beginners-getting-started-with-markdown/",
-          "date": "Tue, 28 Apr 2026 18:00:00 +0000",
-          "summary": "Discover how to format and edit your comments and posts using Markdown. The post GitHub for Beginners: Getting started with Markdown appeared first on The GitHub Blog."
         }
       ],
       "error": null
