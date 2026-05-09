@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-05-08T03:19:55.542Z",
+  "fetchedAt": "2026-05-09T02:56:08.109Z",
   "tools": [
     {
       "tool": "ミエルカ（YouTube）",
@@ -9,39 +9,8 @@
       "type": "youtube",
       "handle": "@mieruca-channel",
       "feedUrl": "",
-      "items": [
-        {
-          "title": "SEOとは？SEO対策の基本・始め方・注意点を初心者向けに解説【2026年最新版】",
-          "link": "https://www.youtube.com/watch?v=lcVTg_BT4I4",
-          "date": "2026-05-07T09:01:05.000Z",
-          "summary": ""
-        },
-        {
-          "title": "【SEO】コアアップデートはAI検索にどう影響する？｜グレン・ゲイブ氏",
-          "link": "https://www.youtube.com/shorts/W5Dcz5r4MAE",
-          "date": "2026-04-28T09:00:42.000Z",
-          "summary": ""
-        },
-        {
-          "title": "GEO/LLMO対策とは？AI検索時代のSEOとの違い、やること・やらないことを完全解説【2026年版】",
-          "link": "https://www.youtube.com/watch?v=28-uFWvcJfA",
-          "date": "2026-04-28T02:30:01.000Z",
-          "summary": ""
-        },
-        {
-          "title": "Googleのマーティン・スプリット氏に聞く｜構造化データ・AI学習ブロック・クロール上限の正解",
-          "link": "https://www.youtube.com/watch?v=ZXgOejjHkaU",
-          "date": "2026-04-23T23:00:48.000Z",
-          "summary": ""
-        },
-        {
-          "title": "GA4×生成AI活用｜データ接続から分析・改善まで実例で徹底解説【2026年版】",
-          "link": "https://www.youtube.com/watch?v=QnMsbHUrE78",
-          "date": "2026-04-22T09:00:43.000Z",
-          "summary": ""
-        }
-      ],
-      "error": null
+      "items": [],
+      "error": "Status code 404"
     },
     {
       "tool": "Ahrefs",
@@ -91,6 +60,20 @@
       "feedUrl": "https://www.semrush.com/blog/feed/",
       "items": [
         {
+          "title": "ToFu、MoFu、BoFu ：コンバージョンファネルの実践ガイド",
+          "titleOrig": "ToFu, MoFu, BoFu: A practical guide to the conversion funnel",
+          "link": "https://www.semrush.com/blog/tofu-mofu-bofu-a-practical-guide-to-the-conversion-funnel/",
+          "date": "Fri, 08 May 2026 09:16:00 +0000",
+          "summary": "Learn tactics + content suitable for each stage, including how to reverse engineer your competitors’ conversion funnels."
+        },
+        {
+          "title": "AIがあなたのブランドについて間違っている点を見つけて修正する方法",
+          "titleOrig": "How to find and fix what AI gets wrong about your brand",
+          "link": "https://www.semrush.com/blog/fix-ai-brand-misinformation/",
+          "date": "Fri, 08 May 2026 08:55:00 +0000",
+          "summary": "Learn how to identify, trace, and fix incorrect information about your brand in AI answers."
+        },
+        {
           "title": "11広告費収益率を最大化するためのGoogle Adsのベストプラクティス",
           "titleOrig": "11 Google Ads best practices to maximize return on ad spend",
           "link": "https://www.semrush.com/blog/google-ads-best-practices/",
@@ -110,20 +93,6 @@
           "link": "https://www.semrush.com/blog/track-chatgpt-traffic-and-competitors/",
           "date": "Wed, 06 May 2026 12:50:00 +0000",
           "summary": "Learn how to track ChatGPT traffic, benchmark against competitors, and connect AI visits to visibility signals."
-        },
-        {
-          "title": "2026年のAI検索結果に最適化する方法",
-          "titleOrig": "How to optimize for AI search results in 2026",
-          "link": "https://www.semrush.com/blog/ai-search-optimization/",
-          "date": "Wed, 06 May 2026 08:31:00 +0000",
-          "summary": "AI search optimization gets your content cited by ChatGPT, AI Overviews, and Perplexity. Here‘s how to do it."
-        },
-        {
-          "title": "2026年にキーワードリサーチを行う方法（ 6つの方法+フレームワーク）",
-          "titleOrig": "How to do keyword research in 2026 (6 ways + framework)",
-          "link": "https://www.semrush.com/blog/keyword-research/",
-          "date": "Tue, 05 May 2026 15:15:00 +0000",
-          "summary": "Learn 6 ways to do keyword research to find relevant terms you can use on your site to grow visibility."
         }
       ],
       "error": null
@@ -203,6 +172,13 @@
       "feedUrl": "https://blog.google/technology/ai/rss/",
       "items": [
         {
+          "title": "クリエイティブなレジェンドがAIを使用して中小企業向けの広告を作成すると何が起こるかをご覧ください。",
+          "titleOrig": "See what happens when creative legends use AI to make ads for small businesses.",
+          "link": "https://blog.google/company-news/inside-google/company-announcements/the-small-brief/",
+          "date": "Fri, 08 May 2026 15:00:00 +0000",
+          "summary": "Today we're launching The Small Brief, an initiative bringing together three ad industry icons to champion a local businesses they love. Their mission is to build breakt…"
+        },
+        {
           "title": "検索で試すことができる5つのガーデニングのヒント",
           "titleOrig": "5 gardening tips you can try right in Search",
           "link": "https://blog.google/products-and-platforms/products/search/gardening-tips/",
@@ -229,13 +205,6 @@
           "link": "https://blog.google/innovation-and-ai/technology/developers-tools/event-driven-webhooks/",
           "date": "Mon, 04 May 2026 15:30:00 +0000",
           "summary": "Event-Driven Webhooks are a push-based notification system that eliminates the need for inefficient polling."
-        },
-        {
-          "title": "Google翻訳の20周年を祝う：おもしろい事実、ヒント、試してみるべき新機能",
-          "titleOrig": "Celebrating 20 years of Google Translate: Fun facts, tips and new features to try",
-          "link": "https://blog.google/products-and-platforms/products/translate/fun-facts-google-translate-20-years/",
-          "date": "Tue, 28 Apr 2026 16:00:00 +0000",
-          "summary": "Google’s sharing 20 fun facts to celebrate Google Translate turning 20, from its roots as a 2006 AI experiment to supporting almost 250 languages today."
         }
       ],
       "error": null
@@ -293,6 +262,13 @@
       "feedUrl": "https://wordpress.org/news/feed/",
       "items": [
         {
+          "title": "WordPress 7.0リリース候補3",
+          "titleOrig": "WordPress 7.0 Release Candidate 3",
+          "link": "https://wordpress.org/news/2026/05/wordpress-7-0-release-candidate-3/",
+          "date": "Fri, 08 May 2026 18:18:48 +0000",
+          "summary": "The third Release Candidate (“RC3”) for WordPress 7.0 is ready for download and testing! This version of the WordPress software is under development. Please do not install, run, or test this version o"
+        },
+        {
           "title": "フェニックスのWordCamp US 2026に参加する",
           "titleOrig": "Get Involved With WordCamp US 2026 in Phoenix",
           "link": "https://wordpress.org/news/2026/05/wcus-2026-get-involved/",
@@ -319,13 +295,6 @@
           "link": "https://wordpress.org/news/2026/04/watch-wc-asia-2026-live/",
           "date": "Tue, 07 Apr 2026 13:57:21 +0000",
           "summary": "WordCamp Asia 2026 will be available to watch live across three days of streaming, making it easy for the global WordPress community to follow along from anywhere. This year’s live streamed programmin"
-        },
-        {
-          "title": "WordCamp Asia 2026でのAIからオープンソースへ",
-          "titleOrig": "From AI to Open Source at WordCamp Asia 2026",
-          "link": "https://wordpress.org/news/2026/04/wcasia-2026-sessions/",
-          "date": "Thu, 02 Apr 2026 16:10:35 +0000",
-          "summary": "April 9-11, 2026 | Jio World Convention Centre, Mumbai, India WordCamp Asia 2026 brings the WordPress community to Mumbai, India, from April 9 to 11, with a schedule shaped around artificial intellige"
         }
       ],
       "error": null
@@ -383,6 +352,20 @@
       "feedUrl": "https://github.blog/feed/",
       "items": [
         {
+          "title": "年齢保証法が開発者にとって重要な理由",
+          "titleOrig": "Why age assurance laws matter for developers",
+          "link": "https://github.blog/news-insights/policy-news-and-insights/why-age-assurance-laws-matter-for-developers/",
+          "date": "Fri, 08 May 2026 16:30:00 +0000",
+          "summary": "Youth safety requirements are moving down the tech stack to operating systems and app stores—raising new questions for open source developers. The post Why age assurance laws matter for developers app"
+        },
+        {
+          "title": "研究者が国の「デジタルの複雑さ」を明らかにするためにGitHub Innovation Graphデータをどのように使用しているか",
+          "titleOrig": "How researchers are using GitHub Innovation Graph data to reveal the “digital complexity” of nations",
+          "link": "https://github.blog/news-insights/policy-news-and-insights/how-researchers-are-using-github-innovation-graph-data-to-reveal-the-digital-complexity-of-nations/",
+          "date": "Fri, 08 May 2026 15:00:00 +0000",
+          "summary": "Researchers share in an interview how they used GitHub data to predict GDP, inequality, and emissions in ways that traditional economic data misses, along with our Q4 2025 data release. The post How r"
+        },
+        {
           "title": "GitHub Agenticワークフローのトークン効率の向上",
           "titleOrig": "Improving token efficiency in GitHub Agentic Workflows",
           "link": "https://github.blog/ai-and-ml/github-copilot/improving-token-efficiency-in-github-agentic-workflows/",
@@ -402,20 +385,6 @@
           "link": "https://github.blog/ai-and-ml/generative-ai/validating-agentic-behavior-when-correct-isnt-deterministic/",
           "date": "Wed, 06 May 2026 21:16:31 +0000",
           "summary": "How to build the “Trust Layer” for Github Copilot Coding Agents without brittle scripts or black-box judgements by using dominatory analysis. The post Validating agentic behavior when “correct” isn’t "
-        },
-        {
-          "title": "メンテナー月間へようこそ：コードの背後にいる人々を祝う",
-          "titleOrig": "Welcome to Maintainer Month: Celebrating the people behind the code",
-          "link": "https://github.blog/open-source/maintainers/welcome-to-maintainer-month-celebrating-the-people-behind-the-code/",
-          "date": "Tue, 05 May 2026 14:30:00 +0000",
-          "summary": "What maintainers are telling us, what we've shipped, and how to celebrate the people behind open source. The post Welcome to Maintainer Month: Celebrating the people behind the code appeared first on "
-        },
-        {
-          "title": "OpenClawに今すぐ登録： After Hours @ GitHub",
-          "titleOrig": "Register now for OpenClaw: After Hours @ GitHub",
-          "link": "https://github.blog/open-source/register-now-for-openclaw-after-hours-github/",
-          "date": "Mon, 04 May 2026 15:00:00 +0000",
-          "summary": "OpenClaw builders will gather at GitHub HQ during Microsoft Build 2026 for demos and conversations. Join in person, or watch the livestream on Twitch. The post Register now for OpenClaw: After Hours @"
         }
       ],
       "error": null
