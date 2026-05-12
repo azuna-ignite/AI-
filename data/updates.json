@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-05-11T03:40:08.751Z",
+  "fetchedAt": "2026-05-12T03:27:27.494Z",
   "tools": [
     {
       "tool": "ミエルカ（YouTube）",
@@ -9,39 +9,8 @@
       "type": "youtube",
       "handle": "@mieruca-channel",
       "feedUrl": "",
-      "items": [
-        {
-          "title": "Googleコアアップデート分析：一次情報・公式サイトが強まる傾向｜SEO Weekly Update",
-          "link": "https://www.youtube.com/watch?v=5dWG9g7tnUQ",
-          "date": "2026-05-10T23:00:05.000Z",
-          "summary": ""
-        },
-        {
-          "title": "SEOとは？SEO対策の基本・始め方・注意点を初心者向けに解説【2026年最新版】",
-          "link": "https://www.youtube.com/watch?v=lcVTg_BT4I4",
-          "date": "2026-05-07T09:01:05.000Z",
-          "summary": ""
-        },
-        {
-          "title": "【SEO】コアアップデートはAI検索にどう影響する？｜グレン・ゲイブ氏",
-          "link": "https://www.youtube.com/shorts/W5Dcz5r4MAE",
-          "date": "2026-04-28T09:00:42.000Z",
-          "summary": ""
-        },
-        {
-          "title": "GEO/LLMO対策とは？AI検索時代のSEOとの違い、やること・やらないことを完全解説【2026年版】",
-          "link": "https://www.youtube.com/watch?v=28-uFWvcJfA",
-          "date": "2026-04-28T02:30:01.000Z",
-          "summary": ""
-        },
-        {
-          "title": "Googleのマーティン・スプリット氏に聞く｜構造化データ・AI学習ブロック・クロール上限の正解",
-          "link": "https://www.youtube.com/watch?v=ZXgOejjHkaU",
-          "date": "2026-04-23T23:00:48.000Z",
-          "summary": ""
-        }
-      ],
-      "error": null
+      "items": [],
+      "error": "Status code 404"
     },
     {
       "tool": "Ahrefs",
@@ -91,6 +60,13 @@
       "feedUrl": "https://www.semrush.com/blog/feed/",
       "items": [
         {
+          "title": "SEOにAIを使用する11の方法（+ベストプラクティスと課題）",
+          "titleOrig": "11 ways to use AI for SEO (+best practices & challenges)",
+          "link": "https://www.semrush.com/blog/ai-seo/",
+          "date": "Mon, 11 May 2026 07:50:00 +0000",
+          "summary": "11 practical ways to use AI for SEO, with copy-ready prompts, real examples, and best practices that work."
+        },
+        {
           "title": "ToFu、MoFu、BoFu ：コンバージョンファネルの実践ガイド",
           "titleOrig": "ToFu, MoFu, BoFu: A practical guide to the conversion funnel",
           "link": "https://www.semrush.com/blog/tofu-mofu-bofu-a-practical-guide-to-the-conversion-funnel/",
@@ -117,13 +93,6 @@
           "link": "https://www.semrush.com/blog/google-ucp-checkout-in-main-serp/",
           "date": "Thu, 07 May 2026 08:36:00 +0000",
           "summary": "Google started rolling out UCP-powered checkout to product listings to allow buying directly on the SERP."
-        },
-        {
-          "title": "あなたと競合他社のChatGPTトラフィックを追跡する方法",
-          "titleOrig": "How to track ChatGPT traffic for you and for competitors",
-          "link": "https://www.semrush.com/blog/track-chatgpt-traffic-and-competitors/",
-          "date": "Wed, 06 May 2026 12:50:00 +0000",
-          "summary": "Learn how to track ChatGPT traffic, benchmark against competitors, and connect AI visits to visibility signals."
         }
       ],
       "error": null
@@ -154,6 +123,18 @@
       "feedUrl": "https://rakkokeyword.com/techo/feed/",
       "items": [
         {
+          "title": "PDF結合ツール",
+          "link": "https://rakkokeyword.com/techo/tool-pdf-merge/",
+          "date": "Tue, 12 May 2026 01:42:21 +0000",
+          "summary": "ツールを準備しています… 安心設計：ファイルはお客様の端末内で処理され、サーバーには送信されません ※結合できないPDFファイル パスワード保護されたPDF（閲覧パスワード、または編集制限がかかっているもの） 破損してい ..."
+        },
+        {
+          "title": "タグテストツール",
+          "link": "https://rakkokeyword.com/techo/tool-tag-test-preview/",
+          "date": "Mon, 11 May 2026 06:59:44 +0000",
+          "summary": "💡 使い方： HTMLとCSSを編集して、表示確認ができます。下のサンプルボタンでコードを追加して、学習に役立ててください！ コードをリセット 【HTML】部品を挿入: リンク 画像 ボタン テーブル 商品紹介 【CSS ..."
+        },
+        {
           "title": "YouTube収益計算ツール",
           "link": "https://rakkokeyword.com/techo/tool-youtube-revenue-calculator/",
           "date": "Fri, 08 May 2026 01:09:52 +0000",
@@ -170,18 +151,6 @@
           "link": "https://rakkokeyword.com/techo/youtube-niche-for-beginners/",
           "date": "Thu, 07 May 2026 05:16:55 +0000",
           "summary": "「YouTubeで副業を始めたいけれど、どのジャンルを選べばいいかわからない」 「2026年の今からYouTubeを始めても、競合が多すぎて遅いのではないか」 このような悩みや不安を抱えていませんか？過去にYouTube ..."
-        },
-        {
-          "title": "インド式計算ツール",
-          "link": "https://rakkokeyword.com/techo/tool-mental-math-multiplication/",
-          "date": "Fri, 01 May 2026 07:41:46 +0000",
-          "summary": "計算する数値 × 計算する リセット ANSWER コピー このツールは、2桁の掛け算を瞬時に計算し、さらに「インド式計算」などの効率的な解き方をステップごとに視覚化して解説する計算・学習支援ツールです。 このツールでで ..."
-        },
-        {
-          "title": "マンカラゲーム",
-          "link": "https://rakkokeyword.com/techo/tool-mancala-game/",
-          "date": "Fri, 01 May 2026 02:28:03 +0000",
-          "summary": "マンカラゲームへようこそ コンピューターの強さ 簡単普通難しい 初期の石の数 3個4個 (標準)5個6個 手番の選択 あなたが先手コンピューターが先手ランダム ゲームを開始する 準備中… ヒント サウンド: ON リセッ ..."
         }
       ],
       "error": null
@@ -202,6 +171,13 @@
       "sourceType": "tool",
       "feedUrl": "https://blog.google/technology/ai/rss/",
       "items": [
+        {
+          "title": "新しいAIを搭載したGoogle Financeは、ヨーロッパに拡大しています。",
+          "titleOrig": "The new AI-powered Google Finance is expanding to Europe.",
+          "link": "https://blog.google/products-and-platforms/products/search/ai-powered-google-finance-in-europe/",
+          "date": "Mon, 11 May 2026 06:00:00 +0000",
+          "summary": "This week, the new, AI-powered Google Finance is launching across Europe, with full local language support. This reimagined experience offers a suite of powerful capabil…"
+        },
         {
           "title": "クリエイティブなレジェンドがAIを使用して中小企業向けの広告を作成すると何が起こるかをご覧ください。",
           "titleOrig": "See what happens when creative legends use AI to make ads for small businesses.",
@@ -229,13 +205,6 @@
           "link": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-april-2026/",
           "date": "Mon, 04 May 2026 17:00:00 +0000",
           "summary": "Here are Google’s latest AI updates from April 2026"
-        },
-        {
-          "title": "Gemini APIのWebhookを使用して、長時間実行するジョブの摩擦とレイテンシを削減",
-          "titleOrig": "Reduce friction and latency for long-running jobs with Webhooks in Gemini API",
-          "link": "https://blog.google/innovation-and-ai/technology/developers-tools/event-driven-webhooks/",
-          "date": "Mon, 04 May 2026 15:30:00 +0000",
-          "summary": "Event-Driven Webhooks are a push-based notification system that eliminates the need for inefficient polling."
         }
       ],
       "error": null
@@ -383,6 +352,13 @@
       "feedUrl": "https://github.blog/feed/",
       "items": [
         {
+          "title": "初心者のためのGitHub ： OSSの貢献を始める",
+          "titleOrig": "GitHub for Beginners: Getting started with OSS contributions",
+          "link": "https://github.blog/developer-skills/github/github-for-beginners-getting-started-with-oss-contributions/",
+          "date": "Mon, 11 May 2026 16:00:00 +0000",
+          "summary": "Learn how to find opportunities to contribute to the open source community. The post GitHub for Beginners: Getting started with OSS contributions appeared first on The GitHub Blog."
+        },
+        {
           "title": "年齢保証法が開発者にとって重要な理由",
           "titleOrig": "Why age assurance laws matter for developers",
           "link": "https://github.blog/news-insights/policy-news-and-insights/why-age-assurance-laws-matter-for-developers/",
@@ -409,13 +385,6 @@
           "link": "https://github.blog/ai-and-ml/generative-ai/agent-pull-requests-are-everywhere-heres-how-to-review-them/",
           "date": "Thu, 07 May 2026 19:00:00 +0000",
           "summary": "A practical guide to reviewing agent-generated pull requests: what to look for, where issues hide, and how to catch technical debt before it ships. The post Agent pull requests are everywhere. Here’s "
-        },
-        {
-          "title": "「正しい」が決定論的でない場合のエージェントの行動の検証",
-          "titleOrig": "Validating agentic behavior when “correct” isn’t deterministic",
-          "link": "https://github.blog/ai-and-ml/generative-ai/validating-agentic-behavior-when-correct-isnt-deterministic/",
-          "date": "Wed, 06 May 2026 21:16:31 +0000",
-          "summary": "How to build the “Trust Layer” for Github Copilot Coding Agents without brittle scripts or black-box judgements by using dominatory analysis. The post Validating agentic behavior when “correct” isn’t "
         }
       ],
       "error": null
