@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-05-12T03:27:27.494Z",
+  "fetchedAt": "2026-05-13T03:35:12.534Z",
   "tools": [
     {
       "tool": "ミエルカ（YouTube）",
@@ -19,6 +19,12 @@
       "sourceType": "tool",
       "feedUrl": "https://ahrefs.com/blog/ja/feed/",
       "items": [
+        {
+          "title": "【Ahrefs キーパーソンインタビュー 前編】AI 検索の最前線へ：CMO ティム・ソウロが語る Agent A、ブランドレーダー、そして AEO 時代のマーケティング",
+          "link": "https://ahrefs.com/blog/ja/interview-with-tim-future-of-seo-ai-agent/",
+          "date": "Tue, 12 May 2026 05:13:46 +0000",
+          "summary": "Ahrefs CMO ティム・ソウロの再来日インタビュー前編。AI エージェント「Agent A」や Claude 連携がもたらす「退屈な作業からの解放」とは？キーワード順位の先にある、ブランドレーダーを活用した AEO（回答エンジン最適化）戦略、そして AI と共に「発見される」ための本質を、日本マーケティング統括 Taka と共に語り尽くします。 Read more › The post 【A"
+        },
         {
           "title": "人気記事とベスト記事が ChatGPT の引用に与える影響：26,283URL の分析結果",
           "link": "https://ahrefs.com/blog/ja/best-lists-research-3/",
@@ -42,12 +48,6 @@
           "link": "https://ahrefs.com/blog/ja/google-web-guide/",
           "date": "Thu, 02 Apr 2026 07:54:45 +0000",
           "summary": "Google Web Guide は、Search Labs の実験機能で、Gemini のカスタムモデルを使用して検索結果をテーマ別のグループに整理します。従来の「10 本の青いリンク」とは異なるアプローチです。 Google は 2025年7月24日にオプトイン方式の実験として Web Guide をローンチしました。当初は Google 検索の「ウェブ」タブにのみ表示されていましたが、その後"
-        },
-        {
-          "title": "AI が最も信頼するドメイン TOP 10【2026 年 4 月最新版】Ahrefs ブランドレーダー で分析",
-          "link": "https://ahrefs.com/blog/ja/brand-radar-top-10-cited-domains-2026-update/",
-          "date": "Wed, 01 Apr 2026 04:43:32 +0000",
-          "summary": "6 ヶ月で大きく動いた AI の情報源：ChatGPT・AI モード・AI による概要・Perplexity・Copilot が引用するドメイン最新ランキング 公開日：2026 年 4 月 1 日 / データ出典：Ahrefs ブランドレーダー（2025 年 12 月〜2026 年 3 月） AI が回答を生成する際、どのサイトを「信頼できる情報源」として引用しているのかご存じですか？ Googl"
         }
       ],
       "error": null
@@ -59,6 +59,13 @@
       "sourceType": "tool",
       "feedUrl": "https://www.semrush.com/blog/feed/",
       "items": [
+        {
+          "title": "キーワードとは何ですか？定義、タイプ、使用方法",
+          "titleOrig": "What are keywords? Definition, types, & how to use them",
+          "link": "https://www.semrush.com/blog/what-are-keywords/",
+          "date": "Tue, 12 May 2026 14:48:00 +0000",
+          "summary": "A keyword is a word or phrase representing the topic of a search query, content piece, or conversation."
+        },
         {
           "title": "SEOにAIを使用する11の方法（+ベストプラクティスと課題）",
           "titleOrig": "11 ways to use AI for SEO (+best practices & challenges)",
@@ -86,13 +93,6 @@
           "link": "https://www.semrush.com/blog/google-ads-best-practices/",
           "date": "Thu, 07 May 2026 14:57:00 +0000",
           "summary": "Check out the top Google Ads best practices you need to follow to get better results from your ad campaigns."
-        },
-        {
-          "title": "Googleのユニバーサルコマースプロトコル機能がメインSERPに拡張",
-          "titleOrig": "Google’s Universal Commerce Protocol capabilities expand to main SERP",
-          "link": "https://www.semrush.com/blog/google-ucp-checkout-in-main-serp/",
-          "date": "Thu, 07 May 2026 08:36:00 +0000",
-          "summary": "Google started rolling out UCP-powered checkout to product listings to allow buying directly on the SERP."
         }
       ],
       "error": null
@@ -123,6 +123,12 @@
       "feedUrl": "https://rakkokeyword.com/techo/feed/",
       "items": [
         {
+          "title": "【最新】YouTubeのおすすめに乗るには？アルゴリズムの仕組みと再生回数を伸ばす対策",
+          "link": "https://rakkokeyword.com/techo/youtube-recommendation-algorithm/",
+          "date": "Tue, 12 May 2026 04:36:00 +0000",
+          "summary": "YouTubeで動画を投稿しているものの、「再生回数が伸びない」「おすすめやホーム画面に表示されなくなった」「インプレッションが増えない」と悩んでいませんか？ YouTube公式ヘルプでは、おすすめ動画はホーム画面や「次 ..."
+        },
+        {
           "title": "PDF結合ツール",
           "link": "https://rakkokeyword.com/techo/tool-pdf-merge/",
           "date": "Tue, 12 May 2026 01:42:21 +0000",
@@ -145,12 +151,6 @@
           "link": "https://rakkokeyword.com/techo/youtube-recommendation-tips/",
           "date": "Thu, 07 May 2026 07:44:00 +0000",
           "summary": "「一生懸命動画を編集して投稿しているのに、再生回数やチャンネル登録者数が全然伸びない」「自分の動画が誰の『おすすめ』にも表示されず、新しい視聴者に見てもらえない」 YouTubeチャンネルを運営していて、このような焦りや ..."
-        },
-        {
-          "title": "【2026年最新】YouTubeの狙い目ジャンル15選！初心者が稼ぐための選び方",
-          "link": "https://rakkokeyword.com/techo/youtube-niche-for-beginners/",
-          "date": "Thu, 07 May 2026 05:16:55 +0000",
-          "summary": "「YouTubeで副業を始めたいけれど、どのジャンルを選べばいいかわからない」 「2026年の今からYouTubeを始めても、競合が多すぎて遅いのではないか」 このような悩みや不安を抱えていませんか？過去にYouTube ..."
         }
       ],
       "error": null
@@ -352,6 +352,20 @@
       "feedUrl": "https://github.blog/feed/",
       "items": [
         {
+          "title": "GitHub Copilot個別プラン： ProおよびPro +のフレックス割り当てと新しいMaxプランの導入",
+          "titleOrig": "GitHub Copilot individual plans: Introducing flex allotments in Pro and Pro+, and a new Max plan",
+          "link": "https://github.blog/news-insights/company-news/github-copilot-individual-plans-introducing-flex-allotments-in-pro-and-pro-and-a-new-max-plan/",
+          "date": "Tue, 12 May 2026 17:35:41 +0000",
+          "summary": "Starting June 1, our lineup of individual plans will update based on your feedback. The post GitHub Copilot individual plans: Introducing flex allotments in Pro and Pro+, and a new Max plan appeared f"
+        },
+        {
+          "title": "ダンジョンとデスクトップ： GitHub Copilot CLIを使用して手続き的に生成されたroguelikeを構築する",
+          "titleOrig": "Dungeons & Desktops: Building a procedurally generated roguelike with GitHub Copilot CLI",
+          "link": "https://github.blog/ai-and-ml/github-copilot/dungeons-desktops-building-a-procedurally-generated-roguelike-with-github-copilot-cli/",
+          "date": "Tue, 12 May 2026 15:00:00 +0000",
+          "summary": "Learn how one Hubber used GitHub Copilot CLI to build an extension that turns any codebase into a unique, roguelike dungeon. The post Dungeons & Desktops: Building a procedurally generated roguelike w"
+        },
+        {
           "title": "初心者のためのGitHub ： OSSの貢献を始める",
           "titleOrig": "GitHub for Beginners: Getting started with OSS contributions",
           "link": "https://github.blog/developer-skills/github/github-for-beginners-getting-started-with-oss-contributions/",
@@ -371,20 +385,6 @@
           "link": "https://github.blog/news-insights/policy-news-and-insights/how-researchers-are-using-github-innovation-graph-data-to-reveal-the-digital-complexity-of-nations/",
           "date": "Fri, 08 May 2026 15:00:00 +0000",
           "summary": "Researchers share in an interview how they used GitHub data to predict GDP, inequality, and emissions in ways that traditional economic data misses, along with our Q4 2025 data release. The post How r"
-        },
-        {
-          "title": "GitHub Agenticワークフローのトークン効率の向上",
-          "titleOrig": "Improving token efficiency in GitHub Agentic Workflows",
-          "link": "https://github.blog/ai-and-ml/github-copilot/improving-token-efficiency-in-github-agentic-workflows/",
-          "date": "Thu, 07 May 2026 23:00:00 +0000",
-          "summary": "Agentic workflows that run on every pull request can quietly accumulate large API bills. Here's how we instrumented our own production workflows, found the inefficiencies, and built agents to fix them"
-        },
-        {
-          "title": "エージェントのプルリクエストはどこにでもあります。内容を確認する方法は次のとおりです。",
-          "titleOrig": "Agent pull requests are everywhere. Here’s how to review them.",
-          "link": "https://github.blog/ai-and-ml/generative-ai/agent-pull-requests-are-everywhere-heres-how-to-review-them/",
-          "date": "Thu, 07 May 2026 19:00:00 +0000",
-          "summary": "A practical guide to reviewing agent-generated pull requests: what to look for, where issues hide, and how to catch technical debt before it ships. The post Agent pull requests are everywhere. Here’s "
         }
       ],
       "error": null
