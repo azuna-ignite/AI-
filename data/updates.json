@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-05-13T03:35:12.534Z",
+  "fetchedAt": "2026-05-14T03:34:45.409Z",
   "tools": [
     {
       "tool": "ミエルカ（YouTube）",
@@ -19,6 +19,12 @@
       "sourceType": "tool",
       "feedUrl": "https://ahrefs.com/blog/ja/feed/",
       "items": [
+        {
+          "title": "スキーママークアップを追加しても AI 引用はほぼ増えない：1,885 ページの追跡調査結果",
+          "link": "https://ahrefs.com/blog/ja/schema-ai-citations/",
+          "date": "Wed, 13 May 2026 07:40:38 +0000",
+          "summary": "https://ahrefs.canny.io/ Ahrefs をもっと活用 👉 ▶︎ Ahrefs 公式ブログ — 本社発信の記事 ▶︎ Ahrefs Canny — 開発チームへ意見を送る ▶︎ X 公式アカウント— 最新情報をリアルタイムで ▶︎ YouTube 公式チャンネル— 動画コンテンツをチェック ▶︎ Ahrefs note — 日本チーム発信の記事 Ahrefs の公式 X を"
+        },
         {
           "title": "【Ahrefs キーパーソンインタビュー 前編】AI 検索の最前線へ：CMO ティム・ソウロが語る Agent A、ブランドレーダー、そして AEO 時代のマーケティング",
           "link": "https://ahrefs.com/blog/ja/interview-with-tim-future-of-seo-ai-agent/",
@@ -42,12 +48,6 @@
           "link": "https://ahrefs.com/blog/ja/ai-search-seo-guide-2026/",
           "date": "Fri, 17 Apr 2026 02:52:13 +0000",
           "summary": "2026 年、検索の常識は「リンクを探す」から「AI と対話する」へと激変しました。本記事では、Google「AI による概要」や主要 AI 検索エンジンの仕組み、ゼロクリック検索が SEO に与える影響を徹底解説。Ahrefs の最新機能を駆使し、AI に引用・信頼されるための「次世代の SEO 戦略」をAhrefs 独自の視点で解説します。 Read more › The post AI 検索"
-        },
-        {
-          "title": "Google Web Guide とは？仕組み・AIによる概要との違い・SEO 対策まで解説",
-          "link": "https://ahrefs.com/blog/ja/google-web-guide/",
-          "date": "Thu, 02 Apr 2026 07:54:45 +0000",
-          "summary": "Google Web Guide は、Search Labs の実験機能で、Gemini のカスタムモデルを使用して検索結果をテーマ別のグループに整理します。従来の「10 本の青いリンク」とは異なるアプローチです。 Google は 2025年7月24日にオプトイン方式の実験として Web Guide をローンチしました。当初は Google 検索の「ウェブ」タブにのみ表示されていましたが、その後"
         }
       ],
       "error": null
@@ -59,6 +59,20 @@
       "sourceType": "tool",
       "feedUrl": "https://www.semrush.com/blog/feed/",
       "items": [
+        {
+          "title": "ソーシャルメディア管理：究極のガイド",
+          "titleOrig": "Social media management: The ultimate guide",
+          "link": "https://www.semrush.com/blog/social-media-management/",
+          "date": "Wed, 13 May 2026 14:29:00 +0000",
+          "summary": "Learn how consistency in social media management compounds into brand equity and how to build a presence that stacks over time."
+        },
+        {
+          "title": "ゼロクリック検索市場で勝つ方法",
+          "titleOrig": "How to Win in a Zero-Click Search Market",
+          "link": "https://www.semrush.com/blog/zero-click-searches/",
+          "date": "Wed, 13 May 2026 09:45:00 +0000",
+          "summary": "Learn what zero‑click search means, why clicks are down, and what to focus on instead."
+        },
         {
           "title": "キーワードとは何ですか？定義、タイプ、使用方法",
           "titleOrig": "What are keywords? Definition, types, & how to use them",
@@ -79,20 +93,6 @@
           "link": "https://www.semrush.com/blog/tofu-mofu-bofu-a-practical-guide-to-the-conversion-funnel/",
           "date": "Fri, 08 May 2026 09:16:00 +0000",
           "summary": "Learn tactics + content suitable for each stage, including how to reverse engineer your competitors’ conversion funnels."
-        },
-        {
-          "title": "AIがあなたのブランドについて間違っている点を見つけて修正する方法",
-          "titleOrig": "How to find and fix what AI gets wrong about your brand",
-          "link": "https://www.semrush.com/blog/fix-ai-brand-misinformation/",
-          "date": "Fri, 08 May 2026 08:55:00 +0000",
-          "summary": "Learn how to identify, trace, and fix incorrect information about your brand in AI answers."
-        },
-        {
-          "title": "11広告費収益率を最大化するためのGoogle Adsのベストプラクティス",
-          "titleOrig": "11 Google Ads best practices to maximize return on ad spend",
-          "link": "https://www.semrush.com/blog/google-ads-best-practices/",
-          "date": "Thu, 07 May 2026 14:57:00 +0000",
-          "summary": "Check out the top Google Ads best practices you need to follow to get better results from your ad campaigns."
         }
       ],
       "error": null
@@ -123,6 +123,18 @@
       "feedUrl": "https://rakkokeyword.com/techo/feed/",
       "items": [
         {
+          "title": "YouTubeの再生回数を増やす方法！伸び悩みから抜け出す仕組みと12の実践テクニック",
+          "link": "https://rakkokeyword.com/techo/youtube-views-up/",
+          "date": "Thu, 14 May 2026 01:07:53 +0000",
+          "summary": "一生懸命に動画を撮影し、編集して投稿しても、再生回数が1桁で止まってしまったり、数十回から数百回で全く伸びなくなったりすると、とても落ち込みますよね。 「サムネイルやタイトルが大事だとは聞くけれど、具体的にどう直せばいい ..."
+        },
+        {
+          "title": "消費クレジットシミュレーター",
+          "link": "https://rakkokeyword.com/techo/credit-payment-simulator/",
+          "date": "Wed, 13 May 2026 08:03:55 +0000",
+          "summary": "API経由で利用 すべてリセット 合計消費クレジット 0.00 プラン別 上限と使用率 このツールについて ラッコキーワードの各機能を「月にどれくらい使うか」を入力するだけで、必要な合計クレジット数を自動計算するシミュレ ..."
+        },
+        {
           "title": "【最新】YouTubeのおすすめに乗るには？アルゴリズムの仕組みと再生回数を伸ばす対策",
           "link": "https://rakkokeyword.com/techo/youtube-recommendation-algorithm/",
           "date": "Tue, 12 May 2026 04:36:00 +0000",
@@ -139,18 +151,6 @@
           "link": "https://rakkokeyword.com/techo/tool-tag-test-preview/",
           "date": "Mon, 11 May 2026 06:59:44 +0000",
           "summary": "💡 使い方： HTMLとCSSを編集して、表示確認ができます。下のサンプルボタンでコードを追加して、学習に役立ててください！ コードをリセット 【HTML】部品を挿入: リンク 画像 ボタン テーブル 商品紹介 【CSS ..."
-        },
-        {
-          "title": "YouTube収益計算ツール",
-          "link": "https://rakkokeyword.com/techo/tool-youtube-revenue-calculator/",
-          "date": "Fri, 08 May 2026 01:09:52 +0000",
-          "summary": "日収（推定） 0 円 月収（推定） 0 円 年収（推定） 0 円 動画フォーマット 通常動画 ショート動画 発信ジャンル 一般的なエンタメ (平均値)ビジネスゲーム実況Vlogキッズ 1動画あたりの平均再生回数 回 月間 ..."
-        },
-        {
-          "title": "【2026年最新】Youtubeのおすすめに乗る方法！今日からできる実践テクニック",
-          "link": "https://rakkokeyword.com/techo/youtube-recommendation-tips/",
-          "date": "Thu, 07 May 2026 07:44:00 +0000",
-          "summary": "「一生懸命動画を編集して投稿しているのに、再生回数やチャンネル登録者数が全然伸びない」「自分の動画が誰の『おすすめ』にも表示されず、新しい視聴者に見てもらえない」 YouTubeチャンネルを運営していて、このような焦りや ..."
         }
       ],
       "error": null
@@ -352,6 +352,13 @@
       "feedUrl": "https://github.blog/feed/",
       "items": [
         {
+          "title": "ダンジョンとデスクトップ：死なない10人のロゲライク（彼らのコミュニティが許さないため）",
+          "titleOrig": "Dungeons & Desktops: 10 roguelikes that never die (because their communities won’t let them)",
+          "link": "https://github.blog/open-source/gaming/dungeons-desktops-10-roguelikes-that-never-die-because-their-communities-wont-let-them/",
+          "date": "Wed, 13 May 2026 16:00:00 +0000",
+          "summary": "Roguelikes don’t die. They fork, mutate, get argued over, rewritten, abandoned, and revived again. Sometimes all at once. The post Dungeons & Desktops: 10 roguelikes that never die (because their comm"
+        },
+        {
           "title": "GitHub Copilot個別プラン： ProおよびPro +のフレックス割り当てと新しいMaxプランの導入",
           "titleOrig": "GitHub Copilot individual plans: Introducing flex allotments in Pro and Pro+, and a new Max plan",
           "link": "https://github.blog/news-insights/company-news/github-copilot-individual-plans-introducing-flex-allotments-in-pro-and-pro-and-a-new-max-plan/",
@@ -378,13 +385,6 @@
           "link": "https://github.blog/news-insights/policy-news-and-insights/why-age-assurance-laws-matter-for-developers/",
           "date": "Fri, 08 May 2026 16:30:00 +0000",
           "summary": "Youth safety requirements are moving down the tech stack to operating systems and app stores—raising new questions for open source developers. The post Why age assurance laws matter for developers app"
-        },
-        {
-          "title": "研究者が国の「デジタルの複雑さ」を明らかにするためにGitHub Innovation Graphデータをどのように使用しているか",
-          "titleOrig": "How researchers are using GitHub Innovation Graph data to reveal the “digital complexity” of nations",
-          "link": "https://github.blog/news-insights/policy-news-and-insights/how-researchers-are-using-github-innovation-graph-data-to-reveal-the-digital-complexity-of-nations/",
-          "date": "Fri, 08 May 2026 15:00:00 +0000",
-          "summary": "Researchers share in an interview how they used GitHub data to predict GDP, inequality, and emissions in ways that traditional economic data misses, along with our Q4 2025 data release. The post How r"
         }
       ],
       "error": null
