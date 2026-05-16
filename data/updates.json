@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-05-15T03:37:40.801Z",
+  "fetchedAt": "2026-05-16T03:21:59.703Z",
   "tools": [
     {
       "tool": "ミエルカ（YouTube）",
@@ -91,39 +91,39 @@
       "feedUrl": "https://www.semrush.com/blog/feed/",
       "items": [
         {
+          "title": "リードジェネレーションファネルとは？そしてどのように構築するか",
+          "titleOrig": "What is a lead generation funnel? And how to build one",
+          "link": "https://www.semrush.com/blog/lead-generation-funnel/",
+          "date": "Fri, 15 May 2026 14:13:00 +0000",
+          "summary": "Learn what a lead generation funnel is and how to build one that drives qualified leads."
+        },
+        {
+          "title": "プロンプトトラッキングとは何ですか？ （+トラッキングする4つのプロンプトタイプ）",
+          "titleOrig": "What is prompt tracking? (+ 4 prompt types to track)",
+          "link": "https://www.semrush.com/blog/prompt-tracking/",
+          "date": "Fri, 15 May 2026 09:28:00 +0000",
+          "summary": "Prompt tracking monitors what users ask AI systems and the answers they get. Learn 4 prompt types every brand should track."
+        },
+        {
+          "title": "オーガニック＆ AI検索のバイヤーインテントキーワードを見つける方法",
+          "titleOrig": "How to find buyer intent keywords for organic & AI search",
+          "link": "https://www.semrush.com/blog/buyer-keywords/",
+          "date": "Fri, 15 May 2026 08:57:00 +0000",
+          "summary": "Learn how to find and track buyer intent keywords people are using in Google and LLMs like ChatGPT."
+        },
+        {
+          "title": "YouTubeキーワードリサーチの方法： 2026年の完全ガイド",
+          "titleOrig": "How to do YouTube keyword research: A complete 2026 guide",
+          "link": "https://www.semrush.com/blog/youtube-keyword-research/",
+          "date": "Fri, 15 May 2026 08:45:00 +0000",
+          "summary": "Learn how to use YouTube keyword research to validate topics for both YouTube and Google‘s video features."
+        },
+        {
           "title": "ソーシャルメディア管理：究極のガイド",
           "titleOrig": "Social media management: The ultimate guide",
           "link": "https://www.semrush.com/blog/social-media-management/",
           "date": "Wed, 13 May 2026 14:29:00 +0000",
           "summary": "Learn how consistency in social media management compounds into brand equity and how to build a presence that stacks over time."
-        },
-        {
-          "title": "ゼロクリック検索市場で勝つ方法",
-          "titleOrig": "How to Win in a Zero-Click Search Market",
-          "link": "https://www.semrush.com/blog/zero-click-searches/",
-          "date": "Wed, 13 May 2026 09:45:00 +0000",
-          "summary": "Learn what zero‑click search means, why clicks are down, and what to focus on instead."
-        },
-        {
-          "title": "キーワードとは何ですか？定義、タイプ、使用方法",
-          "titleOrig": "What are keywords? Definition, types, & how to use them",
-          "link": "https://www.semrush.com/blog/what-are-keywords/",
-          "date": "Tue, 12 May 2026 14:48:00 +0000",
-          "summary": "A keyword is a word or phrase representing the topic of a search query, content piece, or conversation."
-        },
-        {
-          "title": "SEOにAIを使用する11の方法（+ベストプラクティスと課題）",
-          "titleOrig": "11 ways to use AI for SEO (+best practices & challenges)",
-          "link": "https://www.semrush.com/blog/ai-seo/",
-          "date": "Mon, 11 May 2026 07:50:00 +0000",
-          "summary": "11 practical ways to use AI for SEO, with copy-ready prompts, real examples, and best practices that work."
-        },
-        {
-          "title": "ToFu、MoFu、BoFu ：コンバージョンファネルの実践ガイド",
-          "titleOrig": "ToFu, MoFu, BoFu: A practical guide to the conversion funnel",
-          "link": "https://www.semrush.com/blog/tofu-mofu-bofu-a-practical-guide-to-the-conversion-funnel/",
-          "date": "Fri, 08 May 2026 09:16:00 +0000",
-          "summary": "Learn tactics + content suitable for each stage, including how to reverse engineer your competitors’ conversion funnels."
         }
       ],
       "error": null
@@ -383,6 +383,20 @@
       "feedUrl": "https://github.blog/feed/",
       "items": [
         {
+          "title": "汎用アクセシビリティ対応エージェントの構築とそのプロセスで学んだこと",
+          "titleOrig": "Building a general-purpose accessibility agent—and what we learned in the process",
+          "link": "https://github.blog/ai-and-ml/github-copilot/building-a-general-purpose-accessibility-agent-and-what-we-learned-in-the-process/",
+          "date": "Fri, 15 May 2026 16:00:00 +0000",
+          "summary": "Learn about the experimental general-purpose accessibility agent that GitHub is piloting. The post Building a general-purpose accessibility agent—and what we learned in the process appeared first on T"
+        },
+        {
+          "title": "レベルを上げる：品質、責任の共有、GitHubのバグバウンティプログラムの将来",
+          "titleOrig": "Raising the bar: Quality, shared responsibility, and the future of GitHub’s bug bounty program",
+          "link": "https://github.blog/security/raising-the-bar-quality-shared-responsibility-and-the-future-of-githubs-bug-bounty-program/",
+          "date": "Fri, 15 May 2026 14:00:00 +0000",
+          "summary": "We're updating our bug bounty program standards to prioritize quality submissions, clarify shared responsibility boundaries, and evolve how we reward low-risk findings. The post Raising the bar: Quali"
+        },
+        {
           "title": "GitHub可用性レポート： 2026年4月",
           "titleOrig": "GitHub availability report: April 2026",
           "link": "https://github.blog/news-insights/company-news/github-availability-report-april-2026/",
@@ -402,20 +416,6 @@
           "link": "https://github.blog/open-source/gaming/dungeons-desktops-10-roguelikes-that-never-die-because-their-communities-wont-let-them/",
           "date": "Wed, 13 May 2026 16:00:00 +0000",
           "summary": "Roguelikes don’t die. They fork, mutate, get argued over, rewritten, abandoned, and revived again. Sometimes all at once. The post Dungeons & Desktops: 10 roguelikes that never die (because their comm"
-        },
-        {
-          "title": "GitHub Copilot個別プラン： ProおよびPro +のフレックス割り当てと新しいMaxプランの導入",
-          "titleOrig": "GitHub Copilot individual plans: Introducing flex allotments in Pro and Pro+, and a new Max plan",
-          "link": "https://github.blog/news-insights/company-news/github-copilot-individual-plans-introducing-flex-allotments-in-pro-and-pro-and-a-new-max-plan/",
-          "date": "Tue, 12 May 2026 17:35:41 +0000",
-          "summary": "Starting June 1, our lineup of individual plans will update based on your feedback. The post GitHub Copilot individual plans: Introducing flex allotments in Pro and Pro+, and a new Max plan appeared f"
-        },
-        {
-          "title": "ダンジョンとデスクトップ： GitHub Copilot CLIを使用して手続き的に生成されたroguelikeを構築する",
-          "titleOrig": "Dungeons & Desktops: Building a procedurally generated roguelike with GitHub Copilot CLI",
-          "link": "https://github.blog/ai-and-ml/github-copilot/dungeons-desktops-building-a-procedurally-generated-roguelike-with-github-copilot-cli/",
-          "date": "Tue, 12 May 2026 15:00:00 +0000",
-          "summary": "Learn how one Hubber used GitHub Copilot CLI to build an extension that turns any codebase into a unique, roguelike dungeon. The post Dungeons & Desktops: Building a procedurally generated roguelike w"
         }
       ],
       "error": null
