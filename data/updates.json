@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-05-17T03:35:57.110Z",
+  "fetchedAt": "2026-05-18T03:51:08.083Z",
   "tools": [
     {
       "tool": "ミエルカ（YouTube）",
@@ -9,39 +9,8 @@
       "type": "youtube",
       "handle": "@mieruca-channel",
       "feedUrl": "",
-      "items": [
-        {
-          "title": "Googleサーチコンソールの使い方 実践編｜比較機能でSEO分析を深める方法",
-          "link": "https://www.youtube.com/watch?v=hdzqIaaLgg0",
-          "date": "2026-05-12T09:00:56.000Z",
-          "summary": ""
-        },
-        {
-          "title": "Googleコアアップデート分析：一次情報・公式サイトが強まる傾向｜SEO Weekly Update",
-          "link": "https://www.youtube.com/watch?v=5dWG9g7tnUQ",
-          "date": "2026-05-10T23:00:05.000Z",
-          "summary": ""
-        },
-        {
-          "title": "SEOとは？SEO対策の基本・始め方・注意点を初心者向けに解説【2026年最新版】",
-          "link": "https://www.youtube.com/watch?v=lcVTg_BT4I4",
-          "date": "2026-05-07T09:01:05.000Z",
-          "summary": ""
-        },
-        {
-          "title": "【SEO】コアアップデートはAI検索にどう影響する？｜グレン・ゲイブ氏",
-          "link": "https://www.youtube.com/shorts/W5Dcz5r4MAE",
-          "date": "2026-04-28T09:00:42.000Z",
-          "summary": ""
-        },
-        {
-          "title": "LLMO対策とは？AI検索時代のSEOとの違い、やること・やらないことを完全解説【2026年版】",
-          "link": "https://www.youtube.com/watch?v=28-uFWvcJfA",
-          "date": "2026-04-28T02:30:01.000Z",
-          "summary": ""
-        }
-      ],
-      "error": null
+      "items": [],
+      "error": "Status code 404"
     },
     {
       "tool": "Ahrefs",
