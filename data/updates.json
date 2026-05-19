@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-05-18T03:51:08.083Z",
+  "fetchedAt": "2026-05-19T03:41:18.699Z",
   "tools": [
     {
       "tool": "ミエルカ（YouTube）",
@@ -19,6 +19,12 @@
       "sourceType": "tool",
       "feedUrl": "https://ahrefs.com/blog/ja/feed/",
       "items": [
+        {
+          "title": "生成 AI におけるトレーニングデータ、RAG（検索拡張生成）、MCP、API とは？",
+          "link": "https://ahrefs.com/blog/ja/how-does-ai-get-its-information/",
+          "date": "Mon, 18 May 2026 07:31:01 +0000",
+          "summary": "生成 AI はどこから情報を得ているのか？トレーニングデータ、RAG、MCP、API という 3 つの知識レイヤーの仕組みと限界、そしてブランドが AI に正しく認識されるための戦略を解説します。 Read more › The post 生成 AI におけるトレーニングデータ、RAG（検索拡張生成）、MCP、API とは？ appeared first on Ahrefs 公式ブログ."
+        },
         {
           "title": "スキーママークアップを追加しても AI 引用はほぼ増えない：1,885 ページの追跡調査結果",
           "link": "https://ahrefs.com/blog/ja/schema-ai-citations/",
@@ -42,12 +48,6 @@
           "link": "https://ahrefs.com/blog/ja/query-fan-out/",
           "date": "Fri, 17 Apr 2026 03:08:21 +0000",
           "summary": "クエリファンアウトは AI 検索が 1 つのクエリを複数の関連クエリに展開する技術です。仕組み、活用理由、SEO 最適化方法まで詳しく解説します。 Read more › The post クエリファンアウトとは？AI 検索の隠れたクエリ技術を解説 appeared first on Ahrefs 公式ブログ."
-        },
-        {
-          "title": "AI 検索とは？仕組み・おすすめ AI 検索エンジン・SEO への影響を徹底解説【2026 年最新版】",
-          "link": "https://ahrefs.com/blog/ja/ai-search-seo-guide-2026/",
-          "date": "Fri, 17 Apr 2026 02:52:13 +0000",
-          "summary": "2026 年、検索の常識は「リンクを探す」から「AI と対話する」へと激変しました。本記事では、Google「AI による概要」や主要 AI 検索エンジンの仕組み、ゼロクリック検索が SEO に与える影響を徹底解説。Ahrefs の最新機能を駆使し、AI に引用・信頼されるための「次世代の SEO 戦略」をAhrefs 独自の視点で解説します。 Read more › The post AI 検索"
         }
       ],
       "error": null
@@ -123,16 +123,22 @@
       "feedUrl": "https://rakkokeyword.com/techo/feed/",
       "items": [
         {
+          "title": "【完全解説】YouTube再生回数の仕組み！増えない原因と伸ばすコツ",
+          "link": "https://rakkokeyword.com/techo/increase-youtube-views/",
+          "date": "Mon, 18 May 2026 07:10:51 +0000",
+          "summary": "「YouTubeで動画を公開したけれど、再生回数が思ったように伸びない」 「自分で何度も再生しているのに、カウンターの数字が動かないのはなぜ？」 YouTubeチャンネルを運営していると、このような悩みに直面することがあ ..."
+        },
+        {
+          "title": "PDF分割ツール",
+          "link": "https://rakkokeyword.com/techo/tool-pdf-split/",
+          "date": "Mon, 18 May 2026 06:18:48 +0000",
+          "summary": "ツールを準備しています… 安心設計：ファイルはお客様の端末内で処理され、サーバーには送信されません 分割したいPDFをドラッグ＆ドロップ またはクリックして選択 対応形式: PDF 削除 ファイル単位の分割 見開きページ ..."
+        },
+        {
           "title": "YouTubeの再生回数を増やす方法！伸び悩みから抜け出す仕組みと12の実践テクニック",
           "link": "https://rakkokeyword.com/techo/youtube-views-up/",
           "date": "Thu, 14 May 2026 01:07:53 +0000",
           "summary": "一生懸命に動画を撮影し、編集して投稿しても、再生回数が1桁で止まってしまったり、数十回から数百回で全く伸びなくなったりすると、とても落ち込みますよね。 「サムネイルやタイトルが大事だとは聞くけれど、具体的にどう直せばいい ..."
-        },
-        {
-          "title": "消費クレジットシミュレーター",
-          "link": "https://rakkokeyword.com/techo/credit-payment-simulator/",
-          "date": "Wed, 13 May 2026 08:03:55 +0000",
-          "summary": "API経由で利用 すべてリセット 合計消費クレジット 0.00 プラン別 上限と使用率 このツールについて ラッコキーワードの各機能を「月にどれくらい使うか」を入力するだけで、必要な合計クレジット数を自動計算するシミュレ ..."
         },
         {
           "title": "【最新】YouTubeのおすすめに乗るには？アルゴリズムの仕組みと再生回数を伸ばす対策",
@@ -145,12 +151,6 @@
           "link": "https://rakkokeyword.com/techo/tool-pdf-merge/",
           "date": "Tue, 12 May 2026 01:42:21 +0000",
           "summary": "ツールを準備しています… 安心設計：ファイルはお客様の端末内で処理され、サーバーには送信されません ※結合できないPDFファイル パスワード保護されたPDF（閲覧パスワード、または編集制限がかかっているもの） 破損してい ..."
-        },
-        {
-          "title": "タグテストツール",
-          "link": "https://rakkokeyword.com/techo/tool-tag-test-preview/",
-          "date": "Mon, 11 May 2026 06:59:44 +0000",
-          "summary": "💡 使い方： HTMLとCSSを編集して、表示確認ができます。下のサンプルボタンでコードを追加して、学習に役立ててください！ コードをリセット 【HTML】部品を挿入: リンク 画像 ボタン テーブル 商品紹介 【CSS ..."
         }
       ],
       "error": null
@@ -352,6 +352,13 @@
       "feedUrl": "https://github.blog/feed/",
       "items": [
         {
+          "title": "ローカルのGitHubセッションをどこでも利用できます",
+          "titleOrig": "Take your local GitHub sessions anywhere",
+          "link": "https://github.blog/news-insights/product-news/take-your-local-github-sessions-anywhere/",
+          "date": "Mon, 18 May 2026 16:54:53 +0000",
+          "summary": "Kick off work in VS Code or the CLI, finish it from your phone. Remote control for GitHub Copilot sessions is now generally available on github.com and GitHub Mobile. The post Take your local GitHub s"
+        },
+        {
           "title": "汎用アクセシビリティ対応エージェントの構築とそのプロセスで学んだこと",
           "titleOrig": "Building a general-purpose accessibility agent—and what we learned in the process",
           "link": "https://github.blog/ai-and-ml/github-copilot/building-a-general-purpose-accessibility-agent-and-what-we-learned-in-the-process/",
@@ -378,13 +385,6 @@
           "link": "https://github.blog/engineering/architecture-optimization/from-latency-to-instant-modernizing-github-issues-navigation-performance/",
           "date": "Thu, 14 May 2026 16:00:00 +0000",
           "summary": "How the GitHub Issues team used client-side caching, smart prefetching, and service workers to make navigation feel instant. The post From latency to instant: Modernizing GitHub Issues navigation perf"
-        },
-        {
-          "title": "ダンジョンとデスクトップ：死なない10人のロゲライク（彼らのコミュニティが許さないため）",
-          "titleOrig": "Dungeons & Desktops: 10 roguelikes that never die (because their communities won’t let them)",
-          "link": "https://github.blog/open-source/gaming/dungeons-desktops-10-roguelikes-that-never-die-because-their-communities-wont-let-them/",
-          "date": "Wed, 13 May 2026 16:00:00 +0000",
-          "summary": "Roguelikes don’t die. They fork, mutate, get argued over, rewritten, abandoned, and revived again. Sometimes all at once. The post Dungeons & Desktops: 10 roguelikes that never die (because their comm"
         }
       ],
       "error": null
