@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-05-19T03:41:18.699Z",
+  "fetchedAt": "2026-05-20T03:42:26.350Z",
   "tools": [
     {
       "tool": "ミエルカ（YouTube）",
@@ -20,6 +20,12 @@
       "feedUrl": "https://ahrefs.com/blog/ja/feed/",
       "items": [
         {
+          "title": "【Ahrefs（エイチレフス）キーパーソンインタビュー 後編】日本市場にさらに注目：1 年ぶり再来日、CMO ティム・ソウロ × 日本マーケティング統括 Taka が描く次のステージ",
+          "link": "https://ahrefs.com/blog/ja/interview-with-tim-ahrefs-japan-strategy-2026/",
+          "date": "Wed, 20 May 2026 01:42:54 +0000",
+          "summary": "Ahrefs CMO ティム・ソウロの再来日インタビュー後編。日本を「Ahrefs にとって世界トップ 3 の重要拠点」と位置づける戦略の裏側、渋谷メガウォール広告に込めた想い、そして加速する日本ローカライズの全貌を公開。激変する AI 検索時代、グローバルの知見をどう日本市場へ還元するのか？日本マーケティング統括の Taka と共に Ahrefs Japan の次なるステージを語ります。 Rea"
+        },
+        {
           "title": "生成 AI におけるトレーニングデータ、RAG（検索拡張生成）、MCP、API とは？",
           "link": "https://ahrefs.com/blog/ja/how-does-ai-get-its-information/",
           "date": "Mon, 18 May 2026 07:31:01 +0000",
@@ -32,7 +38,7 @@
           "summary": "https://ahrefs.canny.io/ Ahrefs をもっと活用 👉 ▶︎ Ahrefs 公式ブログ — 本社発信の記事 ▶︎ Ahrefs Canny — 開発チームへ意見を送る ▶︎ X 公式アカウント— 最新情報をリアルタイムで ▶︎ YouTube 公式チャンネル— 動画コンテンツをチェック ▶︎ Ahrefs note — 日本チーム発信の記事 Ahrefs の公式 X を"
         },
         {
-          "title": "【Ahrefs キーパーソンインタビュー 前編】AI 検索の最前線へ：CMO ティム・ソウロが語る Agent A、ブランドレーダー、そして AEO 時代のマーケティング",
+          "title": "【Ahrefs（エイチレフス）キーパーソンインタビュー 前編】AI 検索の最前線へ：CMO ティム・ソウロが語る Agent A、ブランドレーダー、そして AEO 時代のマーケティング",
           "link": "https://ahrefs.com/blog/ja/interview-with-tim-future-of-seo-ai-agent/",
           "date": "Tue, 12 May 2026 05:13:46 +0000",
           "summary": "Ahrefs CMO ティム・ソウロの再来日インタビュー前編。AI エージェント「Agent A」や Claude 連携がもたらす「退屈な作業からの解放」とは？キーワード順位の先にある、ブランドレーダーを活用した AEO（回答エンジン最適化）戦略、そして AI と共に「発見される」ための本質を、日本マーケティング統括 Taka と共に語り尽くします。 Read more › The post 【A"
@@ -42,12 +48,6 @@
           "link": "https://ahrefs.com/blog/ja/best-lists-research-3/",
           "date": "Tue, 21 Apr 2026 08:39:31 +0000",
           "summary": "[/intro_text] https://ahrefs.canny.io/ Ahrefs をもっと活用 👉▶︎ Ahrefs 公式ブログ — 本社発信の記事▶︎ Ahrefs Canny — 開発チームへ意見を送る▶︎ X 公式アカウント— 最新情報をリアルタイムで▶︎ YouTube 公式チャンネル— 動画コンテンツをチェック▶︎ Ahrefs note — 日本チーム発信の記事 Ahref"
-        },
-        {
-          "title": "クエリファンアウトとは？AI 検索の隠れたクエリ技術を解説",
-          "link": "https://ahrefs.com/blog/ja/query-fan-out/",
-          "date": "Fri, 17 Apr 2026 03:08:21 +0000",
-          "summary": "クエリファンアウトは AI 検索が 1 つのクエリを複数の関連クエリに展開する技術です。仕組み、活用理由、SEO 最適化方法まで詳しく解説します。 Read more › The post クエリファンアウトとは？AI 検索の隠れたクエリ技術を解説 appeared first on Ahrefs 公式ブログ."
         }
       ],
       "error": null
@@ -59,6 +59,13 @@
       "sourceType": "tool",
       "feedUrl": "https://www.semrush.com/blog/feed/",
       "items": [
+        {
+          "title": "Google、ジェネレーティブAI検索に最適化するためのガイドを公開",
+          "titleOrig": "Google publishes guide to optimizing for generative AI search",
+          "link": "https://www.semrush.com/blog/google-publishes-generative-ai-search-guide/",
+          "date": "Tue, 19 May 2026 13:52:00 +0000",
+          "summary": "Google‘s first consolidated AI optimization guide gives guidance on ways to optimize for Google’s generative AI features."
+        },
         {
           "title": "リードジェネレーションファネルとは？そしてどのように構築するか",
           "titleOrig": "What is a lead generation funnel? And how to build one",
@@ -86,13 +93,6 @@
           "link": "https://www.semrush.com/blog/youtube-keyword-research/",
           "date": "Fri, 15 May 2026 08:45:00 +0000",
           "summary": "Learn how to use YouTube keyword research to validate topics for both YouTube and Google‘s video features."
-        },
-        {
-          "title": "ソーシャルメディア管理：究極のガイド",
-          "titleOrig": "Social media management: The ultimate guide",
-          "link": "https://www.semrush.com/blog/social-media-management/",
-          "date": "Wed, 13 May 2026 14:29:00 +0000",
-          "summary": "Learn how consistency in social media management compounds into brand equity and how to build a presence that stacks over time."
         }
       ],
       "error": null
@@ -123,6 +123,12 @@
       "feedUrl": "https://rakkokeyword.com/techo/feed/",
       "items": [
         {
+          "title": "PDFページ抽出ツール",
+          "link": "https://rakkokeyword.com/techo/tool-pdf-extract/",
+          "date": "Tue, 19 May 2026 05:59:11 +0000",
+          "summary": "PDF分割 PDFページ抽出 ツールを準備しています… 安心設計：ファイルはお客様の端末内で処理され、サーバーには送信されません ページ抽出したいPDFをドラッグ＆ドロップ またはクリックして選択 対応形式: PDF 削 ..."
+        },
+        {
           "title": "【完全解説】YouTube再生回数の仕組み！増えない原因と伸ばすコツ",
           "link": "https://rakkokeyword.com/techo/increase-youtube-views/",
           "date": "Mon, 18 May 2026 07:10:51 +0000",
@@ -132,7 +138,7 @@
           "title": "PDF分割ツール",
           "link": "https://rakkokeyword.com/techo/tool-pdf-split/",
           "date": "Mon, 18 May 2026 06:18:48 +0000",
-          "summary": "ツールを準備しています… 安心設計：ファイルはお客様の端末内で処理され、サーバーには送信されません 分割したいPDFをドラッグ＆ドロップ またはクリックして選択 対応形式: PDF 削除 ファイル単位の分割 見開きページ ..."
+          "summary": "PDF分割 PDFページ抽出 ツールを準備しています… 安心設計：ファイルはお客様の端末内で処理され、サーバーには送信されません 分割したいPDFをドラッグ＆ドロップ またはクリックして選択 対応形式: PDF 削除 フ ..."
         },
         {
           "title": "YouTubeの再生回数を増やす方法！伸び悩みから抜け出す仕組みと12の実践テクニック",
@@ -145,12 +151,6 @@
           "link": "https://rakkokeyword.com/techo/youtube-recommendation-algorithm/",
           "date": "Tue, 12 May 2026 04:36:00 +0000",
           "summary": "YouTubeで動画を投稿しているものの、「再生回数が伸びない」「おすすめやホーム画面に表示されなくなった」「インプレッションが増えない」と悩んでいませんか？ YouTube公式ヘルプでは、おすすめ動画はホーム画面や「次 ..."
-        },
-        {
-          "title": "PDF結合ツール",
-          "link": "https://rakkokeyword.com/techo/tool-pdf-merge/",
-          "date": "Tue, 12 May 2026 01:42:21 +0000",
-          "summary": "ツールを準備しています… 安心設計：ファイルはお客様の端末内で処理され、サーバーには送信されません ※結合できないPDFファイル パスワード保護されたPDF（閲覧パスワード、または編集制限がかかっているもの） 破損してい ..."
         }
       ],
       "error": null
@@ -172,39 +172,39 @@
       "feedUrl": "https://blog.google/technology/ai/rss/",
       "items": [
         {
-          "title": "新しいAIを搭載したGoogle Financeは、ヨーロッパに拡大しています。",
-          "titleOrig": "The new AI-powered Google Finance is expanding to Europe.",
-          "link": "https://blog.google/products-and-platforms/products/search/ai-powered-google-finance-in-europe/",
-          "date": "Mon, 11 May 2026 06:00:00 +0000",
-          "summary": "This week, the new, AI-powered Google Finance is launching across Europe, with full local language support. This reimagined experience offers a suite of powerful capabil…"
+          "title": "I/O 2026",
+          "titleOrig": "I/O 2026",
+          "link": "https://blog.google/innovation-and-ai/technology/developers-tools/google-io-2026-collection/",
+          "date": "Tue, 19 May 2026 17:45:00 +0000",
+          "summary": "At Google I/O 2026, we shared how we’re making AI more helpful for everyone. See everything we announced."
         },
         {
-          "title": "クリエイティブなレジェンドがAIを使用して中小企業向けの広告を作成すると何が起こるかをご覧ください。",
-          "titleOrig": "See what happens when creative legends use AI to make ads for small businesses.",
-          "link": "https://blog.google/company-news/inside-google/company-announcements/the-small-brief/",
-          "date": "Fri, 08 May 2026 15:00:00 +0000",
-          "summary": "Today we're launching The Small Brief, an initiative bringing together three ad industry icons to champion a local businesses they love. Their mission is to build breakt…"
+          "title": "AIモードが米国での検索方法をどのように変えているか",
+          "titleOrig": "How AI Mode is changing the way people search in the U.S.",
+          "link": "https://blog.google/products-and-platforms/products/search/ai-mode-us-insights/",
+          "date": "Tue, 19 May 2026 17:45:00 +0000",
+          "summary": "One year after launch, see how AI Mode’s users are shifting from keywords to natural language queries."
         },
         {
-          "title": "検索で試すことができる5つのガーデニングのヒント",
-          "titleOrig": "5 gardening tips you can try right in Search",
-          "link": "https://blog.google/products-and-platforms/products/search/gardening-tips/",
-          "date": "Wed, 06 May 2026 16:00:00 +0000",
-          "summary": "We’ve rounded up the top ways you can use Google’s AI Mode, Search Live and Shopping to help your plants thrive."
+          "title": "Googleワークスペースで物事を作成し、成し遂げるための新しい方法",
+          "titleOrig": "New ways to create and get things done in Google Workspace",
+          "link": "https://blog.google/products-and-platforms/products/workspace/workspace-updates/",
+          "date": "Tue, 19 May 2026 17:45:00 +0000",
+          "summary": "Announcing new voice capabilities in Gmail, Docs and Keep, a new design tool called Google Pics and updates to AI Inbox."
         },
         {
-          "title": "GoogleはXPRIZEとRange Media Partnersと提携して、350万$のFuture Vision映画コンペティションを開催しています。",
-          "titleOrig": "Google is partnering with XPRIZE and Range Media Partners on the $3.5 million Future Vision film competition.",
-          "link": "https://blog.google/innovation-and-ai/technology/ai/future-vision-film-competition-xprize/",
-          "date": "Tue, 05 May 2026 16:00:00 +0000",
-          "summary": "Google is partnering with XPRIZE and Range Media Partners on the $3.5 million Future Vision film competition."
+          "title": "I/O 2026 ：エージェント的なジェミニ時代へようこそ",
+          "titleOrig": "I/O 2026: Welcome to the agentic Gemini era",
+          "link": "https://blog.google/innovation-and-ai/sundar-pichai-io-2026/",
+          "date": "Tue, 19 May 2026 17:45:00 +0000",
+          "summary": "The latest from Google I/O: See how we’re helping you get more done with Gemini."
         },
         {
-          "title": "2026年4月に発表した最新のAIニュース",
-          "titleOrig": "The latest AI news we announced in April 2026",
-          "link": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-april-2026/",
-          "date": "Mon, 04 May 2026 17:00:00 +0000",
-          "summary": "Here are Google’s latest AI updates from April 2026"
+          "title": "ジェミニ3.5 ：行動を伴うフロンティアインテリジェンス",
+          "titleOrig": "Gemini 3.5: frontier intelligence with action",
+          "link": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-5/",
+          "date": "Tue, 19 May 2026 17:45:00 +0000",
+          "summary": "At Google I/O we released Gemini 3.5, our latest series of models combining frontier intelligence with action."
         }
       ],
       "error": null
