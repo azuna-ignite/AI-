@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-05-21T03:53:47.999Z",
+  "fetchedAt": "2026-05-22T03:50:24.137Z",
   "tools": [
     {
       "tool": "ミエルカ（YouTube）",
@@ -60,6 +60,27 @@
       "feedUrl": "https://www.semrush.com/blog/feed/",
       "items": [
         {
+          "title": "PPCとは？ペイパークリック広告のスターターガイド",
+          "titleOrig": "What is PPC? A starter guide to pay-per-click advertising",
+          "link": "https://www.semrush.com/blog/what-is-ppc/",
+          "date": "Thu, 21 May 2026 08:59:00 +0000",
+          "summary": "Learn what PPC marketing is, how it works, and how to set up your first pay-per-click campaign."
+        },
+        {
+          "title": "競合分析とは？ 1つの方法(+テンプレート)",
+          "titleOrig": "What is competitive analysis? How to do one (+ template)",
+          "link": "https://www.semrush.com/blog/competitive-analysis/",
+          "date": "Thu, 21 May 2026 08:39:00 +0000",
+          "summary": "Competitive analysis is the process of analyzing competitors’ products, marketing, and AI visibility to improve your strategy."
+        },
+        {
+          "title": "Google検索が情報エージェントとユニバーサルカートでエージェント機能を拡張",
+          "titleOrig": "Google Search expands agentic capabilities with information agents and Universal Cart",
+          "link": "https://www.semrush.com/blog/google-adds-information-agents-and-universal-cart/",
+          "date": "Thu, 21 May 2026 08:13:00 +0000",
+          "summary": "Google‘s information agents and Universal Cart stand to change how users discover and buy products online."
+        },
+        {
           "title": "SEOの基本：初心者のためのSEOの方法",
           "titleOrig": "SEO basics: How to do SEO for beginners",
           "link": "https://www.semrush.com/blog/seo-basics/",
@@ -72,27 +93,6 @@
           "link": "https://www.semrush.com/blog/google-announces-intelligent-search-box/",
           "date": "Wed, 20 May 2026 13:50:00 +0000",
           "summary": "Google‘s Gemini 3.5 Flash and intelligent Search box are live. Here‘s what it means for search visibility."
-        },
-        {
-          "title": "GA 4は、紹介トラッキングのためのAIアシスタントチャネルを追加",
-          "titleOrig": "GA4 adds AI Assistant channel for referral tracking",
-          "link": "https://www.semrush.com/blog/ga4-adds-ai-assistant-channel/",
-          "date": "Wed, 20 May 2026 08:59:00 +0000",
-          "summary": "Google Analytics 4 now classifies traffic from ChatGPT, Gemini, and Claude under a new AI Assistant channel."
-        },
-        {
-          "title": "AI検索の可視性（実際に重要なもの）を測定して報告する方法",
-          "titleOrig": "How to measure and report on AI search visibility (what actually matters)",
-          "link": "https://www.semrush.com/blog/measure-ai-visibility/",
-          "date": "Wed, 20 May 2026 08:55:00 +0000",
-          "summary": "Learn how to measure AI search visibility, track citations and mentions, report progress to leadership, and connect visibility gains to traffic, leads, and ROI."
-        },
-        {
-          "title": "Google、ジェネレーティブAI検索に最適化するためのガイドを公開",
-          "titleOrig": "Google publishes guide to optimizing for generative AI search",
-          "link": "https://www.semrush.com/blog/google-publishes-generative-ai-search-guide/",
-          "date": "Tue, 19 May 2026 13:52:00 +0000",
-          "summary": "Google‘s first consolidated AI optimization guide gives guidance on ways to optimize for Google’s generative AI features."
         }
       ],
       "error": null
@@ -123,6 +123,24 @@
       "feedUrl": "https://rakkokeyword.com/techo/feed/",
       "items": [
         {
+          "title": "PDFトリミングツール",
+          "link": "https://rakkokeyword.com/techo/tool-pdf-trim/",
+          "date": "Fri, 22 May 2026 02:32:50 +0000",
+          "summary": "ここにPDFファイルをドラッグ＆ドロップ または ファイルを選択 別のPDFを選択 ズーム調整 100% トリミング対象ページ 全ページに適用 このページのみ（現在のページ） ※ 「このページのみ」はダウンロード時に現在 ..."
+        },
+        {
+          "title": "YouTubeはいつから伸びる？心が折れる前に絶対知るべき前兆・対策！",
+          "link": "https://rakkokeyword.com/techo/youtube-growth-timing/",
+          "date": "Thu, 21 May 2026 07:05:55 +0000",
+          "summary": "YouTubeチャンネルを開設して、一生懸命に動画を何本も投稿しているのに、再生回数や登録者数がまったく伸びない。 「このままYouTubeを続けていて、本当に意味があるのだろうか？」「自分のやり方が間違っているのではな ..."
+        },
+        {
+          "title": "【完全ガイド】YouTubeのタグ付けのコツ！再生回数を伸ばす選び方・設定手順",
+          "link": "https://rakkokeyword.com/techo/youtube-tag-tips/",
+          "date": "Thu, 21 May 2026 06:53:51 +0000",
+          "summary": "YouTubeに動画を投稿しているものの、「なかなか再生回数やインプレッションが伸びない」と悩んでいませんか？ 動画を見つけてもらうための工夫として「タグ」という機能があることは知っていても、ハッシュタグとの違いがわから ..."
+        },
+        {
           "title": "PDF回転ツール",
           "link": "https://rakkokeyword.com/techo/tool-pdf-rotate/",
           "date": "Wed, 20 May 2026 06:57:45 +0000",
@@ -133,24 +151,6 @@
           "link": "https://rakkokeyword.com/techo/tool-pdf-delete/",
           "date": "Wed, 20 May 2026 06:15:44 +0000",
           "summary": "ツールを準備しています… 安心設計：ファイルはお客様の端末内で処理され、サーバーには送信されません 不要なページを削除したいPDFをドラッグ＆ドロップ またはクリックして選択 対応形式: PDF 削除 削除するページ番号 ..."
-        },
-        {
-          "title": "PDFページ抽出ツール",
-          "link": "https://rakkokeyword.com/techo/tool-pdf-extract/",
-          "date": "Tue, 19 May 2026 05:59:11 +0000",
-          "summary": "PDF分割 PDFページ抽出 ツールを準備しています… 安心設計：ファイルはお客様の端末内で処理され、サーバーには送信されません ページ抽出したいPDFをドラッグ＆ドロップ またはクリックして選択 対応形式: PDF 削 ..."
-        },
-        {
-          "title": "【完全解説】YouTube再生回数の仕組み！増えない原因と伸ばすコツ",
-          "link": "https://rakkokeyword.com/techo/increase-youtube-views/",
-          "date": "Mon, 18 May 2026 07:10:51 +0000",
-          "summary": "「YouTubeで動画を公開したけれど、再生回数が思ったように伸びない」 「自分で何度も再生しているのに、カウンターの数字が動かないのはなぜ？」 YouTubeチャンネルを運営していると、このような悩みに直面することがあ ..."
-        },
-        {
-          "title": "PDF分割ツール",
-          "link": "https://rakkokeyword.com/techo/tool-pdf-split/",
-          "date": "Mon, 18 May 2026 06:18:48 +0000",
-          "summary": "PDF分割 PDFページ抽出 ツールを準備しています… 安心設計：ファイルはお客様の端末内で処理され、サーバーには送信されません 分割したいPDFをドラッグ＆ドロップ またはクリックして選択 対応形式: PDF 削除 フ ..."
         }
       ],
       "error": null
@@ -352,6 +352,20 @@
       "feedUrl": "https://github.blog/feed/",
       "items": [
         {
+          "title": "エンジンを超えて：ゲームが実際にどのように作られるかを形作る10のオープンソースプロジェクト",
+          "titleOrig": "Beyond the engine: 10 open source projects shaping how games actually get made",
+          "link": "https://github.blog/open-source/gaming/beyond-the-engine-10-open-source-projects-shaping-how-games-actually-get-made/",
+          "date": "Thu, 21 May 2026 18:00:00 +0000",
+          "summary": "Check out these 10 open source tools that help game developers create art, animation, levels, audio, dialogue, debug UIs, and engine-ready assets. The post Beyond the engine: 10 open source projects s"
+        },
+        {
+          "title": "アクセシビリティに関するGitHubの次の章の構築",
+          "titleOrig": "Building GitHub’s next chapter in accessibility",
+          "link": "https://github.blog/open-source/building-githubs-next-chapter-in-accessibility/",
+          "date": "Thu, 21 May 2026 16:00:00 +0000",
+          "summary": "Explore our update on GitHub’s accessibility strategy, and learn how you can join us in building a culture of accessibility. The post Building GitHub’s next chapter in accessibility appeared first on "
+        },
+        {
           "title": "GitHub所有のリポジトリへの不正アクセスの調査",
           "titleOrig": "Investigating unauthorized access to GitHub-owned repositories",
           "link": "https://github.blog/security/investigating-unauthorized-access-to-githubs-internal-repositories/",
@@ -371,20 +385,6 @@
           "link": "https://github.blog/ai-and-ml/github-copilot/building-a-general-purpose-accessibility-agent-and-what-we-learned-in-the-process/",
           "date": "Fri, 15 May 2026 16:00:00 +0000",
           "summary": "Learn about the experimental general-purpose accessibility agent that GitHub is piloting. The post Building a general-purpose accessibility agent—and what we learned in the process appeared first on T"
-        },
-        {
-          "title": "レベルを上げる：品質、責任の共有、GitHubのバグバウンティプログラムの将来",
-          "titleOrig": "Raising the bar: Quality, shared responsibility, and the future of GitHub’s bug bounty program",
-          "link": "https://github.blog/security/raising-the-bar-quality-shared-responsibility-and-the-future-of-githubs-bug-bounty-program/",
-          "date": "Fri, 15 May 2026 14:00:00 +0000",
-          "summary": "We're updating our bug bounty program standards to prioritize quality submissions, clarify shared responsibility boundaries, and evolve how we reward low-risk findings. The post Raising the bar: Quali"
-        },
-        {
-          "title": "GitHub可用性レポート： 2026年4月",
-          "titleOrig": "GitHub availability report: April 2026",
-          "link": "https://github.blog/news-insights/company-news/github-availability-report-april-2026/",
-          "date": "Thu, 14 May 2026 22:02:43 +0000",
-          "summary": "In April, we experienced 10 incidents that resulted in degraded performance across GitHub services. The post GitHub availability report: April 2026 appeared first on The GitHub Blog."
         }
       ],
       "error": null
