@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-05-22T03:50:24.137Z",
+  "fetchedAt": "2026-05-23T03:25:11.478Z",
   "tools": [
     {
       "tool": "ミエルカ（YouTube）",
@@ -9,8 +9,39 @@
       "type": "youtube",
       "handle": "@mieruca-channel",
       "feedUrl": "",
-      "items": [],
-      "error": "Status code 404"
+      "items": [
+        {
+          "title": "【速報】Google I/O 2026｜SEO目線で押さえる5つのポイント",
+          "link": "https://www.youtube.com/watch?v=MeyH_UZwgI4",
+          "date": "2026-05-20T23:00:36.000Z",
+          "summary": ""
+        },
+        {
+          "title": "Googleが語ったAI検索時代のSEO｜Search Central Live Canada 2026を鈴木謙一が解説",
+          "link": "https://www.youtube.com/watch?v=IUAmRM-4dS8",
+          "date": "2026-05-19T23:00:19.000Z",
+          "summary": ""
+        },
+        {
+          "title": "GA4でChatGPT・Geminiからの流入分析が可能に｜SEO Weekly Update",
+          "link": "https://www.youtube.com/watch?v=Bw2gGVvsi3Q",
+          "date": "2026-05-17T23:00:22.000Z",
+          "summary": ""
+        },
+        {
+          "title": "Googleサーチコンソールの使い方 実践編｜比較機能でSEO分析を深める方法",
+          "link": "https://www.youtube.com/watch?v=hdzqIaaLgg0",
+          "date": "2026-05-12T09:00:56.000Z",
+          "summary": ""
+        },
+        {
+          "title": "Googleコアアップデート分析：一次情報・公式サイトが強まる傾向｜SEO Weekly Update",
+          "link": "https://www.youtube.com/watch?v=5dWG9g7tnUQ",
+          "date": "2026-05-10T23:00:05.000Z",
+          "summary": ""
+        }
+      ],
+      "error": null
     },
     {
       "tool": "Ahrefs",
@@ -60,6 +91,20 @@
       "feedUrl": "https://www.semrush.com/blog/feed/",
       "items": [
         {
+          "title": "Eコマースマーケティング： 2026年の検索とAIの10の戦略",
+          "titleOrig": "Ecommerce marketing: 10 strategies for search and AI in 2026",
+          "link": "https://www.semrush.com/blog/ecommerce-marketing/",
+          "date": "Fri, 22 May 2026 10:39:00 +0000",
+          "summary": "10 ecommerce marketing strategies for 2026, from SEO and email to AI search and shopping assistants."
+        },
+        {
+          "title": "2026年に最適なSEO監査ツール10選（テスト済み）",
+          "titleOrig": "10 best SEO audit tools for 2026 (tested)",
+          "link": "https://www.semrush.com/blog/seo-audit-tools/",
+          "date": "Fri, 22 May 2026 09:59:00 +0000",
+          "summary": "See our comparison of SEO audit tools including Site Audit, Google Search Console, Screaming Frog, and more."
+        },
+        {
           "title": "PPCとは？ペイパークリック広告のスターターガイド",
           "titleOrig": "What is PPC? A starter guide to pay-per-click advertising",
           "link": "https://www.semrush.com/blog/what-is-ppc/",
@@ -79,20 +124,6 @@
           "link": "https://www.semrush.com/blog/google-adds-information-agents-and-universal-cart/",
           "date": "Thu, 21 May 2026 08:13:00 +0000",
           "summary": "Google‘s information agents and Universal Cart stand to change how users discover and buy products online."
-        },
-        {
-          "title": "SEOの基本：初心者のためのSEOの方法",
-          "titleOrig": "SEO basics: How to do SEO for beginners",
-          "link": "https://www.semrush.com/blog/seo-basics/",
-          "date": "Wed, 20 May 2026 14:56:00 +0000",
-          "summary": "Learn the basics of SEO — keyword research, technical SEO, etc. — to show prominently in search results."
-        },
-        {
-          "title": "Google、Gemini 3.5 Flashと再設計された「インテリジェント検索ボックス」を発表",
-          "titleOrig": "Google unveils Gemini 3.5 Flash and a redesigned ‘intelligent Search box’",
-          "link": "https://www.semrush.com/blog/google-announces-intelligent-search-box/",
-          "date": "Wed, 20 May 2026 13:50:00 +0000",
-          "summary": "Google‘s Gemini 3.5 Flash and intelligent Search box are live. Here‘s what it means for search visibility."
         }
       ],
       "error": null
@@ -123,6 +154,18 @@
       "feedUrl": "https://rakkokeyword.com/techo/feed/",
       "items": [
         {
+          "title": "PDFページ挿入ツール",
+          "link": "https://rakkokeyword.com/techo/tool-pdf-insert/",
+          "date": "Fri, 22 May 2026 06:33:00 +0000",
+          "summary": "ツールを準備しています… 安心設計：ファイルはお客様の端末内で処理され、サーバーには送信されません ベースとなるPDFをドラッグ＆ドロップ またはクリックして選択 対応形式: PDF ＋ PDFを追加 ＋ 白紙ページを追 ..."
+        },
+        {
+          "title": "YouTube上位表示で集客！検索アルゴリズムの仕組みと最適化の方法",
+          "link": "https://rakkokeyword.com/techo/youtube-ranking-algorithm/",
+          "date": "Fri, 22 May 2026 04:57:32 +0000",
+          "summary": "「企画から撮影、編集まで時間と労力をかけて動画を作っているのに、YouTubeの再生回数が全く伸びない」 「自社の商品やサービスを知ってもらうためにYouTubeを始めたが、検索しても自社の動画が見つからず、何が悪いのか ..."
+        },
+        {
           "title": "PDFトリミングツール",
           "link": "https://rakkokeyword.com/techo/tool-pdf-trim/",
           "date": "Fri, 22 May 2026 02:32:50 +0000",
@@ -139,18 +182,6 @@
           "link": "https://rakkokeyword.com/techo/youtube-tag-tips/",
           "date": "Thu, 21 May 2026 06:53:51 +0000",
           "summary": "YouTubeに動画を投稿しているものの、「なかなか再生回数やインプレッションが伸びない」と悩んでいませんか？ 動画を見つけてもらうための工夫として「タグ」という機能があることは知っていても、ハッシュタグとの違いがわから ..."
-        },
-        {
-          "title": "PDF回転ツール",
-          "link": "https://rakkokeyword.com/techo/tool-pdf-rotate/",
-          "date": "Wed, 20 May 2026 06:57:45 +0000",
-          "summary": "PDFファイルをアップロード ここにファイルをドラッグ＆ドロップするか、ファイルを選択してください ファイルを選択する 読み込み中のファイル情報 ページ構成プレビュー 💡 ページをドラッグ＆ドロップすることで、書類の順番 ..."
-        },
-        {
-          "title": "PDFページ削除ツール",
-          "link": "https://rakkokeyword.com/techo/tool-pdf-delete/",
-          "date": "Wed, 20 May 2026 06:15:44 +0000",
-          "summary": "ツールを準備しています… 安心設計：ファイルはお客様の端末内で処理され、サーバーには送信されません 不要なページを削除したいPDFをドラッグ＆ドロップ またはクリックして選択 対応形式: PDF 削除 削除するページ番号 ..."
         }
       ],
       "error": null
@@ -171,6 +202,13 @@
       "sourceType": "tool",
       "feedUrl": "https://blog.google/technology/ai/rss/",
       "items": [
+        {
+          "title": "Google I/O 2026でのダイアログステージに追いつきましょう。",
+          "titleOrig": "Catch up on the Dialogues stage at Google I/O 2026.",
+          "link": "https://blog.google/innovation-and-ai/technology/ai/io-2026-dialogues-recap/",
+          "date": "Fri, 22 May 2026 18:00:00 +0000",
+          "summary": "A recap of the 2026 I/O Dialogues, where leaders discuss the future of AI, quantum computing, robotics and creativity."
+        },
         {
           "title": "ミズーリ州での新しいコミュニティへの投資を発表します。",
           "titleOrig": "We’re announcing new community investments in Missouri.",
@@ -198,13 +236,6 @@
           "link": "https://blog.google/innovation-and-ai/technology/developers-tools/google-io-2026-collection/",
           "date": "Tue, 19 May 2026 17:45:00 +0000",
           "summary": "At Google I/O 2026, we shared how we’re making AI more helpful for everyone. See everything we announced."
-        },
-        {
-          "title": "AIモードが米国での検索方法をどのように変えているか",
-          "titleOrig": "How AI Mode is changing the way people search in the U.S.",
-          "link": "https://blog.google/products-and-platforms/products/search/ai-mode-us-insights/",
-          "date": "Tue, 19 May 2026 17:45:00 +0000",
-          "summary": "One year after launch, see how AI Mode’s users are shifting from keywords to natural language queries."
         }
       ],
       "error": null
@@ -352,6 +383,13 @@
       "feedUrl": "https://github.blog/feed/",
       "items": [
         {
+          "title": "GitHubは3年連続でエンタープライズAIコーディングエージェントのためのGartner ® Magic Quadrant™のリーダーとして認められました",
+          "titleOrig": "GitHub recognized as a Leader in the Gartner® Magic Quadrant™ for Enterprise AI Coding Agents for the third year in a row",
+          "link": "https://github.blog/ai-and-ml/github-copilot/github-recognized-as-a-leader-in-the-gartner-magic-quadrant-for-enterprise-ai-coding-agents-for-the-third-year-in-a-row/",
+          "date": "Fri, 22 May 2026 16:10:21 +0000",
+          "summary": "We are committed to empowering every developer by building an open, secure, and AI-powered platform that defines the future of software development. The post GitHub recognized as a Leader in the Gartn"
+        },
+        {
           "title": "エンジンを超えて：ゲームが実際にどのように作られるかを形作る10のオープンソースプロジェクト",
           "titleOrig": "Beyond the engine: 10 open source projects shaping how games actually get made",
           "link": "https://github.blog/open-source/gaming/beyond-the-engine-10-open-source-projects-shaping-how-games-actually-get-made/",
@@ -378,13 +416,6 @@
           "link": "https://github.blog/news-insights/product-news/take-your-local-github-sessions-anywhere/",
           "date": "Mon, 18 May 2026 16:54:53 +0000",
           "summary": "Kick off work in VS Code or the CLI, finish it from your phone. Remote control for GitHub Copilot sessions is now generally available on github.com and GitHub Mobile. The post Take your local GitHub s"
-        },
-        {
-          "title": "汎用アクセシビリティ対応エージェントの構築とそのプロセスで学んだこと",
-          "titleOrig": "Building a general-purpose accessibility agent—and what we learned in the process",
-          "link": "https://github.blog/ai-and-ml/github-copilot/building-a-general-purpose-accessibility-agent-and-what-we-learned-in-the-process/",
-          "date": "Fri, 15 May 2026 16:00:00 +0000",
-          "summary": "Learn about the experimental general-purpose accessibility agent that GitHub is piloting. The post Building a general-purpose accessibility agent—and what we learned in the process appeared first on T"
         }
       ],
       "error": null
