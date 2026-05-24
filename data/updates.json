@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-05-23T03:25:11.478Z",
+  "fetchedAt": "2026-05-24T03:43:43.657Z",
   "tools": [
     {
       "tool": "ミエルカ（YouTube）",
@@ -152,39 +152,8 @@
       "category": "SEO・キーワード調査",
       "sourceType": "tool",
       "feedUrl": "https://rakkokeyword.com/techo/feed/",
-      "items": [
-        {
-          "title": "PDFページ挿入ツール",
-          "link": "https://rakkokeyword.com/techo/tool-pdf-insert/",
-          "date": "Fri, 22 May 2026 06:33:00 +0000",
-          "summary": "ツールを準備しています… 安心設計：ファイルはお客様の端末内で処理され、サーバーには送信されません ベースとなるPDFをドラッグ＆ドロップ またはクリックして選択 対応形式: PDF ＋ PDFを追加 ＋ 白紙ページを追 ..."
-        },
-        {
-          "title": "YouTube上位表示で集客！検索アルゴリズムの仕組みと最適化の方法",
-          "link": "https://rakkokeyword.com/techo/youtube-ranking-algorithm/",
-          "date": "Fri, 22 May 2026 04:57:32 +0000",
-          "summary": "「企画から撮影、編集まで時間と労力をかけて動画を作っているのに、YouTubeの再生回数が全く伸びない」 「自社の商品やサービスを知ってもらうためにYouTubeを始めたが、検索しても自社の動画が見つからず、何が悪いのか ..."
-        },
-        {
-          "title": "PDFトリミングツール",
-          "link": "https://rakkokeyword.com/techo/tool-pdf-trim/",
-          "date": "Fri, 22 May 2026 02:32:50 +0000",
-          "summary": "ここにPDFファイルをドラッグ＆ドロップ または ファイルを選択 別のPDFを選択 ズーム調整 100% トリミング対象ページ 全ページに適用 このページのみ（現在のページ） ※ 「このページのみ」はダウンロード時に現在 ..."
-        },
-        {
-          "title": "YouTubeはいつから伸びる？心が折れる前に絶対知るべき前兆・対策！",
-          "link": "https://rakkokeyword.com/techo/youtube-growth-timing/",
-          "date": "Thu, 21 May 2026 07:05:55 +0000",
-          "summary": "YouTubeチャンネルを開設して、一生懸命に動画を何本も投稿しているのに、再生回数や登録者数がまったく伸びない。 「このままYouTubeを続けていて、本当に意味があるのだろうか？」「自分のやり方が間違っているのではな ..."
-        },
-        {
-          "title": "【完全ガイド】YouTubeのタグ付けのコツ！再生回数を伸ばす選び方・設定手順",
-          "link": "https://rakkokeyword.com/techo/youtube-tag-tips/",
-          "date": "Thu, 21 May 2026 06:53:51 +0000",
-          "summary": "YouTubeに動画を投稿しているものの、「なかなか再生回数やインプレッションが伸びない」と悩んでいませんか？ 動画を見つけてもらうための工夫として「タグ」という機能があることは知っていても、ハッシュタグとの違いがわから ..."
-        }
-      ],
-      "error": null
+      "items": [],
+      "error": "Status code 403"
     },
     {
       "tool": "Claude / Claude Code",
