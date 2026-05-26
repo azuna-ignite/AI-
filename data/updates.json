@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-05-25T03:58:58.929Z",
+  "fetchedAt": "2026-05-26T03:44:45.876Z",
   "tools": [
     {
       "tool": "ミエルカ（YouTube）",
@@ -9,39 +9,8 @@
       "type": "youtube",
       "handle": "@mieruca-channel",
       "feedUrl": "",
-      "items": [
-        {
-          "title": "AI Overviews・AIモード・コアアップデート｜2026年前半SEOで何が起きたのか",
-          "link": "https://www.youtube.com/watch?v=7c6LD8aBIi4",
-          "date": "2026-05-24T23:00:15.000Z",
-          "summary": ""
-        },
-        {
-          "title": "【速報】Google I/O 2026｜SEO目線で押さえる5つのポイント",
-          "link": "https://www.youtube.com/watch?v=MeyH_UZwgI4",
-          "date": "2026-05-20T23:00:36.000Z",
-          "summary": ""
-        },
-        {
-          "title": "Googleが語ったAI検索時代のSEO｜Search Central Live Canada 2026を鈴木謙一が解説",
-          "link": "https://www.youtube.com/watch?v=IUAmRM-4dS8",
-          "date": "2026-05-19T23:00:19.000Z",
-          "summary": ""
-        },
-        {
-          "title": "GA4でChatGPT・Geminiからの流入分析が可能に｜SEO Weekly Update",
-          "link": "https://www.youtube.com/watch?v=Bw2gGVvsi3Q",
-          "date": "2026-05-17T23:00:22.000Z",
-          "summary": ""
-        },
-        {
-          "title": "Googleサーチコンソールの使い方 実践編｜比較機能でSEO分析を深める方法",
-          "link": "https://www.youtube.com/watch?v=hdzqIaaLgg0",
-          "date": "2026-05-12T09:00:56.000Z",
-          "summary": ""
-        }
-      ],
-      "error": null
+      "items": [],
+      "error": "Status code 404"
     },
     {
       "tool": "Ahrefs",
@@ -50,6 +19,12 @@
       "sourceType": "tool",
       "feedUrl": "https://ahrefs.com/blog/ja/feed/",
       "items": [
+        {
+          "title": "AI エージェントとは？Agent A でプロダクトマーケティングを自動化する 8 つの方法",
+          "link": "https://ahrefs.com/blog/ja/agent-a-for-product-marketing/",
+          "date": "Mon, 25 May 2026 08:57:07 +0000",
+          "summary": "AIエージェントとは何か、そしてAhrefs Agent Aを使ってプロダクトマーケティング業務を効率化する具体的な8つの手法を解説。GTMパッケージの自動生成からコンテンツ制作まで実践例を紹介。 Read more › The post AI エージェントとは？Agent A でプロダクトマーケティングを自動化する 8 つの方法 appeared first on Ahrefs 公式ブログ."
+        },
         {
           "title": "株式会社 LANY 独占インタビュー：「測れる指標に踊らされない」 LANY 竹内氏が Evolve Singapore で得た AI 時代の本質",
           "link": "https://ahrefs.com/blog/ja/case-study-lany-evolvesg-2026/",
@@ -73,12 +48,6 @@
           "link": "https://ahrefs.com/blog/ja/schema-ai-citations/",
           "date": "Wed, 13 May 2026 07:40:38 +0000",
           "summary": "https://ahrefs.canny.io/ Ahrefs をもっと活用 👉 ▶︎ Ahrefs 公式ブログ — 本社発信の記事 ▶︎ Ahrefs Canny — 開発チームへ意見を送る ▶︎ X 公式アカウント— 最新情報をリアルタイムで ▶︎ YouTube 公式チャンネル— 動画コンテンツをチェック ▶︎ Ahrefs note — 日本チーム発信の記事 Ahrefs の公式 X を"
-        },
-        {
-          "title": "【Ahrefs（エイチレフス）キーパーソンインタビュー 前編】AI 検索の最前線へ：CMO ティム・ソウロが語る Agent A、ブランドレーダー、そして AEO 時代のマーケティング",
-          "link": "https://ahrefs.com/blog/ja/interview-with-tim-future-of-seo-ai-agent/",
-          "date": "Tue, 12 May 2026 05:13:46 +0000",
-          "summary": "Ahrefs CMO ティム・ソウロの再来日インタビュー前編。AI エージェント「Agent A」や Claude 連携がもたらす「退屈な作業からの解放」とは？キーワード順位の先にある、ブランドレーダーを活用した AEO（回答エンジン最適化）戦略、そして AI と共に「発見される」ための本質を、日本マーケティング統括 Taka と共に語り尽くします。 Read more › The post 【A"
         }
       ],
       "error": null
@@ -91,35 +60,35 @@
       "feedUrl": "https://www.semrush.com/blog/feed/",
       "items": [
         {
-          "title": "Eコマースマーケティング： 2026年の検索とAIの10の戦略",
+          "title": "Ecommerce marketing: 10 strategies for search and AI in 2026",
           "titleOrig": "Ecommerce marketing: 10 strategies for search and AI in 2026",
           "link": "https://www.semrush.com/blog/ecommerce-marketing/",
           "date": "Fri, 22 May 2026 10:39:00 +0000",
           "summary": "10 ecommerce marketing strategies for 2026, from SEO and email to AI search and shopping assistants."
         },
         {
-          "title": "2026年に最適なSEO監査ツール10選（テスト済み）",
+          "title": "10 best SEO audit tools for 2026 (tested)",
           "titleOrig": "10 best SEO audit tools for 2026 (tested)",
           "link": "https://www.semrush.com/blog/seo-audit-tools/",
           "date": "Fri, 22 May 2026 09:59:00 +0000",
           "summary": "See our comparison of SEO audit tools including Site Audit, Google Search Console, Screaming Frog, and more."
         },
         {
-          "title": "PPCとは？ペイパークリック広告のスターターガイド",
+          "title": "What is PPC? A starter guide to pay-per-click advertising",
           "titleOrig": "What is PPC? A starter guide to pay-per-click advertising",
           "link": "https://www.semrush.com/blog/what-is-ppc/",
           "date": "Thu, 21 May 2026 08:59:00 +0000",
           "summary": "Learn what PPC marketing is, how it works, and how to set up your first pay-per-click campaign."
         },
         {
-          "title": "競合分析とは？ 1つの方法(+テンプレート)",
+          "title": "What is competitive analysis? How to do one (+ template)",
           "titleOrig": "What is competitive analysis? How to do one (+ template)",
           "link": "https://www.semrush.com/blog/competitive-analysis/",
           "date": "Thu, 21 May 2026 08:39:00 +0000",
           "summary": "Competitive analysis is the process of analyzing competitors’ products, marketing, and AI visibility to improve your strategy."
         },
         {
-          "title": "Google検索が情報エージェントとユニバーサルカートでエージェント機能を拡張",
+          "title": "Google Search expands agentic capabilities with information agents and Universal Cart",
           "titleOrig": "Google Search expands agentic capabilities with information agents and Universal Cart",
           "link": "https://www.semrush.com/blog/google-adds-information-agents-and-universal-cart/",
           "date": "Thu, 21 May 2026 08:13:00 +0000",
@@ -154,10 +123,22 @@
       "feedUrl": "https://rakkokeyword.com/techo/feed/",
       "items": [
         {
+          "title": "PDFテキスト追加ツール",
+          "link": "https://rakkokeyword.com/techo/tool-pdf-text/",
+          "date": "Mon, 25 May 2026 07:18:03 +0000",
+          "summary": "PDFファイルを選択またはドロップ 編集したいPDFファイルを読み込みます。 ファイルを選択 別のPDF ＋ テキスト追加 設定を初期化 フォント ゴシック体明朝体 サイズ px 文字色 装飾 B I 配置 左揃え中央揃 ..."
+        },
+        {
+          "title": "PDF並び替えツール",
+          "link": "https://rakkokeyword.com/techo/tool-pdf-sort/",
+          "date": "Mon, 25 May 2026 05:06:55 +0000",
+          "summary": "PDF並び替え PDFページ挿入 ツールを準備しています… 安心設計：ファイルはお客様の端末内で処理され、サーバーには送信されません 並べ替えたいPDFをドラッグ＆ドロップ またはクリックして選択 対応形式: PDF 全 ..."
+        },
+        {
           "title": "PDFページ挿入ツール",
           "link": "https://rakkokeyword.com/techo/tool-pdf-insert/",
           "date": "Fri, 22 May 2026 06:33:00 +0000",
-          "summary": "ツールを準備しています… 安心設計：ファイルはお客様の端末内で処理され、サーバーには送信されません ベースとなるPDFをドラッグ＆ドロップ またはクリックして選択 対応形式: PDF ＋ PDFを追加 ＋ 白紙ページを追 ..."
+          "summary": "PDF並び替え PDFページ挿入 ツールを準備しています… 安心設計：ファイルはお客様の端末内で処理され、サーバーには送信されません ベースとなるPDFをドラッグ＆ドロップ またはクリックして選択 対応形式: PDF ＋ ..."
         },
         {
           "title": "YouTube上位表示で集客！検索アルゴリズムの仕組みと最適化の方法",
@@ -170,18 +151,6 @@
           "link": "https://rakkokeyword.com/techo/tool-pdf-trim/",
           "date": "Fri, 22 May 2026 02:32:50 +0000",
           "summary": "ここにPDFファイルをドラッグ＆ドロップ または ファイルを選択 別のPDFを選択 ズーム調整 100% トリミング対象ページ 全ページに適用 このページのみ（現在のページ） ※ 「このページのみ」はダウンロード時に現在 ..."
-        },
-        {
-          "title": "YouTubeはいつから伸びる？心が折れる前に絶対知るべき前兆・対策！",
-          "link": "https://rakkokeyword.com/techo/youtube-growth-timing/",
-          "date": "Thu, 21 May 2026 07:05:55 +0000",
-          "summary": "YouTubeチャンネルを開設して、一生懸命に動画を何本も投稿しているのに、再生回数や登録者数がまったく伸びない。 「このままYouTubeを続けていて、本当に意味があるのだろうか？」「自分のやり方が間違っているのではな ..."
-        },
-        {
-          "title": "【完全ガイド】YouTubeのタグ付けのコツ！再生回数を伸ばす選び方・設定手順",
-          "link": "https://rakkokeyword.com/techo/youtube-tag-tips/",
-          "date": "Thu, 21 May 2026 06:53:51 +0000",
-          "summary": "YouTubeに動画を投稿しているものの、「なかなか再生回数やインプレッションが伸びない」と悩んでいませんか？ 動画を見つけてもらうための工夫として「タグ」という機能があることは知っていても、ハッシュタグとの違いがわから ..."
         }
       ],
       "error": null
@@ -203,28 +172,28 @@
       "feedUrl": "https://blog.google/technology/ai/rss/",
       "items": [
         {
-          "title": "Google I/O 2026でのダイアログステージに追いつきましょう。",
+          "title": "Catch up on the Dialogues stage at Google I/O 2026.",
           "titleOrig": "Catch up on the Dialogues stage at Google I/O 2026.",
           "link": "https://blog.google/innovation-and-ai/technology/ai/io-2026-dialogues-recap/",
           "date": "Fri, 22 May 2026 18:00:00 +0000",
           "summary": "A recap of the 2026 I/O Dialogues, where leaders discuss the future of AI, quantum computing, robotics and creativity."
         },
         {
-          "title": "ミズーリ州での新しいコミュニティへの投資を発表します。",
+          "title": "We’re announcing new community investments in Missouri.",
           "titleOrig": "We’re announcing new community investments in Missouri.",
           "link": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/missouri-programs/",
           "date": "Wed, 20 May 2026 20:40:00 +0000",
           "summary": "We’re helping build the state’s next-generation workforce and investing in energy programs."
         },
         {
-          "title": "I/O 2026で発表した100のこと",
+          "title": "100 things we announced at I/O 2026",
           "titleOrig": "100 things we announced at I/O 2026",
           "link": "https://blog.google/innovation-and-ai/technology/ai/google-io-2026-all-our-announcements/",
           "date": "Wed, 20 May 2026 19:30:00 +0000",
           "summary": "This year at Google I/O 2026, we announced Gemini Omni, Google Antigravity, Universal Cart and so much more. Here are the highlights."
         },
         {
-          "title": "新しい実験により、Google Beamのグループミーティングが改善されました",
+          "title": "A new experiment brings better group meetings to Google Beam",
           "titleOrig": "A new experiment brings better group meetings to Google Beam",
           "link": "https://blog.google/innovation-and-ai/models-and-research/google-research/google-beam-group-meetings/",
           "date": "Wed, 20 May 2026 16:45:00 +0000",
@@ -300,28 +269,28 @@
           "summary": "Explore AI abilities directly in your website, all managed from a central hub. Slide seamlessly through the sleek, new admin theme implemented across the dashboard. Ignite creative flow with new block"
         },
         {
-          "title": "WordPress 7.0リリース候補4",
+          "title": "WordPress 7.0 Release Candidate 4",
           "titleOrig": "WordPress 7.0 Release Candidate 4",
           "link": "https://wordpress.org/news/2026/05/wordpress-7-0-release-candidate-4/",
           "date": "Thu, 14 May 2026 16:47:15 +0000",
           "summary": "The fourth Release Candidate (“RC4”) for WordPress 7.0 is ready for download and testing! This version of the WordPress software is under development. Please do not install, run, or test this version "
         },
         {
-          "title": "WordCamp US 2026のチケットをゲット",
+          "title": "Get Your WordCamp US 2026 Tickets",
           "titleOrig": "Get Your WordCamp US 2026 Tickets",
           "link": "https://wordpress.org/news/2026/05/wcus-2026-get-tickets/",
           "date": "Thu, 14 May 2026 13:56:36 +0000",
           "summary": "August 16–19, 2026, Phoenix Convention Center – Phoenix, Arizona Tickets are now available for WordCamp US 2026, taking place August 16–19, 2026, at the Phoenix Convention Center in Phoenix, Arizona. "
         },
         {
-          "title": "WordPress 7.0リリース候補3",
+          "title": "WordPress 7.0 Release Candidate 3",
           "titleOrig": "WordPress 7.0 Release Candidate 3",
           "link": "https://wordpress.org/news/2026/05/wordpress-7-0-release-candidate-3/",
           "date": "Fri, 08 May 2026 18:18:48 +0000",
           "summary": "The third Release Candidate (“RC3”) for WordPress 7.0 is ready for download and testing! This version of the WordPress software is under development. Please do not install, run, or test this version o"
         },
         {
-          "title": "フェニックスのWordCamp US 2026に参加する",
+          "title": "Get Involved With WordCamp US 2026 in Phoenix",
           "titleOrig": "Get Involved With WordCamp US 2026 in Phoenix",
           "link": "https://wordpress.org/news/2026/05/wcus-2026-get-involved/",
           "date": "Mon, 04 May 2026 18:10:10 +0000",
@@ -338,35 +307,35 @@
       "feedUrl": "https://obsidian.md/changelog.xml",
       "items": [
         {
-          "title": "Obsidian 1.12.7モバイル（パブリック）",
+          "title": "Obsidian 1.12.7 Mobile (Public)",
           "titleOrig": "Obsidian 1.12.7 Mobile (Public)",
           "link": "https://obsidian.md/changelog/2026-03-23-mobile-v1.12.7/",
           "date": "2026-03-23T00:00:00.000Z",
           "summary": "Includes all new features and bug fixes up to Obsidian Desktop v1.12.7."
         },
         {
-          "title": "Obsidian 1.12.7デスクトップ（パブリック）",
+          "title": "Obsidian 1.12.7 Desktop (Public)",
           "titleOrig": "Obsidian 1.12.7 Desktop (Public)",
           "link": "https://obsidian.md/changelog/2026-03-23-desktop-v1.12.7/",
           "date": "2026-03-23T00:00:00.000Z",
           "summary": "Improvements Obsidian CLI The Obsidian Installer is now bundled with a new binary file for using the CLI. This new method replaces the old method of calling the Electron binary, resulting in significa"
         },
         {
-          "title": "Obsidian 1.12.6モバイル（早期アクセス）",
+          "title": "Obsidian 1.12.6 Mobile (Early access)",
           "titleOrig": "Obsidian 1.12.6 Mobile (Early access)",
           "link": "https://obsidian.md/changelog/2026-03-18-mobile-v1.12.6/",
           "date": "2026-03-18T00:00:00.000Z",
           "summary": "Includes all new features and bug fixes up to Obsidian Desktop v1.12.6."
         },
         {
-          "title": "Obsidian 1.12.6デスクトップ（先行アクセス）",
+          "title": "Obsidian 1.12.6 Desktop (Early access)",
           "titleOrig": "Obsidian 1.12.6 Desktop (Early access)",
           "link": "https://obsidian.md/changelog/2026-03-18-desktop-v1.12.6/",
           "date": "2026-03-18T00:00:00.000Z",
           "summary": "Bug fixes CLI Fixed the Obsidian CLI incorrectly checking for a Linux-specific directory on macOS. Changed the CLI socket file to a hidden dotfile on macOS and Linux. Editor Fixed some regressions wit"
         },
         {
-          "title": "Obsidian 1.12.5モバイル（早期アクセス）",
+          "title": "Obsidian 1.12.5 Mobile (Early access)",
           "titleOrig": "Obsidian 1.12.5 Mobile (Early access)",
           "link": "https://obsidian.md/changelog/2026-03-05-mobile-v1.12.5/",
           "date": "2026-03-05T00:00:00.000Z",
@@ -383,39 +352,39 @@
       "feedUrl": "https://github.blog/feed/",
       "items": [
         {
-          "title": "GitHubは3年連続でエンタープライズAIコーディングエージェントのためのGartner ® Magic Quadrant™のリーダーとして認められました",
+          "title": "GitHub for Beginners: Getting started with Git and GitHub in VS Code",
+          "titleOrig": "GitHub for Beginners: Getting started with Git and GitHub in VS Code",
+          "link": "https://github.blog/developer-skills/github/github-for-beginners-getting-started-with-git-and-github-in-vs-code/",
+          "date": "Mon, 25 May 2026 16:00:00 +0000",
+          "summary": "Discover how to use VS Code to interact with GitHub and maintain your projects. The post GitHub for Beginners: Getting started with Git and GitHub in VS Code appeared first on The GitHub Blog."
+        },
+        {
+          "title": "GitHub recognized as a Leader in the Gartner® Magic Quadrant™ for Enterprise AI Coding Agents for the third year in a row",
           "titleOrig": "GitHub recognized as a Leader in the Gartner® Magic Quadrant™ for Enterprise AI Coding Agents for the third year in a row",
           "link": "https://github.blog/ai-and-ml/github-copilot/github-recognized-as-a-leader-in-the-gartner-magic-quadrant-for-enterprise-ai-coding-agents-for-the-third-year-in-a-row/",
           "date": "Fri, 22 May 2026 16:10:21 +0000",
           "summary": "We are committed to empowering every developer by building an open, secure, and AI-powered platform that defines the future of software development. The post GitHub recognized as a Leader in the Gartn"
         },
         {
-          "title": "エンジンを超えて：ゲームが実際にどのように作られるかを形作る10のオープンソースプロジェクト",
+          "title": "Beyond the engine: 10 open source projects shaping how games actually get made",
           "titleOrig": "Beyond the engine: 10 open source projects shaping how games actually get made",
           "link": "https://github.blog/open-source/gaming/beyond-the-engine-10-open-source-projects-shaping-how-games-actually-get-made/",
           "date": "Thu, 21 May 2026 18:00:00 +0000",
           "summary": "Check out these 10 open source tools that help game developers create art, animation, levels, audio, dialogue, debug UIs, and engine-ready assets. The post Beyond the engine: 10 open source projects s"
         },
         {
-          "title": "アクセシビリティに関するGitHubの次の章の構築",
+          "title": "Building GitHub’s next chapter in accessibility",
           "titleOrig": "Building GitHub’s next chapter in accessibility",
           "link": "https://github.blog/open-source/building-githubs-next-chapter-in-accessibility/",
           "date": "Thu, 21 May 2026 16:00:00 +0000",
           "summary": "Explore our update on GitHub’s accessibility strategy, and learn how you can join us in building a culture of accessibility. The post Building GitHub’s next chapter in accessibility appeared first on "
         },
         {
-          "title": "GitHub所有のリポジトリへの不正アクセスの調査",
+          "title": "Investigating unauthorized access to GitHub-owned repositories",
           "titleOrig": "Investigating unauthorized access to GitHub-owned repositories",
           "link": "https://github.blog/security/investigating-unauthorized-access-to-githubs-internal-repositories/",
           "date": "Wed, 20 May 2026 21:07:38 +0000",
           "summary": "If any impact is discovered, customers will be notified via established incident response and notification channels. The post Investigating unauthorized access to GitHub-owned repositories appeared fi"
-        },
-        {
-          "title": "ローカルのGitHubセッションをどこでも利用できます",
-          "titleOrig": "Take your local GitHub sessions anywhere",
-          "link": "https://github.blog/news-insights/product-news/take-your-local-github-sessions-anywhere/",
-          "date": "Mon, 18 May 2026 16:54:53 +0000",
-          "summary": "Kick off work in VS Code or the CLI, finish it from your phone. Remote control for GitHub Copilot sessions is now generally available on github.com and GitHub Mobile. The post Take your local GitHub s"
         }
       ],
       "error": null
