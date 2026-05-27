@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-05-26T03:44:45.876Z",
+  "fetchedAt": "2026-05-27T03:58:27.570Z",
   "tools": [
     {
       "tool": "ミエルカ（YouTube）",
@@ -19,6 +19,12 @@
       "sourceType": "tool",
       "feedUrl": "https://ahrefs.com/blog/ja/feed/",
       "items": [
+        {
+          "title": "AI エージェントでコンテンツマーケティングを自動化する 7 つの方法 | Agent A 活用術",
+          "link": "https://ahrefs.com/blog/ja/agent-a-for-content-marketing/",
+          "date": "Tue, 26 May 2026 06:46:59 +0000",
+          "summary": "AIエージェント「Agent A」を活用してコンテンツマーケティングを効率化。SEOコンテンツ作成からパフォーマンス分析まで、マーケティング自動化の実践的な手法を7つ紹介します。 Read more › The post AI エージェントでコンテンツマーケティングを自動化する 7 つの方法 | Agent A 活用術 appeared first on Ahrefs 公式ブログ."
+        },
         {
           "title": "AI エージェントとは？Agent A でプロダクトマーケティングを自動化する 8 つの方法",
           "link": "https://ahrefs.com/blog/ja/agent-a-for-product-marketing/",
@@ -42,12 +48,6 @@
           "link": "https://ahrefs.com/blog/ja/how-does-ai-get-its-information/",
           "date": "Mon, 18 May 2026 07:31:01 +0000",
           "summary": "生成 AI はどこから情報を得ているのか？トレーニングデータ、RAG、MCP、API という 3 つの知識レイヤーの仕組みと限界、そしてブランドが AI に正しく認識されるための戦略を解説します。 Read more › The post 生成 AI におけるトレーニングデータ、RAG（検索拡張生成）、MCP、API とは？ appeared first on Ahrefs 公式ブログ."
-        },
-        {
-          "title": "スキーママークアップを追加しても AI 引用はほぼ増えない：1,885 ページの追跡調査結果",
-          "link": "https://ahrefs.com/blog/ja/schema-ai-citations/",
-          "date": "Wed, 13 May 2026 07:40:38 +0000",
-          "summary": "https://ahrefs.canny.io/ Ahrefs をもっと活用 👉 ▶︎ Ahrefs 公式ブログ — 本社発信の記事 ▶︎ Ahrefs Canny — 開発チームへ意見を送る ▶︎ X 公式アカウント— 最新情報をリアルタイムで ▶︎ YouTube 公式チャンネル— 動画コンテンツをチェック ▶︎ Ahrefs note — 日本チーム発信の記事 Ahrefs の公式 X を"
         }
       ],
       "error": null
@@ -60,35 +60,35 @@
       "feedUrl": "https://www.semrush.com/blog/feed/",
       "items": [
         {
-          "title": "Ecommerce marketing: 10 strategies for search and AI in 2026",
+          "title": "Eコマースマーケティング： 2026年の検索とAIの10の戦略",
           "titleOrig": "Ecommerce marketing: 10 strategies for search and AI in 2026",
           "link": "https://www.semrush.com/blog/ecommerce-marketing/",
           "date": "Fri, 22 May 2026 10:39:00 +0000",
           "summary": "10 ecommerce marketing strategies for 2026, from SEO and email to AI search and shopping assistants."
         },
         {
-          "title": "10 best SEO audit tools for 2026 (tested)",
+          "title": "2026年に最適なSEO監査ツール10選（テスト済み）",
           "titleOrig": "10 best SEO audit tools for 2026 (tested)",
           "link": "https://www.semrush.com/blog/seo-audit-tools/",
           "date": "Fri, 22 May 2026 09:59:00 +0000",
           "summary": "See our comparison of SEO audit tools including Site Audit, Google Search Console, Screaming Frog, and more."
         },
         {
-          "title": "What is PPC? A starter guide to pay-per-click advertising",
+          "title": "PPCとは？ペイパークリック広告のスターターガイド",
           "titleOrig": "What is PPC? A starter guide to pay-per-click advertising",
           "link": "https://www.semrush.com/blog/what-is-ppc/",
           "date": "Thu, 21 May 2026 08:59:00 +0000",
           "summary": "Learn what PPC marketing is, how it works, and how to set up your first pay-per-click campaign."
         },
         {
-          "title": "What is competitive analysis? How to do one (+ template)",
+          "title": "競合分析とは？ 1つの方法(+テンプレート)",
           "titleOrig": "What is competitive analysis? How to do one (+ template)",
           "link": "https://www.semrush.com/blog/competitive-analysis/",
           "date": "Thu, 21 May 2026 08:39:00 +0000",
           "summary": "Competitive analysis is the process of analyzing competitors’ products, marketing, and AI visibility to improve your strategy."
         },
         {
-          "title": "Google Search expands agentic capabilities with information agents and Universal Cart",
+          "title": "Google検索が情報エージェントとユニバーサルカートでエージェント機能を拡張",
           "titleOrig": "Google Search expands agentic capabilities with information agents and Universal Cart",
           "link": "https://www.semrush.com/blog/google-adds-information-agents-and-universal-cart/",
           "date": "Thu, 21 May 2026 08:13:00 +0000",
@@ -172,28 +172,28 @@
       "feedUrl": "https://blog.google/technology/ai/rss/",
       "items": [
         {
-          "title": "Catch up on the Dialogues stage at Google I/O 2026.",
+          "title": "Google I/O 2026でのダイアログステージに追いつきましょう。",
           "titleOrig": "Catch up on the Dialogues stage at Google I/O 2026.",
           "link": "https://blog.google/innovation-and-ai/technology/ai/io-2026-dialogues-recap/",
           "date": "Fri, 22 May 2026 18:00:00 +0000",
           "summary": "A recap of the 2026 I/O Dialogues, where leaders discuss the future of AI, quantum computing, robotics and creativity."
         },
         {
-          "title": "We’re announcing new community investments in Missouri.",
+          "title": "ミズーリ州での新しいコミュニティへの投資を発表します。",
           "titleOrig": "We’re announcing new community investments in Missouri.",
           "link": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/missouri-programs/",
           "date": "Wed, 20 May 2026 20:40:00 +0000",
           "summary": "We’re helping build the state’s next-generation workforce and investing in energy programs."
         },
         {
-          "title": "100 things we announced at I/O 2026",
+          "title": "I/O 2026で発表した100のこと",
           "titleOrig": "100 things we announced at I/O 2026",
           "link": "https://blog.google/innovation-and-ai/technology/ai/google-io-2026-all-our-announcements/",
           "date": "Wed, 20 May 2026 19:30:00 +0000",
-          "summary": "This year at Google I/O 2026, we announced Gemini Omni, Google Antigravity, Universal Cart and so much more. Here are the highlights."
+          "summary": "We've been busy! Here’s a rundown of the top announcements, launches and demos at I/O 2026."
         },
         {
-          "title": "A new experiment brings better group meetings to Google Beam",
+          "title": "新しい実験により、Google Beamのグループミーティングが改善されました",
           "titleOrig": "A new experiment brings better group meetings to Google Beam",
           "link": "https://blog.google/innovation-and-ai/models-and-research/google-research/google-beam-group-meetings/",
           "date": "Wed, 20 May 2026 16:45:00 +0000",
@@ -262,6 +262,13 @@
       "feedUrl": "https://wordpress.org/news/feed/",
       "items": [
         {
+          "title": "WordCamp Europe 2026を見据えて",
+          "titleOrig": "Looking Ahead to WordCamp Europe 2026",
+          "link": "https://wordpress.org/news/2026/05/wceu-2026-sessions/",
+          "date": "Tue, 26 May 2026 12:52:13 +0000",
+          "summary": "June 4-6, 2026 | ICE Kraków Congress Centre, Kraków, Poland WordCamp Europe 2026 will bring the WordPress community together in Kraków, Poland, from June 4–6 for Contributor Day, two conference days, "
+        },
+        {
           "title": "WordPress 7.0 “Armstrong”",
           "titleOrig": "WordPress 7.0 “Armstrong”",
           "link": "https://wordpress.org/news/2026/05/armstrong/",
@@ -269,32 +276,25 @@
           "summary": "Explore AI abilities directly in your website, all managed from a central hub. Slide seamlessly through the sleek, new admin theme implemented across the dashboard. Ignite creative flow with new block"
         },
         {
-          "title": "WordPress 7.0 Release Candidate 4",
+          "title": "WordPress 7.0リリース候補4",
           "titleOrig": "WordPress 7.0 Release Candidate 4",
           "link": "https://wordpress.org/news/2026/05/wordpress-7-0-release-candidate-4/",
           "date": "Thu, 14 May 2026 16:47:15 +0000",
           "summary": "The fourth Release Candidate (“RC4”) for WordPress 7.0 is ready for download and testing! This version of the WordPress software is under development. Please do not install, run, or test this version "
         },
         {
-          "title": "Get Your WordCamp US 2026 Tickets",
+          "title": "WordCamp US 2026のチケットをゲット",
           "titleOrig": "Get Your WordCamp US 2026 Tickets",
           "link": "https://wordpress.org/news/2026/05/wcus-2026-get-tickets/",
           "date": "Thu, 14 May 2026 13:56:36 +0000",
           "summary": "August 16–19, 2026, Phoenix Convention Center – Phoenix, Arizona Tickets are now available for WordCamp US 2026, taking place August 16–19, 2026, at the Phoenix Convention Center in Phoenix, Arizona. "
         },
         {
-          "title": "WordPress 7.0 Release Candidate 3",
+          "title": "WordPress 7.0リリース候補3",
           "titleOrig": "WordPress 7.0 Release Candidate 3",
           "link": "https://wordpress.org/news/2026/05/wordpress-7-0-release-candidate-3/",
           "date": "Fri, 08 May 2026 18:18:48 +0000",
           "summary": "The third Release Candidate (“RC3”) for WordPress 7.0 is ready for download and testing! This version of the WordPress software is under development. Please do not install, run, or test this version o"
-        },
-        {
-          "title": "Get Involved With WordCamp US 2026 in Phoenix",
-          "titleOrig": "Get Involved With WordCamp US 2026 in Phoenix",
-          "link": "https://wordpress.org/news/2026/05/wcus-2026-get-involved/",
-          "date": "Mon, 04 May 2026 18:10:10 +0000",
-          "summary": "WordCamp US 2026 will take place August 16–19 in Phoenix, Arizona, and applications are now open for sponsors, speakers, and volunteers. WordCamp US is the flagship gathering for the WordPress communi"
         }
       ],
       "error": null
@@ -307,35 +307,35 @@
       "feedUrl": "https://obsidian.md/changelog.xml",
       "items": [
         {
-          "title": "Obsidian 1.12.7 Mobile (Public)",
+          "title": "Obsidian 1.12.7モバイル（パブリック）",
           "titleOrig": "Obsidian 1.12.7 Mobile (Public)",
           "link": "https://obsidian.md/changelog/2026-03-23-mobile-v1.12.7/",
           "date": "2026-03-23T00:00:00.000Z",
           "summary": "Includes all new features and bug fixes up to Obsidian Desktop v1.12.7."
         },
         {
-          "title": "Obsidian 1.12.7 Desktop (Public)",
+          "title": "Obsidian 1.12.7デスクトップ（パブリック）",
           "titleOrig": "Obsidian 1.12.7 Desktop (Public)",
           "link": "https://obsidian.md/changelog/2026-03-23-desktop-v1.12.7/",
           "date": "2026-03-23T00:00:00.000Z",
           "summary": "Improvements Obsidian CLI The Obsidian Installer is now bundled with a new binary file for using the CLI. This new method replaces the old method of calling the Electron binary, resulting in significa"
         },
         {
-          "title": "Obsidian 1.12.6 Mobile (Early access)",
+          "title": "Obsidian 1.12.6モバイル（早期アクセス）",
           "titleOrig": "Obsidian 1.12.6 Mobile (Early access)",
           "link": "https://obsidian.md/changelog/2026-03-18-mobile-v1.12.6/",
           "date": "2026-03-18T00:00:00.000Z",
           "summary": "Includes all new features and bug fixes up to Obsidian Desktop v1.12.6."
         },
         {
-          "title": "Obsidian 1.12.6 Desktop (Early access)",
+          "title": "Obsidian 1.12.6デスクトップ（先行アクセス）",
           "titleOrig": "Obsidian 1.12.6 Desktop (Early access)",
           "link": "https://obsidian.md/changelog/2026-03-18-desktop-v1.12.6/",
           "date": "2026-03-18T00:00:00.000Z",
           "summary": "Bug fixes CLI Fixed the Obsidian CLI incorrectly checking for a Linux-specific directory on macOS. Changed the CLI socket file to a hidden dotfile on macOS and Linux. Editor Fixed some regressions wit"
         },
         {
-          "title": "Obsidian 1.12.5 Mobile (Early access)",
+          "title": "Obsidian 1.12.5モバイル（早期アクセス）",
           "titleOrig": "Obsidian 1.12.5 Mobile (Early access)",
           "link": "https://obsidian.md/changelog/2026-03-05-mobile-v1.12.5/",
           "date": "2026-03-05T00:00:00.000Z",
@@ -352,39 +352,39 @@
       "feedUrl": "https://github.blog/feed/",
       "items": [
         {
-          "title": "GitHub for Beginners: Getting started with Git and GitHub in VS Code",
+          "title": "初心者のためのGitHub ： VSコードでGitとGitHubを使い始める",
           "titleOrig": "GitHub for Beginners: Getting started with Git and GitHub in VS Code",
           "link": "https://github.blog/developer-skills/github/github-for-beginners-getting-started-with-git-and-github-in-vs-code/",
           "date": "Mon, 25 May 2026 16:00:00 +0000",
           "summary": "Discover how to use VS Code to interact with GitHub and maintain your projects. The post GitHub for Beginners: Getting started with Git and GitHub in VS Code appeared first on The GitHub Blog."
         },
         {
-          "title": "GitHub recognized as a Leader in the Gartner® Magic Quadrant™ for Enterprise AI Coding Agents for the third year in a row",
+          "title": "GitHubは3年連続でエンタープライズAIコーディングエージェントのためのGartner ® Magic Quadrant™のリーダーとして認められました",
           "titleOrig": "GitHub recognized as a Leader in the Gartner® Magic Quadrant™ for Enterprise AI Coding Agents for the third year in a row",
           "link": "https://github.blog/ai-and-ml/github-copilot/github-recognized-as-a-leader-in-the-gartner-magic-quadrant-for-enterprise-ai-coding-agents-for-the-third-year-in-a-row/",
           "date": "Fri, 22 May 2026 16:10:21 +0000",
           "summary": "We are committed to empowering every developer by building an open, secure, and AI-powered platform that defines the future of software development. The post GitHub recognized as a Leader in the Gartn"
         },
         {
-          "title": "Beyond the engine: 10 open source projects shaping how games actually get made",
+          "title": "エンジンを超えて：ゲームが実際にどのように作られるかを形作る10のオープンソースプロジェクト",
           "titleOrig": "Beyond the engine: 10 open source projects shaping how games actually get made",
           "link": "https://github.blog/open-source/gaming/beyond-the-engine-10-open-source-projects-shaping-how-games-actually-get-made/",
           "date": "Thu, 21 May 2026 18:00:00 +0000",
           "summary": "Check out these 10 open source tools that help game developers create art, animation, levels, audio, dialogue, debug UIs, and engine-ready assets. The post Beyond the engine: 10 open source projects s"
         },
         {
-          "title": "Building GitHub’s next chapter in accessibility",
+          "title": "アクセシビリティに関するGitHubの次の章の構築",
           "titleOrig": "Building GitHub’s next chapter in accessibility",
           "link": "https://github.blog/open-source/building-githubs-next-chapter-in-accessibility/",
           "date": "Thu, 21 May 2026 16:00:00 +0000",
           "summary": "Explore our update on GitHub’s accessibility strategy, and learn how you can join us in building a culture of accessibility. The post Building GitHub’s next chapter in accessibility appeared first on "
         },
         {
-          "title": "Investigating unauthorized access to GitHub-owned repositories",
-          "titleOrig": "Investigating unauthorized access to GitHub-owned repositories",
+          "title": "調査の更新: GitHub Enterprise Server署名キーローテーション",
+          "titleOrig": "Investigation update: GitHub Enterprise Server signing key rotation",
           "link": "https://github.blog/security/investigating-unauthorized-access-to-githubs-internal-repositories/",
           "date": "Wed, 20 May 2026 21:07:38 +0000",
-          "summary": "If any impact is discovered, customers will be notified via established incident response and notification channels. The post Investigating unauthorized access to GitHub-owned repositories appeared fi"
+          "summary": "GitHub Enterprise Server customers need to take immediate action. The post Investigation update: GitHub Enterprise Server signing key rotation appeared first on The GitHub Blog."
         }
       ],
       "error": null
@@ -395,39 +395,8 @@
       "category": "制作・デザイン",
       "sourceType": "media",
       "feedUrl": "https://www.mindfactory.co.jp/blog/feed/",
-      "items": [
-        {
-          "title": "“伝わる”UIをつくれるデザイナーを目指して - インターン生インタビュー",
-          "link": "https://www.mindfactory.co.jp/blog/8370",
-          "date": "Fri, 27 Feb 2026 11:43:03 +0000",
-          "summary": "今年マインドファクトリーでは、初めてインターンシップの受け入れを行いました。 今回は、インターンで来てくれた名古屋モード学園グラフィック学科の水野君に、デザイナーを志したきっかけや弊社でのインターンの感想をインタビューし […]"
-        },
-        {
-          "title": "WEBメディア「CREATORS STATION」に代表富岡のインタビュー記事が掲載されました",
-          "link": "https://www.mindfactory.co.jp/blog/8364",
-          "date": "Mon, 16 Feb 2026 08:57:39 +0000",
-          "summary": "株式会社フェローズが運営する、日本全国のクリエイターを応援するためのWEBメディア「CREATORS STATION」に、弊社代表 富岡のインタビュー記事が掲載されました。自身のこれまでのキャリアから、事業内容、今後の展 […]"
-        },
-        {
-          "title": "年末年始休暇のお知らせ",
-          "link": "https://www.mindfactory.co.jp/blog/8357",
-          "date": "Fri, 05 Dec 2025 09:20:14 +0000",
-          "summary": "平素は格別のお引き立てを賜り、厚く御礼申し上げます。誠に勝手ながら、弊社は、下記の期間を年末年始休業とさせていただきます。 ■ 年末年始休暇期間2025年12月27日（土）～2026年1月4日（日） ご不便をおかけいたし […]"
-        },
-        {
-          "title": "岐阜の魅力を満喫！長良川研修ツアー体験記",
-          "link": "https://www.mindfactory.co.jp/blog/8333",
-          "date": "Tue, 04 Nov 2025 03:17:02 +0000",
-          "summary": "こんにちは。広告プランナーの野倉です。今回は、9月に参加した「岐阜県長良川研修ツアー」をレポートします！ 開会式とプレゼンテーションで旅が始まる ツアーは、朝の開会式からスタートしました。会場には少し緊張した面持ちの参加 […]"
-        },
-        {
-          "title": "株式会社桜とのパートナーシップ提携のご案内",
-          "link": "https://www.mindfactory.co.jp/blog/8312",
-          "date": "Thu, 04 Sep 2025 05:09:59 +0000",
-          "summary": "はじめに このたび、株式会社桜（以下 桜）と株式会社マインドファクトリー（以下 当社）は、ブランドコピーライティングとデジタルマーケティングにおいてパートナーシップ提携いたしました。桜が強みとする「ブランドコピーライティ […]"
-        }
-      ],
-      "error": null
+      "items": [],
+      "error": "Request timed out after 10000ms"
     },
     {
       "tool": "Empathy Writing",
