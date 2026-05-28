@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-05-27T03:58:27.570Z",
+  "fetchedAt": "2026-05-28T03:46:07.165Z",
   "tools": [
     {
       "tool": "ミエルカ（YouTube）",
@@ -19,6 +19,12 @@
       "sourceType": "tool",
       "feedUrl": "https://ahrefs.com/blog/ja/feed/",
       "items": [
+        {
+          "title": "Ahrefs Evolve Singapore 2026 平 大志朗氏に現地取材｜ AI 検索時代、SEO の KPI はどう変わるのか",
+          "link": "https://ahrefs.com/blog/ja/case-study-taira-evolvesg-2026/",
+          "date": "Wed, 27 May 2026 06:16:43 +0000",
+          "summary": "この記事の要点 ▸ Ahrefs Evolve Singapore 2026 では、AI による概要（AI Overviews） によるトラフィック減少そのものよりも、その後の KPI 設計に議論の重心が移っていた ▸ AI 検索時代の SEO では、Brand Mentions、Visibility、Branded Keyword search volume、Accuracy、Traffic &"
+        },
         {
           "title": "AI エージェントでコンテンツマーケティングを自動化する 7 つの方法 | Agent A 活用術",
           "link": "https://ahrefs.com/blog/ja/agent-a-for-content-marketing/",
@@ -42,12 +48,6 @@
           "link": "https://ahrefs.com/blog/ja/interview-with-tim-ahrefs-japan-strategy-2026/",
           "date": "Wed, 20 May 2026 01:42:54 +0000",
           "summary": "Ahrefs CMO ティム・ソウロの再来日インタビュー後編。日本を「Ahrefs にとって世界トップ 3 の重要拠点」と位置づける戦略の裏側、渋谷メガウォール広告に込めた想い、そして加速する日本ローカライズの全貌を公開。激変する AI 検索時代、グローバルの知見をどう日本市場へ還元するのか？日本マーケティング統括の Taka と共に Ahrefs Japan の次なるステージを語ります。 Rea"
-        },
-        {
-          "title": "生成 AI におけるトレーニングデータ、RAG（検索拡張生成）、MCP、API とは？",
-          "link": "https://ahrefs.com/blog/ja/how-does-ai-get-its-information/",
-          "date": "Mon, 18 May 2026 07:31:01 +0000",
-          "summary": "生成 AI はどこから情報を得ているのか？トレーニングデータ、RAG、MCP、API という 3 つの知識レイヤーの仕組みと限界、そしてブランドが AI に正しく認識されるための戦略を解説します。 Read more › The post 生成 AI におけるトレーニングデータ、RAG（検索拡張生成）、MCP、API とは？ appeared first on Ahrefs 公式ブログ."
         }
       ],
       "error": null
@@ -123,10 +123,22 @@
       "feedUrl": "https://rakkokeyword.com/techo/feed/",
       "items": [
         {
+          "title": "PDFページ番号設定ツール",
+          "link": "https://rakkokeyword.com/techo/tool-pdf-pagenumber/",
+          "date": "Thu, 28 May 2026 01:49:45 +0000",
+          "summary": "ツールを準備しています… 安心設計：ファイルはお客様の端末内で処理され、サーバーには送信されません ページ番号を追加したいPDFをドラッグ＆ドロップ またはクリックして選択 対応形式: PDF 別のファイルを選択 1. ..."
+        },
+        {
+          "title": "PDF図形挿入ツール",
+          "link": "https://rakkokeyword.com/techo/tool-pdf-shape/",
+          "date": "Wed, 27 May 2026 06:13:31 +0000",
+          "summary": "PDFテキスト追加ツール PDF図形挿入ツール PDFファイルを選択またはドロップ 図形を挿入したいPDFファイルを読み込みます。 ファイルを選択 別のPDF 操作 ← 元に戻す → やり直し 図形 □ 四角 ○ 円 ／ ..."
+        },
+        {
           "title": "PDFテキスト追加ツール",
           "link": "https://rakkokeyword.com/techo/tool-pdf-text/",
           "date": "Mon, 25 May 2026 07:18:03 +0000",
-          "summary": "PDFファイルを選択またはドロップ 編集したいPDFファイルを読み込みます。 ファイルを選択 別のPDF ＋ テキスト追加 設定を初期化 フォント ゴシック体明朝体 サイズ px 文字色 装飾 B I 配置 左揃え中央揃 ..."
+          "summary": "PDFテキスト追加ツール PDF図形挿入ツール PDFファイルを選択またはドロップ 編集したいPDFファイルを読み込みます。 ファイルを選択 別のPDF ＋ テキスト追加 設定を初期化 フォント ゴシック体明朝体 サイズ ..."
         },
         {
           "title": "PDF並び替えツール",
@@ -139,18 +151,6 @@
           "link": "https://rakkokeyword.com/techo/tool-pdf-insert/",
           "date": "Fri, 22 May 2026 06:33:00 +0000",
           "summary": "PDF並び替え PDFページ挿入 ツールを準備しています… 安心設計：ファイルはお客様の端末内で処理され、サーバーには送信されません ベースとなるPDFをドラッグ＆ドロップ またはクリックして選択 対応形式: PDF ＋ ..."
-        },
-        {
-          "title": "YouTube上位表示で集客！検索アルゴリズムの仕組みと最適化の方法",
-          "link": "https://rakkokeyword.com/techo/youtube-ranking-algorithm/",
-          "date": "Fri, 22 May 2026 04:57:32 +0000",
-          "summary": "「企画から撮影、編集まで時間と労力をかけて動画を作っているのに、YouTubeの再生回数が全く伸びない」 「自社の商品やサービスを知ってもらうためにYouTubeを始めたが、検索しても自社の動画が見つからず、何が悪いのか ..."
-        },
-        {
-          "title": "PDFトリミングツール",
-          "link": "https://rakkokeyword.com/techo/tool-pdf-trim/",
-          "date": "Fri, 22 May 2026 02:32:50 +0000",
-          "summary": "ここにPDFファイルをドラッグ＆ドロップ または ファイルを選択 別のPDFを選択 ズーム調整 100% トリミング対象ページ 全ページに適用 このページのみ（現在のページ） ※ 「このページのみ」はダウンロード時に現在 ..."
         }
       ],
       "error": null
@@ -262,6 +262,13 @@
       "feedUrl": "https://wordpress.org/news/feed/",
       "items": [
         {
+          "title": "WP 23",
+          "titleOrig": "WP23",
+          "link": "https://wordpress.org/news/2026/05/wp23/",
+          "date": "Wed, 27 May 2026 17:40:10 +0000",
+          "summary": "WordPress at 23 is simultaneously both the strongest and most precarious it’s ever been. Last week, we shipped WordPress 7 to the world. In seven days, 46% of all WordPresses, tens of millions across "
+        },
+        {
           "title": "WordCamp Europe 2026を見据えて",
           "titleOrig": "Looking Ahead to WordCamp Europe 2026",
           "link": "https://wordpress.org/news/2026/05/wceu-2026-sessions/",
@@ -288,13 +295,6 @@
           "link": "https://wordpress.org/news/2026/05/wcus-2026-get-tickets/",
           "date": "Thu, 14 May 2026 13:56:36 +0000",
           "summary": "August 16–19, 2026, Phoenix Convention Center – Phoenix, Arizona Tickets are now available for WordCamp US 2026, taking place August 16–19, 2026, at the Phoenix Convention Center in Phoenix, Arizona. "
-        },
-        {
-          "title": "WordPress 7.0リリース候補3",
-          "titleOrig": "WordPress 7.0 Release Candidate 3",
-          "link": "https://wordpress.org/news/2026/05/wordpress-7-0-release-candidate-3/",
-          "date": "Fri, 08 May 2026 18:18:48 +0000",
-          "summary": "The third Release Candidate (“RC3”) for WordPress 7.0 is ready for download and testing! This version of the WordPress software is under development. Please do not install, run, or test this version o"
         }
       ],
       "error": null
@@ -395,8 +395,39 @@
       "category": "制作・デザイン",
       "sourceType": "media",
       "feedUrl": "https://www.mindfactory.co.jp/blog/feed/",
-      "items": [],
-      "error": "Request timed out after 10000ms"
+      "items": [
+        {
+          "title": "“伝わる”UIをつくれるデザイナーを目指して - インターン生インタビュー",
+          "link": "https://www.mindfactory.co.jp/blog/8370",
+          "date": "Fri, 27 Feb 2026 11:43:03 +0000",
+          "summary": "今年マインドファクトリーでは、初めてインターンシップの受け入れを行いました。 今回は、インターンで来てくれた名古屋モード学園グラフィック学科の水野君に、デザイナーを志したきっかけや弊社でのインターンの感想をインタビューし […]"
+        },
+        {
+          "title": "WEBメディア「CREATORS STATION」に代表富岡のインタビュー記事が掲載されました",
+          "link": "https://www.mindfactory.co.jp/blog/8364",
+          "date": "Mon, 16 Feb 2026 08:57:39 +0000",
+          "summary": "株式会社フェローズが運営する、日本全国のクリエイターを応援するためのWEBメディア「CREATORS STATION」に、弊社代表 富岡のインタビュー記事が掲載されました。自身のこれまでのキャリアから、事業内容、今後の展 […]"
+        },
+        {
+          "title": "年末年始休暇のお知らせ",
+          "link": "https://www.mindfactory.co.jp/blog/8357",
+          "date": "Fri, 05 Dec 2025 09:20:14 +0000",
+          "summary": "平素は格別のお引き立てを賜り、厚く御礼申し上げます。誠に勝手ながら、弊社は、下記の期間を年末年始休業とさせていただきます。 ■ 年末年始休暇期間2025年12月27日（土）～2026年1月4日（日） ご不便をおかけいたし […]"
+        },
+        {
+          "title": "岐阜の魅力を満喫！長良川研修ツアー体験記",
+          "link": "https://www.mindfactory.co.jp/blog/8333",
+          "date": "Tue, 04 Nov 2025 03:17:02 +0000",
+          "summary": "こんにちは。広告プランナーの野倉です。今回は、9月に参加した「岐阜県長良川研修ツアー」をレポートします！ 開会式とプレゼンテーションで旅が始まる ツアーは、朝の開会式からスタートしました。会場には少し緊張した面持ちの参加 […]"
+        },
+        {
+          "title": "株式会社桜とのパートナーシップ提携のご案内",
+          "link": "https://www.mindfactory.co.jp/blog/8312",
+          "date": "Thu, 04 Sep 2025 05:09:59 +0000",
+          "summary": "はじめに このたび、株式会社桜（以下 桜）と株式会社マインドファクトリー（以下 当社）は、ブランドコピーライティングとデジタルマーケティングにおいてパートナーシップ提携いたしました。桜が強みとする「ブランドコピーライティ […]"
+        }
+      ],
+      "error": null
     },
     {
       "tool": "Empathy Writing",
