@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-05-28T03:46:07.165Z",
+  "fetchedAt": "2026-05-29T03:47:00.106Z",
   "tools": [
     {
       "tool": "ミエルカ（YouTube）",
@@ -19,6 +19,12 @@
       "sourceType": "tool",
       "feedUrl": "https://ahrefs.com/blog/ja/feed/",
       "items": [
+        {
+          "title": "サイバーエージェント SEO ラボ研究室長・木村賢氏が語る、SEO と GEO の現在地。Ahrefs Evolve Singapore 2026 現地取材",
+          "link": "https://ahrefs.com/blog/ja/case-study-cyberagent-evolvesg-2026/",
+          "date": "Thu, 28 May 2026 04:39:39 +0000",
+          "summary": "サイバーエージェントで SEO ラボ研究室長を務め、京都大学や横浜市立大学との共同研究も手がける木村賢氏に、Ahrefs Evolve Singapore 2026 の会場で、AI 検索時代における SEO と GEO の本質的な違い、評価指標の変化、そしてこれからのマーケターが取るべきスタンスについて伺いました。初回から 3 年連続で Ahrefs Evolve に参加する木村氏の視点から見えて"
+        },
         {
           "title": "Ahrefs Evolve Singapore 2026 平 大志朗氏に現地取材｜ AI 検索時代、SEO の KPI はどう変わるのか",
           "link": "https://ahrefs.com/blog/ja/case-study-taira-evolvesg-2026/",
@@ -42,12 +48,6 @@
           "link": "https://ahrefs.com/blog/ja/case-study-lany-evolvesg-2026/",
           "date": "Wed, 20 May 2026 05:46:07 +0000",
           "summary": "「新規提案の準備に 10 時間かかっていた作業が、AI エージェントの Agent A 導入後 10 分になった」と語る竹内氏が、海外カンファレンスで得た知見、ブランドマーケティングへのシフト、そして AI エージェントがもたらすエージェンシーの未来について語ります。 本記事では、Ahrefs Evolve Singapore 2026 の会場で行った現地インタビューの模様をお届けします。聞き手は"
-        },
-        {
-          "title": "【Ahrefs（エイチレフス）キーパーソンインタビュー 後編】日本市場にさらに注目：1 年ぶり再来日、CMO ティム・ソウロ × 日本マーケティング統括 Taka が描く次のステージ",
-          "link": "https://ahrefs.com/blog/ja/interview-with-tim-ahrefs-japan-strategy-2026/",
-          "date": "Wed, 20 May 2026 01:42:54 +0000",
-          "summary": "Ahrefs CMO ティム・ソウロの再来日インタビュー後編。日本を「Ahrefs にとって世界トップ 3 の重要拠点」と位置づける戦略の裏側、渋谷メガウォール広告に込めた想い、そして加速する日本ローカライズの全貌を公開。激変する AI 検索時代、グローバルの知見をどう日本市場へ還元するのか？日本マーケティング統括の Taka と共に Ahrefs Japan の次なるステージを語ります。 Rea"
         }
       ],
       "error": null
@@ -123,6 +123,18 @@
       "feedUrl": "https://rakkokeyword.com/techo/feed/",
       "items": [
         {
+          "title": "PDF透かし（ウォーターマーク）追加ツール",
+          "link": "https://rakkokeyword.com/techo/tool-pdf-watermark/",
+          "date": "Fri, 29 May 2026 01:51:55 +0000",
+          "summary": "処理中… PDFファイルを選択してください ※ここにファイルをドラッグ＆ドロップするか、ボタンを押して選択 PDFファイルを選択 別のPDF ＜ 前へ 1 / 1 次へ ＞ ※プレビューは概算です。実際の出力と若干異なる ..."
+        },
+        {
+          "title": "YouTubeの長尺動画が伸びない！原因と編集疲れから抜け出す戦略",
+          "link": "https://rakkokeyword.com/techo/youtube-long-content-difficult/",
+          "date": "Thu, 28 May 2026 05:59:31 +0000",
+          "summary": "YouTubeで10分以上の長尺動画を頑張って投稿しているのに、再生回数が伸びないと悩んでいませんか。 何時間もかけてすべての言葉にテロップ（字幕）を入れるような丁寧な編集をしているのに、数字が伴わないと、体力的にも精神 ..."
+        },
+        {
           "title": "PDFページ番号設定ツール",
           "link": "https://rakkokeyword.com/techo/tool-pdf-pagenumber/",
           "date": "Thu, 28 May 2026 01:49:45 +0000",
@@ -139,18 +151,6 @@
           "link": "https://rakkokeyword.com/techo/tool-pdf-text/",
           "date": "Mon, 25 May 2026 07:18:03 +0000",
           "summary": "PDFテキスト追加ツール PDF図形挿入ツール PDFファイルを選択またはドロップ 編集したいPDFファイルを読み込みます。 ファイルを選択 別のPDF ＋ テキスト追加 設定を初期化 フォント ゴシック体明朝体 サイズ ..."
-        },
-        {
-          "title": "PDF並び替えツール",
-          "link": "https://rakkokeyword.com/techo/tool-pdf-sort/",
-          "date": "Mon, 25 May 2026 05:06:55 +0000",
-          "summary": "PDF並び替え PDFページ挿入 ツールを準備しています… 安心設計：ファイルはお客様の端末内で処理され、サーバーには送信されません 並べ替えたいPDFをドラッグ＆ドロップ またはクリックして選択 対応形式: PDF 全 ..."
-        },
-        {
-          "title": "PDFページ挿入ツール",
-          "link": "https://rakkokeyword.com/techo/tool-pdf-insert/",
-          "date": "Fri, 22 May 2026 06:33:00 +0000",
-          "summary": "PDF並び替え PDFページ挿入 ツールを準備しています… 安心設計：ファイルはお客様の端末内で処理され、サーバーには送信されません ベースとなるPDFをドラッグ＆ドロップ またはクリックして選択 対応形式: PDF ＋ ..."
         }
       ],
       "error": null
@@ -171,6 +171,13 @@
       "sourceType": "tool",
       "feedUrl": "https://blog.google/technology/ai/rss/",
       "items": [
+        {
+          "title": "2026年の12の主要なI/Oモーメントに追いつく",
+          "titleOrig": "Catch up on 12 major I/O 2026 moments",
+          "link": "https://blog.google/innovation-and-ai/technology/ai/io-2026-keynote-moment-videos/",
+          "date": "Thu, 28 May 2026 15:00:00 +0000",
+          "summary": "Here are 12 of the biggest Google I/O 2026 keynote moments, including news about Gemini Omni, Gemini 3.5 Flash and more."
+        },
         {
           "title": "Google I/O 2026でのダイアログステージに追いつきましょう。",
           "titleOrig": "Catch up on the Dialogues stage at Google I/O 2026.",
@@ -198,13 +205,6 @@
           "link": "https://blog.google/innovation-and-ai/models-and-research/google-research/google-beam-group-meetings/",
           "date": "Wed, 20 May 2026 16:45:00 +0000",
           "summary": "See and hear your colleagues in true-to-life size and sound, making hybrid meetings feel more inclusive and connected."
-        },
-        {
-          "title": "I/O 2026",
-          "titleOrig": "I/O 2026",
-          "link": "https://blog.google/innovation-and-ai/technology/developers-tools/google-io-2026-collection/",
-          "date": "Tue, 19 May 2026 17:45:00 +0000",
-          "summary": "At Google I/O 2026, we shared how we’re making AI more helpful for everyone. See everything we announced."
         }
       ],
       "error": null
@@ -307,6 +307,20 @@
       "feedUrl": "https://obsidian.md/changelog.xml",
       "items": [
         {
+          "title": "Obsidian 1.13.0モバイル（早期アクセス）",
+          "titleOrig": "Obsidian 1.13.0 Mobile (Early access)",
+          "link": "https://obsidian.md/changelog/2026-05-28-mobile-v1.13.0/",
+          "date": "2026-05-28T00:00:00.000Z",
+          "summary": "Includes all new features and bug fixes up to Obsidian Desktop v1.13.0. New iOS: New Share Sheet with configurable Locations. Configure Locations to point to different destinations across any of your "
+        },
+        {
+          "title": "Obsidian 1.13.0デスクトップ（先行アクセス）",
+          "titleOrig": "Obsidian 1.13.0 Desktop (Early access)",
+          "link": "https://obsidian.md/changelog/2026-05-28-desktop-v1.13.0/",
+          "date": "2026-05-28T00:00:00.000Z",
+          "summary": "This release introduces a revamped Settings panel that opens in a new window with built-in search and keyboard navigation. New Settings Settings now open in a new window. You can turn this off in Sett"
+        },
+        {
           "title": "Obsidian 1.12.7モバイル（パブリック）",
           "titleOrig": "Obsidian 1.12.7 Mobile (Public)",
           "link": "https://obsidian.md/changelog/2026-03-23-mobile-v1.12.7/",
@@ -326,20 +340,6 @@
           "link": "https://obsidian.md/changelog/2026-03-18-mobile-v1.12.6/",
           "date": "2026-03-18T00:00:00.000Z",
           "summary": "Includes all new features and bug fixes up to Obsidian Desktop v1.12.6."
-        },
-        {
-          "title": "Obsidian 1.12.6デスクトップ（先行アクセス）",
-          "titleOrig": "Obsidian 1.12.6 Desktop (Early access)",
-          "link": "https://obsidian.md/changelog/2026-03-18-desktop-v1.12.6/",
-          "date": "2026-03-18T00:00:00.000Z",
-          "summary": "Bug fixes CLI Fixed the Obsidian CLI incorrectly checking for a Linux-specific directory on macOS. Changed the CLI socket file to a hidden dotfile on macOS and Linux. Editor Fixed some regressions wit"
-        },
-        {
-          "title": "Obsidian 1.12.5モバイル（早期アクセス）",
-          "titleOrig": "Obsidian 1.12.5 Mobile (Early access)",
-          "link": "https://obsidian.md/changelog/2026-03-05-mobile-v1.12.5/",
-          "date": "2026-03-05T00:00:00.000Z",
-          "summary": "Includes all new features and bug fixes up to Obsidian Desktop v1.12.5."
         }
       ],
       "error": null
@@ -351,6 +351,13 @@
       "sourceType": "tool",
       "feedUrl": "https://github.blog/feed/",
       "items": [
+        {
+          "title": "まだ開発者です。ちょうど外です。最新のGitHub Shopコレクションはこちらです。",
+          "titleOrig": "Still a developer. Just outside. Our latest GitHub Shop collection is here.",
+          "link": "https://github.blog/news-insights/company-news/still-a-developer-just-outside-our-latest-github-shop-collection-is-here/",
+          "date": "Thu, 28 May 2026 18:18:43 +0000",
+          "summary": "The ESC collection lets you escape the confines of your desk and get out into the sun where good ideas are bound to happen. The post Still a developer. Just outside. Our latest GitHub Shop collection "
+        },
         {
           "title": "初心者のためのGitHub ： VSコードでGitとGitHubを使い始める",
           "titleOrig": "GitHub for Beginners: Getting started with Git and GitHub in VS Code",
@@ -378,13 +385,6 @@
           "link": "https://github.blog/open-source/building-githubs-next-chapter-in-accessibility/",
           "date": "Thu, 21 May 2026 16:00:00 +0000",
           "summary": "Explore our update on GitHub’s accessibility strategy, and learn how you can join us in building a culture of accessibility. The post Building GitHub’s next chapter in accessibility appeared first on "
-        },
-        {
-          "title": "調査の更新: GitHub Enterprise Server署名キーローテーション",
-          "titleOrig": "Investigation update: GitHub Enterprise Server signing key rotation",
-          "link": "https://github.blog/security/investigating-unauthorized-access-to-githubs-internal-repositories/",
-          "date": "Wed, 20 May 2026 21:07:38 +0000",
-          "summary": "GitHub Enterprise Server customers need to take immediate action. The post Investigation update: GitHub Enterprise Server signing key rotation appeared first on The GitHub Blog."
         }
       ],
       "error": null
