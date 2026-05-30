@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-05-29T03:47:00.106Z",
+  "fetchedAt": "2026-05-30T03:33:42.247Z",
   "tools": [
     {
       "tool": "ミエルカ（YouTube）",
@@ -9,8 +9,39 @@
       "type": "youtube",
       "handle": "@mieruca-channel",
       "feedUrl": "",
-      "items": [],
-      "error": "Status code 404"
+      "items": [
+        {
+          "title": "Google検索結果（SERPs）の最新動向｜SEO担当者が押さえるべき見方を解説【2026年版】",
+          "link": "https://www.youtube.com/watch?v=bEVcu9J3XU4",
+          "date": "2026-05-26T23:00:03.000Z",
+          "summary": ""
+        },
+        {
+          "title": "AI Overviews・AIモード・コアアップデート｜2026年前半SEOで何が起きたのか",
+          "link": "https://www.youtube.com/watch?v=7c6LD8aBIi4",
+          "date": "2026-05-24T23:00:15.000Z",
+          "summary": ""
+        },
+        {
+          "title": "【速報】Google I/O 2026｜SEO目線で押さえる5つのポイント",
+          "link": "https://www.youtube.com/watch?v=MeyH_UZwgI4",
+          "date": "2026-05-20T23:00:36.000Z",
+          "summary": ""
+        },
+        {
+          "title": "Googleが語ったAI検索時代のSEO｜Search Central Live Canada 2026を鈴木謙一が解説",
+          "link": "https://www.youtube.com/watch?v=IUAmRM-4dS8",
+          "date": "2026-05-19T23:00:19.000Z",
+          "summary": ""
+        },
+        {
+          "title": "GA4でChatGPT・Geminiからの流入分析が可能に｜SEO Weekly Update",
+          "link": "https://www.youtube.com/watch?v=Bw2gGVvsi3Q",
+          "date": "2026-05-17T23:00:22.000Z",
+          "summary": ""
+        }
+      ],
+      "error": null
     },
     {
       "tool": "Ahrefs",
@@ -19,6 +50,18 @@
       "sourceType": "tool",
       "feedUrl": "https://ahrefs.com/blog/ja/feed/",
       "items": [
+        {
+          "title": "AI × SEO 実務ガイド｜ChatGPT・Claude・Ahrefs で実現する SEO 自動化ワークフロー【プロンプト集付き】",
+          "link": "https://ahrefs.com/blog/ja/ai-seo-automation-workflow/",
+          "date": "Fri, 29 May 2026 07:49:03 +0000",
+          "summary": "SEO 業務を AI でどこまで自動化できる？Ahrefs の確かなデータと ChatGPT・Claude を組み合わせた、現場で即活用できる自動化ワークフローを解説します。キーワード調査から競合分析、構成案作成まで、Ahrefs が実践するプロンプト集も公開。AI を最高のパートナーにする様々な工夫をご紹介します。 Read more › The post AI × SEO 実務ガイド｜Chat"
+        },
+        {
+          "title": "データ記事で被リンクを 10 倍にする方法｜調査 PR と SEO を掛け合わせたリンク獲得戦略",
+          "link": "https://ahrefs.com/blog/ja/data-driven-backlink-strategy-and-pr/",
+          "date": "Fri, 29 May 2026 05:39:54 +0000",
+          "summary": "AI 検索時代の被リンク獲得には「独自データ」が不可欠です。本記事では、Ahrefs を駆使した調査テーマの発掘から、メディア露出と高品質なリンクを狙う「調査 PR」の設計、効果測定までを徹底解説。AI 引用（AEO）と被リンクを同時に獲得し、サイトを「一生ものの資産」に変える次世代のリンク戦略をご紹介します。 Read more › The post データ記事で被リンクを 10 倍にする方法｜"
+        },
         {
           "title": "サイバーエージェント SEO ラボ研究室長・木村賢氏が語る、SEO と GEO の現在地。Ahrefs Evolve Singapore 2026 現地取材",
           "link": "https://ahrefs.com/blog/ja/case-study-cyberagent-evolvesg-2026/",
@@ -36,18 +79,6 @@
           "link": "https://ahrefs.com/blog/ja/agent-a-for-content-marketing/",
           "date": "Tue, 26 May 2026 06:46:59 +0000",
           "summary": "AIエージェント「Agent A」を活用してコンテンツマーケティングを効率化。SEOコンテンツ作成からパフォーマンス分析まで、マーケティング自動化の実践的な手法を7つ紹介します。 Read more › The post AI エージェントでコンテンツマーケティングを自動化する 7 つの方法 | Agent A 活用術 appeared first on Ahrefs 公式ブログ."
-        },
-        {
-          "title": "AI エージェントとは？Agent A でプロダクトマーケティングを自動化する 8 つの方法",
-          "link": "https://ahrefs.com/blog/ja/agent-a-for-product-marketing/",
-          "date": "Mon, 25 May 2026 08:57:07 +0000",
-          "summary": "AIエージェントとは何か、そしてAhrefs Agent Aを使ってプロダクトマーケティング業務を効率化する具体的な8つの手法を解説。GTMパッケージの自動生成からコンテンツ制作まで実践例を紹介。 Read more › The post AI エージェントとは？Agent A でプロダクトマーケティングを自動化する 8 つの方法 appeared first on Ahrefs 公式ブログ."
-        },
-        {
-          "title": "株式会社 LANY 独占インタビュー：「測れる指標に踊らされない」 LANY 竹内氏が Evolve Singapore で得た AI 時代の本質",
-          "link": "https://ahrefs.com/blog/ja/case-study-lany-evolvesg-2026/",
-          "date": "Wed, 20 May 2026 05:46:07 +0000",
-          "summary": "「新規提案の準備に 10 時間かかっていた作業が、AI エージェントの Agent A 導入後 10 分になった」と語る竹内氏が、海外カンファレンスで得た知見、ブランドマーケティングへのシフト、そして AI エージェントがもたらすエージェンシーの未来について語ります。 本記事では、Ahrefs Evolve Singapore 2026 の会場で行った現地インタビューの模様をお届けします。聞き手は"
         }
       ],
       "error": null
@@ -59,6 +90,20 @@
       "sourceType": "tool",
       "feedUrl": "https://www.semrush.com/blog/feed/",
       "items": [
+        {
+          "title": "SemrushでAIの可視性をどのように推進しているか",
+          "titleOrig": "How we're driving AI visibility at Semrush",
+          "link": "https://www.semrush.com/blog/how-we-are-using-semrush-to-drive-llm-visibility/",
+          "date": "Fri, 29 May 2026 14:35:00 +0000",
+          "summary": "How we nearly tripled our share of voice and boosted our AI visibility with Enterprise AIO and AI Visibility Toolkit. A systematic approach with real data."
+        },
+        {
+          "title": "SEO競合他社の分析方法[+テンプレート]",
+          "titleOrig": "How to do an SEO competitor analysis [+ template]",
+          "link": "https://www.semrush.com/blog/how-to-do-seo-competitive-analysis/",
+          "date": "Fri, 29 May 2026 11:18:00 +0000",
+          "summary": "Learn how to do an SEO competitor analysis. Get insights to outrank your competitors in Google and AI platforms."
+        },
         {
           "title": "Eコマースマーケティング： 2026年の検索とAIの10の戦略",
           "titleOrig": "Ecommerce marketing: 10 strategies for search and AI in 2026",
@@ -79,20 +124,6 @@
           "link": "https://www.semrush.com/blog/what-is-ppc/",
           "date": "Thu, 21 May 2026 08:59:00 +0000",
           "summary": "Learn what PPC marketing is, how it works, and how to set up your first pay-per-click campaign."
-        },
-        {
-          "title": "競合分析とは？ 1つの方法(+テンプレート)",
-          "titleOrig": "What is competitive analysis? How to do one (+ template)",
-          "link": "https://www.semrush.com/blog/competitive-analysis/",
-          "date": "Thu, 21 May 2026 08:39:00 +0000",
-          "summary": "Competitive analysis is the process of analyzing competitors’ products, marketing, and AI visibility to improve your strategy."
-        },
-        {
-          "title": "Google検索が情報エージェントとユニバーサルカートでエージェント機能を拡張",
-          "titleOrig": "Google Search expands agentic capabilities with information agents and Universal Cart",
-          "link": "https://www.semrush.com/blog/google-adds-information-agents-and-universal-cart/",
-          "date": "Thu, 21 May 2026 08:13:00 +0000",
-          "summary": "Google‘s information agents and Universal Cart stand to change how users discover and buy products online."
         }
       ],
       "error": null
@@ -123,6 +154,12 @@
       "feedUrl": "https://rakkokeyword.com/techo/feed/",
       "items": [
         {
+          "title": "YouTube予約投稿は伸びない？アルゴリズムの罠と正しい設定",
+          "link": "https://rakkokeyword.com/techo/youtube-scheduled-post/",
+          "date": "Fri, 29 May 2026 04:48:24 +0000",
+          "summary": "「本業が忙しいから予約投稿に頼りたいけれど、手動で公開していた時期よりも再生回数が減ってしまった気がする…」と、運用方法に悩んでいませんか？ 週末にまとめて動画を作り、平日に予約投稿をするスタイルは、忙しい会社員にとって ..."
+        },
+        {
           "title": "PDF透かし（ウォーターマーク）追加ツール",
           "link": "https://rakkokeyword.com/techo/tool-pdf-watermark/",
           "date": "Fri, 29 May 2026 01:51:55 +0000",
@@ -145,12 +182,6 @@
           "link": "https://rakkokeyword.com/techo/tool-pdf-shape/",
           "date": "Wed, 27 May 2026 06:13:31 +0000",
           "summary": "PDFテキスト追加ツール PDF図形挿入ツール PDFファイルを選択またはドロップ 図形を挿入したいPDFファイルを読み込みます。 ファイルを選択 別のPDF 操作 ← 元に戻す → やり直し 図形 □ 四角 ○ 円 ／ ..."
-        },
-        {
-          "title": "PDFテキスト追加ツール",
-          "link": "https://rakkokeyword.com/techo/tool-pdf-text/",
-          "date": "Mon, 25 May 2026 07:18:03 +0000",
-          "summary": "PDFテキスト追加ツール PDF図形挿入ツール PDFファイルを選択またはドロップ 編集したいPDFファイルを読み込みます。 ファイルを選択 別のPDF ＋ テキスト追加 設定を初期化 フォント ゴシック体明朝体 サイズ ..."
         }
       ],
       "error": null
@@ -172,6 +203,27 @@
       "feedUrl": "https://blog.google/technology/ai/rss/",
       "items": [
         {
+          "title": "Google AI Studioでコード化されたI/O 2026クイズをお試しください。",
+          "titleOrig": "Take our I/O 2026 quiz, vibe coded in Google AI Studio.",
+          "link": "https://blog.google/innovation-and-ai/technology/ai/io-2026-vibe-coded-quiz/",
+          "date": "Fri, 29 May 2026 19:00:00 +0000",
+          "summary": "We used Google AI Studio to vibe code a quiz about our top I/O 2026 announcements."
+        },
+        {
+          "title": "Gemini OmniとGemini 3.5の9つのデモ",
+          "titleOrig": "9 demos of Gemini Omni and Gemini 3.5 in action",
+          "link": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-omni-3-5-videos/",
+          "date": "Fri, 29 May 2026 17:30:00 +0000",
+          "summary": "Watch 9 videos showing the capabilities of Gemini Omni and Gemini 3.5, announced at Google I/O 2026."
+        },
+        {
+          "title": "Futures Labから実際のAIプロトタイプをチェックしてください。",
+          "titleOrig": "Check out real-life AI prototypes from the Futures Lab.",
+          "link": "https://blog.google/innovation-and-ai/technology/ai/university-waterloo-labs/",
+          "date": "Fri, 29 May 2026 12:00:00 +0000",
+          "summary": "University of Waterloo students develop AI prototypes like sign language tutors to reshape the future of education and work."
+        },
+        {
           "title": "2026年の12の主要なI/Oモーメントに追いつく",
           "titleOrig": "Catch up on 12 major I/O 2026 moments",
           "link": "https://blog.google/innovation-and-ai/technology/ai/io-2026-keynote-moment-videos/",
@@ -184,27 +236,6 @@
           "link": "https://blog.google/innovation-and-ai/technology/ai/io-2026-dialogues-recap/",
           "date": "Fri, 22 May 2026 18:00:00 +0000",
           "summary": "A recap of the 2026 I/O Dialogues, where leaders discuss the future of AI, quantum computing, robotics and creativity."
-        },
-        {
-          "title": "ミズーリ州での新しいコミュニティへの投資を発表します。",
-          "titleOrig": "We’re announcing new community investments in Missouri.",
-          "link": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/missouri-programs/",
-          "date": "Wed, 20 May 2026 20:40:00 +0000",
-          "summary": "We’re helping build the state’s next-generation workforce and investing in energy programs."
-        },
-        {
-          "title": "I/O 2026で発表した100のこと",
-          "titleOrig": "100 things we announced at I/O 2026",
-          "link": "https://blog.google/innovation-and-ai/technology/ai/google-io-2026-all-our-announcements/",
-          "date": "Wed, 20 May 2026 19:30:00 +0000",
-          "summary": "We've been busy! Here’s a rundown of the top announcements, launches and demos at I/O 2026."
-        },
-        {
-          "title": "新しい実験により、Google Beamのグループミーティングが改善されました",
-          "titleOrig": "A new experiment brings better group meetings to Google Beam",
-          "link": "https://blog.google/innovation-and-ai/models-and-research/google-research/google-beam-group-meetings/",
-          "date": "Wed, 20 May 2026 16:45:00 +0000",
-          "summary": "See and hear your colleagues in true-to-life size and sound, making hybrid meetings feel more inclusive and connected."
         }
       ],
       "error": null
