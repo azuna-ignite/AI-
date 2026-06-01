@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-05-31T04:00:13.679Z",
+  "fetchedAt": "2026-06-01T04:14:10.842Z",
   "tools": [
     {
       "tool": "ミエルカ（YouTube）",
@@ -10,6 +10,12 @@
       "handle": "@mieruca-channel",
       "feedUrl": "",
       "items": [
+        {
+          "title": "Googleの優先ソースがAI検索へ。ゼロクリック緩和の新導線になるか｜SEO Weekly Update",
+          "link": "https://www.youtube.com/watch?v=t3GoblqY8Lw",
+          "date": "2026-05-31T23:00:11.000Z",
+          "summary": ""
+        },
         {
           "title": "Google検索結果（SERPs）の最新動向｜SEO担当者が押さえるべき見方を解説【2026年版】",
           "link": "https://www.youtube.com/watch?v=bEVcu9J3XU4",
@@ -32,12 +38,6 @@
           "title": "Googleが語ったAI検索時代のSEO｜Search Central Live Canada 2026を鈴木謙一が解説",
           "link": "https://www.youtube.com/watch?v=IUAmRM-4dS8",
           "date": "2026-05-19T23:00:19.000Z",
-          "summary": ""
-        },
-        {
-          "title": "GA4でChatGPT・Geminiからの流入分析が可能に｜SEO Weekly Update",
-          "link": "https://www.youtube.com/watch?v=Bw2gGVvsi3Q",
-          "date": "2026-05-17T23:00:22.000Z",
           "summary": ""
         }
       ],
