@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-06-01T04:14:10.842Z",
+  "fetchedAt": "2026-06-02T04:07:25.676Z",
   "tools": [
     {
       "tool": "ミエルカ（YouTube）",
@@ -9,39 +9,8 @@
       "type": "youtube",
       "handle": "@mieruca-channel",
       "feedUrl": "",
-      "items": [
-        {
-          "title": "Googleの優先ソースがAI検索へ。ゼロクリック緩和の新導線になるか｜SEO Weekly Update",
-          "link": "https://www.youtube.com/watch?v=t3GoblqY8Lw",
-          "date": "2026-05-31T23:00:11.000Z",
-          "summary": ""
-        },
-        {
-          "title": "Google検索結果（SERPs）の最新動向｜SEO担当者が押さえるべき見方を解説【2026年版】",
-          "link": "https://www.youtube.com/watch?v=bEVcu9J3XU4",
-          "date": "2026-05-26T23:00:03.000Z",
-          "summary": ""
-        },
-        {
-          "title": "AI Overviews・AIモード・コアアップデート｜2026年前半SEOで何が起きたのか",
-          "link": "https://www.youtube.com/watch?v=7c6LD8aBIi4",
-          "date": "2026-05-24T23:00:15.000Z",
-          "summary": ""
-        },
-        {
-          "title": "【速報】Google I/O 2026｜SEO目線で押さえる5つのポイント",
-          "link": "https://www.youtube.com/watch?v=MeyH_UZwgI4",
-          "date": "2026-05-20T23:00:36.000Z",
-          "summary": ""
-        },
-        {
-          "title": "Googleが語ったAI検索時代のSEO｜Search Central Live Canada 2026を鈴木謙一が解説",
-          "link": "https://www.youtube.com/watch?v=IUAmRM-4dS8",
-          "date": "2026-05-19T23:00:19.000Z",
-          "summary": ""
-        }
-      ],
-      "error": null
+      "items": [],
+      "error": "Status code 404"
     },
     {
       "tool": "Ahrefs",
@@ -50,6 +19,12 @@
       "sourceType": "tool",
       "feedUrl": "https://ahrefs.com/blog/ja/feed/",
       "items": [
+        {
+          "title": "検索意図分析とは？キーワード調査の次にやるべきコンテンツ設計フレームワーク",
+          "link": "https://ahrefs.com/blog/ja/search-intent-mapping-and-topic-clusters/",
+          "date": "Mon, 01 Jun 2026 04:35:46 +0000",
+          "summary": "キーワード調査の「次」に何をすべきか。AI 検索時代に選ばれるコンテンツを設計するには、検索意図の解像度を極限まで高める「検索意図マッピング」が不可欠です。本記事では、Ahrefs を活用した意図分析からトピッククラスターによる構造化まで、競合と圧倒的な差をつける実務フレームワークを解説します。 Read more › The post 検索意図分析とは？キーワード調査の次にやるべきコンテンツ設計"
+        },
         {
           "title": "AI × SEO 実務ガイド｜ChatGPT・Claude・Ahrefs で実現する SEO 自動化ワークフロー【プロンプト集付き】",
           "link": "https://ahrefs.com/blog/ja/ai-seo-automation-workflow/",
@@ -73,12 +48,6 @@
           "link": "https://ahrefs.com/blog/ja/case-study-taira-evolvesg-2026/",
           "date": "Wed, 27 May 2026 06:16:43 +0000",
           "summary": "この記事の要点 ▸ Ahrefs Evolve Singapore 2026 では、AI による概要（AI Overviews） によるトラフィック減少そのものよりも、その後の KPI 設計に議論の重心が移っていた ▸ AI 検索時代の SEO では、Brand Mentions、Visibility、Branded Keyword search volume、Accuracy、Traffic &"
-        },
-        {
-          "title": "AI エージェントでコンテンツマーケティングを自動化する 7 つの方法 | Agent A 活用術",
-          "link": "https://ahrefs.com/blog/ja/agent-a-for-content-marketing/",
-          "date": "Tue, 26 May 2026 06:46:59 +0000",
-          "summary": "AIエージェント「Agent A」を活用してコンテンツマーケティングを効率化。SEOコンテンツ作成からパフォーマンス分析まで、マーケティング自動化の実践的な手法を7つ紹介します。 Read more › The post AI エージェントでコンテンツマーケティングを自動化する 7 つの方法 | Agent A 活用術 appeared first on Ahrefs 公式ブログ."
         }
       ],
       "error": null
@@ -90,6 +59,20 @@
       "sourceType": "tool",
       "feedUrl": "https://www.semrush.com/blog/feed/",
       "items": [
+        {
+          "title": "Google、Merchant CenterにAIパフォーマンスレポートを追加",
+          "titleOrig": "Google to add AI performance report to Merchant Center",
+          "link": "https://www.semrush.com/blog/google-to-add-ai-performance-report-to-merchant-center/",
+          "date": "Mon, 01 Jun 2026 08:01:00 +0000",
+          "summary": "A new AI performance insights report will give ecommerce brands a look at how they appear across AI-powered shopping experiences."
+        },
+        {
+          "title": "Googleが優先ソースをAIの概要とAIモードに導入",
+          "titleOrig": "Google brings Preferred Sources to AI Overviews and AI Mode",
+          "link": "https://www.semrush.com/blog/google-preferred-sources-in-ai-experiences/",
+          "date": "Mon, 01 Jun 2026 06:33:00 +0000",
+          "summary": "Google is bringing Preferred Sources to AI Overviews and AI Mode. Here‘s what it means for your visibility."
+        },
         {
           "title": "SemrushでAIの可視性をどのように推進しているか",
           "titleOrig": "How we're driving AI visibility at Semrush",
@@ -110,20 +93,6 @@
           "link": "https://www.semrush.com/blog/ecommerce-marketing/",
           "date": "Fri, 22 May 2026 10:39:00 +0000",
           "summary": "10 ecommerce marketing strategies for 2026, from SEO and email to AI search and shopping assistants."
-        },
-        {
-          "title": "2026年に最適なSEO監査ツール10選（テスト済み）",
-          "titleOrig": "10 best SEO audit tools for 2026 (tested)",
-          "link": "https://www.semrush.com/blog/seo-audit-tools/",
-          "date": "Fri, 22 May 2026 09:59:00 +0000",
-          "summary": "See our comparison of SEO audit tools including Site Audit, Google Search Console, Screaming Frog, and more."
-        },
-        {
-          "title": "PPCとは？ペイパークリック広告のスターターガイド",
-          "titleOrig": "What is PPC? A starter guide to pay-per-click advertising",
-          "link": "https://www.semrush.com/blog/what-is-ppc/",
-          "date": "Thu, 21 May 2026 08:59:00 +0000",
-          "summary": "Learn what PPC marketing is, how it works, and how to set up your first pay-per-click campaign."
         }
       ],
       "error": null
@@ -152,39 +121,8 @@
       "category": "SEO・キーワード調査",
       "sourceType": "tool",
       "feedUrl": "https://rakkokeyword.com/techo/feed/",
-      "items": [
-        {
-          "title": "YouTube予約投稿は伸びない？アルゴリズムの罠と正しい設定",
-          "link": "https://rakkokeyword.com/techo/youtube-scheduled-post/",
-          "date": "Fri, 29 May 2026 04:48:24 +0000",
-          "summary": "「本業が忙しいから予約投稿に頼りたいけれど、手動で公開していた時期よりも再生回数が減ってしまった気がする…」と、運用方法に悩んでいませんか？ 週末にまとめて動画を作り、平日に予約投稿をするスタイルは、忙しい会社員にとって ..."
-        },
-        {
-          "title": "PDF透かし（ウォーターマーク）追加ツール",
-          "link": "https://rakkokeyword.com/techo/tool-pdf-watermark/",
-          "date": "Fri, 29 May 2026 01:51:55 +0000",
-          "summary": "処理中… PDFファイルを選択してください ※ここにファイルをドラッグ＆ドロップするか、ボタンを押して選択 PDFファイルを選択 別のPDF ＜ 前へ 1 / 1 次へ ＞ ※プレビューは概算です。実際の出力と若干異なる ..."
-        },
-        {
-          "title": "YouTubeの長尺動画が伸びない！原因と編集疲れから抜け出す戦略",
-          "link": "https://rakkokeyword.com/techo/youtube-long-content-difficult/",
-          "date": "Thu, 28 May 2026 05:59:31 +0000",
-          "summary": "YouTubeで10分以上の長尺動画を頑張って投稿しているのに、再生回数が伸びないと悩んでいませんか。 何時間もかけてすべての言葉にテロップ（字幕）を入れるような丁寧な編集をしているのに、数字が伴わないと、体力的にも精神 ..."
-        },
-        {
-          "title": "PDFページ番号設定ツール",
-          "link": "https://rakkokeyword.com/techo/tool-pdf-pagenumber/",
-          "date": "Thu, 28 May 2026 01:49:45 +0000",
-          "summary": "ツールを準備しています… 安心設計：ファイルはお客様の端末内で処理され、サーバーには送信されません ページ番号を追加したいPDFをドラッグ＆ドロップ またはクリックして選択 対応形式: PDF 別のファイルを選択 1. ..."
-        },
-        {
-          "title": "PDF図形挿入ツール",
-          "link": "https://rakkokeyword.com/techo/tool-pdf-shape/",
-          "date": "Wed, 27 May 2026 06:13:31 +0000",
-          "summary": "PDFテキスト追加ツール PDF図形挿入ツール PDFファイルを選択またはドロップ 図形を挿入したいPDFファイルを読み込みます。 ファイルを選択 別のPDF 操作 ← 元に戻す → やり直し 図形 □ 四角 ○ 円 ／ ..."
-        }
-      ],
-      "error": null
+      "items": [],
+      "error": "Status code 415"
     },
     {
       "tool": "Claude / Claude Code",
@@ -202,6 +140,13 @@
       "sourceType": "tool",
       "feedUrl": "https://blog.google/technology/ai/rss/",
       "items": [
+        {
+          "title": "Geminiを使用してGoogle I/O 2026を構築した方法",
+          "titleOrig": "How we used Gemini to build Google I/O 2026",
+          "link": "https://blog.google/innovation-and-ai/technology/ai/io-2026-google-ai/",
+          "date": "Mon, 01 Jun 2026 16:00:00 +0000",
+          "summary": "Learn how Googlers used AI to produce Google I/O 2026."
+        },
         {
           "title": "Google AI Studioでコード化されたI/O 2026クイズをお試しください。",
           "titleOrig": "Take our I/O 2026 quiz, vibe coded in Google AI Studio.",
@@ -229,13 +174,6 @@
           "link": "https://blog.google/innovation-and-ai/technology/ai/io-2026-keynote-moment-videos/",
           "date": "Thu, 28 May 2026 15:00:00 +0000",
           "summary": "Here are 12 of the biggest Google I/O 2026 keynote moments, including news about Gemini Omni, Gemini 3.5 Flash and more."
-        },
-        {
-          "title": "Google I/O 2026でのダイアログステージに追いつきましょう。",
-          "titleOrig": "Catch up on the Dialogues stage at Google I/O 2026.",
-          "link": "https://blog.google/innovation-and-ai/technology/ai/io-2026-dialogues-recap/",
-          "date": "Fri, 22 May 2026 18:00:00 +0000",
-          "summary": "A recap of the 2026 I/O Dialogues, where leaders discuss the future of AI, quantum computing, robotics and creativity."
         }
       ],
       "error": null
