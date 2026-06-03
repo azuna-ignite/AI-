@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-06-02T04:07:25.676Z",
+  "fetchedAt": "2026-06-03T04:17:27.018Z",
   "tools": [
     {
       "tool": "ミエルカ（YouTube）",
@@ -60,6 +60,13 @@
       "feedUrl": "https://www.semrush.com/blog/feed/",
       "items": [
         {
+          "title": "Googleによるウェブサイトのインデックス作成方法",
+          "titleOrig": "How to get your website indexed by Google",
+          "link": "https://www.semrush.com/blog/google-index/",
+          "date": "Tue, 02 Jun 2026 14:59:00 +0000",
+          "summary": "Learn to check if Google has indexed your site and what to do if not, so you can show in search results."
+        },
+        {
           "title": "Google、Merchant CenterにAIパフォーマンスレポートを追加",
           "titleOrig": "Google to add AI performance report to Merchant Center",
           "link": "https://www.semrush.com/blog/google-to-add-ai-performance-report-to-merchant-center/",
@@ -86,13 +93,6 @@
           "link": "https://www.semrush.com/blog/how-to-do-seo-competitive-analysis/",
           "date": "Fri, 29 May 2026 11:18:00 +0000",
           "summary": "Learn how to do an SEO competitor analysis. Get insights to outrank your competitors in Google and AI platforms."
-        },
-        {
-          "title": "Eコマースマーケティング： 2026年の検索とAIの10の戦略",
-          "titleOrig": "Ecommerce marketing: 10 strategies for search and AI in 2026",
-          "link": "https://www.semrush.com/blog/ecommerce-marketing/",
-          "date": "Fri, 22 May 2026 10:39:00 +0000",
-          "summary": "10 ecommerce marketing strategies for 2026, from SEO and email to AI search and shopping assistants."
         }
       ],
       "error": null
@@ -122,7 +122,7 @@
       "sourceType": "tool",
       "feedUrl": "https://rakkokeyword.com/techo/feed/",
       "items": [],
-      "error": "Status code 415"
+      "error": "Status code 403"
     },
     {
       "tool": "Claude / Claude Code",
@@ -321,6 +321,13 @@
       "feedUrl": "https://github.blog/feed/",
       "items": [
         {
+          "title": "GitHub Copilotアプリ：エージェントネイティブのデスクトップエクスペリエンス",
+          "titleOrig": "GitHub Copilot app: The agent-native desktop experience",
+          "link": "https://github.blog/news-insights/product-news/github-copilot-app-the-agent-native-desktop-experience/",
+          "date": "Tue, 02 Jun 2026 17:30:03 +0000",
+          "summary": "At Microsoft Build 2026, GitHub introduced new tools, updates, and surfaces so agents can work the way you already work. The post GitHub Copilot app: The agent-native desktop experience appeared first"
+        },
+        {
           "title": "まだ開発者です。ちょうど外です。最新のGitHub Shopコレクションはこちらです。",
           "titleOrig": "Still a developer. Just outside. Our latest GitHub Shop collection is here.",
           "link": "https://github.blog/news-insights/company-news/still-a-developer-just-outside-our-latest-github-shop-collection-is-here/",
@@ -347,13 +354,6 @@
           "link": "https://github.blog/open-source/gaming/beyond-the-engine-10-open-source-projects-shaping-how-games-actually-get-made/",
           "date": "Thu, 21 May 2026 18:00:00 +0000",
           "summary": "Check out these 10 open source tools that help game developers create art, animation, levels, audio, dialogue, debug UIs, and engine-ready assets. The post Beyond the engine: 10 open source projects s"
-        },
-        {
-          "title": "アクセシビリティに関するGitHubの次の章の構築",
-          "titleOrig": "Building GitHub’s next chapter in accessibility",
-          "link": "https://github.blog/open-source/building-githubs-next-chapter-in-accessibility/",
-          "date": "Thu, 21 May 2026 16:00:00 +0000",
-          "summary": "Explore our update on GitHub’s accessibility strategy, and learn how you can join us in building a culture of accessibility. The post Building GitHub’s next chapter in accessibility appeared first on "
         }
       ],
       "error": null
