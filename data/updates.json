@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-06-03T04:17:27.018Z",
+  "fetchedAt": "2026-06-04T04:11:05.045Z",
   "tools": [
     {
       "tool": "ミエルカ（YouTube）",
@@ -19,6 +19,12 @@
       "sourceType": "tool",
       "feedUrl": "https://ahrefs.com/blog/ja/feed/",
       "items": [
+        {
+          "title": "ドメインパワーの適正値とは？実データで解説する 3 つの判断基準",
+          "link": "https://ahrefs.com/blog/ja/what-is-a-good-domain-rating/",
+          "date": "Wed, 03 Jun 2026 08:01:30 +0000",
+          "summary": "ドメインパワー（DR）に「良い数値」の絶対的な基準はありません。競合比較・業界平均・ターゲットキーワードの 3 軸で自サイトの DR を正しく評価する方法を、実データとともに解説します。 Read more › The post ドメインパワーの適正値とは？実データで解説する 3 つの判断基準 appeared first on Ahrefs 公式ブログ."
+        },
         {
           "title": "検索意図分析とは？キーワード調査の次にやるべきコンテンツ設計フレームワーク",
           "link": "https://ahrefs.com/blog/ja/search-intent-mapping-and-topic-clusters/",
@@ -42,12 +48,6 @@
           "link": "https://ahrefs.com/blog/ja/case-study-cyberagent-evolvesg-2026/",
           "date": "Thu, 28 May 2026 04:39:39 +0000",
           "summary": "サイバーエージェントで SEO ラボ研究室長を務め、京都大学や横浜市立大学との共同研究も手がける木村賢氏に、Ahrefs Evolve Singapore 2026 の会場で、AI 検索時代における SEO と GEO の本質的な違い、評価指標の変化、そしてこれからのマーケターが取るべきスタンスについて伺いました。初回から 3 年連続で Ahrefs Evolve に参加する木村氏の視点から見えて"
-        },
-        {
-          "title": "Ahrefs Evolve Singapore 2026 平 大志朗氏に現地取材｜ AI 検索時代、SEO の KPI はどう変わるのか",
-          "link": "https://ahrefs.com/blog/ja/case-study-taira-evolvesg-2026/",
-          "date": "Wed, 27 May 2026 06:16:43 +0000",
-          "summary": "この記事の要点 ▸ Ahrefs Evolve Singapore 2026 では、AI による概要（AI Overviews） によるトラフィック減少そのものよりも、その後の KPI 設計に議論の重心が移っていた ▸ AI 検索時代の SEO では、Brand Mentions、Visibility、Branded Keyword search volume、Accuracy、Traffic &"
         }
       ],
       "error": null
@@ -60,39 +60,39 @@
       "feedUrl": "https://www.semrush.com/blog/feed/",
       "items": [
         {
+          "title": "GoogleがLighthouseに専用のエージェントブラウジングカテゴリを追加",
+          "titleOrig": "Google adds a dedicated Agentic Browsing category to Lighthouse",
+          "link": "https://www.semrush.com/blog/google-adds-agentic-browsing-category-to-lighthouse/",
+          "date": "Wed, 03 Jun 2026 15:01:00 +0000",
+          "summary": "Google Lighthouse now audits how ready your site is for AI agents. Here‘s what it means for visibility."
+        },
+        {
+          "title": "Google Search Consoleは、AIパフォーマンスレポートとブロックコントロールを追加します",
+          "titleOrig": "Google Search Console adds AI performance reports and blocking controls",
+          "link": "https://www.semrush.com/blog/google-adds-ai-performance-reports/",
+          "date": "Wed, 03 Jun 2026 14:56:00 +0000",
+          "summary": "Google is rolling out an AI performance report and a toggle to block content from AI responses in Search Console. Here‘s what it means for your visibility."
+        },
+        {
+          "title": "ソーシャルメディアSEO ：検索、ソーシャル、AIに表示する方法",
+          "titleOrig": "Social media SEO: How to show in search, social, and AI",
+          "link": "https://www.semrush.com/blog/social-media-seo/",
+          "date": "Wed, 03 Jun 2026 13:59:00 +0000",
+          "summary": "Social media SEO involves improving your social presence to appear across multiple search surfaces."
+        },
+        {
+          "title": "AI検索とSEOを完全に統合しているマーケターはわずか22 ％です。彼らは前進しています。[Study]",
+          "titleOrig": "Only 22% of marketers have fully integrated AI search and SEO. They’re pulling ahead. [Study]",
+          "link": "https://www.semrush.com/blog/the-operational-gap-ai-seo-study/",
+          "date": "Wed, 03 Jun 2026 13:00:00 +0000",
+          "summary": "AI search is the new SEO for most marketers. But their workflows haven‘t caught up yet. Survey of 481 marketers."
+        },
+        {
           "title": "Googleによるウェブサイトのインデックス作成方法",
           "titleOrig": "How to get your website indexed by Google",
           "link": "https://www.semrush.com/blog/google-index/",
           "date": "Tue, 02 Jun 2026 14:59:00 +0000",
           "summary": "Learn to check if Google has indexed your site and what to do if not, so you can show in search results."
-        },
-        {
-          "title": "Google、Merchant CenterにAIパフォーマンスレポートを追加",
-          "titleOrig": "Google to add AI performance report to Merchant Center",
-          "link": "https://www.semrush.com/blog/google-to-add-ai-performance-report-to-merchant-center/",
-          "date": "Mon, 01 Jun 2026 08:01:00 +0000",
-          "summary": "A new AI performance insights report will give ecommerce brands a look at how they appear across AI-powered shopping experiences."
-        },
-        {
-          "title": "Googleが優先ソースをAIの概要とAIモードに導入",
-          "titleOrig": "Google brings Preferred Sources to AI Overviews and AI Mode",
-          "link": "https://www.semrush.com/blog/google-preferred-sources-in-ai-experiences/",
-          "date": "Mon, 01 Jun 2026 06:33:00 +0000",
-          "summary": "Google is bringing Preferred Sources to AI Overviews and AI Mode. Here‘s what it means for your visibility."
-        },
-        {
-          "title": "SemrushでAIの可視性をどのように推進しているか",
-          "titleOrig": "How we're driving AI visibility at Semrush",
-          "link": "https://www.semrush.com/blog/how-we-are-using-semrush-to-drive-llm-visibility/",
-          "date": "Fri, 29 May 2026 14:35:00 +0000",
-          "summary": "How we nearly tripled our share of voice and boosted our AI visibility with Enterprise AIO and AI Visibility Toolkit. A systematic approach with real data."
-        },
-        {
-          "title": "SEO競合他社の分析方法[+テンプレート]",
-          "titleOrig": "How to do an SEO competitor analysis [+ template]",
-          "link": "https://www.semrush.com/blog/how-to-do-seo-competitive-analysis/",
-          "date": "Fri, 29 May 2026 11:18:00 +0000",
-          "summary": "Learn how to do an SEO competitor analysis. Get insights to outrank your competitors in Google and AI platforms."
         }
       ],
       "error": null
@@ -121,8 +121,39 @@
       "category": "SEO・キーワード調査",
       "sourceType": "tool",
       "feedUrl": "https://rakkokeyword.com/techo/feed/",
-      "items": [],
-      "error": "Status code 403"
+      "items": [
+        {
+          "title": "PDF入力フォーム作成ツール",
+          "link": "https://rakkokeyword.com/techo/tool-pdf-form/",
+          "date": "Wed, 03 Jun 2026 06:00:57 +0000",
+          "summary": "PDFファイルを選択してください PDFファイルを選択 ※ここにファイルをドラッグ＆ドロップするか、ボタンを押して選択 ※20MBまでの「.pdf」ファイルのみ対応 現在のPDF： 別のPDF + 入力項目を追加 + チ ..."
+        },
+        {
+          "title": "鏡文字変換ツール",
+          "link": "https://rakkokeyword.com/techo/tool-mirror-text/",
+          "date": "Wed, 03 Jun 2026 05:33:27 +0000",
+          "summary": "テキストを入力 （🍎🚗などの絵文字も反転できます！） 文字の方向 横書き 縦書き 反転方向 左右反転 上下反転 フォント ゴシック体明朝体丸ゴシック手書き風 🎨 詳細設定を開く フォントサイズ (px) 文字色 背景色 ..."
+        },
+        {
+          "title": "YouTubeの流入経路を分析！視聴者を呼び込む方法と収益化への道筋",
+          "link": "https://rakkokeyword.com/techo/youtube-traffic-analysis-monetization/",
+          "date": "Wed, 03 Jun 2026 02:32:35 +0000",
+          "summary": "伸び悩みの原因は、視聴者がどの入口から動画にたどり着いているか、つまり「流入経路」を把握できていないことにあります。 YouTube Studioのアナリティクスを開けば、自分の動画がどこから見られているかは5分で確認で ..."
+        },
+        {
+          "title": "アスキーアート生成ツール",
+          "link": "https://rakkokeyword.com/techo/tool-aa-maker/",
+          "date": "Tue, 02 Jun 2026 03:49:42 +0000",
+          "summary": "画像から テキストから（デカ文字化） 安心設計：画像はお客様の端末内で処理され、サーバーには送信されません 画像をドラッグ＆ドロップ またはクリックして選択 対応形式: JPG, PNG, GIF, WEBP デカ文字に ..."
+        },
+        {
+          "title": "【YouTube】投稿時間のおすすめ・ライバルを避けて再生数を伸ばす戦略！",
+          "link": "https://rakkokeyword.com/techo/best-time-to-post-youtube/",
+          "date": "Tue, 02 Jun 2026 03:12:10 +0000",
+          "summary": "「YouTubeに動画を投稿しているけれど、初動の再生数がなかなか伸びない」 「せっかく時間をかけて作った動画が、有名クリエイターの動画に埋もれてしまっている気がする」 YouTubeチャンネルを運営していると、このよう ..."
+        }
+      ],
+      "error": null
     },
     {
       "tool": "Claude / Claude Code",
@@ -140,6 +171,13 @@
       "sourceType": "tool",
       "feedUrl": "https://blog.google/technology/ai/rss/",
       "items": [
+        {
+          "title": "Google検索でスリップショッピングやヴィンテージショッピングをレベルアップする5つの方法",
+          "titleOrig": "5 ways Google Search can level up your thrift and vintage shopping",
+          "link": "https://blog.google/products-and-platforms/products/search/thrifting-tips/",
+          "date": "Wed, 03 Jun 2026 13:00:00 +0000",
+          "summary": "Uncover second-hand scores with AI tools in Google Search and Shopping."
+        },
         {
           "title": "Geminiを使用してGoogle I/O 2026を構築した方法",
           "titleOrig": "How we used Gemini to build Google I/O 2026",
@@ -167,13 +205,6 @@
           "link": "https://blog.google/innovation-and-ai/technology/ai/university-waterloo-labs/",
           "date": "Fri, 29 May 2026 12:00:00 +0000",
           "summary": "University of Waterloo students develop AI prototypes like sign language tutors to reshape the future of education and work."
-        },
-        {
-          "title": "2026年の12の主要なI/Oモーメントに追いつく",
-          "titleOrig": "Catch up on 12 major I/O 2026 moments",
-          "link": "https://blog.google/innovation-and-ai/technology/ai/io-2026-keynote-moment-videos/",
-          "date": "Thu, 28 May 2026 15:00:00 +0000",
-          "summary": "Here are 12 of the biggest Google I/O 2026 keynote moments, including news about Gemini Omni, Gemini 3.5 Flash and more."
         }
       ],
       "error": null
