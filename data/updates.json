@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-06-04T04:11:05.045Z",
+  "fetchedAt": "2026-06-05T03:55:52.527Z",
   "tools": [
     {
       "tool": "ミエルカ（YouTube）",
@@ -9,8 +9,39 @@
       "type": "youtube",
       "handle": "@mieruca-channel",
       "feedUrl": "",
-      "items": [],
-      "error": "Status code 404"
+      "items": [
+        {
+          "title": "SEOで勝ち続けるサイトは何が違うのか？海外事例に学ぶ長期戦略",
+          "link": "https://www.youtube.com/watch?v=_TbukVQZaWQ",
+          "date": "2026-06-03T23:00:27.000Z",
+          "summary": ""
+        },
+        {
+          "title": "AI記事制作で独自性を出すには？SEO記事に人間の経験を活かすワークフロー",
+          "link": "https://www.youtube.com/watch?v=1n3KfQwLqfo",
+          "date": "2026-06-01T23:00:20.000Z",
+          "summary": ""
+        },
+        {
+          "title": "Googleの優先ソースがAI検索へ。ゼロクリック緩和の新導線になるか｜SEO Weekly Update",
+          "link": "https://www.youtube.com/watch?v=t3GoblqY8Lw",
+          "date": "2026-05-31T23:00:11.000Z",
+          "summary": ""
+        },
+        {
+          "title": "Google検索結果（SERPs）の最新動向｜SEO担当者が押さえるべき見方を解説【2026年版】",
+          "link": "https://www.youtube.com/watch?v=bEVcu9J3XU4",
+          "date": "2026-05-26T23:00:03.000Z",
+          "summary": ""
+        },
+        {
+          "title": "AI Overviews・AIモード・コアアップデート｜2026年前半SEOで何が起きたのか",
+          "link": "https://www.youtube.com/watch?v=7c6LD8aBIi4",
+          "date": "2026-05-24T23:00:15.000Z",
+          "summary": ""
+        }
+      ],
+      "error": null
     },
     {
       "tool": "Ahrefs",
@@ -60,6 +91,27 @@
       "feedUrl": "https://www.semrush.com/blog/feed/",
       "items": [
         {
+          "title": "GoogleのAI検索最適化ガイド：次のステップ",
+          "titleOrig": "Google's AI search optimization guide: what to do next",
+          "link": "https://www.semrush.com/blog/google-ai-search-optimization-guide/",
+          "date": "Thu, 04 Jun 2026 17:14:00 +0000",
+          "summary": "Google‘s AI search optimization guide validates SEO. What it leaves out, and four moves to make now."
+        },
+        {
+          "title": "SEOランキングとトラフィックを向上させる9つの方法",
+          "titleOrig": "9 ways to improve SEO rankings and traffic",
+          "link": "https://www.semrush.com/blog/improve-seo/",
+          "date": "Thu, 04 Jun 2026 10:21:00 +0000",
+          "summary": "Rank in organic search and AI Overviews by improving E-E-A-T and finding low-competition keywords. Here’s how + more strategies."
+        },
+        {
+          "title": "SEOにおけるキーワード戦略：その概要と作成方法",
+          "titleOrig": "Keyword strategy in SEO: What it is & how to create one",
+          "link": "https://www.semrush.com/blog/keyword-strategy/",
+          "date": "Thu, 04 Jun 2026 10:07:00 +0000",
+          "summary": "A keyword strategy defines the user queries you want to appear for and how you‘ll target them."
+        },
+        {
           "title": "GoogleがLighthouseに専用のエージェントブラウジングカテゴリを追加",
           "titleOrig": "Google adds a dedicated Agentic Browsing category to Lighthouse",
           "link": "https://www.semrush.com/blog/google-adds-agentic-browsing-category-to-lighthouse/",
@@ -72,27 +124,6 @@
           "link": "https://www.semrush.com/blog/google-adds-ai-performance-reports/",
           "date": "Wed, 03 Jun 2026 14:56:00 +0000",
           "summary": "Google is rolling out an AI performance report and a toggle to block content from AI responses in Search Console. Here‘s what it means for your visibility."
-        },
-        {
-          "title": "ソーシャルメディアSEO ：検索、ソーシャル、AIに表示する方法",
-          "titleOrig": "Social media SEO: How to show in search, social, and AI",
-          "link": "https://www.semrush.com/blog/social-media-seo/",
-          "date": "Wed, 03 Jun 2026 13:59:00 +0000",
-          "summary": "Social media SEO involves improving your social presence to appear across multiple search surfaces."
-        },
-        {
-          "title": "AI検索とSEOを完全に統合しているマーケターはわずか22 ％です。彼らは前進しています。[Study]",
-          "titleOrig": "Only 22% of marketers have fully integrated AI search and SEO. They’re pulling ahead. [Study]",
-          "link": "https://www.semrush.com/blog/the-operational-gap-ai-seo-study/",
-          "date": "Wed, 03 Jun 2026 13:00:00 +0000",
-          "summary": "AI search is the new SEO for most marketers. But their workflows haven‘t caught up yet. Survey of 481 marketers."
-        },
-        {
-          "title": "Googleによるウェブサイトのインデックス作成方法",
-          "titleOrig": "How to get your website indexed by Google",
-          "link": "https://www.semrush.com/blog/google-index/",
-          "date": "Tue, 02 Jun 2026 14:59:00 +0000",
-          "summary": "Learn to check if Google has indexed your site and what to do if not, so you can show in search results."
         }
       ],
       "error": null
@@ -123,6 +154,24 @@
       "feedUrl": "https://rakkokeyword.com/techo/feed/",
       "items": [
         {
+          "title": "【YouTubeの収益化条件】審査落ちを防ぎ最速で稼ぐロードマップ",
+          "link": "https://rakkokeyword.com/techo/youtube-monetization-requirements-roadmap/",
+          "date": "Fri, 05 Jun 2026 03:39:19 +0000",
+          "summary": "YouTubeの収益化は、登録者500人と1,000人の2段階に分けて考えると、一気に見通しがよくなります。 500人の段階ではファンからの応援機能が使えるようになり、1,000人の段階で広告収入の分配が始まります。 当 ..."
+        },
+        {
+          "title": "シンメトリー画像生成ツール",
+          "link": "https://rakkokeyword.com/techo/tool-symmetry-image/",
+          "date": "Thu, 04 Jun 2026 06:35:32 +0000",
+          "summary": "画像を選択してください 画像を選択 ※ここに画像をドラッグ＆ドロップするか、ボタンを押して選択 ※JPEG・PNG・WebP（最大10MBまで） 対称モード 左右対称 上下対称（水鏡） 分割線（対称軸）の調整 元画像プレ ..."
+        },
+        {
+          "title": "ソースコード表示ツール",
+          "link": "https://rakkokeyword.com/techo/tool-source-viewer/",
+          "date": "Thu, 04 Jun 2026 06:03:12 +0000",
+          "summary": "ソースを取得 リセット 取得中… しばらくお待ちください。 取得URL 総文字数 行数 データサイズ HTMLコード SEO情報 外部リソース (CSS/JS) リンク一覧 コードを整形する (※長文時は無効化) コード ..."
+        },
+        {
           "title": "PDF入力フォーム作成ツール",
           "link": "https://rakkokeyword.com/techo/tool-pdf-form/",
           "date": "Wed, 03 Jun 2026 06:00:57 +0000",
@@ -133,24 +182,6 @@
           "link": "https://rakkokeyword.com/techo/tool-mirror-text/",
           "date": "Wed, 03 Jun 2026 05:33:27 +0000",
           "summary": "テキストを入力 （🍎🚗などの絵文字も反転できます！） 文字の方向 横書き 縦書き 反転方向 左右反転 上下反転 フォント ゴシック体明朝体丸ゴシック手書き風 🎨 詳細設定を開く フォントサイズ (px) 文字色 背景色 ..."
-        },
-        {
-          "title": "YouTubeの流入経路を分析！視聴者を呼び込む方法と収益化への道筋",
-          "link": "https://rakkokeyword.com/techo/youtube-traffic-analysis-monetization/",
-          "date": "Wed, 03 Jun 2026 02:32:35 +0000",
-          "summary": "伸び悩みの原因は、視聴者がどの入口から動画にたどり着いているか、つまり「流入経路」を把握できていないことにあります。 YouTube Studioのアナリティクスを開けば、自分の動画がどこから見られているかは5分で確認で ..."
-        },
-        {
-          "title": "アスキーアート生成ツール",
-          "link": "https://rakkokeyword.com/techo/tool-aa-maker/",
-          "date": "Tue, 02 Jun 2026 03:49:42 +0000",
-          "summary": "画像から テキストから（デカ文字化） 安心設計：画像はお客様の端末内で処理され、サーバーには送信されません 画像をドラッグ＆ドロップ またはクリックして選択 対応形式: JPG, PNG, GIF, WEBP デカ文字に ..."
-        },
-        {
-          "title": "【YouTube】投稿時間のおすすめ・ライバルを避けて再生数を伸ばす戦略！",
-          "link": "https://rakkokeyword.com/techo/best-time-to-post-youtube/",
-          "date": "Tue, 02 Jun 2026 03:12:10 +0000",
-          "summary": "「YouTubeに動画を投稿しているけれど、初動の再生数がなかなか伸びない」 「せっかく時間をかけて作った動画が、有名クリエイターの動画に埋もれてしまっている気がする」 YouTubeチャンネルを運営していると、このよう ..."
         }
       ],
       "error": null
@@ -352,6 +383,13 @@
       "feedUrl": "https://github.blog/feed/",
       "items": [
         {
+          "title": "GitHub Universeが帰ってきました：エージェント時代のすべてが一緒になりました",
+          "titleOrig": "GitHub Universe is back: All together now, in the agentic era",
+          "link": "https://github.blog/news-insights/company-news/github-universe-is-back-all-together-now-in-the-agentic-era/",
+          "date": "Thu, 04 Jun 2026 16:00:00 +0000",
+          "summary": "GitHub Universe is back: returning to the historic Fort Mason Center in San Francisco on October 28–29, 2026. The post GitHub Universe is back: All together now, in the agentic era appeared first on T"
+        },
+        {
           "title": "GitHub Copilotアプリ：エージェントネイティブのデスクトップエクスペリエンス",
           "titleOrig": "GitHub Copilot app: The agent-native desktop experience",
           "link": "https://github.blog/news-insights/product-news/github-copilot-app-the-agent-native-desktop-experience/",
@@ -378,13 +416,6 @@
           "link": "https://github.blog/ai-and-ml/github-copilot/github-recognized-as-a-leader-in-the-gartner-magic-quadrant-for-enterprise-ai-coding-agents-for-the-third-year-in-a-row/",
           "date": "Fri, 22 May 2026 16:10:21 +0000",
           "summary": "We are committed to empowering every developer by building an open, secure, and AI-powered platform that defines the future of software development. The post GitHub recognized as a Leader in the Gartn"
-        },
-        {
-          "title": "エンジンを超えて：ゲームが実際にどのように作られるかを形作る10のオープンソースプロジェクト",
-          "titleOrig": "Beyond the engine: 10 open source projects shaping how games actually get made",
-          "link": "https://github.blog/open-source/gaming/beyond-the-engine-10-open-source-projects-shaping-how-games-actually-get-made/",
-          "date": "Thu, 21 May 2026 18:00:00 +0000",
-          "summary": "Check out these 10 open source tools that help game developers create art, animation, levels, audio, dialogue, debug UIs, and engine-ready assets. The post Beyond the engine: 10 open source projects s"
         }
       ],
       "error": null
