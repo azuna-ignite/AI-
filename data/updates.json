@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-06-05T03:55:52.527Z",
+  "fetchedAt": "2026-06-06T03:38:15.897Z",
   "tools": [
     {
       "tool": "ミエルカ（YouTube）",
@@ -51,6 +51,12 @@
       "feedUrl": "https://ahrefs.com/blog/ja/feed/",
       "items": [
         {
+          "title": "Claude Skillsとは？SEO・マーケティングでの活用方法を徹底解説",
+          "link": "https://ahrefs.com/blog/ja/claude-skills/",
+          "date": "Fri, 05 Jun 2026 04:47:31 +0000",
+          "summary": "Claude Skillsの基本概念から実際のSEO・マーケティング業務での活用方法まで詳しく解説。効率的なワークフローの構築方法も紹介します。 Read more › The post Claude Skillsとは？SEO・マーケティングでの活用方法を徹底解説 appeared first on Ahrefs 公式ブログ."
+        },
+        {
           "title": "ドメインパワーの適正値とは？実データで解説する 3 つの判断基準",
           "link": "https://ahrefs.com/blog/ja/what-is-a-good-domain-rating/",
           "date": "Wed, 03 Jun 2026 08:01:30 +0000",
@@ -73,12 +79,6 @@
           "link": "https://ahrefs.com/blog/ja/data-driven-backlink-strategy-and-pr/",
           "date": "Fri, 29 May 2026 05:39:54 +0000",
           "summary": "AI 検索時代の被リンク獲得には「独自データ」が不可欠です。本記事では、Ahrefs を駆使した調査テーマの発掘から、メディア露出と高品質なリンクを狙う「調査 PR」の設計、効果測定までを徹底解説。AI 引用（AEO）と被リンクを同時に獲得し、サイトを「一生ものの資産」に変える次世代のリンク戦略をご紹介します。 Read more › The post データ記事で被リンクを 10 倍にする方法｜"
-        },
-        {
-          "title": "サイバーエージェント SEO ラボ研究室長・木村賢氏が語る、SEO と GEO の現在地。Ahrefs Evolve Singapore 2026 現地取材",
-          "link": "https://ahrefs.com/blog/ja/case-study-cyberagent-evolvesg-2026/",
-          "date": "Thu, 28 May 2026 04:39:39 +0000",
-          "summary": "サイバーエージェントで SEO ラボ研究室長を務め、京都大学や横浜市立大学との共同研究も手がける木村賢氏に、Ahrefs Evolve Singapore 2026 の会場で、AI 検索時代における SEO と GEO の本質的な違い、評価指標の変化、そしてこれからのマーケターが取るべきスタンスについて伺いました。初回から 3 年連続で Ahrefs Evolve に参加する木村氏の視点から見えて"
         }
       ],
       "error": null
@@ -90,6 +90,13 @@
       "sourceType": "tool",
       "feedUrl": "https://www.semrush.com/blog/feed/",
       "items": [
+        {
+          "title": "Google広告の競合他社分析：ハウツーガイド（+トップツール）",
+          "titleOrig": "Google Ads competitor analysis: A how-to guide (+ top tools)",
+          "link": "https://www.semrush.com/blog/google-ads-competitor-analysis/",
+          "date": "Fri, 05 Jun 2026 09:07:00 +0000",
+          "summary": "Learn how to analyze competitors‘ Google Ads campaigns with top industry tools and a step-by-step process."
+        },
         {
           "title": "GoogleのAI検索最適化ガイド：次のステップ",
           "titleOrig": "Google's AI search optimization guide: what to do next",
@@ -117,13 +124,6 @@
           "link": "https://www.semrush.com/blog/google-adds-agentic-browsing-category-to-lighthouse/",
           "date": "Wed, 03 Jun 2026 15:01:00 +0000",
           "summary": "Google Lighthouse now audits how ready your site is for AI agents. Here‘s what it means for visibility."
-        },
-        {
-          "title": "Google Search Consoleは、AIパフォーマンスレポートとブロックコントロールを追加します",
-          "titleOrig": "Google Search Console adds AI performance reports and blocking controls",
-          "link": "https://www.semrush.com/blog/google-adds-ai-performance-reports/",
-          "date": "Wed, 03 Jun 2026 14:56:00 +0000",
-          "summary": "Google is rolling out an AI performance report and a toggle to block content from AI responses in Search Console. Here‘s what it means for your visibility."
         }
       ],
       "error": null
@@ -154,6 +154,18 @@
       "feedUrl": "https://rakkokeyword.com/techo/feed/",
       "items": [
         {
+          "title": "リンク切れチェッカー",
+          "link": "https://rakkokeyword.com/techo/tool-broken-link-checker/",
+          "date": "Fri, 05 Jun 2026 06:31:45 +0000",
+          "summary": "入力モード選択 URL（ドメイン・単一） 複数URL（一括ペースト） XMLサイトマップ 対象URL チェック対象範囲 すべてのリンク 内部リンクのみ 外部リンクのみ チェック開始 処理を中断する 処理中… 0% 走査し ..."
+        },
+        {
+          "title": "カラーパレット生成ツール",
+          "link": "https://rakkokeyword.com/techo/tool-color-palette/",
+          "date": "Fri, 05 Jun 2026 06:11:20 +0000",
+          "summary": "ベースカラー 配色ルール 3色組み合わせ (デフォルト)2色組み合わせ補色類似色トライアド ランダム生成 カラーパレット Webデザインプレビュー Site Header Design Simulation これは生成さ ..."
+        },
+        {
           "title": "【YouTubeの収益化条件】審査落ちを防ぎ最速で稼ぐロードマップ",
           "link": "https://rakkokeyword.com/techo/youtube-monetization-requirements-roadmap/",
           "date": "Fri, 05 Jun 2026 03:39:19 +0000",
@@ -170,18 +182,6 @@
           "link": "https://rakkokeyword.com/techo/tool-source-viewer/",
           "date": "Thu, 04 Jun 2026 06:03:12 +0000",
           "summary": "ソースを取得 リセット 取得中… しばらくお待ちください。 取得URL 総文字数 行数 データサイズ HTMLコード SEO情報 外部リソース (CSS/JS) リンク一覧 コードを整形する (※長文時は無効化) コード ..."
-        },
-        {
-          "title": "PDF入力フォーム作成ツール",
-          "link": "https://rakkokeyword.com/techo/tool-pdf-form/",
-          "date": "Wed, 03 Jun 2026 06:00:57 +0000",
-          "summary": "PDFファイルを選択してください PDFファイルを選択 ※ここにファイルをドラッグ＆ドロップするか、ボタンを押して選択 ※20MBまでの「.pdf」ファイルのみ対応 現在のPDF： 別のPDF + 入力項目を追加 + チ ..."
-        },
-        {
-          "title": "鏡文字変換ツール",
-          "link": "https://rakkokeyword.com/techo/tool-mirror-text/",
-          "date": "Wed, 03 Jun 2026 05:33:27 +0000",
-          "summary": "テキストを入力 （🍎🚗などの絵文字も反転できます！） 文字の方向 横書き 縦書き 反転方向 左右反転 上下反転 フォント ゴシック体明朝体丸ゴシック手書き風 🎨 詳細設定を開く フォントサイズ (px) 文字色 背景色 ..."
         }
       ],
       "error": null
@@ -202,6 +202,13 @@
       "sourceType": "tool",
       "feedUrl": "https://blog.google/technology/ai/rss/",
       "items": [
+        {
+          "title": "2026年5月に発表した最新のAIニュース",
+          "titleOrig": "The latest AI news we announced in May 2026",
+          "link": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-may-2026/",
+          "date": "Fri, 05 Jun 2026 14:45:00 +0000",
+          "summary": "Here are Google’s latest AI updates from May 2026"
+        },
         {
           "title": "Google検索でスリップショッピングやヴィンテージショッピングをレベルアップする5つの方法",
           "titleOrig": "5 ways Google Search can level up your thrift and vintage shopping",
@@ -229,13 +236,6 @@
           "link": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-omni-3-5-videos/",
           "date": "Fri, 29 May 2026 17:30:00 +0000",
           "summary": "Watch 9 videos showing the capabilities of Gemini Omni and Gemini 3.5, announced at Google I/O 2026."
-        },
-        {
-          "title": "Futures Labから実際のAIプロトタイプをチェックしてください。",
-          "titleOrig": "Check out real-life AI prototypes from the Futures Lab.",
-          "link": "https://blog.google/innovation-and-ai/technology/ai/university-waterloo-labs/",
-          "date": "Fri, 29 May 2026 12:00:00 +0000",
-          "summary": "University of Waterloo students develop AI prototypes like sign language tutors to reshape the future of education and work."
         }
       ],
       "error": null
@@ -293,6 +293,13 @@
       "feedUrl": "https://wordpress.org/news/feed/",
       "items": [
         {
+          "title": "シャイアーを守れ",
+          "titleOrig": "Protect The Shire",
+          "link": "https://wordpress.org/news/2026/06/pts/",
+          "date": "Fri, 05 Jun 2026 18:51:15 +0000",
+          "summary": "tl;dr: Temporary 24-hour cooldown period for plugin/theme releases before auto-updates. AI can give defenders an edge. We want to secure all 78K plugins and themes on WordPress.org. One of the things "
+        },
+        {
           "title": "WP 23",
           "titleOrig": "WP23",
           "link": "https://wordpress.org/news/2026/05/wp23/",
@@ -319,13 +326,6 @@
           "link": "https://wordpress.org/news/2026/05/wordpress-7-0-release-candidate-4/",
           "date": "Thu, 14 May 2026 16:47:15 +0000",
           "summary": "The fourth Release Candidate (“RC4”) for WordPress 7.0 is ready for download and testing! This version of the WordPress software is under development. Please do not install, run, or test this version "
-        },
-        {
-          "title": "WordCamp US 2026のチケットをゲット",
-          "titleOrig": "Get Your WordCamp US 2026 Tickets",
-          "link": "https://wordpress.org/news/2026/05/wcus-2026-get-tickets/",
-          "date": "Thu, 14 May 2026 13:56:36 +0000",
-          "summary": "August 16–19, 2026, Phoenix Convention Center – Phoenix, Arizona Tickets are now available for WordCamp US 2026, taking place August 16–19, 2026, at the Phoenix Convention Center in Phoenix, Arizona. "
         }
       ],
       "error": null
