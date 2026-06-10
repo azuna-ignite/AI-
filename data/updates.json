@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-06-09T03:38:55.934Z",
+  "fetchedAt": "2026-06-10T03:53:25.320Z",
   "tools": [
     {
       "tool": "ミエルカ（YouTube）",
@@ -60,6 +60,20 @@
       "feedUrl": "https://www.semrush.com/blog/feed/",
       "items": [
         {
+          "title": "AIの引用の62 ％がブランドの言及につながらない理由[研究]",
+          "titleOrig": "Why 62% of AI citations don’t lead to brand mentions [Study]",
+          "link": "https://www.semrush.com/blog/the-ghost-citations-study/",
+          "date": "Tue, 09 Jun 2026 13:00:00 +0000",
+          "summary": "In partnership with Kevin Indig, we analyzed 3,981 domain appearances across ChatGPT, Gemini, Google AI Overviews, and Google AI Mode. The study reveals how AI engines treat citations and brand mentio"
+        },
+        {
+          "title": "どのAI検索プロンプトを追跡するかを決定する方法",
+          "titleOrig": "How to decide which AI search prompts to track",
+          "link": "https://www.semrush.com/blog/which-ai-search-prompts-to-track/",
+          "date": "Tue, 09 Jun 2026 10:05:00 +0000",
+          "summary": "Use this framework to build a focused, high-signal prompt set that shows you where your brand stands in AI search results."
+        },
+        {
           "title": "Googleがパブリッシャーとクリエイター向けの検索プロフィールを開始",
           "titleOrig": "Google launches Search Profiles for publishers and creators",
           "link": "https://www.semrush.com/blog/google-launches-search-profiles/",
@@ -79,20 +93,6 @@
           "link": "https://www.semrush.com/blog/google-ai-search-optimization-guide/",
           "date": "Thu, 04 Jun 2026 17:14:00 +0000",
           "summary": "Google‘s AI search optimization guide validates SEO. What it leaves out, and four moves to make now."
-        },
-        {
-          "title": "SEOランキングとトラフィックを向上させる9つの方法",
-          "titleOrig": "9 ways to improve SEO rankings and traffic",
-          "link": "https://www.semrush.com/blog/improve-seo/",
-          "date": "Thu, 04 Jun 2026 10:21:00 +0000",
-          "summary": "Rank in organic search and AI Overviews by improving E-E-A-T and finding low-competition keywords. Here’s how + more strategies."
-        },
-        {
-          "title": "SEOにおけるキーワード戦略：その概要と作成方法",
-          "titleOrig": "Keyword strategy in SEO: What it is & how to create one",
-          "link": "https://www.semrush.com/blog/keyword-strategy/",
-          "date": "Thu, 04 Jun 2026 10:07:00 +0000",
-          "summary": "A keyword strategy defines the user queries you want to appear for and how you‘ll target them."
         }
       ],
       "error": null
@@ -123,6 +123,12 @@
       "feedUrl": "https://rakkokeyword.com/techo/feed/",
       "items": [
         {
+          "title": "YouTubeタイムスタンプ作成ツール",
+          "link": "https://rakkokeyword.com/techo/tool-youtube-timestamp/",
+          "date": "Wed, 10 Jun 2026 01:16:23 +0000",
+          "summary": "YouTube動画URL 読み込む 動画URLを入力して「読み込む」をクリックしてください 再生速度 / スキップ操作 0.5x0.75x1.0x (標準)1.25x1.5x2.0x -10s -5s +5s +10s ..."
+        },
+        {
           "title": "YouTubeで1再生いくら稼げる？参入前に知るべき単価変動の裏側とコツ",
           "link": "https://rakkokeyword.com/techo/youtube-earnings-per-view/",
           "date": "Tue, 09 Jun 2026 02:39:28 +0000",
@@ -145,12 +151,6 @@
           "link": "https://rakkokeyword.com/techo/youtube-earnings-estimate-strategies/",
           "date": "Mon, 08 Jun 2026 03:26:54 +0000",
           "summary": "「動画を1本作るのに何時間もかかるのに、それでいくら稼げるんだろう」 副業でYouTubeを始めようか迷っているとき、一番気になるのはこの点ではないでしょうか。 広告収入の目安をざっくり言うと、月の合計再生回数が1万回で ..."
-        },
-        {
-          "title": "リンク切れチェッカー",
-          "link": "https://rakkokeyword.com/techo/tool-broken-link-checker/",
-          "date": "Fri, 05 Jun 2026 06:31:45 +0000",
-          "summary": "入力モード選択 URL（ドメイン・単一） 複数URL（一括ペースト） XMLサイトマップ 対象URL チェック対象範囲 すべてのリンク 内部リンクのみ 外部リンクのみ チェック開始 処理を中断する 処理中… 0% 走査し ..."
         }
       ],
       "error": null
@@ -307,6 +307,20 @@
       "feedUrl": "https://obsidian.md/changelog.xml",
       "items": [
         {
+          "title": "Obsidian 1.13.1モバイル（早期アクセス）",
+          "titleOrig": "Obsidian 1.13.1 Mobile (Early access)",
+          "link": "https://obsidian.md/changelog/2026-06-09-mobile-v1.13.1/",
+          "date": "2026-06-09T00:00:00.000Z",
+          "summary": "Includes all new features and bug fixes up to Obsidian Desktop v1.13.1. Improvements Settings pages now have enough padding to scroll fully into view when the onscreen keyboard is showing. No longer b"
+        },
+        {
+          "title": "Obsidian 1.13.1デスクトップ（先行アクセス）",
+          "titleOrig": "Obsidian 1.13.1 Desktop (Early access)",
+          "link": "https://obsidian.md/changelog/2026-06-09-desktop-v1.13.1/",
+          "date": "2026-06-09T00:00:00.000Z",
+          "summary": "Improvements Settings Sliders now show a permanent label with the current value, shown inline next to the slider instead of in a tooltip. Searching within a settings group now automatically filters th"
+        },
+        {
           "title": "Obsidian 1.13.0モバイル（早期アクセス）",
           "titleOrig": "Obsidian 1.13.0 Mobile (Early access)",
           "link": "https://obsidian.md/changelog/2026-05-28-mobile-v1.13.0/",
@@ -326,20 +340,6 @@
           "link": "https://obsidian.md/changelog/2026-03-23-mobile-v1.12.7/",
           "date": "2026-03-23T00:00:00.000Z",
           "summary": "Includes all new features and bug fixes up to Obsidian Desktop v1.12.7."
-        },
-        {
-          "title": "Obsidian 1.12.7デスクトップ（パブリック）",
-          "titleOrig": "Obsidian 1.12.7 Desktop (Public)",
-          "link": "https://obsidian.md/changelog/2026-03-23-desktop-v1.12.7/",
-          "date": "2026-03-23T00:00:00.000Z",
-          "summary": "Improvements Obsidian CLI The Obsidian Installer is now bundled with a new binary file for using the CLI. This new method replaces the old method of calling the Electron binary, resulting in significa"
-        },
-        {
-          "title": "Obsidian 1.12.6モバイル（早期アクセス）",
-          "titleOrig": "Obsidian 1.12.6 Mobile (Early access)",
-          "link": "https://obsidian.md/changelog/2026-03-18-mobile-v1.12.6/",
-          "date": "2026-03-18T00:00:00.000Z",
-          "summary": "Includes all new features and bug fixes up to Obsidian Desktop v1.12.6."
         }
       ],
       "error": null
@@ -351,6 +351,13 @@
       "sourceType": "tool",
       "feedUrl": "https://github.blog/feed/",
       "items": [
+        {
+          "title": "1回限りのプロンプトからワークフローへ： GitHub Copilot CLIでカスタムエージェントを使用する方法",
+          "titleOrig": "From one-off prompts to workflows: How to use custom agents in GitHub Copilot CLI",
+          "link": "https://github.blog/ai-and-ml/github-copilot/from-one-off-prompts-to-workflows-how-to-use-custom-agents-in-github-copilot-cli/",
+          "date": "Tue, 09 Jun 2026 16:00:00 +0000",
+          "summary": "Custom agents let GitHub Copilot CLI understand your stack and team workflows, turning one-off terminal prompts into repeatable, reviewable processes. The post From one-off prompts to workflows: How t"
+        },
         {
           "title": "初心者のためのGitHub ：一般的な質問への回答",
           "titleOrig": "GitHub for Beginners: Answers to some common questions",
@@ -378,13 +385,6 @@
           "link": "https://github.blog/news-insights/company-news/still-a-developer-just-outside-our-latest-github-shop-collection-is-here/",
           "date": "Thu, 28 May 2026 18:18:43 +0000",
           "summary": "The ESC collection lets you escape the confines of your desk and get out into the sun where good ideas are bound to happen. The post Still a developer. Just outside. Our latest GitHub Shop collection "
-        },
-        {
-          "title": "初心者のためのGitHub ： VSコードでGitとGitHubを使い始める",
-          "titleOrig": "GitHub for Beginners: Getting started with Git and GitHub in VS Code",
-          "link": "https://github.blog/developer-skills/github/github-for-beginners-getting-started-with-git-and-github-in-vs-code/",
-          "date": "Mon, 25 May 2026 16:00:00 +0000",
-          "summary": "Discover how to use VS Code to interact with GitHub and maintain your projects. The post GitHub for Beginners: Getting started with Git and GitHub in VS Code appeared first on The GitHub Blog."
         }
       ],
       "error": null
