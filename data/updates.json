@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-06-11T04:06:23.767Z",
+  "fetchedAt": "2026-06-12T04:07:26.020Z",
   "tools": [
     {
       "tool": "ミエルカ（YouTube）",
@@ -9,8 +9,39 @@
       "type": "youtube",
       "handle": "@mieruca-channel",
       "feedUrl": "",
-      "items": [],
-      "error": "Status code 404"
+      "items": [
+        {
+          "title": "GoogleサーチコンソールのインデックスレポートとCore Web Vitals、何を優先して見るべきか",
+          "link": "https://www.youtube.com/watch?v=EzGWibHKsDI",
+          "date": "2026-06-09T23:00:34.000Z",
+          "summary": ""
+        },
+        {
+          "title": "【試験導入】サーチコンソールのAI検索レポートで分かること・分からないこと｜SEO Weekly Update",
+          "link": "https://www.youtube.com/watch?v=Y-lPjlAjotc",
+          "date": "2026-06-07T23:00:28.000Z",
+          "summary": ""
+        },
+        {
+          "title": "SEOで勝ち続けるサイトは何が違うのか？海外事例に学ぶ長期戦略",
+          "link": "https://www.youtube.com/watch?v=_TbukVQZaWQ",
+          "date": "2026-06-03T23:00:27.000Z",
+          "summary": ""
+        },
+        {
+          "title": "AI記事制作で独自性を出すには？SEO記事に人間の経験を活かすワークフロー",
+          "link": "https://www.youtube.com/watch?v=1n3KfQwLqfo",
+          "date": "2026-06-01T23:00:20.000Z",
+          "summary": ""
+        },
+        {
+          "title": "Googleの優先ソースがAI検索へ。ゼロクリック緩和の新導線になるか｜SEO Weekly Update",
+          "link": "https://www.youtube.com/watch?v=t3GoblqY8Lw",
+          "date": "2026-05-31T23:00:11.000Z",
+          "summary": ""
+        }
+      ],
+      "error": null
     },
     {
       "tool": "Ahrefs",
@@ -121,39 +152,8 @@
       "category": "SEO・キーワード調査",
       "sourceType": "tool",
       "feedUrl": "https://rakkokeyword.com/techo/feed/",
-      "items": [
-        {
-          "title": "YouTube平均視聴時間の目安は？10分動画で収益化するコツ",
-          "link": "https://rakkokeyword.com/techo/youtube-average-watch-time-monetization-tips/",
-          "date": "Thu, 11 Jun 2026 00:26:20 +0000",
-          "summary": "「自分の動画の平均視聴時間って、これで良いの？」「どうも途中で見るのをやめられている気がする…」。 YouTubeアナリティクスを開くと目に入る「平均視聴時間」。自分の数値が良いのか悪いのか、判断する物差しを持たないまま ..."
-        },
-        {
-          "title": "YouTubeタイムスタンプ作成ツール",
-          "link": "https://rakkokeyword.com/techo/tool-youtube-timestamp/",
-          "date": "Wed, 10 Jun 2026 01:16:23 +0000",
-          "summary": "YouTube動画URL 読み込む 動画URLを入力して「読み込む」をクリックしてください 再生速度 / スキップ操作 0.5x0.75x1.0x (標準)1.25x1.5x2.0x -10s -5s +5s +10s ..."
-        },
-        {
-          "title": "YouTubeで1再生いくら稼げる？参入前に知るべき単価変動の裏側とコツ",
-          "link": "https://rakkokeyword.com/techo/youtube-earnings-per-view/",
-          "date": "Tue, 09 Jun 2026 02:39:28 +0000",
-          "summary": "YouTubeの広告収益は、通常動画で1再生あたりおよそ0.1〜0.7円が目安です。ショート動画はさらに低く、0.003〜0.01円ほどになります。 同じ1再生でも、動画のジャンルや視聴者の年齢層によって単価は変わります ..."
-        },
-        {
-          "title": "QRコードURL化ツール",
-          "link": "https://rakkokeyword.com/techo/tool-qr-decode/",
-          "date": "Mon, 08 Jun 2026 07:17:28 +0000",
-          "summary": "ここにQRコード画像をドラッグ＆ドロップ または ファイルを選択 画像プレビュー 読み取り結果 結果をコピー リンク先を開く ※QRコードに短縮URL（bit.ly、t.co など）が含まれている場合は、短縮URLのまま ..."
-        },
-        {
-          "title": "メタタグ確認ツール",
-          "link": "https://rakkokeyword.com/techo/tool-metatag-extractor/",
-          "date": "Mon, 08 Jun 2026 05:28:02 +0000",
-          "summary": "Webサイト・YouTubeのメタタグを確認できます 抽出する リセット 解析中… クリップボードにコピーしました URLを入力するだけで、WebサイトやYouTube動画のメタタグを抽出する無料ツールです。内部SEO改 ..."
-        }
-      ],
-      "error": null
+      "items": [],
+      "error": "Status code 415"
     },
     {
       "tool": "Claude / Claude Code",
@@ -171,6 +171,13 @@
       "sourceType": "tool",
       "feedUrl": "https://blog.google/technology/ai/rss/",
       "items": [
+        {
+          "title": "バージニア州での新しいコミュニティへの投資は、地元の雇用をサポートし、エネルギーの手頃な価格を拡大します。",
+          "titleOrig": "Our new community investments in Virginia support local jobs and expand energy affordability.",
+          "link": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/virginia-community-investments/",
+          "date": "Thu, 11 Jun 2026 20:00:00 +0000",
+          "summary": "We’re helping build the state’s next-generation workforce and investing in energy programs."
+        },
         {
           "title": "2026年5月に発表した最新のAIニュース",
           "titleOrig": "The latest AI news we announced in May 2026",
@@ -198,13 +205,6 @@
           "link": "https://blog.google/innovation-and-ai/technology/ai/io-2026-vibe-coded-quiz/",
           "date": "Fri, 29 May 2026 19:00:00 +0000",
           "summary": "We used Google AI Studio to vibe code a quiz about our top I/O 2026 announcements."
-        },
-        {
-          "title": "Gemini OmniとGemini 3.5の9つのデモ",
-          "titleOrig": "9 demos of Gemini Omni and Gemini 3.5 in action",
-          "link": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-omni-3-5-videos/",
-          "date": "Fri, 29 May 2026 17:30:00 +0000",
-          "summary": "Watch 9 videos showing the capabilities of Gemini Omni and Gemini 3.5, announced at Google I/O 2026."
         }
       ],
       "error": null
@@ -352,6 +352,20 @@
       "feedUrl": "https://github.blog/feed/",
       "items": [
         {
+          "title": "GitHub可用性レポート： 2026年5月",
+          "titleOrig": "GitHub availability report: May 2026",
+          "link": "https://github.blog/news-insights/company-news/github-availability-report-may-2026/",
+          "date": "Thu, 11 Jun 2026 21:30:15 +0000",
+          "summary": "In May, we experienced nine incidents that resulted in degraded performance across GitHub services. The post GitHub availability report: May 2026 appeared first on The GitHub Blog."
+        },
+        {
+          "title": "シークレットスキャンをより信頼できるものにする：大規模な誤検知の低減",
+          "titleOrig": "Making secret scanning more trustworthy: Reducing false positives at scale",
+          "link": "https://github.blog/security/making-secret-scanning-more-trustworthy-reducing-false-positives-at-scale/",
+          "date": "Thu, 11 Jun 2026 16:00:00 +0000",
+          "summary": "Alerts are more trustworthy and actionable when noise is reduced. See how we improved the verification step with context-aware LLM reasoning. The post Making secret scanning more trustworthy: Reducing"
+        },
+        {
           "title": "言語サーバーでGitHub Copilot CLIに実際のコードインテリジェンスを提供",
           "titleOrig": "Give GitHub Copilot CLI real code intelligence with language servers",
           "link": "https://github.blog/ai-and-ml/github-copilot/give-github-copilot-cli-real-code-intelligence-with-language-servers/",
@@ -371,20 +385,6 @@
           "link": "https://github.blog/developer-skills/github/github-for-beginners-answers-to-some-common-questions/",
           "date": "Mon, 08 Jun 2026 16:00:00 +0000",
           "summary": "Find the answers to some of the most common GitHub-related questions. The post GitHub for Beginners: Answers to some common questions appeared first on The GitHub Blog."
-        },
-        {
-          "title": "GitHub Universeが帰ってきました：エージェント時代のすべてが一緒になりました",
-          "titleOrig": "GitHub Universe is back: All together now, in the agentic era",
-          "link": "https://github.blog/news-insights/company-news/github-universe-is-back-all-together-now-in-the-agentic-era/",
-          "date": "Thu, 04 Jun 2026 16:00:00 +0000",
-          "summary": "GitHub Universe is back: returning to the historic Fort Mason Center in San Francisco on October 28–29, 2026. The post GitHub Universe is back: All together now, in the agentic era appeared first on T"
-        },
-        {
-          "title": "GitHub Copilotアプリ：エージェントネイティブのデスクトップエクスペリエンス",
-          "titleOrig": "GitHub Copilot app: The agent-native desktop experience",
-          "link": "https://github.blog/news-insights/product-news/github-copilot-app-the-agent-native-desktop-experience/",
-          "date": "Tue, 02 Jun 2026 17:30:03 +0000",
-          "summary": "At Microsoft Build 2026, GitHub introduced new tools, updates, and surfaces so agents can work the way you already work. The post GitHub Copilot app: The agent-native desktop experience appeared first"
         }
       ],
       "error": null
