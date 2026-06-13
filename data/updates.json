@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-06-12T04:07:26.020Z",
+  "fetchedAt": "2026-06-13T03:55:27.326Z",
   "tools": [
     {
       "tool": "ミエルカ（YouTube）",
@@ -152,8 +152,39 @@
       "category": "SEO・キーワード調査",
       "sourceType": "tool",
       "feedUrl": "https://rakkokeyword.com/techo/feed/",
-      "items": [],
-      "error": "Status code 415"
+      "items": [
+        {
+          "title": "年齢計算ツール",
+          "link": "https://rakkokeyword.com/techo/tool-age-calculator/",
+          "date": "Fri, 12 Jun 2026 06:46:47 +0000",
+          "summary": "生年月日（必須） 年 月 日 年齢計算日（基準日・必須） 年 月 日 今日に戻す 計算する クリア 満年齢 – – – 結果をコピーする コピーしました！ 総経過日数 – 次の誕生日まで – – 次に迎える人生の節目 も ..."
+        },
+        {
+          "title": "複利計算ツール",
+          "link": "https://rakkokeyword.com/techo/tool-compound-simulation/",
+          "date": "Fri, 12 Jun 2026 06:23:27 +0000",
+          "summary": "将来の金額を計算 目標から逆算 初期投資額（元本） 万円 毎月の積立額 ※一括投資のみをシミュレーションする場合は「0」に設定してください 万円円 目標金額 万円 想定利回り（年利） % 運用期間 年 詳細設定（インフレ ..."
+        },
+        {
+          "title": "YouTubeショートの収益はいくら？収益化の条件や稼ぐ条件を解説",
+          "link": "https://rakkokeyword.com/techo/youtube-shorts-monetization-earnings/",
+          "date": "Fri, 12 Jun 2026 03:27:02 +0000",
+          "summary": "スキマ時間で作れるYouTubeショートで、副業として稼げたら――そう考えている方は多いのではないでしょうか。 とはいえ、いざ始めようとすると「1再生でいくら入るのか」「どんな条件をクリアすれば収益化できるのか」が分から ..."
+        },
+        {
+          "title": "消費税計算ツール",
+          "link": "https://rakkokeyword.com/techo/tool-tax-calculator/",
+          "date": "Fri, 12 Jun 2026 01:15:29 +0000",
+          "summary": "計算したい金額 必須 入力した金額は？ 必須 税抜金額 税込金額 消費税率 必須 10% 8%（軽減税率） その他 % 端数処理 切り捨て四捨五入切り上げ 税込金額 0円 消費税額：0円 計算式： 0 × 1.1 = 0 ..."
+        },
+        {
+          "title": "オンライン定規（cm/インチ）",
+          "link": "https://rakkokeyword.com/techo/tool-web-ruler/",
+          "date": "Fri, 12 Jun 2026 00:28:29 +0000",
+          "summary": "定規の設定（キャリブレーション） 単位: センチメートル表示中 長さ目安: オフ 全画面モード 画面サイズを合わせる（いずれかを選択） 画面サイズ入力 機種から選択 ※タブレットやPCをお使いの方は、こちらに画面サイズを ..."
+        }
+      ],
+      "error": null
     },
     {
       "tool": "Claude / Claude Code",
@@ -352,6 +383,13 @@
       "feedUrl": "https://github.blog/feed/",
       "items": [
         {
+          "title": "委任についてGitHub Copilot CLIをより選択的にする方法",
+          "titleOrig": "How we made GitHub Copilot CLI more selective about delegation",
+          "link": "https://github.blog/ai-and-ml/how-we-made-github-copilot-cli-more-selective-about-delegation/",
+          "date": "Fri, 12 Jun 2026 22:26:23 +0000",
+          "summary": "Better orchestration, fewer handoffs, faster progress, without a single new knob. The post How we made GitHub Copilot CLI more selective about delegation appeared first on The GitHub Blog."
+        },
+        {
           "title": "GitHub可用性レポート： 2026年5月",
           "titleOrig": "GitHub availability report: May 2026",
           "link": "https://github.blog/news-insights/company-news/github-availability-report-may-2026/",
@@ -378,13 +416,6 @@
           "link": "https://github.blog/ai-and-ml/github-copilot/from-one-off-prompts-to-workflows-how-to-use-custom-agents-in-github-copilot-cli/",
           "date": "Tue, 09 Jun 2026 16:00:00 +0000",
           "summary": "Custom agents let GitHub Copilot CLI understand your stack and team workflows, turning one-off terminal prompts into repeatable, reviewable processes. The post From one-off prompts to workflows: How t"
-        },
-        {
-          "title": "初心者のためのGitHub ：一般的な質問への回答",
-          "titleOrig": "GitHub for Beginners: Answers to some common questions",
-          "link": "https://github.blog/developer-skills/github/github-for-beginners-answers-to-some-common-questions/",
-          "date": "Mon, 08 Jun 2026 16:00:00 +0000",
-          "summary": "Find the answers to some of the most common GitHub-related questions. The post GitHub for Beginners: Answers to some common questions appeared first on The GitHub Blog."
         }
       ],
       "error": null
