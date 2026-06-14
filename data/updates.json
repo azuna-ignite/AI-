@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-06-13T03:55:27.326Z",
+  "fetchedAt": "2026-06-14T04:13:51.132Z",
   "tools": [
     {
       "tool": "ミエルカ（YouTube）",
@@ -91,6 +91,13 @@
       "feedUrl": "https://www.semrush.com/blog/feed/",
       "items": [
         {
+          "title": "ボットのトラフィックが人間のユーザーのトラフィックを上回るようになりました",
+          "titleOrig": "Bot traffic now exceeds traffic from human users",
+          "link": "https://www.semrush.com/blog/ai-agent-bot-traffic/",
+          "date": "Sat, 13 Jun 2026 08:27:00 +0000",
+          "summary": "For the first time, bots generate more web traffic than human users, and AI agents are driving the surge."
+        },
+        {
           "title": "可視性を得るための12のSEOライティングのヒント[2026]",
           "titleOrig": "12 SEO writing tips to earn visibility [2026]",
           "link": "https://www.semrush.com/blog/seo-writing/",
@@ -117,13 +124,6 @@
           "link": "https://www.semrush.com/blog/which-ai-search-prompts-to-track/",
           "date": "Tue, 09 Jun 2026 10:05:00 +0000",
           "summary": "Use this framework to build a focused, high-signal prompt set that shows you where your brand stands in AI search results."
-        },
-        {
-          "title": "Googleがパブリッシャーとクリエイター向けの検索プロフィールを開始",
-          "titleOrig": "Google launches Search Profiles for publishers and creators",
-          "link": "https://www.semrush.com/blog/google-launches-search-profiles/",
-          "date": "Mon, 08 Jun 2026 07:40:00 +0000",
-          "summary": "Google‘s new Search profiles give publishers and creators a dedicated landing page in Discover. Here‘s what it means for brands."
         }
       ],
       "error": null
