@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-06-14T04:13:51.132Z",
+  "fetchedAt": "2026-06-15T04:25:23.167Z",
   "tools": [
     {
       "tool": "ミエルカ（YouTube）",
@@ -10,6 +10,12 @@
       "handle": "@mieruca-channel",
       "feedUrl": "",
       "items": [
+        {
+          "title": "急増するGEO/LLMO計測ツール、何を確認して使うべきか｜SEO Weekly Update",
+          "link": "https://www.youtube.com/watch?v=_4bZkfPyMOI",
+          "date": "2026-06-14T23:01:17.000Z",
+          "summary": ""
+        },
         {
           "title": "GoogleサーチコンソールのインデックスレポートとCore Web Vitals、何を優先して見るべきか",
           "link": "https://www.youtube.com/watch?v=EzGWibHKsDI",
@@ -32,12 +38,6 @@
           "title": "AI記事制作で独自性を出すには？SEO記事に人間の経験を活かすワークフロー",
           "link": "https://www.youtube.com/watch?v=1n3KfQwLqfo",
           "date": "2026-06-01T23:00:20.000Z",
-          "summary": ""
-        },
-        {
-          "title": "Googleの優先ソースがAI検索へ。ゼロクリック緩和の新導線になるか｜SEO Weekly Update",
-          "link": "https://www.youtube.com/watch?v=t3GoblqY8Lw",
-          "date": "2026-05-31T23:00:11.000Z",
           "summary": ""
         }
       ],
@@ -154,6 +154,18 @@
       "feedUrl": "https://rakkokeyword.com/techo/feed/",
       "items": [
         {
+          "title": "【YouTubeのサムネイル設定】手順とボタンが押せない時の解決策",
+          "link": "https://rakkokeyword.com/techo/youtube-thumbnail-settings-troubleshooting/",
+          "date": "Mon, 15 Jun 2026 04:22:31 +0000",
+          "summary": "自作したサムネイルを設定しようとしたのに、アップロードのボタンがグレーのまま押せない。 この状態は、あなたのアカウントがまだ「確認済み」になっていないことが原因です。 YouTubeでは、自作画像（カスタムサムネイル）を ..."
+        },
+        {
+          "title": "YouTubeタイトルの付け方は？クリックを増やすタイトル作成の方法を解説",
+          "link": "https://rakkokeyword.com/techo/how-to-create-youtube-titles-for-clicks/",
+          "date": "Mon, 15 Jun 2026 01:33:26 +0000",
+          "summary": "「動画の企画から撮影、編集まで何時間もかけたのに、再生回数が数十回で止まってしまう。」 「アナリティクスを開くとクリック率（CTR）は低く、検索からの流入もほとんどない。」 もし思い当たるなら、伸びない原因は動画の中身で ..."
+        },
+        {
           "title": "年齢計算ツール",
           "link": "https://rakkokeyword.com/techo/tool-age-calculator/",
           "date": "Fri, 12 Jun 2026 06:46:47 +0000",
@@ -170,18 +182,6 @@
           "link": "https://rakkokeyword.com/techo/youtube-shorts-monetization-earnings/",
           "date": "Fri, 12 Jun 2026 03:27:02 +0000",
           "summary": "スキマ時間で作れるYouTubeショートで、副業として稼げたら――そう考えている方は多いのではないでしょうか。 とはいえ、いざ始めようとすると「1再生でいくら入るのか」「どんな条件をクリアすれば収益化できるのか」が分から ..."
-        },
-        {
-          "title": "消費税計算ツール",
-          "link": "https://rakkokeyword.com/techo/tool-tax-calculator/",
-          "date": "Fri, 12 Jun 2026 01:15:29 +0000",
-          "summary": "計算したい金額 必須 入力した金額は？ 必須 税抜金額 税込金額 消費税率 必須 10% 8%（軽減税率） その他 % 端数処理 切り捨て四捨五入切り上げ 税込金額 0円 消費税額：0円 計算式： 0 × 1.1 = 0 ..."
-        },
-        {
-          "title": "オンライン定規（cm/インチ）",
-          "link": "https://rakkokeyword.com/techo/tool-web-ruler/",
-          "date": "Fri, 12 Jun 2026 00:28:29 +0000",
-          "summary": "定規の設定（キャリブレーション） 単位: センチメートル表示中 長さ目安: オフ 全画面モード 画面サイズを合わせる（いずれかを選択） 画面サイズ入力 機種から選択 ※タブレットやPCをお使いの方は、こちらに画面サイズを ..."
         }
       ],
       "error": null
