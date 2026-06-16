@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-06-15T04:25:23.167Z",
+  "fetchedAt": "2026-06-16T04:19:12.209Z",
   "tools": [
     {
       "tool": "ミエルカ（YouTube）",
@@ -9,39 +9,8 @@
       "type": "youtube",
       "handle": "@mieruca-channel",
       "feedUrl": "",
-      "items": [
-        {
-          "title": "急増するGEO/LLMO計測ツール、何を確認して使うべきか｜SEO Weekly Update",
-          "link": "https://www.youtube.com/watch?v=_4bZkfPyMOI",
-          "date": "2026-06-14T23:01:17.000Z",
-          "summary": ""
-        },
-        {
-          "title": "GoogleサーチコンソールのインデックスレポートとCore Web Vitals、何を優先して見るべきか",
-          "link": "https://www.youtube.com/watch?v=EzGWibHKsDI",
-          "date": "2026-06-09T23:00:34.000Z",
-          "summary": ""
-        },
-        {
-          "title": "【試験導入】サーチコンソールのAI検索レポートで分かること・分からないこと｜SEO Weekly Update",
-          "link": "https://www.youtube.com/watch?v=Y-lPjlAjotc",
-          "date": "2026-06-07T23:00:28.000Z",
-          "summary": ""
-        },
-        {
-          "title": "SEOで勝ち続けるサイトは何が違うのか？海外事例に学ぶ長期戦略",
-          "link": "https://www.youtube.com/watch?v=_TbukVQZaWQ",
-          "date": "2026-06-03T23:00:27.000Z",
-          "summary": ""
-        },
-        {
-          "title": "AI記事制作で独自性を出すには？SEO記事に人間の経験を活かすワークフロー",
-          "link": "https://www.youtube.com/watch?v=1n3KfQwLqfo",
-          "date": "2026-06-01T23:00:20.000Z",
-          "summary": ""
-        }
-      ],
-      "error": null
+      "items": [],
+      "error": "Status code 404"
     },
     {
       "tool": "Ahrefs",
@@ -91,6 +60,20 @@
       "feedUrl": "https://www.semrush.com/blog/feed/",
       "items": [
         {
+          "title": "AIセンチメント分析とは？マーケティング担当者向けガイド",
+          "titleOrig": "What is AI sentiment analysis? A marketer’s guide",
+          "link": "https://www.semrush.com/blog/ai-sentiment-analysis-marketers-guide/",
+          "date": "Mon, 15 Jun 2026 16:21:00 +0000",
+          "summary": "AI sentiment analysis tells you what AI platforms are saying about your brand, whether it‘s accurate, and how to fix it when it isn‘t."
+        },
+        {
+          "title": "初心者向けGoogleアナリティクス：完全なGA 4ガイド",
+          "titleOrig": "Google Analytics for beginners: the complete GA4 guide",
+          "link": "https://www.semrush.com/blog/google-analytics/",
+          "date": "Mon, 15 Jun 2026 08:16:00 +0000",
+          "summary": "A practical Google Analytics for beginners guide: how to set up GA4, link Search Console and Google Ads, and turn each report into a marketing decision."
+        },
+        {
           "title": "ボットのトラフィックが人間のユーザーのトラフィックを上回るようになりました",
           "titleOrig": "Bot traffic now exceeds traffic from human users",
           "link": "https://www.semrush.com/blog/ai-agent-bot-traffic/",
@@ -110,20 +93,6 @@
           "link": "https://www.semrush.com/blog/how-rtcamp-closed-the-ai-perception-gap/",
           "date": "Wed, 10 Jun 2026 07:11:00 +0000",
           "summary": "Learn how rtCamp improved its AI visibility, strengthened security positioning, and increased favorable AI sentiment to 100% in one month."
-        },
-        {
-          "title": "AIの引用の62 ％がブランドの言及につながらない理由[研究]",
-          "titleOrig": "Why 62% of AI citations don’t lead to brand mentions [Study]",
-          "link": "https://www.semrush.com/blog/the-ghost-citations-study/",
-          "date": "Tue, 09 Jun 2026 13:00:00 +0000",
-          "summary": "In partnership with Kevin Indig, we analyzed 3,981 domain appearances across ChatGPT, Gemini, Google AI Overviews, and Google AI Mode. The study reveals how AI engines treat citations and brand mentio"
-        },
-        {
-          "title": "どのAI検索プロンプトを追跡するかを決定する方法",
-          "titleOrig": "How to decide which AI search prompts to track",
-          "link": "https://www.semrush.com/blog/which-ai-search-prompts-to-track/",
-          "date": "Tue, 09 Jun 2026 10:05:00 +0000",
-          "summary": "Use this framework to build a focused, high-signal prompt set that shows you where your brand stands in AI search results."
         }
       ],
       "error": null
@@ -154,6 +123,18 @@
       "feedUrl": "https://rakkokeyword.com/techo/feed/",
       "items": [
         {
+          "title": "YouTubeサムネイルデザインの方法は？無料ツールでプロ級に作るポイントを解説",
+          "link": "https://rakkokeyword.com/techo/youtube-thumbnail-design-free-tools/",
+          "date": "Tue, 16 Jun 2026 03:27:08 +0000",
+          "summary": "動画は表示されているのに、なぜかクリックされない。 その差は、多くの場合サムネイルです。視聴者は一覧画面で何十本もの動画を一瞬で見比べ、開くかどうかをコンマ数秒で決めています。中身がどれだけ良くても、サムネイルで素通りさ ..."
+        },
+        {
+          "title": "ポンド→kg変換ツール",
+          "link": "https://rakkokeyword.com/techo/tool-lbs-kg/",
+          "date": "Mon, 15 Jun 2026 06:09:12 +0000",
+          "summary": "ポンド (lbs) ⇔ キログラム (kg) 0 lbs = 0.00 kg 変換根拠: 1 lb = 0.45359237 kg 結果をコピー 換算早見表 ポンド (lbs) キログラム (kg) 1 0.45 5 2 ..."
+        },
+        {
           "title": "【YouTubeのサムネイル設定】手順とボタンが押せない時の解決策",
           "link": "https://rakkokeyword.com/techo/youtube-thumbnail-settings-troubleshooting/",
           "date": "Mon, 15 Jun 2026 04:22:31 +0000",
@@ -170,18 +151,6 @@
           "link": "https://rakkokeyword.com/techo/tool-age-calculator/",
           "date": "Fri, 12 Jun 2026 06:46:47 +0000",
           "summary": "生年月日（必須） 年 月 日 年齢計算日（基準日・必須） 年 月 日 今日に戻す 計算する クリア 満年齢 – – – 結果をコピーする コピーしました！ 総経過日数 – 次の誕生日まで – – 次に迎える人生の節目 も ..."
-        },
-        {
-          "title": "複利計算ツール",
-          "link": "https://rakkokeyword.com/techo/tool-compound-simulation/",
-          "date": "Fri, 12 Jun 2026 06:23:27 +0000",
-          "summary": "将来の金額を計算 目標から逆算 初期投資額（元本） 万円 毎月の積立額 ※一括投資のみをシミュレーションする場合は「0」に設定してください 万円円 目標金額 万円 想定利回り（年利） % 運用期間 年 詳細設定（インフレ ..."
-        },
-        {
-          "title": "YouTubeショートの収益はいくら？収益化の条件や稼ぐ条件を解説",
-          "link": "https://rakkokeyword.com/techo/youtube-shorts-monetization-earnings/",
-          "date": "Fri, 12 Jun 2026 03:27:02 +0000",
-          "summary": "スキマ時間で作れるYouTubeショートで、副業として稼げたら――そう考えている方は多いのではないでしょうか。 とはいえ、いざ始めようとすると「1再生でいくら入るのか」「どんな条件をクリアすれば収益化できるのか」が分から ..."
         }
       ],
       "error": null
@@ -202,6 +171,13 @@
       "sourceType": "tool",
       "feedUrl": "https://blog.google/technology/ai/rss/",
       "items": [
+        {
+          "title": "新たな投資とコミュニティサポートを通じて、アラバマ州でのプレゼンスを強化しています。",
+          "titleOrig": "We’re strengthening our presence in Alabama through new investments and community support.",
+          "link": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/alabama-investment-june-2026/",
+          "date": "Mon, 15 Jun 2026 15:00:00 +0000",
+          "summary": "Google has announced a $1.5 billion investment for 2026 and 2027 to expand its data center campus in Jackson County, Alabama. Operating since 2019 on a repurposed former…"
+        },
         {
           "title": "バージニア州での新しいコミュニティへの投資は、地元の雇用をサポートし、エネルギーの手頃な価格を拡大します。",
           "titleOrig": "Our new community investments in Virginia support local jobs and expand energy affordability.",
@@ -229,13 +205,6 @@
           "link": "https://blog.google/innovation-and-ai/technology/ai/io-2026-google-ai/",
           "date": "Mon, 01 Jun 2026 16:00:00 +0000",
           "summary": "Learn how Googlers used AI to produce Google I/O 2026."
-        },
-        {
-          "title": "Google AI Studioでコード化されたI/O 2026クイズをお試しください。",
-          "titleOrig": "Take our I/O 2026 quiz, vibe coded in Google AI Studio.",
-          "link": "https://blog.google/innovation-and-ai/technology/ai/io-2026-vibe-coded-quiz/",
-          "date": "Fri, 29 May 2026 19:00:00 +0000",
-          "summary": "We used Google AI Studio to vibe code a quiz about our top I/O 2026 announcements."
         }
       ],
       "error": null
@@ -383,6 +352,20 @@
       "feedUrl": "https://github.blog/feed/",
       "items": [
         {
+          "title": "初心者向けGitHub Copilot CLI ：一般的なスラッシュコマンドの概要",
+          "titleOrig": "GitHub Copilot CLI for Beginners: Overview of common slash commands",
+          "link": "https://github.blog/ai-and-ml/github-copilot/github-copilot-cli-for-beginners-overview-of-common-slash-commands/",
+          "date": "Mon, 15 Jun 2026 20:15:31 +0000",
+          "summary": "GitHub Copilot CLI for Beginners: Learn how to use slash commands to control your terminal AI agent. The post GitHub Copilot CLI for Beginners: Overview of common slash commands appeared first on The "
+        },
+        {
+          "title": "新しいオープンデータセットを使用して多言語AIを構築する研究者と開発者を加速",
+          "titleOrig": "Accelerating researchers and developers building multilingual AI with a new open dataset",
+          "link": "https://github.blog/ai-and-ml/llms/accelerating-researchers-and-developers-building-multilingual-ai-with-a-new-open-dataset/",
+          "date": "Mon, 15 Jun 2026 19:17:30 +0000",
+          "summary": "A new repository-level dataset, published on GitHub under CC0-1.0, helps researchers and developers discover multilingual developer content across READMEs, issues, and pull requests. The post Accelera"
+        },
+        {
           "title": "委任についてGitHub Copilot CLIをより選択的にする方法",
           "titleOrig": "How we made GitHub Copilot CLI more selective about delegation",
           "link": "https://github.blog/ai-and-ml/how-we-made-github-copilot-cli-more-selective-about-delegation/",
@@ -402,20 +385,6 @@
           "link": "https://github.blog/security/making-secret-scanning-more-trustworthy-reducing-false-positives-at-scale/",
           "date": "Thu, 11 Jun 2026 16:00:00 +0000",
           "summary": "Alerts are more trustworthy and actionable when noise is reduced. See how we improved the verification step with context-aware LLM reasoning. The post Making secret scanning more trustworthy: Reducing"
-        },
-        {
-          "title": "言語サーバーでGitHub Copilot CLIに実際のコードインテリジェンスを提供",
-          "titleOrig": "Give GitHub Copilot CLI real code intelligence with language servers",
-          "link": "https://github.blog/ai-and-ml/github-copilot/give-github-copilot-cli-real-code-intelligence-with-language-servers/",
-          "date": "Wed, 10 Jun 2026 16:00:00 +0000",
-          "summary": "Install and configure LSP servers for GitHub Copilot CLI, replacing brute-force grep/decompile with real code intelligence. The post Give GitHub Copilot CLI real code intelligence with language server"
-        },
-        {
-          "title": "1回限りのプロンプトからワークフローへ： GitHub Copilot CLIでカスタムエージェントを使用する方法",
-          "titleOrig": "From one-off prompts to workflows: How to use custom agents in GitHub Copilot CLI",
-          "link": "https://github.blog/ai-and-ml/github-copilot/from-one-off-prompts-to-workflows-how-to-use-custom-agents-in-github-copilot-cli/",
-          "date": "Tue, 09 Jun 2026 16:00:00 +0000",
-          "summary": "Custom agents let GitHub Copilot CLI understand your stack and team workflows, turning one-off terminal prompts into repeatable, reviewable processes. The post From one-off prompts to workflows: How t"
         }
       ],
       "error": null
