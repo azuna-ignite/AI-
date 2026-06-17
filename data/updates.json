@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-06-16T04:19:12.209Z",
+  "fetchedAt": "2026-06-17T04:15:46.628Z",
   "tools": [
     {
       "tool": "ミエルカ（YouTube）",
@@ -60,6 +60,20 @@
       "feedUrl": "https://www.semrush.com/blog/feed/",
       "items": [
         {
+          "title": "エージェントWebに最適化する方法：マーケティング担当者向けガイド",
+          "titleOrig": "How to optimize for the agentic web: a guide for marketers",
+          "link": "https://www.semrush.com/blog/how-to-optimize-for-the-agentic-web/",
+          "date": "Tue, 16 Jun 2026 15:04:00 +0000",
+          "summary": "Agentic web optimization gets your brand found, trusted, and chosen by AI agents. Learn the five-layer stack."
+        },
+        {
+          "title": "競合他社のキーワードを見つけ、可視性のギャップを埋める方法",
+          "titleOrig": "How to find competitor keywords and close visibility gaps",
+          "link": "https://www.semrush.com/blog/competitor-keywords/",
+          "date": "Tue, 16 Jun 2026 11:31:00 +0000",
+          "summary": "Find competitor keywords in traditional search, AI search, and web conversations to improve visibility."
+        },
+        {
           "title": "AIセンチメント分析とは？マーケティング担当者向けガイド",
           "titleOrig": "What is AI sentiment analysis? A marketer’s guide",
           "link": "https://www.semrush.com/blog/ai-sentiment-analysis-marketers-guide/",
@@ -79,20 +93,6 @@
           "link": "https://www.semrush.com/blog/ai-agent-bot-traffic/",
           "date": "Sat, 13 Jun 2026 08:27:00 +0000",
           "summary": "For the first time, bots generate more web traffic than human users, and AI agents are driving the surge."
-        },
-        {
-          "title": "可視性を得るための12のSEOライティングのヒント[2026]",
-          "titleOrig": "12 SEO writing tips to earn visibility [2026]",
-          "link": "https://www.semrush.com/blog/seo-writing/",
-          "date": "Wed, 10 Jun 2026 13:59:00 +0000",
-          "summary": "SEO writing helps content earn visibility in Google and AI tools. Learn 12 tips to do it well in 2026."
-        },
-        {
-          "title": "RtCampがどのようにしてAIの認識ギャップを埋め、エンタープライズ取引を犠牲にしたか",
-          "titleOrig": "How rtCamp closed the AI perception gap costing them enterprise deals",
-          "link": "https://www.semrush.com/blog/how-rtcamp-closed-the-ai-perception-gap/",
-          "date": "Wed, 10 Jun 2026 07:11:00 +0000",
-          "summary": "Learn how rtCamp improved its AI visibility, strengthened security positioning, and increased favorable AI sentiment to 100% in one month."
         }
       ],
       "error": null
@@ -123,6 +123,18 @@
       "feedUrl": "https://rakkokeyword.com/techo/feed/",
       "items": [
         {
+          "title": "子供の身長予測ツール",
+          "link": "https://rakkokeyword.com/techo/tool-child-height/",
+          "date": "Wed, 17 Jun 2026 03:41:59 +0000",
+          "summary": "お子様の性別 必須 男子 女子 お父さんの身長 (cm) 必須 50cm～250cmの数値を入力してください。 お母さんの身長 (cm) 必須 50cm～250cmの数値を入力してください。 お子様の現在の身長 (cm) ..."
+        },
+        {
+          "title": "【YouTubeのサムネイル】最適な画像サイズ・見切れないデザインのコツ",
+          "link": "https://rakkokeyword.com/techo/youtube-thumbnail-size-design-tips/",
+          "date": "Tue, 16 Jun 2026 05:18:03 +0000",
+          "summary": "動画は作れたのに、サムネイルだけがうまくいかない。容量オーバーで弾かれたり、スマホで見ると右下で文字が切れていたり、そもそもアップロードボタンが押せなかったり。 こうしたつまずきは、正しい仕様とちょっとした注意点を知らな ..."
+        },
+        {
           "title": "YouTubeサムネイルデザインの方法は？無料ツールでプロ級に作るポイントを解説",
           "link": "https://rakkokeyword.com/techo/youtube-thumbnail-design-free-tools/",
           "date": "Tue, 16 Jun 2026 03:27:08 +0000",
@@ -139,18 +151,6 @@
           "link": "https://rakkokeyword.com/techo/youtube-thumbnail-settings-troubleshooting/",
           "date": "Mon, 15 Jun 2026 04:22:31 +0000",
           "summary": "自作したサムネイルを設定しようとしたのに、アップロードのボタンがグレーのまま押せない。 この状態は、あなたのアカウントがまだ「確認済み」になっていないことが原因です。 YouTubeでは、自作画像（カスタムサムネイル）を ..."
-        },
-        {
-          "title": "YouTubeタイトルの付け方は？クリックを増やすタイトル作成の方法を解説",
-          "link": "https://rakkokeyword.com/techo/how-to-create-youtube-titles-for-clicks/",
-          "date": "Mon, 15 Jun 2026 01:33:26 +0000",
-          "summary": "「動画の企画から撮影、編集まで何時間もかけたのに、再生回数が数十回で止まってしまう。」 「アナリティクスを開くとクリック率（CTR）は低く、検索からの流入もほとんどない。」 もし思い当たるなら、伸びない原因は動画の中身で ..."
-        },
-        {
-          "title": "年齢計算ツール",
-          "link": "https://rakkokeyword.com/techo/tool-age-calculator/",
-          "date": "Fri, 12 Jun 2026 06:46:47 +0000",
-          "summary": "生年月日（必須） 年 月 日 年齢計算日（基準日・必須） 年 月 日 今日に戻す 計算する クリア 満年齢 – – – 結果をコピーする コピーしました！ 総経過日数 – 次の誕生日まで – – 次に迎える人生の節目 も ..."
         }
       ],
       "error": null
@@ -352,6 +352,13 @@
       "feedUrl": "https://github.blog/feed/",
       "items": [
         {
+          "title": "Gitワークツリーとは何ですか？なぜそれらを使用する必要があるのですか？",
+          "titleOrig": "What are git worktrees, and why should I use them?",
+          "link": "https://github.blog/ai-and-ml/github-copilot/what-are-git-worktrees-and-why-should-i-use-them/",
+          "date": "Tue, 16 Jun 2026 20:58:54 +0000",
+          "summary": "Git worktrees have been around since 2015, but it wasn't until recently they became popular. Learn what they are, how to use them, and why you might. The post What are git worktrees, and why should I "
+        },
+        {
           "title": "初心者向けGitHub Copilot CLI ：一般的なスラッシュコマンドの概要",
           "titleOrig": "GitHub Copilot CLI for Beginners: Overview of common slash commands",
           "link": "https://github.blog/ai-and-ml/github-copilot/github-copilot-cli-for-beginners-overview-of-common-slash-commands/",
@@ -378,13 +385,6 @@
           "link": "https://github.blog/news-insights/company-news/github-availability-report-may-2026/",
           "date": "Thu, 11 Jun 2026 21:30:15 +0000",
           "summary": "In May, we experienced nine incidents that resulted in degraded performance across GitHub services. The post GitHub availability report: May 2026 appeared first on The GitHub Blog."
-        },
-        {
-          "title": "シークレットスキャンをより信頼できるものにする：大規模な誤検知の低減",
-          "titleOrig": "Making secret scanning more trustworthy: Reducing false positives at scale",
-          "link": "https://github.blog/security/making-secret-scanning-more-trustworthy-reducing-false-positives-at-scale/",
-          "date": "Thu, 11 Jun 2026 16:00:00 +0000",
-          "summary": "Alerts are more trustworthy and actionable when noise is reduced. See how we improved the verification step with context-aware LLM reasoning. The post Making secret scanning more trustworthy: Reducing"
         }
       ],
       "error": null
