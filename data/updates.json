@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-06-18T04:07:27.644Z",
+  "fetchedAt": "2026-06-19T04:26:07.880Z",
   "tools": [
     {
       "tool": "ミエルカ（YouTube）",
@@ -9,8 +9,39 @@
       "type": "youtube",
       "handle": "@mieruca-channel",
       "feedUrl": "",
-      "items": [],
-      "error": "Status code 404"
+      "items": [
+        {
+          "title": "AI検索時代のSEOは何を見るべきか？KPIと顧客接点の見直し方",
+          "link": "https://www.youtube.com/watch?v=44Uyakhry18",
+          "date": "2026-06-16T23:00:06.000Z",
+          "summary": ""
+        },
+        {
+          "title": "Googleが示したSEOツール評価の注意点｜GEO/LLMO計測ツールは何を確認すべきか｜SEO Weekly Update",
+          "link": "https://www.youtube.com/watch?v=_4bZkfPyMOI",
+          "date": "2026-06-14T23:01:17.000Z",
+          "summary": ""
+        },
+        {
+          "title": "GoogleサーチコンソールのインデックスレポートとCore Web Vitals、何を優先して見るべきか",
+          "link": "https://www.youtube.com/watch?v=EzGWibHKsDI",
+          "date": "2026-06-09T23:00:34.000Z",
+          "summary": ""
+        },
+        {
+          "title": "【試験導入】サーチコンソールのAI検索レポートで分かること・分からないこと｜SEO Weekly Update",
+          "link": "https://www.youtube.com/watch?v=Y-lPjlAjotc",
+          "date": "2026-06-07T23:00:28.000Z",
+          "summary": ""
+        },
+        {
+          "title": "SEOで勝ち続けるサイトは何が違うのか？海外事例に学ぶ長期戦略",
+          "link": "https://www.youtube.com/watch?v=_TbukVQZaWQ",
+          "date": "2026-06-03T23:00:27.000Z",
+          "summary": ""
+        }
+      ],
+      "error": null
     },
     {
       "tool": "Ahrefs",
@@ -19,6 +50,18 @@
       "sourceType": "tool",
       "feedUrl": "https://ahrefs.com/blog/ja/feed/",
       "items": [
+        {
+          "title": "エージェンティックAI とは？マーケティング活用法と始め方を完全ガイド",
+          "link": "https://ahrefs.com/blog/ja/agentic-marketing/",
+          "date": "Fri, 19 Jun 2026 01:48:55 +0000",
+          "summary": "Agentic AI を使ったマーケティングの基本から実践まで解説。AI エージェントが自律的にキャンペーン企画から実行まで担う新時代の手法を、Ahrefs の事例とともに紹介します。 Read more › The post エージェンティックAI とは？マーケティング活用法と始め方を完全ガイド appeared first on Ahrefs 公式ブログ."
+        },
+        {
+          "title": "13.7 万のサイト分析：llms.txt ファイルの 97% は読まれていない",
+          "link": "https://ahrefs.com/blog/ja/llmstxt-study/",
+          "date": "Thu, 18 Jun 2026 07:00:26 +0000",
+          "summary": "137,000 サイトの llms.txt ファイルを分析した結果、97% が全く読み取られていないことが判明。LLM ボットのアクセス実態とトラフィックデータを詳しく解説します。 Read more › The post 13.7 万のサイト分析：llms.txt ファイルの 97% は読まれていない appeared first on Ahrefs 公式ブログ."
+        },
         {
           "title": "Agent A の使い方と活用事例｜API との違いやおすすめの裏技をウェビナーから徹底解説",
           "link": "https://ahrefs.com/blog/ja/agenta-webinar-lany/",
@@ -36,18 +79,6 @@
           "link": "https://ahrefs.com/blog/ja/what-is-a-good-domain-rating/",
           "date": "Wed, 03 Jun 2026 08:01:30 +0000",
           "summary": "ドメインパワー（DR）に「良い数値」の絶対的な基準はありません。競合比較・業界平均・ターゲットキーワードの 3 軸で自サイトの DR を正しく評価する方法を、実データとともに解説します。 Read more › The post ドメインパワーの適正値とは？実データで解説する 3 つの判断基準 appeared first on Ahrefs 公式ブログ."
-        },
-        {
-          "title": "検索意図分析とは？キーワード調査の次にやるべきコンテンツ設計フレームワーク",
-          "link": "https://ahrefs.com/blog/ja/search-intent-mapping-and-topic-clusters/",
-          "date": "Mon, 01 Jun 2026 04:35:46 +0000",
-          "summary": "キーワード調査の「次」に何をすべきか。AI 検索時代に選ばれるコンテンツを設計するには、検索意図の解像度を極限まで高める「検索意図マッピング」が不可欠です。本記事では、Ahrefs を活用した意図分析からトピッククラスターによる構造化まで、競合と圧倒的な差をつける実務フレームワークを解説します。 Read more › The post 検索意図分析とは？キーワード調査の次にやるべきコンテンツ設計"
-        },
-        {
-          "title": "AI × SEO 実務ガイド｜ChatGPT・Claude・Ahrefs で実現する SEO 自動化ワークフロー【プロンプト集付き】",
-          "link": "https://ahrefs.com/blog/ja/ai-seo-automation-workflow/",
-          "date": "Fri, 29 May 2026 07:49:03 +0000",
-          "summary": "SEO 業務を AI でどこまで自動化できる？Ahrefs の確かなデータと ChatGPT・Claude を組み合わせた、現場で即活用できる自動化ワークフローを解説します。キーワード調査から競合分析、構成案作成まで、Ahrefs が実践するプロンプト集も公開。AI を最高のパートナーにする様々な工夫をご紹介します。 Read more › The post AI × SEO 実務ガイド｜Chat"
         }
       ],
       "error": null
@@ -59,6 +90,13 @@
       "sourceType": "tool",
       "feedUrl": "https://www.semrush.com/blog/feed/",
       "items": [
+        {
+          "title": "カテゴリエントリーポイントがすべてのAI検索戦略に属する理由",
+          "titleOrig": "Why category entry points belong in every AI search strategy",
+          "link": "https://www.semrush.com/blog/category-entry-points-ai-search/",
+          "date": "Thu, 18 Jun 2026 14:19:00 +0000",
+          "summary": "Learn how CEP-anchored content performs across ChatGPT, Google AI Mode, and AI Overviews. A research experiment in AI search."
+        },
         {
           "title": "エージェントWebに最適化する方法：マーケティング担当者向けガイド",
           "titleOrig": "How to optimize for the agentic web: a guide for marketers",
@@ -86,13 +124,6 @@
           "link": "https://www.semrush.com/blog/google-analytics/",
           "date": "Mon, 15 Jun 2026 08:16:00 +0000",
           "summary": "A practical Google Analytics for beginners guide: how to set up GA4, link Search Console and Google Ads, and turn each report into a marketing decision."
-        },
-        {
-          "title": "ボットのトラフィックが人間のユーザーのトラフィックを上回るようになりました",
-          "titleOrig": "Bot traffic now exceeds traffic from human users",
-          "link": "https://www.semrush.com/blog/ai-agent-bot-traffic/",
-          "date": "Sat, 13 Jun 2026 08:27:00 +0000",
-          "summary": "For the first time, bots generate more web traffic than human users, and AI agents are driving the surge."
         }
       ],
       "error": null
@@ -123,6 +154,18 @@
       "feedUrl": "https://rakkokeyword.com/techo/feed/",
       "items": [
         {
+          "title": "【インスタでフォロワーを増やす方法】伸びるアカウントは何が違う？本質の運用術",
+          "link": "https://rakkokeyword.com/techo/how-to-increase-instagram-followers/",
+          "date": "Thu, 18 Jun 2026 08:17:38 +0000",
+          "summary": "毎日投稿しているのに、フォロワーが300人前後で止まったまま動かない。集客のためにInstagramを始めたものの、いいねもフォローも増えず、投稿作業だけが負担になっている。今、そんな状態に陥っていませんか。 フォロワー ..."
+        },
+        {
+          "title": "ストップウォッチ",
+          "link": "https://rakkokeyword.com/techo/tool-stopwatch-online/",
+          "date": "Thu, 18 Jun 2026 08:08:23 +0000",
+          "summary": "00:00:00.000 スタート ラップ リセット ミリ秒を表示 ラップ履歴（最新順） 履歴をコピー ラップ 区間タイム 累積タイム ブラウザ上で手軽に時間を計測できる、インストール不要のオンラインストップウォッチツー ..."
+        },
+        {
           "title": "インスタのフォロワー1万人の収入は？収益ゼロから抜け出す方法を紹介",
           "link": "https://rakkokeyword.com/techo/instagram-10k-followers-income/",
           "date": "Thu, 18 Jun 2026 03:21:21 +0000",
@@ -139,18 +182,6 @@
           "link": "https://rakkokeyword.com/techo/tool-child-height/",
           "date": "Wed, 17 Jun 2026 03:41:59 +0000",
           "summary": "お子様の性別 必須 男子 女子 お父さんの身長 (cm) 必須 50cm～250cmの数値を入力してください。 お母さんの身長 (cm) 必須 50cm～250cmの数値を入力してください。 お子様の現在の身長 (cm) ..."
-        },
-        {
-          "title": "【YouTubeのサムネイル】最適な画像サイズ・見切れないデザインのコツ",
-          "link": "https://rakkokeyword.com/techo/youtube-thumbnail-size-design-tips/",
-          "date": "Tue, 16 Jun 2026 05:18:03 +0000",
-          "summary": "動画は作れたのに、サムネイルだけがうまくいかない。容量オーバーで弾かれたり、スマホで見ると右下で文字が切れていたり、そもそもアップロードボタンが押せなかったり。 こうしたつまずきは、正しい仕様とちょっとした注意点を知らな ..."
-        },
-        {
-          "title": "YouTubeサムネイルデザインの方法は？無料ツールでプロ級に作るポイントを解説",
-          "link": "https://rakkokeyword.com/techo/youtube-thumbnail-design-free-tools/",
-          "date": "Tue, 16 Jun 2026 03:27:08 +0000",
-          "summary": "動画は表示されているのに、なぜかクリックされない。 その差は、多くの場合サムネイルです。視聴者は一覧画面で何十本もの動画を一瞬で見比べ、開くかどうかをコンマ数秒で決めています。中身がどれだけ良くても、サムネイルで素通りさ ..."
         }
       ],
       "error": null
@@ -262,6 +293,13 @@
       "feedUrl": "https://wordpress.org/news/feed/",
       "items": [
         {
+          "title": "2026年ワードプレスイベントシーズン前半のグローバルパートナー",
+          "titleOrig": "Global Partners Across the First Half of the 2026 WordPress Event Season",
+          "link": "https://wordpress.org/news/2026/06/global-partners-first-half-2026/",
+          "date": "Thu, 18 Jun 2026 17:01:21 +0000",
+          "summary": "This post recaps how the WordPress project’s five Global Partners — Jetpack, WordPress.com, WooCommerce, Bluehost, and Hostinger — supported community events during the first half of 2026. Across more"
+        },
+        {
           "title": "WordCamp Europe 2026での出来事",
           "titleOrig": "What Happened at WordCamp Europe 2026",
           "link": "https://wordpress.org/news/2026/06/wceu-2026-recap/",
@@ -288,13 +326,6 @@
           "link": "https://wordpress.org/news/2026/05/wceu-2026-sessions/",
           "date": "Tue, 26 May 2026 12:52:13 +0000",
           "summary": "June 4-6, 2026 | ICE Kraków Congress Centre, Kraków, Poland WordCamp Europe 2026 will bring the WordPress community together in Kraków, Poland, from June 4–6 for Contributor Day, two conference days, "
-        },
-        {
-          "title": "WordPress 7.0 “Armstrong”",
-          "titleOrig": "WordPress 7.0 “Armstrong”",
-          "link": "https://wordpress.org/news/2026/05/armstrong/",
-          "date": "Wed, 20 May 2026 18:41:06 +0000",
-          "summary": "Explore AI abilities directly in your website, all managed from a central hub. Slide seamlessly through the sleek, new admin theme implemented across the dashboard. Ignite creative flow with new block"
         }
       ],
       "error": null
@@ -352,6 +383,13 @@
       "feedUrl": "https://github.blog/feed/",
       "items": [
         {
+          "title": "プルリクエストの制限がノイズをどのように削減しているか",
+          "titleOrig": "How pull request limits are cutting down the noise",
+          "link": "https://github.blog/open-source/maintainers/how-pull-request-limits-are-cutting-down-the-noise/",
+          "date": "Thu, 18 Jun 2026 16:00:00 +0000",
+          "summary": "Learn how pull request limits can help manage contribution volume in your repositories, and see what’s next on the roadmap. The post How pull request limits are cutting down the noise appeared first o"
+        },
+        {
           "title": "各トークンからより多くを得る： Copilotがコンテキスト処理とモデルルーティングを改善する方法",
           "titleOrig": "Getting more from each token: How Copilot improves context handling and model routing",
           "link": "https://github.blog/ai-and-ml/github-copilot/getting-more-from-each-token-how-copilot-improves-context-handling-and-model-routing/",
@@ -378,13 +416,6 @@
           "link": "https://github.blog/ai-and-ml/llms/accelerating-researchers-and-developers-building-multilingual-ai-with-a-new-open-dataset/",
           "date": "Mon, 15 Jun 2026 19:17:30 +0000",
           "summary": "A new repository-level dataset, published on GitHub under CC0-1.0, helps researchers and developers discover multilingual developer content across READMEs, issues, and pull requests. The post Accelera"
-        },
-        {
-          "title": "委任についてGitHub Copilot CLIをより選択的にする方法",
-          "titleOrig": "How we made GitHub Copilot CLI more selective about delegation",
-          "link": "https://github.blog/ai-and-ml/how-we-made-github-copilot-cli-more-selective-about-delegation/",
-          "date": "Fri, 12 Jun 2026 22:26:23 +0000",
-          "summary": "Better orchestration, fewer handoffs, faster progress, without a single new knob. The post How we made GitHub Copilot CLI more selective about delegation appeared first on The GitHub Blog."
         }
       ],
       "error": null
