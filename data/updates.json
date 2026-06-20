@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-06-19T04:26:07.880Z",
+  "fetchedAt": "2026-06-20T03:50:40.845Z",
   "tools": [
     {
       "tool": "ミエルカ（YouTube）",
@@ -11,7 +11,7 @@
       "feedUrl": "",
       "items": [
         {
-          "title": "AI検索時代のSEOは何を見るべきか？KPIと顧客接点の見直し方",
+          "title": "2026年後半のSEOは何を見るべきか？AI検索時代のKPIと顧客接点",
           "link": "https://www.youtube.com/watch?v=44Uyakhry18",
           "date": "2026-06-16T23:00:06.000Z",
           "summary": ""
@@ -91,6 +91,13 @@
       "feedUrl": "https://www.semrush.com/blog/feed/",
       "items": [
         {
+          "title": "SemrushとSemrush for Enterprise ：どちらが適していますか？",
+          "titleOrig": "Semrush vs. Semrush for Enterprise: Which one is right for you?",
+          "link": "https://www.semrush.com/blog/semrush-vs-semrush-for-enterprise/",
+          "date": "Fri, 19 Jun 2026 13:00:00 +0000",
+          "summary": "Compare Semrush and Semrush for Enterprise. Learn which platform fits your team, visibility goals, reporting needs, and scale."
+        },
+        {
           "title": "カテゴリエントリーポイントがすべてのAI検索戦略に属する理由",
           "titleOrig": "Why category entry points belong in every AI search strategy",
           "link": "https://www.semrush.com/blog/category-entry-points-ai-search/",
@@ -117,13 +124,6 @@
           "link": "https://www.semrush.com/blog/ai-sentiment-analysis-marketers-guide/",
           "date": "Mon, 15 Jun 2026 16:21:00 +0000",
           "summary": "AI sentiment analysis tells you what AI platforms are saying about your brand, whether it‘s accurate, and how to fix it when it isn‘t."
-        },
-        {
-          "title": "初心者向けGoogleアナリティクス：完全なGA 4ガイド",
-          "titleOrig": "Google Analytics for beginners: the complete GA4 guide",
-          "link": "https://www.semrush.com/blog/google-analytics/",
-          "date": "Mon, 15 Jun 2026 08:16:00 +0000",
-          "summary": "A practical Google Analytics for beginners guide: how to set up GA4, link Search Console and Google Ads, and turn each report into a marketing decision."
         }
       ],
       "error": null
@@ -154,6 +154,18 @@
       "feedUrl": "https://rakkokeyword.com/techo/feed/",
       "items": [
         {
+          "title": "単価計算（どっちが得）ツール",
+          "link": "https://rakkokeyword.com/techo/tool-unit-price/",
+          "date": "Fri, 19 Jun 2026 07:20:22 +0000",
+          "summary": "単位（任意） 選択しないgkgmlL個枚組m 商品A 価格 (円) ※必須 容量 ※必須 入り数 (任意) 割引 割引なし円引き%引き 例：3割引→30、半額→50 商品B 価格 (円) ※必須 容量 ※必須 入り数 ( ..."
+        },
+        {
+          "title": "MP4→MP3変換ツール",
+          "link": "https://rakkokeyword.com/techo/tool-mp4-to-mp3/",
+          "date": "Fri, 19 Jun 2026 04:47:39 +0000",
+          "summary": "安心設計：ファイルはお客様の端末内で処理され、サーバーには送信されません 動画をドラッグ＆ドロップ またはクリックして選択 対応形式: MP4 / 複数選択可 / 上限目安 200MB ファイルリスト ＋ 他の動画を追加 ..."
+        },
+        {
           "title": "【インスタでフォロワーを増やす方法】伸びるアカウントは何が違う？本質の運用術",
           "link": "https://rakkokeyword.com/techo/how-to-increase-instagram-followers/",
           "date": "Thu, 18 Jun 2026 08:17:38 +0000",
@@ -170,18 +182,6 @@
           "link": "https://rakkokeyword.com/techo/instagram-10k-followers-income/",
           "date": "Thu, 18 Jun 2026 03:21:21 +0000",
           "summary": "毎日投稿しているのに収益はゼロ。「このまま続けて本当に稼げるの？」という気持ちは、フォロワー数千人の時期に多くの人が通る道です。 フォロワー1万人に届いた人の収入は、運用方法によってかなりの差が出ます。 同じ1万人でも、 ..."
-        },
-        {
-          "title": "【インスタで稼げるジャンル5選】最短で収益化するアカウント設計のコツ",
-          "link": "https://rakkokeyword.com/techo/instagram-profitable-niche-account-design/",
-          "date": "Wed, 17 Jun 2026 06:15:31 +0000",
-          "summary": "「インスタで副業を始めたいけど、どのジャンルで発信すれば稼げるのか分からない」——この最初の悩みでつまずく人はとても多いです。 せっかく休日や通勤時間を使って投稿を続けても、ジャンル選びを間違えると半年たっても収益はゼロ ..."
-        },
-        {
-          "title": "子供の身長予測ツール",
-          "link": "https://rakkokeyword.com/techo/tool-child-height/",
-          "date": "Wed, 17 Jun 2026 03:41:59 +0000",
-          "summary": "お子様の性別 必須 男子 女子 お父さんの身長 (cm) 必須 50cm～250cmの数値を入力してください。 お母さんの身長 (cm) 必須 50cm～250cmの数値を入力してください。 お子様の現在の身長 (cm) ..."
         }
       ],
       "error": null
@@ -293,6 +293,13 @@
       "feedUrl": "https://wordpress.org/news/feed/",
       "items": [
         {
+          "title": "キム・パーセル記念奨学金がWordCamp US 2026にオープン",
+          "titleOrig": "Kim Parsell Memorial Scholarship Opens for WordCamp US 2026",
+          "link": "https://wordpress.org/news/2026/06/kim-parsell-wcus-scholarship/",
+          "date": "Fri, 19 Jun 2026 16:55:00 +0000",
+          "summary": "Applications are now open for the 2026 Kim Parsell Memorial Scholarship, which supports one active WordPress contributor who identifies as a woman and has not previously attended WordCamp US. The scho"
+        },
+        {
           "title": "2026年ワードプレスイベントシーズン前半のグローバルパートナー",
           "titleOrig": "Global Partners Across the First Half of the 2026 WordPress Event Season",
           "link": "https://wordpress.org/news/2026/06/global-partners-first-half-2026/",
@@ -319,13 +326,6 @@
           "link": "https://wordpress.org/news/2026/05/wp23/",
           "date": "Wed, 27 May 2026 17:40:10 +0000",
           "summary": "WordPress at 23 is simultaneously both the strongest and most precarious it’s ever been. Last week, we shipped WordPress 7 to the world. In seven days, 46% of all WordPresses, tens of millions across "
-        },
-        {
-          "title": "WordCamp Europe 2026を見据えて",
-          "titleOrig": "Looking Ahead to WordCamp Europe 2026",
-          "link": "https://wordpress.org/news/2026/05/wceu-2026-sessions/",
-          "date": "Tue, 26 May 2026 12:52:13 +0000",
-          "summary": "June 4-6, 2026 | ICE Kraków Congress Centre, Kraków, Poland WordCamp Europe 2026 will bring the WordPress community together in Kraków, Poland, from June 4–6 for Contributor Day, two conference days, "
         }
       ],
       "error": null
@@ -383,6 +383,13 @@
       "feedUrl": "https://github.blog/feed/",
       "items": [
         {
+          "title": "社内データ分析エージェントの構築方法",
+          "titleOrig": "How we built an internal data analytics agent",
+          "link": "https://github.blog/ai-and-ml/github-copilot/how-we-built-an-internal-data-analytics-agent/",
+          "date": "Fri, 19 Jun 2026 16:00:00 +0000",
+          "summary": "Qubot, our internal Copilot-powered analytics agent, allows any GitHub employee to ask questions about our data in plain language. Here's what we learned as we built it. The post How we built an inter"
+        },
+        {
           "title": "プルリクエストの制限がノイズをどのように削減しているか",
           "titleOrig": "How pull request limits are cutting down the noise",
           "link": "https://github.blog/open-source/maintainers/how-pull-request-limits-are-cutting-down-the-noise/",
@@ -409,13 +416,6 @@
           "link": "https://github.blog/ai-and-ml/github-copilot/github-copilot-cli-for-beginners-overview-of-common-slash-commands/",
           "date": "Mon, 15 Jun 2026 20:15:31 +0000",
           "summary": "GitHub Copilot CLI for Beginners: Learn how to use slash commands to control your terminal AI agent. The post GitHub Copilot CLI for Beginners: Overview of common slash commands appeared first on The "
-        },
-        {
-          "title": "新しいオープンデータセットを使用して多言語AIを構築する研究者と開発者を加速",
-          "titleOrig": "Accelerating researchers and developers building multilingual AI with a new open dataset",
-          "link": "https://github.blog/ai-and-ml/llms/accelerating-researchers-and-developers-building-multilingual-ai-with-a-new-open-dataset/",
-          "date": "Mon, 15 Jun 2026 19:17:30 +0000",
-          "summary": "A new repository-level dataset, published on GitHub under CC0-1.0, helps researchers and developers discover multilingual developer content across READMEs, issues, and pull requests. The post Accelera"
         }
       ],
       "error": null
