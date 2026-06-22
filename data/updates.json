@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-06-21T04:21:06.980Z",
+  "fetchedAt": "2026-06-22T04:23:25.689Z",
   "tools": [
     {
       "tool": "ミエルカ（YouTube）",
@@ -10,6 +10,12 @@
       "handle": "@mieruca-channel",
       "feedUrl": "",
       "items": [
+        {
+          "title": "AI検索で引用されても選ばれない？自己推薦型記事の落とし穴｜SEO Weekly Update",
+          "link": "https://www.youtube.com/watch?v=wYt5_csu82M",
+          "date": "2026-06-21T23:00:01.000Z",
+          "summary": ""
+        },
         {
           "title": "2026年後半のSEOは何を見るべきか？AI検索時代のKPIと顧客接点",
           "link": "https://www.youtube.com/watch?v=44Uyakhry18",
@@ -32,12 +38,6 @@
           "title": "【試験導入】サーチコンソールのAI検索レポートで分かること・分からないこと｜SEO Weekly Update",
           "link": "https://www.youtube.com/watch?v=Y-lPjlAjotc",
           "date": "2026-06-07T23:00:28.000Z",
-          "summary": ""
-        },
-        {
-          "title": "SEOで勝ち続けるサイトは何が違うのか？海外事例に学ぶ長期戦略",
-          "link": "https://www.youtube.com/watch?v=_TbukVQZaWQ",
-          "date": "2026-06-03T23:00:27.000Z",
           "summary": ""
         }
       ],
