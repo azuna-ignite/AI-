@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-06-22T04:23:25.689Z",
+  "fetchedAt": "2026-06-23T03:41:04.404Z",
   "tools": [
     {
       "tool": "ミエルカ（YouTube）",
@@ -10,6 +10,12 @@
       "handle": "@mieruca-channel",
       "feedUrl": "",
       "items": [
+        {
+          "title": "LLMOとは何か？SEOの代わりではなく「見る範囲が広がる」理由",
+          "link": "https://www.youtube.com/watch?v=UqM06C9ZRbE",
+          "date": "2026-06-22T23:00:16.000Z",
+          "summary": ""
+        },
         {
           "title": "AI検索で引用されても選ばれない？自己推薦型記事の落とし穴｜SEO Weekly Update",
           "link": "https://www.youtube.com/watch?v=wYt5_csu82M",
@@ -32,12 +38,6 @@
           "title": "GoogleサーチコンソールのインデックスレポートとCore Web Vitals、何を優先して見るべきか",
           "link": "https://www.youtube.com/watch?v=EzGWibHKsDI",
           "date": "2026-06-09T23:00:34.000Z",
-          "summary": ""
-        },
-        {
-          "title": "【試験導入】サーチコンソールのAI検索レポートで分かること・分からないこと｜SEO Weekly Update",
-          "link": "https://www.youtube.com/watch?v=Y-lPjlAjotc",
-          "date": "2026-06-07T23:00:28.000Z",
           "summary": ""
         }
       ],
@@ -154,6 +154,18 @@
       "feedUrl": "https://rakkokeyword.com/techo/feed/",
       "items": [
         {
+          "title": "M4A→MP3変換ツール",
+          "link": "https://rakkokeyword.com/techo/tool-m4a-mp3/",
+          "date": "Mon, 22 Jun 2026 07:29:30 +0000",
+          "summary": "ここにM4Aファイルをドラッグ＆ドロップまたは ファイルを選択 選択中: サイズ: 別のM4Aファイルを選択する 音質設定 標準（128kbps） 音質重視（192kbps） MP3に変換する 処理を準備中… MP3への ..."
+        },
+        {
+          "title": "動画→GIF変換ツール",
+          "link": "https://rakkokeyword.com/techo/tool-video-to-gif/",
+          "date": "Mon, 22 Jun 2026 06:35:24 +0000",
+          "summary": "安心設計：画像はお客様の端末内で処理され、サーバーには送信されません GIFにしたい動画をドラッグ＆ドロップ またはクリックして選択 対応形式: MP4, MOV トリミング（切り取り）設定 タップして色を抽出 開始時間 ..."
+        },
+        {
           "title": "単価計算（どっちが得）ツール",
           "link": "https://rakkokeyword.com/techo/tool-unit-price/",
           "date": "Fri, 19 Jun 2026 07:20:22 +0000",
@@ -170,18 +182,6 @@
           "link": "https://rakkokeyword.com/techo/how-to-increase-instagram-followers/",
           "date": "Thu, 18 Jun 2026 08:17:38 +0000",
           "summary": "毎日投稿しているのに、フォロワーが300人前後で止まったまま動かない。集客のためにInstagramを始めたものの、いいねもフォローも増えず、投稿作業だけが負担になっている。今、そんな状態に陥っていませんか。 フォロワー ..."
-        },
-        {
-          "title": "ストップウォッチ",
-          "link": "https://rakkokeyword.com/techo/tool-stopwatch-online/",
-          "date": "Thu, 18 Jun 2026 08:08:23 +0000",
-          "summary": "00:00:00.000 スタート ラップ リセット ミリ秒を表示 ラップ履歴（最新順） 履歴をコピー ラップ 区間タイム 累積タイム ブラウザ上で手軽に時間を計測できる、インストール不要のオンラインストップウォッチツー ..."
-        },
-        {
-          "title": "インスタのフォロワー1万人の収入は？収益ゼロから抜け出す方法を紹介",
-          "link": "https://rakkokeyword.com/techo/instagram-10k-followers-income/",
-          "date": "Thu, 18 Jun 2026 03:21:21 +0000",
-          "summary": "毎日投稿しているのに収益はゼロ。「このまま続けて本当に稼げるの？」という気持ちは、フォロワー数千人の時期に多くの人が通る道です。 フォロワー1万人に届いた人の収入は、運用方法によってかなりの差が出ます。 同じ1万人でも、 ..."
         }
       ],
       "error": null
@@ -293,6 +293,13 @@
       "feedUrl": "https://wordpress.org/news/feed/",
       "items": [
         {
+          "title": "新しい商業スワッグストアを閲覧する",
+          "titleOrig": "Browse the New Mercantile Swag Store",
+          "link": "https://wordpress.org/news/2026/06/open-web-merch/",
+          "date": "Mon, 22 Jun 2026 15:07:00 +0000",
+          "summary": "Mercantile, the official swag store of the WordPress project, has a newly redesigned storefront with a catalog that now sits front and center, and a design tuned to hold up across a wide range of scre"
+        },
+        {
           "title": "キム・パーセル記念奨学金がWordCamp US 2026にオープン",
           "titleOrig": "Kim Parsell Memorial Scholarship Opens for WordCamp US 2026",
           "link": "https://wordpress.org/news/2026/06/kim-parsell-wcus-scholarship/",
@@ -319,13 +326,6 @@
           "link": "https://wordpress.org/news/2026/06/pts/",
           "date": "Fri, 05 Jun 2026 18:51:15 +0000",
           "summary": "tl;dr: Temporary 24-hour cooldown period for plugin/theme releases before auto-updates. AI can give defenders an edge. We want to secure all 78K plugins and themes on WordPress.org. One of the things "
-        },
-        {
-          "title": "WP 23",
-          "titleOrig": "WP23",
-          "link": "https://wordpress.org/news/2026/05/wp23/",
-          "date": "Wed, 27 May 2026 17:40:10 +0000",
-          "summary": "WordPress at 23 is simultaneously both the strongest and most precarious it’s ever been. Last week, we shipped WordPress 7 to the world. In seven days, 46% of all WordPresses, tens of millions across "
         }
       ],
       "error": null
@@ -383,6 +383,13 @@
       "feedUrl": "https://github.blog/feed/",
       "items": [
         {
+          "title": "誓約から実践へ：より包括的なオープンソースエコシステムの構築",
+          "titleOrig": "From pledge to practice: Building a more inclusive open source ecosystem",
+          "link": "https://github.blog/open-source/from-pledge-to-practice-building-a-more-inclusive-open-source-ecosystem/",
+          "date": "Mon, 22 Jun 2026 17:20:31 +0000",
+          "summary": "Learn about the progress we’ve made toward our accessibility goals and how you can help make open source more inclusive. The post From pledge to practice: Building a more inclusive open source ecosyst"
+        },
+        {
           "title": "社内データ分析エージェントの構築方法",
           "titleOrig": "How we built an internal data analytics agent",
           "link": "https://github.blog/ai-and-ml/github-copilot/how-we-built-an-internal-data-analytics-agent/",
@@ -409,13 +416,6 @@
           "link": "https://github.blog/ai-and-ml/github-copilot/what-are-git-worktrees-and-why-should-i-use-them/",
           "date": "Tue, 16 Jun 2026 20:58:54 +0000",
           "summary": "Git worktrees have been around since 2015, but it wasn't until recently they became popular. Learn what they are, how to use them, and why you might. The post What are git worktrees, and why should I "
-        },
-        {
-          "title": "初心者向けGitHub Copilot CLI ：一般的なスラッシュコマンドの概要",
-          "titleOrig": "GitHub Copilot CLI for Beginners: Overview of common slash commands",
-          "link": "https://github.blog/ai-and-ml/github-copilot/github-copilot-cli-for-beginners-overview-of-common-slash-commands/",
-          "date": "Mon, 15 Jun 2026 20:15:31 +0000",
-          "summary": "GitHub Copilot CLI for Beginners: Learn how to use slash commands to control your terminal AI agent. The post GitHub Copilot CLI for Beginners: Overview of common slash commands appeared first on The "
         }
       ],
       "error": null
