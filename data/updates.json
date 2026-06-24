@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-06-23T03:41:04.404Z",
+  "fetchedAt": "2026-06-24T03:41:55.048Z",
   "tools": [
     {
       "tool": "ミエルカ（YouTube）",
@@ -9,39 +9,8 @@
       "type": "youtube",
       "handle": "@mieruca-channel",
       "feedUrl": "",
-      "items": [
-        {
-          "title": "LLMOとは何か？SEOの代わりではなく「見る範囲が広がる」理由",
-          "link": "https://www.youtube.com/watch?v=UqM06C9ZRbE",
-          "date": "2026-06-22T23:00:16.000Z",
-          "summary": ""
-        },
-        {
-          "title": "AI検索で引用されても選ばれない？自己推薦型記事の落とし穴｜SEO Weekly Update",
-          "link": "https://www.youtube.com/watch?v=wYt5_csu82M",
-          "date": "2026-06-21T23:00:01.000Z",
-          "summary": ""
-        },
-        {
-          "title": "2026年後半のSEOは何を見るべきか？AI検索時代のKPIと顧客接点",
-          "link": "https://www.youtube.com/watch?v=44Uyakhry18",
-          "date": "2026-06-16T23:00:06.000Z",
-          "summary": ""
-        },
-        {
-          "title": "Googleが示したSEOツール評価の注意点｜GEO/LLMO計測ツールは何を確認すべきか｜SEO Weekly Update",
-          "link": "https://www.youtube.com/watch?v=_4bZkfPyMOI",
-          "date": "2026-06-14T23:01:17.000Z",
-          "summary": ""
-        },
-        {
-          "title": "GoogleサーチコンソールのインデックスレポートとCore Web Vitals、何を優先して見るべきか",
-          "link": "https://www.youtube.com/watch?v=EzGWibHKsDI",
-          "date": "2026-06-09T23:00:34.000Z",
-          "summary": ""
-        }
-      ],
-      "error": null
+      "items": [],
+      "error": "Status code 404"
     },
     {
       "tool": "Ahrefs",
@@ -50,6 +19,12 @@
       "sourceType": "tool",
       "feedUrl": "https://ahrefs.com/blog/ja/feed/",
       "items": [
+        {
+          "title": "note が 2 位に急上昇、Reddit が ChatGPT で首位に。日本で AI が引用するドメイン最新ランキング 2026 年 6 月版",
+          "link": "https://ahrefs.com/blog/ja/brand-radar-top-10-cited-domains-2026-june/",
+          "date": "Wed, 24 Jun 2026 03:12:52 +0000",
+          "summary": "Ahrefs ブランドレーダーで 5 大 AI 検索（ ChatGPT・AI モード・AI による概要・Perplexity・Copilot ）の引用ドメインを再分析。前回調査からの順位変動を、プラットフォーム別に徹底比較しました。 AI が回答を生成するとき、どのサイトを「信頼できる情報源」として引用しているのか。この勢力図は、わずか数ヶ月で大きく塗り替わります。 Ahrefs は自社ツール「 "
+        },
         {
           "title": "エージェンティックAI とは？マーケティング活用法と始め方を完全ガイド",
           "link": "https://ahrefs.com/blog/ja/agentic-marketing/",
@@ -73,12 +48,6 @@
           "link": "https://ahrefs.com/blog/ja/claude-skills/",
           "date": "Fri, 05 Jun 2026 04:47:31 +0000",
           "summary": "Claude Skillsの基本概念から実際のSEO・マーケティング業務での活用方法まで詳しく解説。効率的なワークフローの構築方法も紹介します。 Read more › The post Claude Skillsとは？SEO・マーケティングでの活用方法を徹底解説 appeared first on Ahrefs 公式ブログ."
-        },
-        {
-          "title": "ドメインパワーの適正値とは？実データで解説する 3 つの判断基準",
-          "link": "https://ahrefs.com/blog/ja/what-is-a-good-domain-rating/",
-          "date": "Wed, 03 Jun 2026 08:01:30 +0000",
-          "summary": "ドメインパワー（DR）に「良い数値」の絶対的な基準はありません。競合比較・業界平均・ターゲットキーワードの 3 軸で自サイトの DR を正しく評価する方法を、実データとともに解説します。 Read more › The post ドメインパワーの適正値とは？実データで解説する 3 つの判断基準 appeared first on Ahrefs 公式ブログ."
         }
       ],
       "error": null
@@ -91,39 +60,39 @@
       "feedUrl": "https://www.semrush.com/blog/feed/",
       "items": [
         {
+          "title": "Google E - E - A - T ：それが何であるか、そしてそれがSEOにどのように影響するか",
+          "titleOrig": "Google E-E-A-T: What it is & how it affects SEO",
+          "link": "https://www.semrush.com/blog/eeat/",
+          "date": "Tue, 23 Jun 2026 14:32:00 +0000",
+          "summary": "E-E-A-T is the framework Google‘s Quality Raters use to assess content that appears in search results."
+        },
+        {
+          "title": "コンテンツギャップ分析：ステップバイステップガイド",
+          "titleOrig": "Content gap analysis: A step-by-step guide",
+          "link": "https://www.semrush.com/blog/content-gap-analysis/",
+          "date": "Tue, 23 Jun 2026 14:19:00 +0000",
+          "summary": "A content gap analysis is the practice of finding relevant topics you haven‘t covered or could cover better to improve your online visibility."
+        },
+        {
+          "title": "検索エンジンとAI検索のための技術的なSEOチェックリスト",
+          "titleOrig": "The technical SEO checklist for search engines and AI search",
+          "link": "https://www.semrush.com/blog/technical-seo-checklist/",
+          "date": "Tue, 23 Jun 2026 09:32:00 +0000",
+          "summary": "A complete technical SEO checklist covering website health fundamentals, plus what‘s changed now that AI systems use the same index to ground their answers."
+        },
+        {
+          "title": "Google、AI標準であるオープンナレッジフォーマットを発表",
+          "titleOrig": "Google Launches Open Knowledge Format, an AI Standard",
+          "link": "https://www.semrush.com/blog/google-launches-open-knowledge-format-for-ai-agents/",
+          "date": "Tue, 23 Jun 2026 09:15:00 +0000",
+          "summary": "Google‘s Open Knowledge Format standardizes knowledge for AI agents. Here‘s what that means for marketers."
+        },
+        {
           "title": "SemrushとSemrush for Enterprise ：どちらが適していますか？",
           "titleOrig": "Semrush vs. Semrush for Enterprise: Which one is right for you?",
           "link": "https://www.semrush.com/blog/semrush-vs-semrush-for-enterprise/",
           "date": "Fri, 19 Jun 2026 13:00:00 +0000",
           "summary": "Compare Semrush and Semrush for Enterprise. Learn which platform fits your team, visibility goals, reporting needs, and scale."
-        },
-        {
-          "title": "カテゴリエントリーポイントがすべてのAI検索戦略に属する理由",
-          "titleOrig": "Why category entry points belong in every AI search strategy",
-          "link": "https://www.semrush.com/blog/category-entry-points-ai-search/",
-          "date": "Thu, 18 Jun 2026 14:19:00 +0000",
-          "summary": "Learn how CEP-anchored content performs across ChatGPT, Google AI Mode, and AI Overviews. A research experiment in AI search."
-        },
-        {
-          "title": "エージェントWebに最適化する方法：マーケティング担当者向けガイド",
-          "titleOrig": "How to optimize for the agentic web: a guide for marketers",
-          "link": "https://www.semrush.com/blog/how-to-optimize-for-the-agentic-web/",
-          "date": "Tue, 16 Jun 2026 15:04:00 +0000",
-          "summary": "Agentic web optimization gets your brand found, trusted, and chosen by AI agents. Learn the five-layer stack."
-        },
-        {
-          "title": "競合他社のキーワードを見つけ、可視性のギャップを埋める方法",
-          "titleOrig": "How to find competitor keywords and close visibility gaps",
-          "link": "https://www.semrush.com/blog/competitor-keywords/",
-          "date": "Tue, 16 Jun 2026 11:31:00 +0000",
-          "summary": "Find competitor keywords in traditional search, AI search, and web conversations to improve visibility."
-        },
-        {
-          "title": "AIセンチメント分析とは？マーケティング担当者向けガイド",
-          "titleOrig": "What is AI sentiment analysis? A marketer’s guide",
-          "link": "https://www.semrush.com/blog/ai-sentiment-analysis-marketers-guide/",
-          "date": "Mon, 15 Jun 2026 16:21:00 +0000",
-          "summary": "AI sentiment analysis tells you what AI platforms are saying about your brand, whether it‘s accurate, and how to fix it when it isn‘t."
         }
       ],
       "error": null
@@ -154,6 +123,24 @@
       "feedUrl": "https://rakkokeyword.com/techo/feed/",
       "items": [
         {
+          "title": "JSON整形・構文チェックツール",
+          "link": "https://rakkokeyword.com/techo/tool-json-formatter/",
+          "date": "Tue, 23 Jun 2026 08:00:31 +0000",
+          "summary": "サンプル入力 JSONファイルを読み込む クリア 選択中のファイル：なし 入力エリア JSONデータを直接入力するか、.jsonファイルを読み込んでください。 2スペース3スペース4スペースタブ 整形・チェック実行 圧縮 ..."
+        },
+        {
+          "title": "WAV→MP3変換ツール",
+          "link": "https://rakkokeyword.com/techo/tool-wav-to-mp3/",
+          "date": "Tue, 23 Jun 2026 06:49:35 +0000",
+          "summary": "安心設計：ファイルはお客様の端末内で処理され、サーバーには送信されません WAVファイルをドラッグ＆ドロップ またはクリックして選択 対応形式: WAV / 複数選択可 / 上限目安 100MB ファイルリスト ＋ 他の ..."
+        },
+        {
+          "title": "インスタ収益化方法！顔出しなし・少フォロワーから稼ぐ全手順",
+          "link": "https://rakkokeyword.com/techo/instagram-monetization-no-face-low-followers/",
+          "date": "Tue, 23 Jun 2026 04:04:16 +0000",
+          "summary": "結論、フォロワー数百人・顔出しなしでも、インスタの収益化は始められます。 大切なのは、自分に合った稼ぎ方を選び、正しい順番で運用することです。 この記事では、インスタで収入が生まれる仕組みから、顔を出さずに稼ぎやすいジャ ..."
+        },
+        {
           "title": "M4A→MP3変換ツール",
           "link": "https://rakkokeyword.com/techo/tool-m4a-mp3/",
           "date": "Mon, 22 Jun 2026 07:29:30 +0000",
@@ -164,24 +151,6 @@
           "link": "https://rakkokeyword.com/techo/tool-video-to-gif/",
           "date": "Mon, 22 Jun 2026 06:35:24 +0000",
           "summary": "安心設計：画像はお客様の端末内で処理され、サーバーには送信されません GIFにしたい動画をドラッグ＆ドロップ またはクリックして選択 対応形式: MP4, MOV トリミング（切り取り）設定 タップして色を抽出 開始時間 ..."
-        },
-        {
-          "title": "単価計算（どっちが得）ツール",
-          "link": "https://rakkokeyword.com/techo/tool-unit-price/",
-          "date": "Fri, 19 Jun 2026 07:20:22 +0000",
-          "summary": "単位（任意） 選択しないgkgmlL個枚組m 商品A 価格 (円) ※必須 容量 ※必須 入り数 (任意) 割引 割引なし円引き%引き 例：3割引→30、半額→50 商品B 価格 (円) ※必須 容量 ※必須 入り数 ( ..."
-        },
-        {
-          "title": "MP4→MP3変換ツール",
-          "link": "https://rakkokeyword.com/techo/tool-mp4-to-mp3/",
-          "date": "Fri, 19 Jun 2026 04:47:39 +0000",
-          "summary": "安心設計：ファイルはお客様の端末内で処理され、サーバーには送信されません 動画をドラッグ＆ドロップ またはクリックして選択 対応形式: MP4 / 複数選択可 / 上限目安 200MB ファイルリスト ＋ 他の動画を追加 ..."
-        },
-        {
-          "title": "【インスタでフォロワーを増やす方法】伸びるアカウントは何が違う？本質の運用術",
-          "link": "https://rakkokeyword.com/techo/how-to-increase-instagram-followers/",
-          "date": "Thu, 18 Jun 2026 08:17:38 +0000",
-          "summary": "毎日投稿しているのに、フォロワーが300人前後で止まったまま動かない。集客のためにInstagramを始めたものの、いいねもフォローも増えず、投稿作業だけが負担になっている。今、そんな状態に陥っていませんか。 フォロワー ..."
         }
       ],
       "error": null
@@ -383,6 +352,20 @@
       "feedUrl": "https://github.blog/feed/",
       "items": [
         {
+          "title": "私は仕事を自動化しました（そしてそれは私をより良いリーダーにしました）",
+          "titleOrig": "I automated my job (and it made me a better leader)",
+          "link": "https://github.blog/developer-skills/github/i-automated-my-job-and-it-made-me-a-better-leader/",
+          "date": "Tue, 23 Jun 2026 16:00:00 +0000",
+          "summary": "Explore how my day as a senior leader looks now that I use 40 automations to help, and learn more about some of my favorites. The post I automated my job (and it made me a better leader) appeared firs"
+        },
+        {
+          "title": "GitHubは、オープンソースを保護するためにカリフォルニアAI透明性法の修正を提唱する連合に参加しています",
+          "titleOrig": "GitHub joins coalition advocating for fixes to California AI Transparency Act to protect open source",
+          "link": "https://github.blog/news-insights/policy-news-and-insights/github-joins-coalition-advocating-for-fixes-to-california-ai-transparency-act-to-protect-open-source/",
+          "date": "Tue, 23 Jun 2026 15:48:00 +0000",
+          "summary": "We’re calling for targeted amendments to resolve conflicts with open source licensing and align with international transparency frameworks while preserving regulatory intent. The post GitHub joins coa"
+        },
+        {
           "title": "誓約から実践へ：より包括的なオープンソースエコシステムの構築",
           "titleOrig": "From pledge to practice: Building a more inclusive open source ecosystem",
           "link": "https://github.blog/open-source/from-pledge-to-practice-building-a-more-inclusive-open-source-ecosystem/",
@@ -402,20 +385,6 @@
           "link": "https://github.blog/open-source/maintainers/how-pull-request-limits-are-cutting-down-the-noise/",
           "date": "Thu, 18 Jun 2026 16:00:00 +0000",
           "summary": "Learn how pull request limits can help manage contribution volume in your repositories, and see what’s next on the roadmap. The post How pull request limits are cutting down the noise appeared first o"
-        },
-        {
-          "title": "各トークンからより多くを得る： Copilotがコンテキスト処理とモデルルーティングを改善する方法",
-          "titleOrig": "Getting more from each token: How Copilot improves context handling and model routing",
-          "link": "https://github.blog/ai-and-ml/github-copilot/getting-more-from-each-token-how-copilot-improves-context-handling-and-model-routing/",
-          "date": "Wed, 17 Jun 2026 19:41:46 +0000",
-          "summary": "How GitHub Copilot is making more of each session go toward useful work, so your credits go further. The post Getting more from each token: How Copilot improves context handling and model routing appe"
-        },
-        {
-          "title": "Gitワークツリーとは何ですか？なぜそれらを使用する必要があるのですか？",
-          "titleOrig": "What are git worktrees, and why should I use them?",
-          "link": "https://github.blog/ai-and-ml/github-copilot/what-are-git-worktrees-and-why-should-i-use-them/",
-          "date": "Tue, 16 Jun 2026 20:58:54 +0000",
-          "summary": "Git worktrees have been around since 2015, but it wasn't until recently they became popular. Learn what they are, how to use them, and why you might. The post What are git worktrees, and why should I "
         }
       ],
       "error": null
