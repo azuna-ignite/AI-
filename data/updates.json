@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-06-25T03:41:34.855Z",
+  "fetchedAt": "2026-06-26T03:52:13.351Z",
   "tools": [
     {
       "tool": "ミエルカ（YouTube）",
@@ -9,8 +9,39 @@
       "type": "youtube",
       "handle": "@mieruca-channel",
       "feedUrl": "",
-      "items": [],
-      "error": "Status code 404"
+      "items": [
+        {
+          "title": "トピッククラスターとは？SEOで成果につなげる作り方・内部リンク設計・失敗例",
+          "link": "https://www.youtube.com/watch?v=IhdS9s45s2o",
+          "date": "2026-06-24T08:00:07.000Z",
+          "summary": ""
+        },
+        {
+          "title": "LLMOとは？SEOとの違いとAI検索時代にまず押さえる基本",
+          "link": "https://www.youtube.com/watch?v=UqM06C9ZRbE",
+          "date": "2026-06-22T23:00:16.000Z",
+          "summary": ""
+        },
+        {
+          "title": "AI検索で引用されても選ばれない？自己推薦型記事の落とし穴｜SEO Weekly Update",
+          "link": "https://www.youtube.com/watch?v=wYt5_csu82M",
+          "date": "2026-06-21T23:00:01.000Z",
+          "summary": ""
+        },
+        {
+          "title": "2026年後半のSEOは何を見るべきか？AI検索時代のKPIと顧客接点",
+          "link": "https://www.youtube.com/watch?v=44Uyakhry18",
+          "date": "2026-06-16T23:00:06.000Z",
+          "summary": ""
+        },
+        {
+          "title": "Googleが示したSEOツール評価の注意点｜GEO/LLMO計測ツールは何を確認すべきか｜SEO Weekly Update",
+          "link": "https://www.youtube.com/watch?v=_4bZkfPyMOI",
+          "date": "2026-06-14T23:01:17.000Z",
+          "summary": ""
+        }
+      ],
+      "error": null
     },
     {
       "tool": "Ahrefs",
@@ -23,7 +54,7 @@
           "title": "note が 2 位に急上昇、Reddit が ChatGPT で首位に。日本で AI が引用するドメイン最新ランキング 2026 年 6 月版",
           "link": "https://ahrefs.com/blog/ja/brand-radar-top-10-cited-domains-2026-june/",
           "date": "Wed, 24 Jun 2026 03:12:52 +0000",
-          "summary": "Ahrefs ブランドレーダーで 5 大 AI 検索（ ChatGPT・AI モード・AI による概要・Perplexity・Copilot ）の引用ドメインを再分析。前回調査からの順位変動を、プラットフォーム別に徹底比較しました。 AI が回答を生成するとき、どのサイトを「信頼できる情報源」として引用しているのか。この勢力図は、わずか数ヶ月で大きく塗り替わります。 Ahrefs は自社ツール「 "
+          "summary": "Ahrefs ブランドレーダーで 5 大 AI 検索（ ChatGPT・AI モード・AI による概要・Perplexity・Copilot ）の引用ドメインを再分析。前回（2026 年 4 月）調査からの順位変動を、プラットフォーム別に徹底比較。 AI が回答を生成するとき、どのサイトを「信頼できる情報源」として引用しているのか。この勢力図は、わずか数ヶ月で大きく塗り替わります。 Ahrefs "
         },
         {
           "title": "エージェンティックAI とは？マーケティング活用法と始め方を完全ガイド",
@@ -60,6 +91,20 @@
       "feedUrl": "https://www.semrush.com/blog/feed/",
       "items": [
         {
+          "title": "Claude Codeでコンテンツ更新パイプラインを再構築しました。その理由は次のとおりです。",
+          "titleOrig": "I rebuilt our content update pipeline in Claude Code. Here's why.",
+          "link": "https://www.semrush.com/blog/how-i-rebuilt-our-content-update-pipeline/",
+          "date": "Thu, 25 Jun 2026 14:19:00 +0000",
+          "summary": "I moved our content update pipeline from n8n to Claude Code. Here‘s what broke, what worked, and what changed for our team."
+        },
+        {
+          "title": "デジタルマーケティング戦略：タイプと構築方法",
+          "titleOrig": "Digital marketing strategies: Types & how to build one",
+          "link": "https://www.semrush.com/blog/digital-marketing-strategies/",
+          "date": "Thu, 25 Jun 2026 09:01:00 +0000",
+          "summary": "Digital marketing strategies grow your visibility across social, AI, and the web. Learn how to build one."
+        },
+        {
           "title": "Google E - E - A - T ：それが何であるか、そしてそれがSEOにどのように影響するか",
           "titleOrig": "Google E-E-A-T: What it is & how it affects SEO",
           "link": "https://www.semrush.com/blog/eeat/",
@@ -79,20 +124,6 @@
           "link": "https://www.semrush.com/blog/technical-seo-checklist/",
           "date": "Tue, 23 Jun 2026 09:32:00 +0000",
           "summary": "A complete technical SEO checklist covering website health fundamentals, plus what‘s changed now that AI systems use the same index to ground their answers."
-        },
-        {
-          "title": "Google、AI標準であるオープンナレッジフォーマットを発表",
-          "titleOrig": "Google Launches Open Knowledge Format, an AI Standard",
-          "link": "https://www.semrush.com/blog/google-launches-open-knowledge-format-for-ai-agents/",
-          "date": "Tue, 23 Jun 2026 09:15:00 +0000",
-          "summary": "Google‘s Open Knowledge Format standardizes knowledge for AI agents. Here‘s what that means for marketers."
-        },
-        {
-          "title": "SemrushとSemrush for Enterprise ：どちらが適していますか？",
-          "titleOrig": "Semrush vs. Semrush for Enterprise: Which one is right for you?",
-          "link": "https://www.semrush.com/blog/semrush-vs-semrush-for-enterprise/",
-          "date": "Fri, 19 Jun 2026 13:00:00 +0000",
-          "summary": "Compare Semrush and Semrush for Enterprise. Learn which platform fits your team, visibility goals, reporting needs, and scale."
         }
       ],
       "error": null
@@ -123,6 +154,18 @@
       "feedUrl": "https://rakkokeyword.com/techo/feed/",
       "items": [
         {
+          "title": "主婦がインスタで稼ぐには？扶養内で身バレせず安全に副収入を作る方法",
+          "link": "https://rakkokeyword.com/techo/instagram-side-income-housewives-guide/",
+          "date": "Fri, 26 Jun 2026 03:31:44 +0000",
+          "summary": "「子どもがまだ小さくて外には働きに出られないけれど、家計の足しに月3〜5万円くらい収入があれば…」 そう考えてスマホを開き、たどり着いたのがこのページかもしれません。 特別なスキルや資格がない主婦の方でも、インスタグラム ..."
+        },
+        {
+          "title": "【SNSで稼ぐ方法】おすすめのSNSは？知識ゼロから安全に月5万円の収益化！",
+          "link": "https://rakkokeyword.com/techo/how-to-make-money-social-media/",
+          "date": "Fri, 26 Jun 2026 03:03:49 +0000",
+          "summary": "「給料だけでは将来が不安だから、スキマ時間でSNS副業を始めたい。でも何から手をつければいいのか分からない…」 「顔出しもしたくないし、会社にもバレたくない。そもそも本当に自分でも稼げるの？」 スキルや資金がなくても、S ..."
+        },
+        {
           "title": "インスタで一般人が稼ぐ仕組みとは？ゼロから収益化する方法を解説",
           "link": "https://rakkokeyword.com/techo/how-to-make-money-on-instagram/",
           "date": "Wed, 24 Jun 2026 23:42:57 +0000",
@@ -139,18 +182,6 @@
           "link": "https://rakkokeyword.com/techo/tool-mp3-to-wav/",
           "date": "Wed, 24 Jun 2026 05:33:24 +0000",
           "summary": "WAV→MP3 MP3→WAV 安心設計：ファイルはお客様の端末内で処理され、サーバーには送信されません MP3ファイルをドラッグ＆ドロップ またはクリックして選択 対応形式: MP3 / 複数選択可 / 上限目安 10 ..."
-        },
-        {
-          "title": "JSON整形・構文チェックツール",
-          "link": "https://rakkokeyword.com/techo/tool-json-formatter/",
-          "date": "Tue, 23 Jun 2026 08:00:31 +0000",
-          "summary": "サンプル入力 JSONファイルを読み込む クリア 選択中のファイル：なし 入力エリア JSONデータを直接入力するか、.jsonファイルを読み込んでください。 2スペース3スペース4スペースタブ 整形・チェック実行 圧縮 ..."
-        },
-        {
-          "title": "WAV→MP3変換ツール",
-          "link": "https://rakkokeyword.com/techo/tool-wav-to-mp3/",
-          "date": "Tue, 23 Jun 2026 06:49:35 +0000",
-          "summary": "WAV→MP3 MP3→WAV 安心設計：ファイルはお客様の端末内で処理され、サーバーには送信されません WAVファイルをドラッグ＆ドロップ またはクリックして選択 対応形式: WAV / 複数選択可 / 上限目安 10 ..."
         }
       ],
       "error": null
@@ -171,6 +202,13 @@
       "sourceType": "tool",
       "feedUrl": "https://blog.google/technology/ai/rss/",
       "items": [
+        {
+          "title": "新しいアプリを含む最新のGoogleファイナンスのアップグレード",
+          "titleOrig": "Our latest Google Finance upgrades, including a new app",
+          "link": "https://blog.google/products-and-platforms/products/search/google-finance-updates-june-2026/",
+          "date": "Thu, 25 Jun 2026 16:00:00 +0000",
+          "summary": "The new Google Finance is coming out of beta and launching a new Android app."
+        },
         {
           "title": "新しい研究は、私たちの医療AIであるAMIEがどのように健康状態を管理するのに役立つかを示しています。",
           "titleOrig": "New research shows how AMIE, our medical AI, could help manage health conditions.",
@@ -198,13 +236,6 @@
           "link": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-may-2026/",
           "date": "Fri, 05 Jun 2026 14:45:00 +0000",
           "summary": "Here are Google’s latest AI updates from May 2026"
-        },
-        {
-          "title": "Google検索でスリップショッピングやヴィンテージショッピングをレベルアップする5つの方法",
-          "titleOrig": "5 ways Google Search can level up your thrift and vintage shopping",
-          "link": "https://blog.google/products-and-platforms/products/search/thrifting-tips/",
-          "date": "Wed, 03 Jun 2026 13:00:00 +0000",
-          "summary": "Uncover second-hand scores with AI tools in Google Search and Shopping."
         }
       ],
       "error": null
@@ -352,6 +383,13 @@
       "feedUrl": "https://github.blog/feed/",
       "items": [
         {
+          "title": "モデルとタスクにわたるGitHub Copilotエージェントハーネスのパフォーマンスと効率の評価",
+          "titleOrig": "Evaluating performance and efficiency of the GitHub Copilot agentic harness across models and tasks",
+          "link": "https://github.blog/ai-and-ml/github-copilot/evaluating-performance-and-efficiency-of-the-github-copilot-agentic-harness-across-models-and-tasks/",
+          "date": "Thu, 25 Jun 2026 22:59:45 +0000",
+          "summary": "Explore how the GitHub Copilot agentic harness delivers strong results across multiple benchmarks and leading token efficiency, while maintaining flexibility to choose among more than 20 models. The p"
+        },
+        {
           "title": "私は仕事を自動化しました（そしてそれは私をより良いリーダーにしました）",
           "titleOrig": "I automated my job (and it made me a better leader)",
           "link": "https://github.blog/developer-skills/github/i-automated-my-job-and-it-made-me-a-better-leader/",
@@ -378,13 +416,6 @@
           "link": "https://github.blog/ai-and-ml/github-copilot/how-we-built-an-internal-data-analytics-agent/",
           "date": "Fri, 19 Jun 2026 16:00:00 +0000",
           "summary": "Qubot, our internal Copilot-powered analytics agent, allows any GitHub employee to ask questions about our data in plain language. Here's what we learned as we built it. The post How we built an inter"
-        },
-        {
-          "title": "プルリクエストの制限がノイズをどのように削減しているか",
-          "titleOrig": "How pull request limits are cutting down the noise",
-          "link": "https://github.blog/open-source/maintainers/how-pull-request-limits-are-cutting-down-the-noise/",
-          "date": "Thu, 18 Jun 2026 16:00:00 +0000",
-          "summary": "Learn how pull request limits can help manage contribution volume in your repositories, and see what’s next on the roadmap. The post How pull request limits are cutting down the noise appeared first o"
         }
       ],
       "error": null
