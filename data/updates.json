@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-06-26T03:52:13.351Z",
+  "fetchedAt": "2026-06-27T03:35:08.967Z",
   "tools": [
     {
       "tool": "ミエルカ（YouTube）",
@@ -51,6 +51,12 @@
       "feedUrl": "https://ahrefs.com/blog/ja/feed/",
       "items": [
         {
+          "title": "AI 検索最適化（AIO）完全ガイド｜ChatGPT・Perplexity に引用されるコンテンツの作り方と Ahrefs（エイチレフス）活用法",
+          "link": "https://ahrefs.com/blog/ja/ahrefs-aio-guide/",
+          "date": "Fri, 26 Jun 2026 04:44:30 +0000",
+          "summary": "Ahrefs の AI エージェント機能を用いた AI 検索最適化（AIO）の解説記事です。自然言語での指示で被リンク監視やカレンダー生成などの業務を自動化する Ahrefs の使い方や、ChatGPT などの生成 AI 検索で自社サイトが引用されるための AI 検索対策を解説します。 Read more › The post AI 検索最適化（AIO）完全ガイド｜ChatGPT・Perplexi"
+        },
+        {
           "title": "note が 2 位に急上昇、Reddit が ChatGPT で首位に。日本で AI が引用するドメイン最新ランキング 2026 年 6 月版",
           "link": "https://ahrefs.com/blog/ja/brand-radar-top-10-cited-domains-2026-june/",
           "date": "Wed, 24 Jun 2026 03:12:52 +0000",
@@ -73,12 +79,6 @@
           "link": "https://ahrefs.com/blog/ja/agenta-webinar-lany/",
           "date": "Thu, 18 Jun 2026 00:26:28 +0000",
           "summary": "Ahrefsが開催した株式会社LANY竹内氏との共同ウェビナーの要点を凝縮レポート。マーケティング特化型AI「Agent A」が、なぜ従来の対話型AIと一線を画すのか。本記事を読めば、反復的な分析業務を自動化・アプリ化し、チームの生産性を劇的に向上させる具体的な方法がわかります。 Read more › The post Agent A の使い方と活用事例｜API との違いやおすすめの裏技をウェビ"
-        },
-        {
-          "title": "Claude Skillsとは？SEO・マーケティングでの活用方法を徹底解説",
-          "link": "https://ahrefs.com/blog/ja/claude-skills/",
-          "date": "Fri, 05 Jun 2026 04:47:31 +0000",
-          "summary": "Claude Skillsの基本概念から実際のSEO・マーケティング業務での活用方法まで詳しく解説。効率的なワークフローの構築方法も紹介します。 Read more › The post Claude Skillsとは？SEO・マーケティングでの活用方法を徹底解説 appeared first on Ahrefs 公式ブログ."
         }
       ],
       "error": null
@@ -90,6 +90,13 @@
       "sourceType": "tool",
       "feedUrl": "https://www.semrush.com/blog/feed/",
       "items": [
+        {
+          "title": "URLパラメータとは何ですか？使い方のガイド",
+          "titleOrig": "What are URL parameters? A guide on how to use them",
+          "link": "https://www.semrush.com/blog/url-parameters/",
+          "date": "Fri, 26 Jun 2026 17:36:00 +0000",
+          "summary": "URL parameters are extra pieces of information added to the end of a URL. Here’s how to use them."
+        },
         {
           "title": "Claude Codeでコンテンツ更新パイプラインを再構築しました。その理由は次のとおりです。",
           "titleOrig": "I rebuilt our content update pipeline in Claude Code. Here's why.",
@@ -117,13 +124,6 @@
           "link": "https://www.semrush.com/blog/content-gap-analysis/",
           "date": "Tue, 23 Jun 2026 14:19:00 +0000",
           "summary": "A content gap analysis is the practice of finding relevant topics you haven‘t covered or could cover better to improve your online visibility."
-        },
-        {
-          "title": "検索エンジンとAI検索のための技術的なSEOチェックリスト",
-          "titleOrig": "The technical SEO checklist for search engines and AI search",
-          "link": "https://www.semrush.com/blog/technical-seo-checklist/",
-          "date": "Tue, 23 Jun 2026 09:32:00 +0000",
-          "summary": "A complete technical SEO checklist covering website health fundamentals, plus what‘s changed now that AI systems use the same index to ground their answers."
         }
       ],
       "error": null
@@ -152,39 +152,8 @@
       "category": "SEO・キーワード調査",
       "sourceType": "tool",
       "feedUrl": "https://rakkokeyword.com/techo/feed/",
-      "items": [
-        {
-          "title": "主婦がインスタで稼ぐには？扶養内で身バレせず安全に副収入を作る方法",
-          "link": "https://rakkokeyword.com/techo/instagram-side-income-housewives-guide/",
-          "date": "Fri, 26 Jun 2026 03:31:44 +0000",
-          "summary": "「子どもがまだ小さくて外には働きに出られないけれど、家計の足しに月3〜5万円くらい収入があれば…」 そう考えてスマホを開き、たどり着いたのがこのページかもしれません。 特別なスキルや資格がない主婦の方でも、インスタグラム ..."
-        },
-        {
-          "title": "【SNSで稼ぐ方法】おすすめのSNSは？知識ゼロから安全に月5万円の収益化！",
-          "link": "https://rakkokeyword.com/techo/how-to-make-money-social-media/",
-          "date": "Fri, 26 Jun 2026 03:03:49 +0000",
-          "summary": "「給料だけでは将来が不安だから、スキマ時間でSNS副業を始めたい。でも何から手をつければいいのか分からない…」 「顔出しもしたくないし、会社にもバレたくない。そもそも本当に自分でも稼げるの？」 スキルや資金がなくても、S ..."
-        },
-        {
-          "title": "インスタで一般人が稼ぐ仕組みとは？ゼロから収益化する方法を解説",
-          "link": "https://rakkokeyword.com/techo/how-to-make-money-on-instagram/",
-          "date": "Wed, 24 Jun 2026 23:42:57 +0000",
-          "summary": "「インスタで稼ぐ」という言葉はよく見かけるけれど、フォロワーが多い有名人やモデルのような人だけの話に感じていませんか。 特別な才能も知名度もない普通の人が、すき間時間の発信で本当にお金を得られるのか。そう思うのは自然なこ ..."
-        },
-        {
-          "title": "ランダム単語生成ツール",
-          "link": "https://rakkokeyword.com/techo/tool-random-word/",
-          "date": "Wed, 24 Jun 2026 07:41:46 +0000",
-          "summary": "表示語数 1個3個5個10個 単語カテゴリ すべて名詞動物食べ物場所感情職業物・道具 もう一度生成 結果をコピー コピーしました 本ツールは、指定したカテゴリや個数に合わせてランダムな単語をワンクリックで生成するWEBツ ..."
-        },
-        {
-          "title": "MP3→WAV変換ツール",
-          "link": "https://rakkokeyword.com/techo/tool-mp3-to-wav/",
-          "date": "Wed, 24 Jun 2026 05:33:24 +0000",
-          "summary": "WAV→MP3 MP3→WAV 安心設計：ファイルはお客様の端末内で処理され、サーバーには送信されません MP3ファイルをドラッグ＆ドロップ またはクリックして選択 対応形式: MP3 / 複数選択可 / 上限目安 10 ..."
-        }
-      ],
-      "error": null
+      "items": [],
+      "error": "Status code 415"
     },
     {
       "tool": "Claude / Claude Code",
@@ -383,6 +352,20 @@
       "feedUrl": "https://github.blog/feed/",
       "items": [
         {
+          "title": "GitHubとUNDPは、オープンソースでガーナの開発優先事項を推進するために協力しています",
+          "titleOrig": "GitHub and UNDP team up to advance development priorities in Ghana with open source",
+          "link": "https://github.blog/open-source/social-impact/github-and-undp-team-up-to-advance-development-priorities-in-ghana-with-open-source/",
+          "date": "Fri, 26 Jun 2026 16:53:57 +0000",
+          "summary": "GitHub joined the United Nations Development Programme in Ghana to explore how open source governance can support one of West Africa's most ambitious digital reform efforts. The post GitHub and UNDP t"
+        },
+        {
+          "title": "Hubberとしての移行",
+          "titleOrig": "Transitioning as a Hubber",
+          "link": "https://github.blog/developer-skills/career-growth/transitioning-as-a-hubber/",
+          "date": "Fri, 26 Jun 2026 12:00:00 +0000",
+          "summary": "How GitHub's culture and benefits helped me be the best version of myself. The post Transitioning as a Hubber appeared first on The GitHub Blog."
+        },
+        {
           "title": "モデルとタスクにわたるGitHub Copilotエージェントハーネスのパフォーマンスと効率の評価",
           "titleOrig": "Evaluating performance and efficiency of the GitHub Copilot agentic harness across models and tasks",
           "link": "https://github.blog/ai-and-ml/github-copilot/evaluating-performance-and-efficiency-of-the-github-copilot-agentic-harness-across-models-and-tasks/",
@@ -402,20 +385,6 @@
           "link": "https://github.blog/news-insights/policy-news-and-insights/github-joins-coalition-advocating-for-fixes-to-california-ai-transparency-act-to-protect-open-source/",
           "date": "Tue, 23 Jun 2026 15:48:00 +0000",
           "summary": "We’re calling for targeted amendments to resolve conflicts with open source licensing and align with international transparency frameworks while preserving regulatory intent. The post GitHub joins coa"
-        },
-        {
-          "title": "誓約から実践へ：より包括的なオープンソースエコシステムの構築",
-          "titleOrig": "From pledge to practice: Building a more inclusive open source ecosystem",
-          "link": "https://github.blog/open-source/from-pledge-to-practice-building-a-more-inclusive-open-source-ecosystem/",
-          "date": "Mon, 22 Jun 2026 17:20:31 +0000",
-          "summary": "Learn about the progress we’ve made toward our accessibility goals and how you can help make open source more inclusive. The post From pledge to practice: Building a more inclusive open source ecosyst"
-        },
-        {
-          "title": "社内データ分析エージェントの構築方法",
-          "titleOrig": "How we built an internal data analytics agent",
-          "link": "https://github.blog/ai-and-ml/github-copilot/how-we-built-an-internal-data-analytics-agent/",
-          "date": "Fri, 19 Jun 2026 16:00:00 +0000",
-          "summary": "Qubot, our internal Copilot-powered analytics agent, allows any GitHub employee to ask questions about our data in plain language. Here's what we learned as we built it. The post How we built an inter"
         }
       ],
       "error": null
