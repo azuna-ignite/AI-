@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-06-27T03:35:08.967Z",
+  "fetchedAt": "2026-06-28T03:58:22.557Z",
   "tools": [
     {
       "tool": "ミエルカ（YouTube）",
@@ -152,8 +152,39 @@
       "category": "SEO・キーワード調査",
       "sourceType": "tool",
       "feedUrl": "https://rakkokeyword.com/techo/feed/",
-      "items": [],
-      "error": "Status code 415"
+      "items": [
+        {
+          "title": "ダミー画像生成ツール",
+          "link": "https://rakkokeyword.com/techo/tool-dummy-image/",
+          "date": "Fri, 26 Jun 2026 06:56:43 +0000",
+          "summary": "プレビュー ダミー画像をダウンロード 用途別プリセット カスタム (800 × 600)OGP画像 (1200 × 630)X（旧Twitter）画像 (1200 × 675)Instagram投稿 (1080 × 10 ..."
+        },
+        {
+          "title": "英語文字数カウントツール",
+          "link": "https://rakkokeyword.com/techo/tool-english-wordcount/",
+          "date": "Fri, 26 Jun 2026 06:26:03 +0000",
+          "summary": "現在の単語数 0 / 目標 0 (0%) 安心設計：入力内容はお客様の端末内で処理され、サーバーには送信されません 🗑 クリア テキストをコピー ファイルのアップロードもできます。 ファイルをドラッグ＆ドロップ またはク ..."
+        },
+        {
+          "title": "主婦がインスタで稼ぐには？扶養内で身バレせず安全に副収入を作る方法",
+          "link": "https://rakkokeyword.com/techo/instagram-side-income-housewives-guide/",
+          "date": "Fri, 26 Jun 2026 03:31:44 +0000",
+          "summary": "「子どもがまだ小さくて外には働きに出られないけれど、家計の足しに月3〜5万円くらい収入があれば…」 そう考えてスマホを開き、たどり着いたのがこのページかもしれません。 特別なスキルや資格がない主婦の方でも、インスタグラム ..."
+        },
+        {
+          "title": "【SNSで稼ぐ方法】おすすめのSNSは？知識ゼロから安全に月5万円の収益化！",
+          "link": "https://rakkokeyword.com/techo/how-to-make-money-social-media/",
+          "date": "Fri, 26 Jun 2026 03:03:49 +0000",
+          "summary": "「給料だけでは将来が不安だから、スキマ時間でSNS副業を始めたい。でも何から手をつければいいのか分からない…」 「顔出しもしたくないし、会社にもバレたくない。そもそも本当に自分でも稼げるの？」 スキルや資金がなくても、S ..."
+        },
+        {
+          "title": "インスタで一般人が稼ぐ仕組みとは？ゼロから収益化する方法を解説",
+          "link": "https://rakkokeyword.com/techo/how-to-make-money-on-instagram/",
+          "date": "Wed, 24 Jun 2026 23:42:57 +0000",
+          "summary": "「インスタで稼ぐ」という言葉はよく見かけるけれど、フォロワーが多い有名人やモデルのような人だけの話に感じていませんか。 特別な才能も知名度もない普通の人が、すき間時間の発信で本当にお金を得られるのか。そう思うのは自然なこ ..."
+        }
+      ],
+      "error": null
     },
     {
       "tool": "Claude / Claude Code",
