@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-06-29T04:04:10.089Z",
+  "fetchedAt": "2026-06-30T03:47:32.872Z",
   "tools": [
     {
       "tool": "ミエルカ（YouTube）",
@@ -9,39 +9,8 @@
       "type": "youtube",
       "handle": "@mieruca-channel",
       "feedUrl": "",
-      "items": [
-        {
-          "title": "【2026年6月】Googleスパムアップデート開始、SEO担当者が確認すべきこと｜SEO Weekly Update",
-          "link": "https://www.youtube.com/watch?v=XPpafZUc6QQ",
-          "date": "2026-06-28T22:30:37.000Z",
-          "summary": ""
-        },
-        {
-          "title": "トピッククラスターとは？SEOで成果につなげる作り方・内部リンク設計・失敗例",
-          "link": "https://www.youtube.com/watch?v=IhdS9s45s2o",
-          "date": "2026-06-24T08:00:07.000Z",
-          "summary": ""
-        },
-        {
-          "title": "LLMOとは？SEOとの違いとAI検索時代にまず押さえる基本",
-          "link": "https://www.youtube.com/watch?v=UqM06C9ZRbE",
-          "date": "2026-06-22T23:00:16.000Z",
-          "summary": ""
-        },
-        {
-          "title": "AI検索で引用されても選ばれない？自己推薦型記事の落とし穴｜SEO Weekly Update",
-          "link": "https://www.youtube.com/watch?v=wYt5_csu82M",
-          "date": "2026-06-21T23:00:01.000Z",
-          "summary": ""
-        },
-        {
-          "title": "2026年後半のSEOは何を見るべきか？AI検索時代のKPIと顧客接点",
-          "link": "https://www.youtube.com/watch?v=44Uyakhry18",
-          "date": "2026-06-16T23:00:06.000Z",
-          "summary": ""
-        }
-      ],
-      "error": null
+      "items": [],
+      "error": "Status code 404"
     },
     {
       "tool": "Ahrefs",
@@ -50,6 +19,12 @@
       "sourceType": "tool",
       "feedUrl": "https://ahrefs.com/blog/ja/feed/",
       "items": [
+        {
+          "title": "Google AI モードと SEO への影響｜検索行動・CTR・SERP 変化を Ahrefs（エイチレフス）データで分析",
+          "link": "https://ahrefs.com/blog/ja/google-ai-mode-seo-analysis/",
+          "date": "Tue, 30 Jun 2026 00:29:42 +0000",
+          "summary": "Google AI モードや AI による概要が SERP 構造やクリック率（CTR）に与える影響を Ahrefs の最新データで分析。情報収集型クエリでの露出減少への短期的リライト対策から、一次情報を活かした中長期的な AI 検索最適化（AIO）の手順までプロの視点で解説します。 Read more › The post Google AI モードと SEO への影響｜検索行動・CTR・SERP"
+        },
         {
           "title": "AI 検索最適化（AIO）完全ガイド｜ChatGPT・Perplexity に引用されるコンテンツの作り方と Ahrefs（エイチレフス）活用法",
           "link": "https://ahrefs.com/blog/ja/ahrefs-aio-guide/",
@@ -73,12 +48,6 @@
           "link": "https://ahrefs.com/blog/ja/llmstxt-study/",
           "date": "Thu, 18 Jun 2026 07:00:26 +0000",
           "summary": "137,000 サイトの llms.txt ファイルを分析した結果、97% が全く読み取られていないことが判明。LLM ボットのアクセス実態とトラフィックデータを詳しく解説します。 Read more › The post 13.7 万のサイト分析：llms.txt ファイルの 97% は読まれていない appeared first on Ahrefs 公式ブログ."
-        },
-        {
-          "title": "Agent A の使い方と活用事例｜API との違いやおすすめの裏技をウェビナーから徹底解説",
-          "link": "https://ahrefs.com/blog/ja/agenta-webinar-lany/",
-          "date": "Thu, 18 Jun 2026 00:26:28 +0000",
-          "summary": "Ahrefsが開催した株式会社LANY竹内氏との共同ウェビナーの要点を凝縮レポート。マーケティング特化型AI「Agent A」が、なぜ従来の対話型AIと一線を画すのか。本記事を読めば、反復的な分析業務を自動化・アプリ化し、チームの生産性を劇的に向上させる具体的な方法がわかります。 Read more › The post Agent A の使い方と活用事例｜API との違いやおすすめの裏技をウェビ"
         }
       ],
       "error": null
@@ -152,8 +121,39 @@
       "category": "SEO・キーワード調査",
       "sourceType": "tool",
       "feedUrl": "https://rakkokeyword.com/techo/feed/",
-      "items": [],
-      "error": "Status code 415"
+      "items": [
+        {
+          "title": "面積単位変換ツール",
+          "link": "https://rakkokeyword.com/techo/tool-area-converter/",
+          "date": "Mon, 29 Jun 2026 07:47:28 +0000",
+          "summary": "変換したい面積の数値を入力し、単位を選択してください。自動的に各単位へ換算されます。 平方ミリメートル（mm²）平方センチメートル（cm²）平方メートル（m²）アール（a）ヘクタール（ha）平方キロメートル（km²） 坪 ..."
+        },
+        {
+          "title": "英単語カウントツール",
+          "link": "https://rakkokeyword.com/techo/tool-english-analyzer/",
+          "date": "Mon, 29 Jun 2026 06:46:01 +0000",
+          "summary": "現在の単語数 0 / 目標 0 (0%) 安心設計：入力内容はお客様の端末内で処理され、サーバーには送信されません 🗑 クリア テキストをコピー ファイルのアップロードもできます。 ファイルをドラッグ＆ドロップ またはク ..."
+        },
+        {
+          "title": "ダミー画像生成ツール",
+          "link": "https://rakkokeyword.com/techo/tool-dummy-image/",
+          "date": "Fri, 26 Jun 2026 06:56:43 +0000",
+          "summary": "プレビュー ダミー画像をダウンロード 用途別プリセット カスタム (800 × 600)OGP画像 (1200 × 630)X（旧Twitter）画像 (1200 × 675)Instagram投稿 (1080 × 10 ..."
+        },
+        {
+          "title": "英語文字数カウントツール",
+          "link": "https://rakkokeyword.com/techo/tool-english-wordcount/",
+          "date": "Fri, 26 Jun 2026 06:26:03 +0000",
+          "summary": "現在の文字数 0 / 目標 0 (0%) 安心設計：入力内容はお客様の端末内で処理され、サーバーには送信されません 🗑 クリア テキストをコピー ファイルのアップロードもできます。 ファイルをドラッグ＆ドロップ またはク ..."
+        },
+        {
+          "title": "主婦がインスタで稼ぐには？扶養内で身バレせず安全に副収入を作る方法",
+          "link": "https://rakkokeyword.com/techo/instagram-side-income-housewives-guide/",
+          "date": "Fri, 26 Jun 2026 03:31:44 +0000",
+          "summary": "「子どもがまだ小さくて外には働きに出られないけれど、家計の足しに月3〜5万円くらい収入があれば…」 そう考えてスマホを開き、たどり着いたのがこのページかもしれません。 特別なスキルや資格がない主婦の方でも、インスタグラム ..."
+        }
+      ],
+      "error": null
     },
     {
       "tool": "Claude / Claude Code",
@@ -171,6 +171,13 @@
       "sourceType": "tool",
       "feedUrl": "https://blog.google/technology/ai/rss/",
       "items": [
+        {
+          "title": "AIの専門家に尋ねてください：フルスタックとは正確には何ですか？",
+          "titleOrig": "Ask an AI expert: What exactly is the full stack?",
+          "link": "https://blog.google/innovation-and-ai/technology/ai/full-stack-ai-explainer/",
+          "date": "Mon, 29 Jun 2026 16:00:00 +0000",
+          "summary": "A Google expert explains what it means to take a full-stack approach to AI and why it’s been the foundation of our AI work for so long."
+        },
         {
           "title": "新しいアプリを含む最新のGoogleファイナンスのアップグレード",
           "titleOrig": "Our latest Google Finance upgrades, including a new app",
@@ -198,13 +205,6 @@
           "link": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/virginia-community-investments/",
           "date": "Thu, 11 Jun 2026 20:00:00 +0000",
           "summary": "We’re helping build the state’s next-generation workforce and investing in energy programs."
-        },
-        {
-          "title": "2026年5月に発表した最新のAIニュース",
-          "titleOrig": "The latest AI news we announced in May 2026",
-          "link": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-may-2026/",
-          "date": "Fri, 05 Jun 2026 14:45:00 +0000",
-          "summary": "Here are Google’s latest AI updates from May 2026"
         }
       ],
       "error": null
@@ -262,6 +262,13 @@
       "feedUrl": "https://wordpress.org/news/feed/",
       "items": [
         {
+          "title": "初のAIリーダー卒業生",
+          "titleOrig": "The First AI Leaders Graduates",
+          "link": "https://wordpress.org/news/2026/06/ai-leaders-graduates/",
+          "date": "Mon, 29 Jun 2026 20:29:26 +0000",
+          "summary": "On June 23, around 40 students from the University of Illinois Chicago (UIC), Louisiana Tech University, and the University of Louisiana at Lafayette were celebrated in Chicago as the first cohort to "
+        },
+        {
           "title": "新しい商業スワッグストアを閲覧する",
           "titleOrig": "Browse the New Mercantile Swag Store",
           "link": "https://wordpress.org/news/2026/06/open-web-merch/",
@@ -288,13 +295,6 @@
           "link": "https://wordpress.org/news/2026/06/wceu-2026-recap/",
           "date": "Sat, 06 Jun 2026 17:44:14 +0000",
           "summary": "WordCamp Europe 2026 brought the WordPress community to Kraków for three days of contribution and conversation, from CERN going live on WordPress to WordPress 7.0, AI, and a closing fireside chat on w"
-        },
-        {
-          "title": "シャイアーを守れ",
-          "titleOrig": "Protect The Shire",
-          "link": "https://wordpress.org/news/2026/06/pts/",
-          "date": "Fri, 05 Jun 2026 18:51:15 +0000",
-          "summary": "tl;dr: Temporary 24-hour cooldown period for plugin/theme releases before auto-updates. AI can give defenders an edge. We want to secure all 78K plugins and themes on WordPress.org. One of the things "
         }
       ],
       "error": null
@@ -352,6 +352,20 @@
       "feedUrl": "https://github.blog/feed/",
       "items": [
         {
+          "title": "Git 2.55のハイライト",
+          "titleOrig": "Highlights from Git 2.55",
+          "link": "https://github.blog/open-source/git/highlights-from-git-2-55/",
+          "date": "Mon, 29 Jun 2026 17:25:25 +0000",
+          "summary": "The open source Git project just released Git 2.55. Here is GitHub’s look at some of the most interesting features and changes introduced since last time. The post Highlights from Git 2.55 appeared fi"
+        },
+        {
+          "title": "アドバイザリーデータベースの内部と脆弱性の量が記録を破ったときに何が起こるか",
+          "titleOrig": "Inside the Advisory Database and what happens when vulnerability volume breaks records",
+          "link": "https://github.blog/security/supply-chain-security/inside-the-advisory-database-and-what-happens-when-vulnerability-volume-breaks-records/",
+          "date": "Mon, 29 Jun 2026 16:10:20 +0000",
+          "summary": "The GitHub Advisory Database is processing more vulnerability reports than ever before. Here's what's driving the surge, how we're responding, and how the community can help. The post Inside the Advis"
+        },
+        {
           "title": "GitHubとUNDPは、オープンソースでガーナの開発優先事項を推進するために協力しています",
           "titleOrig": "GitHub and UNDP team up to advance development priorities in Ghana with open source",
           "link": "https://github.blog/open-source/social-impact/github-and-undp-team-up-to-advance-development-priorities-in-ghana-with-open-source/",
@@ -371,20 +385,6 @@
           "link": "https://github.blog/ai-and-ml/github-copilot/evaluating-performance-and-efficiency-of-the-github-copilot-agentic-harness-across-models-and-tasks/",
           "date": "Thu, 25 Jun 2026 22:59:45 +0000",
           "summary": "Explore how the GitHub Copilot agentic harness delivers strong results across multiple benchmarks and leading token efficiency, while maintaining flexibility to choose among more than 20 models. The p"
-        },
-        {
-          "title": "私は仕事を自動化しました（そしてそれは私をより良いリーダーにしました）",
-          "titleOrig": "I automated my job (and it made me a better leader)",
-          "link": "https://github.blog/developer-skills/github/i-automated-my-job-and-it-made-me-a-better-leader/",
-          "date": "Tue, 23 Jun 2026 16:00:00 +0000",
-          "summary": "Explore how my day as a senior leader looks now that I use 40 automations to help, and learn more about some of my favorites. The post I automated my job (and it made me a better leader) appeared firs"
-        },
-        {
-          "title": "GitHubは、オープンソースを保護するためにカリフォルニアAI透明性法の修正を提唱する連合に参加しています",
-          "titleOrig": "GitHub joins coalition advocating for fixes to California AI Transparency Act to protect open source",
-          "link": "https://github.blog/news-insights/policy-news-and-insights/github-joins-coalition-advocating-for-fixes-to-california-ai-transparency-act-to-protect-open-source/",
-          "date": "Tue, 23 Jun 2026 15:48:00 +0000",
-          "summary": "We’re calling for targeted amendments to resolve conflicts with open source licensing and align with international transparency frameworks while preserving regulatory intent. The post GitHub joins coa"
         }
       ],
       "error": null
@@ -395,8 +395,39 @@
       "category": "制作・デザイン",
       "sourceType": "media",
       "feedUrl": "https://www.mindfactory.co.jp/blog/feed/",
-      "items": [],
-      "error": "Request timed out after 10000ms"
+      "items": [
+        {
+          "title": "“伝わる”UIをつくれるデザイナーを目指して - インターン生インタビュー",
+          "link": "https://www.mindfactory.co.jp/blog/8370",
+          "date": "Fri, 27 Feb 2026 11:43:03 +0000",
+          "summary": "今年マインドファクトリーでは、初めてインターンシップの受け入れを行いました。 今回は、インターンで来てくれた名古屋モード学園グラフィック学科の水野君に、デザイナーを志したきっかけや弊社でのインターンの感想をインタビューし […]"
+        },
+        {
+          "title": "WEBメディア「CREATORS STATION」に代表富岡のインタビュー記事が掲載されました",
+          "link": "https://www.mindfactory.co.jp/blog/8364",
+          "date": "Mon, 16 Feb 2026 08:57:39 +0000",
+          "summary": "株式会社フェローズが運営する、日本全国のクリエイターを応援するためのWEBメディア「CREATORS STATION」に、弊社代表 富岡のインタビュー記事が掲載されました。自身のこれまでのキャリアから、事業内容、今後の展 […]"
+        },
+        {
+          "title": "年末年始休暇のお知らせ",
+          "link": "https://www.mindfactory.co.jp/blog/8357",
+          "date": "Fri, 05 Dec 2025 09:20:14 +0000",
+          "summary": "平素は格別のお引き立てを賜り、厚く御礼申し上げます。誠に勝手ながら、弊社は、下記の期間を年末年始休業とさせていただきます。 ■ 年末年始休暇期間2025年12月27日（土）～2026年1月4日（日） ご不便をおかけいたし […]"
+        },
+        {
+          "title": "岐阜の魅力を満喫！長良川研修ツアー体験記",
+          "link": "https://www.mindfactory.co.jp/blog/8333",
+          "date": "Tue, 04 Nov 2025 03:17:02 +0000",
+          "summary": "こんにちは。広告プランナーの野倉です。今回は、9月に参加した「岐阜県長良川研修ツアー」をレポートします！ 開会式とプレゼンテーションで旅が始まる ツアーは、朝の開会式からスタートしました。会場には少し緊張した面持ちの参加 […]"
+        },
+        {
+          "title": "株式会社桜とのパートナーシップ提携のご案内",
+          "link": "https://www.mindfactory.co.jp/blog/8312",
+          "date": "Thu, 04 Sep 2025 05:09:59 +0000",
+          "summary": "はじめに このたび、株式会社桜（以下 桜）と株式会社マインドファクトリー（以下 当社）は、ブランドコピーライティングとデジタルマーケティングにおいてパートナーシップ提携いたしました。桜が強みとする「ブランドコピーライティ […]"
+        }
+      ],
+      "error": null
     },
     {
       "tool": "Empathy Writing",
