@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-06-30T03:47:32.872Z",
+  "fetchedAt": "2026-07-01T04:02:13.565Z",
   "tools": [
     {
       "tool": "ミエルカ（YouTube）",
@@ -19,6 +19,12 @@
       "sourceType": "tool",
       "feedUrl": "https://ahrefs.com/blog/ja/feed/",
       "items": [
+        {
+          "title": "適切なオーガニック CTR （検索結果クリック率）とは？実際のウェブサイトベンチマーク（2026 年 6 月版）",
+          "link": "https://ahrefs.com/blog/ja/what-is-a-good-ctr/",
+          "date": "Tue, 30 Jun 2026 06:15:48 +0000",
+          "summary": "42 万サイトの実データから算出した検索結果クリック率の業界別ベンチマーク。適切なオーガニック CTR の目安と、AI 検索時代のクリック率低下要因を詳しく解説します。 Read more › The post 適切なオーガニック CTR （検索結果クリック率）とは？実際のウェブサイトベンチマーク（2026 年 6 月版） appeared first on Ahrefs 公式ブログ."
+        },
         {
           "title": "Google AI モードと SEO への影響｜検索行動・CTR・SERP 変化を Ahrefs（エイチレフス）データで分析",
           "link": "https://ahrefs.com/blog/ja/google-ai-mode-seo-analysis/",
@@ -42,12 +48,6 @@
           "link": "https://ahrefs.com/blog/ja/agentic-marketing/",
           "date": "Fri, 19 Jun 2026 01:48:55 +0000",
           "summary": "Agentic AI を使ったマーケティングの基本から実践まで解説。AI エージェントが自律的にキャンペーン企画から実行まで担う新時代の手法を、Ahrefs の事例とともに紹介します。 Read more › The post エージェンティックAI とは？マーケティング活用法と始め方を完全ガイド appeared first on Ahrefs 公式ブログ."
-        },
-        {
-          "title": "13.7 万のサイト分析：llms.txt ファイルの 97% は読まれていない",
-          "link": "https://ahrefs.com/blog/ja/llmstxt-study/",
-          "date": "Thu, 18 Jun 2026 07:00:26 +0000",
-          "summary": "137,000 サイトの llms.txt ファイルを分析した結果、97% が全く読み取られていないことが判明。LLM ボットのアクセス実態とトラフィックデータを詳しく解説します。 Read more › The post 13.7 万のサイト分析：llms.txt ファイルの 97% は読まれていない appeared first on Ahrefs 公式ブログ."
         }
       ],
       "error": null
@@ -60,39 +60,39 @@
       "feedUrl": "https://www.semrush.com/blog/feed/",
       "items": [
         {
+          "title": "Google、2026年6月のスパムアップデートのロールアウトを完了",
+          "titleOrig": "Google completes its June 2026 spam update rollout",
+          "link": "https://www.semrush.com/blog/google-completes-spam-update-rollout/",
+          "date": "Tue, 30 Jun 2026 14:52:00 +0000",
+          "summary": "Google‘s June 2026 spam update is done rolling out. See what it doesn‘t target and how to check your site."
+        },
+        {
+          "title": "EコマースAI SEO ： LLMのオンラインストアを最適化する方法",
+          "titleOrig": "Ecommerce AI SEO: How to optimize online stores for LLMs",
+          "link": "https://www.semrush.com/blog/ecommerce-ai-seo/",
+          "date": "Tue, 30 Jun 2026 14:18:00 +0000",
+          "summary": "Learn to optimize your ecommerce store for AI search & agentic commerce to drive visibility and sales."
+        },
+        {
+          "title": "引用されたソースのわずか25 ％が、ChatGPTの異なる推論モード間で重複しています[研究]",
+          "titleOrig": "Only 25% of cited sources overlap between ChatGPT's different reasoning modes [Study]",
+          "link": "https://www.semrush.com/blog/chatgpt-reasoning-ai-visibility/",
+          "date": "Tue, 30 Jun 2026 13:10:00 +0000",
+          "summary": "Most AI visibility strategies treat ChatGPT as a single system. Our research found that‘s a mistake. Thinking mode and Instant mode cite different sources, favor different content, and can recommend d"
+        },
+        {
+          "title": "動画SEOとは？ YouTube、Google、AIに最適化する方法",
+          "titleOrig": "What is video SEO? How to optimize for YouTube, Google & AI",
+          "link": "https://www.semrush.com/blog/video-seo/",
+          "date": "Tue, 30 Jun 2026 11:49:00 +0000",
+          "summary": "Video SEO is a strategy to help videos earn YouTube engagement, visibility on Google, and AI citations."
+        },
+        {
           "title": "URLパラメータとは何ですか？使い方のガイド",
           "titleOrig": "What are URL parameters? A guide on how to use them",
           "link": "https://www.semrush.com/blog/url-parameters/",
           "date": "Fri, 26 Jun 2026 17:36:00 +0000",
           "summary": "URL parameters are extra pieces of information added to the end of a URL. Here’s how to use them."
-        },
-        {
-          "title": "Claude Codeでコンテンツ更新パイプラインを再構築しました。その理由は次のとおりです。",
-          "titleOrig": "I rebuilt our content update pipeline in Claude Code. Here's why.",
-          "link": "https://www.semrush.com/blog/how-i-rebuilt-our-content-update-pipeline/",
-          "date": "Thu, 25 Jun 2026 14:19:00 +0000",
-          "summary": "I moved our content update pipeline from n8n to Claude Code. Here‘s what broke, what worked, and what changed for our team."
-        },
-        {
-          "title": "デジタルマーケティング戦略：タイプと構築方法",
-          "titleOrig": "Digital marketing strategies: Types & how to build one",
-          "link": "https://www.semrush.com/blog/digital-marketing-strategies/",
-          "date": "Thu, 25 Jun 2026 09:01:00 +0000",
-          "summary": "Digital marketing strategies grow your visibility across social, AI, and the web. Learn how to build one."
-        },
-        {
-          "title": "Google E - E - A - T ：それが何であるか、そしてそれがSEOにどのように影響するか",
-          "titleOrig": "Google E-E-A-T: What it is & how it affects SEO",
-          "link": "https://www.semrush.com/blog/eeat/",
-          "date": "Tue, 23 Jun 2026 14:32:00 +0000",
-          "summary": "E-E-A-T is the framework Google‘s Quality Raters use to assess content that appears in search results."
-        },
-        {
-          "title": "コンテンツギャップ分析：ステップバイステップガイド",
-          "titleOrig": "Content gap analysis: A step-by-step guide",
-          "link": "https://www.semrush.com/blog/content-gap-analysis/",
-          "date": "Tue, 23 Jun 2026 14:19:00 +0000",
-          "summary": "A content gap analysis is the practice of finding relevant topics you haven‘t covered or could cover better to improve your online visibility."
         }
       ],
       "error": null
@@ -123,34 +123,34 @@
       "feedUrl": "https://rakkokeyword.com/techo/feed/",
       "items": [
         {
+          "title": "【TikTok収益化】条件や収入目安・素人が最短で稼ぐ全手順",
+          "link": "https://rakkokeyword.com/techo/tiktok-monetization-requirements-earnings-guide/",
+          "date": "Wed, 01 Jul 2026 03:53:48 +0000",
+          "summary": "TikTokで収入を作れるかどうかは、決められた条件を満たせるかで決まります。 フォロワー1万人と直近30日で10万回の再生——この2つを超えれば、動画の再生数に応じて報酬を受け取る公式プログラムに参加できます。 特別な ..."
+        },
+        {
+          "title": "インスタアフィリエイトのやり方！顔出し不要で0から始める方法を解説",
+          "link": "https://rakkokeyword.com/techo/instagram-affiliate-beginner/",
+          "date": "Tue, 30 Jun 2026 07:35:08 +0000",
+          "summary": "Instagramでコスメや節約術の投稿を見ていると、「スマホ一つで稼げる」という言葉をよく目にします。 気にはなるけれど、仕組みも始め方もわからない。特別な影響力がない自分にできるのか、顔を出すのは抵抗がある、規約や法 ..."
+        },
+        {
+          "title": "席替えメーカー",
+          "link": "https://rakkokeyword.com/techo/tool-sekigae-maker/",
+          "date": "Tue, 30 Jun 2026 06:32:29 +0000",
+          "summary": "教室の座席 飲み会の座席 座席のレイアウト 縦の列数: 横の列数: 島の数 (テーブル数): 1島あたりの人数: メンバー入力 1行に1人入力してください。男女交互条件を使う場合は「名前:M」「名前:F」のように入力して ..."
+        },
+        {
+          "title": "稼働日数（営業日）計算ツール",
+          "link": "https://rakkokeyword.com/techo/tool-business-days/",
+          "date": "Tue, 30 Jun 2026 05:15:15 +0000",
+          "summary": "計算モード N営業日後・前を計算 指定期間の営業日数を計算 基準日（開始日） 営業日数 営業日 後前 終了日 基準日より後の日付を指定してください。 休日・祝日ルール 土日を休日とする 日本の祝日を休日とする 年末年始（ ..."
+        },
+        {
           "title": "面積単位変換ツール",
           "link": "https://rakkokeyword.com/techo/tool-area-converter/",
           "date": "Mon, 29 Jun 2026 07:47:28 +0000",
           "summary": "変換したい面積の数値を入力し、単位を選択してください。自動的に各単位へ換算されます。 平方ミリメートル（mm²）平方センチメートル（cm²）平方メートル（m²）アール（a）ヘクタール（ha）平方キロメートル（km²） 坪 ..."
-        },
-        {
-          "title": "英単語カウントツール",
-          "link": "https://rakkokeyword.com/techo/tool-english-analyzer/",
-          "date": "Mon, 29 Jun 2026 06:46:01 +0000",
-          "summary": "現在の単語数 0 / 目標 0 (0%) 安心設計：入力内容はお客様の端末内で処理され、サーバーには送信されません 🗑 クリア テキストをコピー ファイルのアップロードもできます。 ファイルをドラッグ＆ドロップ またはク ..."
-        },
-        {
-          "title": "ダミー画像生成ツール",
-          "link": "https://rakkokeyword.com/techo/tool-dummy-image/",
-          "date": "Fri, 26 Jun 2026 06:56:43 +0000",
-          "summary": "プレビュー ダミー画像をダウンロード 用途別プリセット カスタム (800 × 600)OGP画像 (1200 × 630)X（旧Twitter）画像 (1200 × 675)Instagram投稿 (1080 × 10 ..."
-        },
-        {
-          "title": "英語文字数カウントツール",
-          "link": "https://rakkokeyword.com/techo/tool-english-wordcount/",
-          "date": "Fri, 26 Jun 2026 06:26:03 +0000",
-          "summary": "現在の文字数 0 / 目標 0 (0%) 安心設計：入力内容はお客様の端末内で処理され、サーバーには送信されません 🗑 クリア テキストをコピー ファイルのアップロードもできます。 ファイルをドラッグ＆ドロップ またはク ..."
-        },
-        {
-          "title": "主婦がインスタで稼ぐには？扶養内で身バレせず安全に副収入を作る方法",
-          "link": "https://rakkokeyword.com/techo/instagram-side-income-housewives-guide/",
-          "date": "Fri, 26 Jun 2026 03:31:44 +0000",
-          "summary": "「子どもがまだ小さくて外には働きに出られないけれど、家計の足しに月3〜5万円くらい収入があれば…」 そう考えてスマホを開き、たどり着いたのがこのページかもしれません。 特別なスキルや資格がない主婦の方でも、インスタグラム ..."
         }
       ],
       "error": null
@@ -171,6 +171,13 @@
       "sourceType": "tool",
       "feedUrl": "https://blog.google/technology/ai/rss/",
       "items": [
+        {
+          "title": "英国の生産性の次の時代を解き放つ： AIの先駆者の国を構築する",
+          "titleOrig": "Unlocking Britain’s next era of productivity: Building a nation of AI trailblazers",
+          "link": "https://blog.google/company-news/inside-google/around-the-globe/google-europe/united-kingdom/unlocking-britains-next-era-of-productivity-building-a-nation-of-ai-trailblazers/",
+          "date": "Tue, 30 Jun 2026 06:00:00 +0000",
+          "summary": "Google UK shares its latest Economic Impact Report and how to enable more people to unlock the benefits of AI-powered technologies."
+        },
         {
           "title": "AIの専門家に尋ねてください：フルスタックとは正確には何ですか？",
           "titleOrig": "Ask an AI expert: What exactly is the full stack?",
@@ -198,13 +205,6 @@
           "link": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/alabama-investment-june-2026/",
           "date": "Mon, 15 Jun 2026 15:00:00 +0000",
           "summary": "Google has announced a $1.5 billion investment for 2026 and 2027 to expand its data center campus in Jackson County, Alabama. Operating since 2019 on a repurposed former…"
-        },
-        {
-          "title": "バージニア州での新しいコミュニティへの投資は、地元の雇用をサポートし、エネルギーの手頃な価格を拡大します。",
-          "titleOrig": "Our new community investments in Virginia support local jobs and expand energy affordability.",
-          "link": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/virginia-community-investments/",
-          "date": "Thu, 11 Jun 2026 20:00:00 +0000",
-          "summary": "We’re helping build the state’s next-generation workforce and investing in energy programs."
         }
       ],
       "error": null
@@ -352,6 +352,13 @@
       "feedUrl": "https://github.blog/feed/",
       "items": [
         {
+          "title": "GitHubがオープンソース依存関係のコンプライアンスを維持する方法",
+          "titleOrig": "How GitHub maintains compliance for open source dependencies",
+          "link": "https://github.blog/enterprise-software/governance-and-compliance/how-github-maintains-compliance-for-open-source-dependencies/",
+          "date": "Tue, 30 Jun 2026 17:28:16 +0000",
+          "summary": "Explore how the Open Source Program Office uses GitHub’s new license compliance product to manage open source dependencies at scale. The post How GitHub maintains compliance for open source dependenci"
+        },
+        {
           "title": "Git 2.55のハイライト",
           "titleOrig": "Highlights from Git 2.55",
           "link": "https://github.blog/open-source/git/highlights-from-git-2-55/",
@@ -378,13 +385,6 @@
           "link": "https://github.blog/developer-skills/career-growth/transitioning-as-a-hubber/",
           "date": "Fri, 26 Jun 2026 12:00:00 +0000",
           "summary": "How GitHub's culture and benefits helped me be the best version of myself. The post Transitioning as a Hubber appeared first on The GitHub Blog."
-        },
-        {
-          "title": "モデルとタスクにわたるGitHub Copilotエージェントハーネスのパフォーマンスと効率の評価",
-          "titleOrig": "Evaluating performance and efficiency of the GitHub Copilot agentic harness across models and tasks",
-          "link": "https://github.blog/ai-and-ml/github-copilot/evaluating-performance-and-efficiency-of-the-github-copilot-agentic-harness-across-models-and-tasks/",
-          "date": "Thu, 25 Jun 2026 22:59:45 +0000",
-          "summary": "Explore how the GitHub Copilot agentic harness delivers strong results across multiple benchmarks and leading token efficiency, while maintaining flexibility to choose among more than 20 models. The p"
         }
       ],
       "error": null
