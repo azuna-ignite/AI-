@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-07-03T03:23:24.586Z",
+  "fetchedAt": "2026-07-04T03:17:01.403Z",
   "tools": [
     {
       "tool": "ミエルカ（YouTube）",
@@ -51,6 +51,12 @@
       "feedUrl": "https://ahrefs.com/blog/ja/feed/",
       "items": [
         {
+          "title": "Reddit の使い方：検索順位と AI 検索対策を強化する正しいアプローチ",
+          "link": "https://ahrefs.com/blog/ja/reddit-seo/",
+          "date": "Fri, 03 Jul 2026 03:33:13 +0000",
+          "summary": "Reddit を SEO に活用する正しい方法を解説。Google 検索や AI 検索での表示を増やすコミュニティ参加のベストプラクティスからブランド認知向上まで、実践的なステップを網羅しています。 Read more › The post Reddit の使い方：検索順位と AI 検索対策を強化する正しいアプローチ appeared first on Ahrefs 公式ブログ."
+        },
+        {
           "title": "適切なオーガニック CTR （検索結果クリック率）とは？実際のウェブサイトベンチマーク（2026 年 6 月版）",
           "link": "https://ahrefs.com/blog/ja/what-is-a-good-ctr/",
           "date": "Tue, 30 Jun 2026 06:15:48 +0000",
@@ -73,12 +79,6 @@
           "link": "https://ahrefs.com/blog/ja/brand-radar-top-10-cited-domains-2026-june/",
           "date": "Wed, 24 Jun 2026 03:12:52 +0000",
           "summary": "Ahrefs ブランドレーダーで 5 大 AI 検索（ ChatGPT・AI モード・AI による概要・Perplexity・Copilot ）の引用ドメインを再分析。前回（2026 年 4 月）調査からの順位変動を、プラットフォーム別に徹底比較。 AI が回答を生成するとき、どのサイトを「信頼できる情報源」として引用しているのか。この勢力図は、わずか数ヶ月で大きく塗り替わります。 Ahrefs "
-        },
-        {
-          "title": "エージェンティックAI とは？マーケティング活用法と始め方を完全ガイド",
-          "link": "https://ahrefs.com/blog/ja/agentic-marketing/",
-          "date": "Fri, 19 Jun 2026 01:48:55 +0000",
-          "summary": "Agentic AI を使ったマーケティングの基本から実践まで解説。AI エージェントが自律的にキャンペーン企画から実行まで担う新時代の手法を、Ahrefs の事例とともに紹介します。 Read more › The post エージェンティックAI とは？マーケティング活用法と始め方を完全ガイド appeared first on Ahrefs 公式ブログ."
         }
       ],
       "error": null
@@ -154,6 +154,18 @@
       "feedUrl": "https://rakkokeyword.com/techo/feed/",
       "items": [
         {
+          "title": "FLAC→MP3変換ツール",
+          "link": "https://rakkokeyword.com/techo/tool-flac-to-mp3/",
+          "date": "Fri, 03 Jul 2026 06:28:11 +0000",
+          "summary": "安心設計：ファイルはお客様の端末内で処理され、サーバーには送信されません FLACファイルをドラッグ＆ドロップ またはクリックして選択 対応形式: FLAC / 複数選択可（最大20ファイル） / 1ファイル上限目安 6 ..."
+        },
+        {
+          "title": "Googleアドセンスは儲からない？挫折前に試すべき次の一手",
+          "link": "https://rakkokeyword.com/techo/google-adsense-not-profitable-next-step/",
+          "date": "Fri, 03 Jul 2026 05:14:14 +0000",
+          "summary": "時間を削って書いた記事の収益が、半年続けてもこのような状態だと、「アドセンスはオワコン（流行が過ぎて、もう稼げない・時代遅れになったコンテンツ）」というSNSの声も他人事に思えなくなりますよね。 ただ、収益が数百円で止ま ..."
+        },
+        {
           "title": "インスタでフォロワー10万人の収入とは？単価のリアルと稼ぎ方を紹介",
           "link": "https://rakkokeyword.com/techo/instagram-followers-income/",
           "date": "Fri, 03 Jul 2026 01:06:14 +0000",
@@ -170,18 +182,6 @@
           "link": "https://rakkokeyword.com/techo/tool-trigonometry-calculator/",
           "date": "Thu, 02 Jul 2026 06:01:38 +0000",
           "summary": "角度から計算 値から角度を計算 辺の長さから計算 角度 θ 度 ラジアン sin・cos・tan の値 sin⁻¹（アークサイン）cos⁻¹（アークコサイン）tan⁻¹（アークタンジェント） わかっている sin・cos ..."
-        },
-        {
-          "title": "インスタPR案件はいくら？DMが来た時に確認すべき報酬相場と注意点・条件交渉術",
-          "link": "https://rakkokeyword.com/techo/instagram-pr-rates-negotiation-tips/",
-          "date": "Thu, 02 Jul 2026 05:01:02 +0000",
-          "summary": "インスタのPR案件は、フォロワー1人あたり2〜4円が報酬の基本ラインです。 この単価を知っているかどうかで、依頼する企業は予算を組めるようになり、依頼を受けるインフルエンサーは買い叩かれずに交渉できるようになります。 こ ..."
-        },
-        {
-          "title": "音程チェッカー（チューナー）ツール",
-          "link": "https://rakkokeyword.com/techo/tool-vocal-range/",
-          "date": "Thu, 02 Jul 2026 01:41:08 +0000",
-          "summary": "Start (マイクON) — / — —.- Hz ♭ Low Just High ♯ 検出音域 (最低音 ～ 最高音) — ～ — マイクに向かって声を出すだけで、自分の声の音域（最低音から最高音）や現在の音階・周波 ..."
         }
       ],
       "error": null
