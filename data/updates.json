@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-07-05T03:32:42.074Z",
+  "fetchedAt": "2026-07-06T03:40:03.511Z",
   "tools": [
     {
       "tool": "ミエルカ（YouTube）",
@@ -10,6 +10,12 @@
       "handle": "@mieruca-channel",
       "feedUrl": "",
       "items": [
+        {
+          "title": "AI Overviewsに「トップニュース」が直接表示、優先ソースの価値が高まる｜SEO Weekly Update",
+          "link": "https://www.youtube.com/watch?v=Fwc-GNGGBK4",
+          "date": "2026-07-05T22:30:21.000Z",
+          "summary": ""
+        },
         {
           "title": "SEO担当者がヒートマップを見るべき理由｜順位・CTRだけでは見えないユーザー行動",
           "link": "https://www.youtube.com/watch?v=NbquRjP69rA",
@@ -32,12 +38,6 @@
           "title": "LLMOとは？SEOとの違いとAI検索時代に見るべきポイント【入門編】",
           "link": "https://www.youtube.com/watch?v=UqM06C9ZRbE",
           "date": "2026-06-22T23:00:16.000Z",
-          "summary": ""
-        },
-        {
-          "title": "AI検索で引用されても選ばれない？自己推薦型記事の落とし穴｜SEO Weekly Update",
-          "link": "https://www.youtube.com/watch?v=wYt5_csu82M",
-          "date": "2026-06-21T23:00:01.000Z",
           "summary": ""
         }
       ],
