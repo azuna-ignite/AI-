@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-07-06T03:40:03.511Z",
+  "fetchedAt": "2026-07-07T03:31:35.047Z",
   "tools": [
     {
       "tool": "ミエルカ（YouTube）",
@@ -9,39 +9,8 @@
       "type": "youtube",
       "handle": "@mieruca-channel",
       "feedUrl": "",
-      "items": [
-        {
-          "title": "AI Overviewsに「トップニュース」が直接表示、優先ソースの価値が高まる｜SEO Weekly Update",
-          "link": "https://www.youtube.com/watch?v=Fwc-GNGGBK4",
-          "date": "2026-07-05T22:30:21.000Z",
-          "summary": ""
-        },
-        {
-          "title": "SEO担当者がヒートマップを見るべき理由｜順位・CTRだけでは見えないユーザー行動",
-          "link": "https://www.youtube.com/watch?v=NbquRjP69rA",
-          "date": "2026-06-30T23:00:07.000Z",
-          "summary": ""
-        },
-        {
-          "title": "【2026年6月】Googleスパムアップデート開始、SEO担当者が確認すべきこと｜SEO Weekly Update",
-          "link": "https://www.youtube.com/watch?v=XPpafZUc6QQ",
-          "date": "2026-06-28T22:30:37.000Z",
-          "summary": ""
-        },
-        {
-          "title": "トピッククラスターとは？SEOで成果につなげる作り方・内部リンク設計・失敗例",
-          "link": "https://www.youtube.com/watch?v=IhdS9s45s2o",
-          "date": "2026-06-24T08:00:07.000Z",
-          "summary": ""
-        },
-        {
-          "title": "LLMOとは？SEOとの違いとAI検索時代に見るべきポイント【入門編】",
-          "link": "https://www.youtube.com/watch?v=UqM06C9ZRbE",
-          "date": "2026-06-22T23:00:16.000Z",
-          "summary": ""
-        }
-      ],
-      "error": null
+      "items": [],
+      "error": "Status code 404"
     },
     {
       "tool": "Ahrefs",
@@ -91,6 +60,20 @@
       "feedUrl": "https://www.semrush.com/blog/feed/",
       "items": [
         {
+          "title": "Googleの調査でパターンレベルのAIビデオスパム検出が明らかに",
+          "titleOrig": "Google research reveals pattern-level AI video spam detection",
+          "link": "https://www.semrush.com/blog/google-research-and-ai-spam-detection/",
+          "date": "Mon, 06 Jul 2026 15:10:00 +0000",
+          "summary": "New Google research catches AI video spam by clustering accounts, not single videos. See what it signals."
+        },
+        {
+          "title": "AIの概要は、商用インテント検索全体に拡大しています[研究]",
+          "titleOrig": "AI Overviews are expanding across commercial intent search [Study]",
+          "link": "https://www.semrush.com/blog/ai-overviews-commercial-search-study/",
+          "date": "Thu, 02 Jul 2026 16:22:00 +0000",
+          "summary": "Google’s move to extend AI Overviews into a wider variety of SERPs is disrupting not only informational searches, but also searches with commercial intent and advertising value."
+        },
+        {
           "title": "SEOとは？検索エンジン最適化の完全ガイド",
           "titleOrig": "What is SEO? A complete guide to search engine optimization",
           "link": "https://www.semrush.com/blog/what-is-seo/",
@@ -110,20 +93,6 @@
           "link": "https://www.semrush.com/blog/competitor-ad-spend/",
           "date": "Wed, 01 Jul 2026 11:12:00 +0000",
           "summary": "See how much competitors spend on ads and use the data to inform your own strategy."
-        },
-        {
-          "title": "結果を出すPPC戦略を構築する方法",
-          "titleOrig": "How to build a PPC strategy that gets results",
-          "link": "https://www.semrush.com/blog/ppc-strategy/",
-          "date": "Wed, 01 Jul 2026 10:52:00 +0000",
-          "summary": "A strong PPC strategy comes down to 8 decisions you make before launch. Learn how to get each one right."
-        },
-        {
-          "title": "Google、2026年6月のスパムアップデートのロールアウトを完了",
-          "titleOrig": "Google completes its June 2026 spam update rollout",
-          "link": "https://www.semrush.com/blog/google-completes-spam-update-rollout/",
-          "date": "Tue, 30 Jun 2026 14:52:00 +0000",
-          "summary": "Google‘s June 2026 spam update is done rolling out. See what it doesn‘t target and how to check your site."
         }
       ],
       "error": null
@@ -154,6 +123,18 @@
       "feedUrl": "https://rakkokeyword.com/techo/feed/",
       "items": [
         {
+          "title": "インスタ「ハッシュタグ」の効果的な付け方は？投稿が伸びる選び方とコツを解説",
+          "link": "https://rakkokeyword.com/techo/effective-instagram-hashtag-tips/",
+          "date": "Tue, 07 Jul 2026 02:48:40 +0000",
+          "summary": "Instagramのハッシュタグは、2025年12月のルール変更で「多く付ける」から「関連するものを厳選する」時代に変わりました。 付けられる数の上限は最大5個へと大きく減り、投稿内容と関係の深いタグを選ぶことが、これま ..."
+        },
+        {
+          "title": "JFIF→JPG変換ツール",
+          "link": "https://rakkokeyword.com/techo/tool-jfif-to-jpg/",
+          "date": "Tue, 07 Jul 2026 01:05:48 +0000",
+          "summary": "安心設計：ファイルはお客様の端末内で処理され、サーバーには送信されません JFIFファイルをドラッグ＆ドロップ またはクリックして選択 対応形式: JFIF / 複数選択可（最大30件）/ 上限目安 100MB ファイル ..."
+        },
+        {
           "title": "FLAC→MP3変換ツール",
           "link": "https://rakkokeyword.com/techo/tool-flac-to-mp3/",
           "date": "Fri, 03 Jul 2026 06:28:11 +0000",
@@ -170,18 +151,6 @@
           "link": "https://rakkokeyword.com/techo/instagram-followers-income/",
           "date": "Fri, 03 Jul 2026 01:06:14 +0000",
           "summary": "フォロワーが数千人から1万人に近づいてくると、「このまま10万人まで増えたら、いったいいくら稼げるんだろう」と気になってきますよね。10万人という大台に乗れば、月にまとまった収入を得て、好きな発信を仕事にすることも見えて ..."
-        },
-        {
-          "title": "M4A→WAV変換ツール",
-          "link": "https://rakkokeyword.com/techo/tool-m4a-wav/",
-          "date": "Thu, 02 Jul 2026 08:27:34 +0000",
-          "summary": "M4Aファイルを選択 ここへドラッグ＆ドロップ、またはタップしてファイルを選択してください。 ※1ファイルのみ、上限50MBのM4Aファイル 元ファイルサイズ: ステータス: 準備完了 【WAV形式に関するご注意】 WA ..."
-        },
-        {
-          "title": "三角関数電卓ツール",
-          "link": "https://rakkokeyword.com/techo/tool-trigonometry-calculator/",
-          "date": "Thu, 02 Jul 2026 06:01:38 +0000",
-          "summary": "角度から計算 値から角度を計算 辺の長さから計算 角度 θ 度 ラジアン sin・cos・tan の値 sin⁻¹（アークサイン）cos⁻¹（アークコサイン）tan⁻¹（アークタンジェント） わかっている sin・cos ..."
         }
       ],
       "error": null
