@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-07-07T03:31:35.047Z",
+  "fetchedAt": "2026-07-08T02:47:36.064Z",
   "tools": [
     {
       "tool": "ミエルカ（YouTube）",
@@ -60,6 +60,13 @@
       "feedUrl": "https://www.semrush.com/blog/feed/",
       "items": [
         {
+          "title": "Cardmarketが誰よりもコミュニティを知っていることで検索に勝つ方法",
+          "titleOrig": "How Cardmarket wins search by knowing its community better than anyone",
+          "link": "https://www.semrush.com/blog/how-cardmarket-wins-search/",
+          "date": "Tue, 07 Jul 2026 13:00:00 +0000",
+          "summary": "How Cardmarket built a community-first SEO strategy that drove steady organic growth, stronger AI visibility, and 200% growth in AI-referred sessions."
+        },
+        {
           "title": "Googleの調査でパターンレベルのAIビデオスパム検出が明らかに",
           "titleOrig": "Google research reveals pattern-level AI video spam detection",
           "link": "https://www.semrush.com/blog/google-research-and-ai-spam-detection/",
@@ -86,13 +93,6 @@
           "link": "https://www.semrush.com/blog/marketing-strategy/",
           "date": "Wed, 01 Jul 2026 11:25:00 +0000",
           "summary": "Learn how to create a marketing strategy that can boost brand visibility and attract customers."
-        },
-        {
-          "title": "競合他社の広告費：ライバルの予算を分析する方法",
-          "titleOrig": "Competitor ad spend: How to analyze your rivals’ budgets",
-          "link": "https://www.semrush.com/blog/competitor-ad-spend/",
-          "date": "Wed, 01 Jul 2026 11:12:00 +0000",
-          "summary": "See how much competitors spend on ads and use the data to inform your own strategy."
         }
       ],
       "error": null
@@ -123,6 +123,18 @@
       "feedUrl": "https://rakkokeyword.com/techo/feed/",
       "items": [
         {
+          "title": "デジタル時計（Web時計）ツール",
+          "link": "https://rakkokeyword.com/techo/tool-digital-clock/",
+          "date": "Wed, 08 Jul 2026 02:45:47 +0000",
+          "summary": "表示形式 24時間 12時間 表示要素 秒 日付・曜日 テーマ ライト ダーク 全画面表示 このツールは、パソコンやスマートフォンのブラウザ上でそのまま使える、インストール不要の無料デジタル時計です。設定を好みにカスタマ ..."
+        },
+        {
+          "title": "Googleアドセンスの審査に通らない理由は？対策と再申請のコツ",
+          "link": "https://rakkokeyword.com/techo/google-adsense-approval-reasons-tips/",
+          "date": "Tue, 07 Jul 2026 07:34:32 +0000",
+          "summary": "Googleアドセンスの審査に落ち続けると、自分のブログの何が悪いのか分からず、途方に暮れてしまいますよね。 ですが、審査に通らない原因はある程度パターンが決まっており、一つずつ潰していけば合格に近づけます。 この記事で ..."
+        },
+        {
           "title": "インスタ「ハッシュタグ」の効果的な付け方は？投稿が伸びる選び方とコツを解説",
           "link": "https://rakkokeyword.com/techo/effective-instagram-hashtag-tips/",
           "date": "Tue, 07 Jul 2026 02:48:40 +0000",
@@ -139,18 +151,6 @@
           "link": "https://rakkokeyword.com/techo/tool-flac-to-mp3/",
           "date": "Fri, 03 Jul 2026 06:28:11 +0000",
           "summary": "安心設計：ファイルはお客様の端末内で処理され、サーバーには送信されません FLACファイルをドラッグ＆ドロップ またはクリックして選択 対応形式: FLAC / 複数選択可（最大20ファイル） / 1ファイル上限目安 6 ..."
-        },
-        {
-          "title": "Googleアドセンスは儲からない？挫折前に試すべき次の一手",
-          "link": "https://rakkokeyword.com/techo/google-adsense-not-profitable-next-step/",
-          "date": "Fri, 03 Jul 2026 05:14:14 +0000",
-          "summary": "時間を削って書いた記事の収益が、半年続けてもこのような状態だと、「アドセンスはオワコン（流行が過ぎて、もう稼げない・時代遅れになったコンテンツ）」というSNSの声も他人事に思えなくなりますよね。 ただ、収益が数百円で止ま ..."
-        },
-        {
-          "title": "インスタでフォロワー10万人の収入とは？単価のリアルと稼ぎ方を紹介",
-          "link": "https://rakkokeyword.com/techo/instagram-followers-income/",
-          "date": "Fri, 03 Jul 2026 01:06:14 +0000",
-          "summary": "フォロワーが数千人から1万人に近づいてくると、「このまま10万人まで増えたら、いったいいくら稼げるんだろう」と気になってきますよね。10万人という大台に乗れば、月にまとまった収入を得て、好きな発信を仕事にすることも見えて ..."
         }
       ],
       "error": null
@@ -171,6 +171,13 @@
       "sourceType": "tool",
       "feedUrl": "https://blog.google/technology/ai/rss/",
       "items": [
+        {
+          "title": "Gemini APIでのマネージドエージェントの拡張：バックグラウンドタスク、リモートMCPなど",
+          "titleOrig": "Expanding Managed Agents in Gemini API:  background tasks, remote MCP and more",
+          "link": "https://blog.google/innovation-and-ai/technology/developers-tools/expanding-managed-agents-gemini-api/",
+          "date": "Tue, 07 Jul 2026 08:54:00 +0000",
+          "summary": "We’re announcing new capabilities in Managed Agents in Gemini API so developers can build reliable, production-ready agents."
+        },
         {
           "title": "2026年6月に発表した最新のAIニュース",
           "titleOrig": "The latest AI news we announced in June 2026",
@@ -198,13 +205,6 @@
           "link": "https://blog.google/innovation-and-ai/technology/ai/full-stack-ai-explainer/",
           "date": "Mon, 29 Jun 2026 16:00:00 +0000",
           "summary": "A Google expert explains what it means to take a full-stack approach to AI and why it’s been the foundation of our AI work for so long."
-        },
-        {
-          "title": "新しいアプリを含む最新のGoogleファイナンスのアップグレード",
-          "titleOrig": "Our latest Google Finance upgrades, including a new app",
-          "link": "https://blog.google/products-and-platforms/products/search/google-finance-updates-june-2026/",
-          "date": "Thu, 25 Jun 2026 16:00:00 +0000",
-          "summary": "The new Google Finance is coming out of beta and launching a new Android app."
         }
       ],
       "error": null
@@ -352,6 +352,13 @@
       "feedUrl": "https://github.blog/feed/",
       "items": [
         {
+          "title": "2026年第1四半期イノベーショングラフの更新：オープンソースのコラボレーションが世界的に加速",
+          "titleOrig": "Q1 2026 Innovation Graph update: Open source collaboration is accelerating worldwide",
+          "link": "https://github.blog/news-insights/policy-news-and-insights/q1-2026-innovation-graph-update-open-source-collaboration-is-accelerating-worldwide/",
+          "date": "Tue, 07 Jul 2026 16:00:00 +0000",
+          "summary": "New Innovation Graph data shows global developer communities growing faster than ever, with collaboration reaching new highs across many economies. The post Q1 2026 Innovation Graph update: Open sourc"
+        },
+        {
           "title": "GitHubがシークレットスキャンを使用して受信トレイをゼロにする方法",
           "titleOrig": "How GitHub used secret scanning to reach inbox zero",
           "link": "https://github.blog/security/application-security/how-github-used-secret-scanning-to-reach-inbox-zero/",
@@ -378,13 +385,6 @@
           "link": "https://github.blog/open-source/git/highlights-from-git-2-55/",
           "date": "Mon, 29 Jun 2026 17:25:25 +0000",
           "summary": "The open source Git project just released Git 2.55. Here is GitHub’s look at some of the most interesting features and changes introduced since last time. The post Highlights from Git 2.55 appeared fi"
-        },
-        {
-          "title": "アドバイザリーデータベースの内部と脆弱性の量が記録を破ったときに何が起こるか",
-          "titleOrig": "Inside the Advisory Database and what happens when vulnerability volume breaks records",
-          "link": "https://github.blog/security/supply-chain-security/inside-the-advisory-database-and-what-happens-when-vulnerability-volume-breaks-records/",
-          "date": "Mon, 29 Jun 2026 16:10:20 +0000",
-          "summary": "The GitHub Advisory Database is processing more vulnerability reports than ever before. Here's what's driving the surge, how we're responding, and how the community can help. The post Inside the Advis"
         }
       ],
       "error": null
