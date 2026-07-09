@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-07-08T02:47:36.064Z",
+  "fetchedAt": "2026-07-09T03:24:37.052Z",
   "tools": [
     {
       "tool": "ミエルカ（YouTube）",
@@ -19,6 +19,12 @@
       "sourceType": "tool",
       "feedUrl": "https://ahrefs.com/blog/ja/feed/",
       "items": [
+        {
+          "title": "ランキング・比較記事が AI 検索に与える影響｜AI SEO の調査結果",
+          "link": "https://ahrefs.com/blog/ja/self-promotional-content-ai-seo-experiment/",
+          "date": "Wed, 08 Jul 2026 06:34:22 +0000",
+          "summary": "特集記事や推奨記事はAI検索結果にどう影響する？ChatGPT、Gemini 等 4 つの AI で 9,886 回答を分析。意外な逆効果パターンも判明した実験データを公開。 Read more › The post ランキング・比較記事が AI 検索に与える影響｜AI SEO の調査結果 appeared first on Ahrefs 公式ブログ."
+        },
         {
           "title": "Reddit の使い方：検索順位と AI 検索対策を強化する正しいアプローチ",
           "link": "https://ahrefs.com/blog/ja/reddit-seo/",
@@ -42,12 +48,6 @@
           "link": "https://ahrefs.com/blog/ja/ahrefs-aio-guide/",
           "date": "Fri, 26 Jun 2026 04:44:30 +0000",
           "summary": "Ahrefs の AI エージェント機能を用いた AI 検索最適化（AIO）の解説記事です。自然言語での指示で被リンク監視やカレンダー生成などの業務を自動化する Ahrefs の使い方や、ChatGPT などの生成 AI 検索で自社サイトが引用されるための AI 検索対策を解説します。 Read more › The post AI 検索最適化（AIO）完全ガイド｜ChatGPT・Perplexi"
-        },
-        {
-          "title": "note が 2 位に急上昇、Reddit が ChatGPT で首位に。日本で AI が引用するドメイン最新ランキング 2026 年 6 月版",
-          "link": "https://ahrefs.com/blog/ja/brand-radar-top-10-cited-domains-2026-june/",
-          "date": "Wed, 24 Jun 2026 03:12:52 +0000",
-          "summary": "Ahrefs ブランドレーダーで 5 大 AI 検索（ ChatGPT・AI モード・AI による概要・Perplexity・Copilot ）の引用ドメインを再分析。前回（2026 年 4 月）調査からの順位変動を、プラットフォーム別に徹底比較。 AI が回答を生成するとき、どのサイトを「信頼できる情報源」として引用しているのか。この勢力図は、わずか数ヶ月で大きく塗り替わります。 Ahrefs "
         }
       ],
       "error": null
@@ -59,6 +59,13 @@
       "sourceType": "tool",
       "feedUrl": "https://www.semrush.com/blog/feed/",
       "items": [
+        {
+          "title": "AIツールがB 2 B購入プロセスをどのように形作るか： 600人以上の米国のビジネスプロフェッショナルを対象とした調査",
+          "titleOrig": "How AI tools shape the B2B buying process: A survey of 600+ US business professionals",
+          "link": "https://www.semrush.com/blog/how-ai-shapes-b2b-buying/",
+          "date": "Wed, 08 Jul 2026 12:00:00 +0000",
+          "summary": "New research reveals how AI influences B2B vendor discovery, evaluation, shortlists, and purchase decisions."
+        },
         {
           "title": "Cardmarketが誰よりもコミュニティを知っていることで検索に勝つ方法",
           "titleOrig": "How Cardmarket wins search by knowing its community better than anyone",
@@ -86,13 +93,6 @@
           "link": "https://www.semrush.com/blog/what-is-seo/",
           "date": "Wed, 01 Jul 2026 15:12:00 +0000",
           "summary": "SEO is how you earn visibility in search results and AI answers. Learn how to start in this guide."
-        },
-        {
-          "title": "7つのステップでマーケティング戦略を作成する方法",
-          "titleOrig": "How to create a marketing strategy in 7 steps",
-          "link": "https://www.semrush.com/blog/marketing-strategy/",
-          "date": "Wed, 01 Jul 2026 11:25:00 +0000",
-          "summary": "Learn how to create a marketing strategy that can boost brand visibility and attract customers."
         }
       ],
       "error": null
@@ -123,6 +123,24 @@
       "feedUrl": "https://rakkokeyword.com/techo/feed/",
       "items": [
         {
+          "title": "電子レンジワット数変換ツール",
+          "link": "https://rakkokeyword.com/techo/tool-microwave-converter/",
+          "date": "Thu, 09 Jul 2026 03:04:07 +0000",
+          "summary": "変換元（レシピ表記）のワット数 W 500W 600W 700W 800W 1000W 変換元（レシピ表記）の加熱時間 分 秒 ⇅ ワット数を入れ替える 変換先（自宅のレンジ）のワット数 W 500W 600W 700W ..."
+        },
+        {
+          "title": "アフィリエイトの始め方！知識ゼロから迷わず稼ぐロードマップ",
+          "link": "https://rakkokeyword.com/techo/affiliate-start/",
+          "date": "Thu, 09 Jul 2026 01:47:28 +0000",
+          "summary": "「アフィリエイトで月に3〜5万円くらい稼げたら、家計がずいぶん楽になるのに」 物価も教育費も上がるなか、そう考えてこのページにたどり着いた方は多いはずです。 ただ、いざ始めようとすると「何から手をつければいいのか」「そも ..."
+        },
+        {
+          "title": "インスタグリッドメーカー",
+          "link": "https://rakkokeyword.com/techo/tool-instagram-grid/",
+          "date": "Wed, 08 Jul 2026 03:18:23 +0000",
+          "summary": "グリッド分割 ストーリー用グリッド作成 安心設計：画像はお使いの端末内で処理され、サーバーには送信されません 画像をドラッグ＆ドロップ またはクリックして選択 対応形式: JPG / PNG / WEBP・1枚のみ・上限 ..."
+        },
+        {
           "title": "デジタル時計（Web時計）ツール",
           "link": "https://rakkokeyword.com/techo/tool-digital-clock/",
           "date": "Wed, 08 Jul 2026 02:45:47 +0000",
@@ -133,24 +151,6 @@
           "link": "https://rakkokeyword.com/techo/google-adsense-approval-reasons-tips/",
           "date": "Tue, 07 Jul 2026 07:34:32 +0000",
           "summary": "Googleアドセンスの審査に落ち続けると、自分のブログの何が悪いのか分からず、途方に暮れてしまいますよね。 ですが、審査に通らない原因はある程度パターンが決まっており、一つずつ潰していけば合格に近づけます。 この記事で ..."
-        },
-        {
-          "title": "インスタ「ハッシュタグ」の効果的な付け方は？投稿が伸びる選び方とコツを解説",
-          "link": "https://rakkokeyword.com/techo/effective-instagram-hashtag-tips/",
-          "date": "Tue, 07 Jul 2026 02:48:40 +0000",
-          "summary": "Instagramのハッシュタグは、2025年12月のルール変更で「多く付ける」から「関連するものを厳選する」時代に変わりました。 付けられる数の上限は最大5個へと大きく減り、投稿内容と関係の深いタグを選ぶことが、これま ..."
-        },
-        {
-          "title": "JFIF→JPG変換ツール",
-          "link": "https://rakkokeyword.com/techo/tool-jfif-to-jpg/",
-          "date": "Tue, 07 Jul 2026 01:05:48 +0000",
-          "summary": "安心設計：ファイルはお客様の端末内で処理され、サーバーには送信されません JFIFファイルをドラッグ＆ドロップ またはクリックして選択 対応形式: JFIF / 複数選択可（最大30件）/ 上限目安 100MB ファイル ..."
-        },
-        {
-          "title": "FLAC→MP3変換ツール",
-          "link": "https://rakkokeyword.com/techo/tool-flac-to-mp3/",
-          "date": "Fri, 03 Jul 2026 06:28:11 +0000",
-          "summary": "安心設計：ファイルはお客様の端末内で処理され、サーバーには送信されません FLACファイルをドラッグ＆ドロップ またはクリックして選択 対応形式: FLAC / 複数選択可（最大20ファイル） / 1ファイル上限目安 6 ..."
         }
       ],
       "error": null
@@ -352,6 +352,27 @@
       "feedUrl": "https://github.blog/feed/",
       "items": [
         {
+          "title": "GitHub Agentic Workflowsを使用したクロスレポドキュメントの自動化",
+          "titleOrig": "Automating cross-repo documentation with GitHub Agentic Workflows",
+          "link": "https://github.blog/ai-and-ml/github-copilot/automating-cross-repo-documentation-with-github-agentic-workflows/",
+          "date": "Wed, 08 Jul 2026 21:11:56 +0000",
+          "summary": "Explore how the Aspire team turns merged product changes into SME-reviewed docs pull requests, closing the gap between release and documentation. The post Automating cross-repo documentation with GitH"
+        },
+        {
+          "title": "GitHub可用性レポート： 2026年6月",
+          "titleOrig": "GitHub availability report: June 2026",
+          "link": "https://github.blog/news-insights/company-news/github-availability-report-june-2026/",
+          "date": "Wed, 08 Jul 2026 19:35:51 +0000",
+          "summary": "In June, we experienced six incidents that resulted in degraded performance across GitHub services. The post GitHub availability report: June 2026 appeared first on The GitHub Blog."
+        },
+        {
+          "title": "GitHub CopilotがGitHubページのDNS設定をゼロにする方法",
+          "titleOrig": "How GitHub Copilot enables zero DNS configuration for GitHub Pages",
+          "link": "https://github.blog/ai-and-ml/github-copilot/how-github-copilot-enables-zero-dns-configuration-for-github-pages/",
+          "date": "Wed, 08 Jul 2026 16:00:00 +0000",
+          "summary": "Go from an empty repository to a live custom domain with HTTPS in about 14 minutes, without manually editing a single DNS record. The post How GitHub Copilot enables zero DNS configuration for GitHub "
+        },
+        {
           "title": "2026年第1四半期イノベーショングラフの更新：オープンソースのコラボレーションが世界的に加速",
           "titleOrig": "Q1 2026 Innovation Graph update: Open source collaboration is accelerating worldwide",
           "link": "https://github.blog/news-insights/policy-news-and-insights/q1-2026-innovation-graph-update-open-source-collaboration-is-accelerating-worldwide/",
@@ -364,27 +385,6 @@
           "link": "https://github.blog/security/application-security/how-github-used-secret-scanning-to-reach-inbox-zero/",
           "date": "Thu, 02 Jul 2026 16:00:00 +0000",
           "summary": "GitHub had 20,000+ secret scanning alerts across 15,000 repositories. Here's how we separated signal from noise, built remediation workflows, and reached inbox zero in nine months. The post How GitHub"
-        },
-        {
-          "title": "すべてのGitHubメンテナーが今週有効にすべき6つのセキュリティ設定",
-          "titleOrig": "6 security settings every GitHub maintainer should enable this week",
-          "link": "https://github.blog/security/6-security-settings-every-github-maintainer-should-enable-this-week/",
-          "date": "Wed, 01 Jul 2026 15:59:29 +0000",
-          "summary": "These six free settings will not make your project unhackable. Nothing will. What they will do is close the easy doors. Turn these on, and your project will be meaningfully harder to attack than it wa"
-        },
-        {
-          "title": "GitHubがオープンソース依存関係のコンプライアンスを維持する方法",
-          "titleOrig": "How GitHub maintains compliance for open source dependencies",
-          "link": "https://github.blog/enterprise-software/governance-and-compliance/how-github-maintains-compliance-for-open-source-dependencies/",
-          "date": "Tue, 30 Jun 2026 17:28:16 +0000",
-          "summary": "Explore how the Open Source Program Office uses GitHub’s new license compliance product to manage open source dependencies at scale. The post How GitHub maintains compliance for open source dependenci"
-        },
-        {
-          "title": "Git 2.55のハイライト",
-          "titleOrig": "Highlights from Git 2.55",
-          "link": "https://github.blog/open-source/git/highlights-from-git-2-55/",
-          "date": "Mon, 29 Jun 2026 17:25:25 +0000",
-          "summary": "The open source Git project just released Git 2.55. Here is GitHub’s look at some of the most interesting features and changes introduced since last time. The post Highlights from Git 2.55 appeared fi"
         }
       ],
       "error": null
