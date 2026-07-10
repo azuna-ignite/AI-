@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-07-09T03:24:37.052Z",
+  "fetchedAt": "2026-07-10T03:27:25.392Z",
   "tools": [
     {
       "tool": "ミエルカ（YouTube）",
@@ -60,6 +60,13 @@
       "feedUrl": "https://www.semrush.com/blog/feed/",
       "items": [
         {
+          "title": "2026年にAI検索に勝つための7つの最高のAI可視化ツール",
+          "titleOrig": "The 7 best AI visibility tools to win AI search in 2026",
+          "link": "https://www.semrush.com/blog/best-ai-visibility-tools/",
+          "date": "Wed, 08 Jul 2026 20:20:00 +0000",
+          "summary": "Explore these tried and tested AI visibility tools that help you monitor, analyze, and improve your brand presence across AI search engines."
+        },
+        {
           "title": "AIツールがB 2 B購入プロセスをどのように形作るか： 600人以上の米国のビジネスプロフェッショナルを対象とした調査",
           "titleOrig": "How AI tools shape the B2B buying process: A survey of 600+ US business professionals",
           "link": "https://www.semrush.com/blog/how-ai-shapes-b2b-buying/",
@@ -86,13 +93,6 @@
           "link": "https://www.semrush.com/blog/ai-overviews-commercial-search-study/",
           "date": "Thu, 02 Jul 2026 16:22:00 +0000",
           "summary": "Google’s move to extend AI Overviews into a wider variety of SERPs is disrupting not only informational searches, but also searches with commercial intent and advertising value."
-        },
-        {
-          "title": "SEOとは？検索エンジン最適化の完全ガイド",
-          "titleOrig": "What is SEO? A complete guide to search engine optimization",
-          "link": "https://www.semrush.com/blog/what-is-seo/",
-          "date": "Wed, 01 Jul 2026 15:12:00 +0000",
-          "summary": "SEO is how you earn visibility in search results and AI answers. Learn how to start in this guide."
         }
       ],
       "error": null
@@ -123,6 +123,18 @@
       "feedUrl": "https://rakkokeyword.com/techo/feed/",
       "items": [
         {
+          "title": "SNSアフィリエイトで稼げる穴場ジャンル8選！強敵不在のブルーオーシャン発掘術",
+          "link": "https://rakkokeyword.com/techo/sns-affiliate-profitable-niche-genres/",
+          "date": "Thu, 09 Jul 2026 07:04:10 +0000",
+          "summary": "結論から言うと、競合の強いジャンルを避けて「穴場ジャンル」を選べば、フォロワーが少ない初心者でも月数万円の収益は十分に狙えます。 ポイントは、企業や強いアフィリエイターが手を出しにくく、それでいてSNSで発信しやすいジャ ..."
+        },
+        {
+          "title": "マルチカウンターツール",
+          "link": "https://rakkokeyword.com/techo/tool-multi-counter/",
+          "date": "Thu, 09 Jul 2026 03:25:29 +0000",
+          "summary": "合計カウント 0 音 割合(%)表示 すべてリセット データ出力 ＋ カウンターを追加 複数同時にカウントできる無料のかちかちカウンターツールです。音あり機能つき。目標カウント数の設定もできます。カウント結果はCSVでダ ..."
+        },
+        {
           "title": "電子レンジワット数変換ツール",
           "link": "https://rakkokeyword.com/techo/tool-microwave-converter/",
           "date": "Thu, 09 Jul 2026 03:04:07 +0000",
@@ -139,18 +151,6 @@
           "link": "https://rakkokeyword.com/techo/tool-instagram-grid/",
           "date": "Wed, 08 Jul 2026 03:18:23 +0000",
           "summary": "グリッド分割 ストーリー用グリッド作成 安心設計：画像はお使いの端末内で処理され、サーバーには送信されません 画像をドラッグ＆ドロップ またはクリックして選択 対応形式: JPG / PNG / WEBP・1枚のみ・上限 ..."
-        },
-        {
-          "title": "デジタル時計（Web時計）ツール",
-          "link": "https://rakkokeyword.com/techo/tool-digital-clock/",
-          "date": "Wed, 08 Jul 2026 02:45:47 +0000",
-          "summary": "表示形式 24時間 12時間 表示要素 秒 日付・曜日 テーマ ライト ダーク 全画面表示 このツールは、パソコンやスマートフォンのブラウザ上でそのまま使える、インストール不要の無料デジタル時計です。設定を好みにカスタマ ..."
-        },
-        {
-          "title": "Googleアドセンスの審査に通らない理由は？対策と再申請のコツ",
-          "link": "https://rakkokeyword.com/techo/google-adsense-approval-reasons-tips/",
-          "date": "Tue, 07 Jul 2026 07:34:32 +0000",
-          "summary": "Googleアドセンスの審査に落ち続けると、自分のブログの何が悪いのか分からず、途方に暮れてしまいますよね。 ですが、審査に通らない原因はある程度パターンが決まっており、一つずつ潰していけば合格に近づけます。 この記事で ..."
         }
       ],
       "error": null
@@ -262,6 +262,13 @@
       "feedUrl": "https://wordpress.org/news/feed/",
       "items": [
         {
+          "title": "WordPress 7.0.1メンテナンスリリース",
+          "titleOrig": "WordPress 7.0.1 Maintenance Release",
+          "link": "https://wordpress.org/news/2026/07/wordpress-7-0-1-maintenance-release/",
+          "date": "Thu, 09 Jul 2026 17:33:42 +0000",
+          "summary": "WordPress 7.0.1 is now available! This minor release includes fixes for 31 bugs throughout Core and the Block Editor, addressing issues affecting multiple areas of WordPress including the block editor"
+        },
+        {
           "title": "初のAIリーダー卒業生",
           "titleOrig": "The First AI Leaders Graduates",
           "link": "https://wordpress.org/news/2026/06/ai-leaders-graduates/",
@@ -288,13 +295,6 @@
           "link": "https://wordpress.org/news/2026/06/global-partners-first-half-2026/",
           "date": "Thu, 18 Jun 2026 17:01:21 +0000",
           "summary": "This post recaps how the WordPress project’s five Global Partners — Jetpack, WordPress.com, WooCommerce, Bluehost, and Hostinger — supported community events during the first half of 2026. Across more"
-        },
-        {
-          "title": "WordCamp Europe 2026での出来事",
-          "titleOrig": "What Happened at WordCamp Europe 2026",
-          "link": "https://wordpress.org/news/2026/06/wceu-2026-recap/",
-          "date": "Sat, 06 Jun 2026 17:44:14 +0000",
-          "summary": "WordCamp Europe 2026 brought the WordPress community to Kraków for three days of contribution and conversation, from CERN going live on WordPress to WordPress 7.0, AI, and a closing fireside chat on w"
         }
       ],
       "error": null
@@ -352,6 +352,13 @@
       "feedUrl": "https://github.blog/feed/",
       "items": [
         {
+          "title": "GitHubがすべてのリポジトリに永続的な所有者を与えた方法",
+          "titleOrig": "How GitHub gave every repository a durable owner",
+          "link": "https://github.blog/security/application-security/how-github-gave-every-repository-a-durable-owner/",
+          "date": "Thu, 09 Jul 2026 16:29:37 +0000",
+          "summary": "GitHub had over 14,000 repositories. Fewer than half had clear ownership. Here's how we gave every active repository a validated owner in under 45 days, archived the rest, and made ownership the found"
+        },
+        {
           "title": "GitHub Agentic Workflowsを使用したクロスレポドキュメントの自動化",
           "titleOrig": "Automating cross-repo documentation with GitHub Agentic Workflows",
           "link": "https://github.blog/ai-and-ml/github-copilot/automating-cross-repo-documentation-with-github-agentic-workflows/",
@@ -378,13 +385,6 @@
           "link": "https://github.blog/news-insights/policy-news-and-insights/q1-2026-innovation-graph-update-open-source-collaboration-is-accelerating-worldwide/",
           "date": "Tue, 07 Jul 2026 16:00:00 +0000",
           "summary": "New Innovation Graph data shows global developer communities growing faster than ever, with collaboration reaching new highs across many economies. The post Q1 2026 Innovation Graph update: Open sourc"
-        },
-        {
-          "title": "GitHubがシークレットスキャンを使用して受信トレイをゼロにする方法",
-          "titleOrig": "How GitHub used secret scanning to reach inbox zero",
-          "link": "https://github.blog/security/application-security/how-github-used-secret-scanning-to-reach-inbox-zero/",
-          "date": "Thu, 02 Jul 2026 16:00:00 +0000",
-          "summary": "GitHub had 20,000+ secret scanning alerts across 15,000 repositories. Here's how we separated signal from noise, built remediation workflows, and reached inbox zero in nine months. The post How GitHub"
         }
       ],
       "error": null
