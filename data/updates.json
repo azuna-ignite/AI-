@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-07-10T03:27:25.392Z",
+  "fetchedAt": "2026-07-11T02:44:16.553Z",
   "tools": [
     {
       "tool": "ミエルカ（YouTube）",
@@ -9,8 +9,39 @@
       "type": "youtube",
       "handle": "@mieruca-channel",
       "feedUrl": "",
-      "items": [],
-      "error": "Status code 404"
+      "items": [
+        {
+          "title": "LLMO対策の始め方｜AI検索で選ばれるために最初に見るべき5つ",
+          "link": "https://www.youtube.com/watch?v=RPiwE5sRLmY",
+          "date": "2026-07-07T23:00:09.000Z",
+          "summary": ""
+        },
+        {
+          "title": "AI Overviewsに「トップニュース」が直接表示、優先ソースの価値が高まる｜SEO Weekly Update",
+          "link": "https://www.youtube.com/watch?v=Fwc-GNGGBK4",
+          "date": "2026-07-05T22:30:21.000Z",
+          "summary": ""
+        },
+        {
+          "title": "SEO担当者がヒートマップを見るべき理由｜GA4・サーチコンソールだけでは見えないユーザー行動",
+          "link": "https://www.youtube.com/watch?v=NbquRjP69rA",
+          "date": "2026-06-30T23:00:07.000Z",
+          "summary": ""
+        },
+        {
+          "title": "【2026年6月】Googleスパムアップデート開始、SEO担当者が確認すべきこと｜SEO Weekly Update",
+          "link": "https://www.youtube.com/watch?v=XPpafZUc6QQ",
+          "date": "2026-06-28T22:30:37.000Z",
+          "summary": ""
+        },
+        {
+          "title": "トピッククラスターとは？SEOで成果につなげる作り方・内部リンク設計・失敗例",
+          "link": "https://www.youtube.com/watch?v=IhdS9s45s2o",
+          "date": "2026-06-24T08:00:07.000Z",
+          "summary": ""
+        }
+      ],
+      "error": null
     },
     {
       "tool": "Ahrefs",
@@ -60,6 +91,13 @@
       "feedUrl": "https://www.semrush.com/blog/feed/",
       "items": [
         {
+          "title": "Google Search Consoleがソーシャルレポートとビデオレポートを追加",
+          "titleOrig": "Google Search Console adds social and video reports",
+          "link": "https://www.semrush.com/blog/google-search-console-adds-social-and-video-reports/",
+          "date": "Fri, 10 Jul 2026 14:45:00 +0000",
+          "summary": "Google Search Console now shows how your Instagram, TikTok, X, and YouTube content performs in Google Search."
+        },
+        {
           "title": "2026年にAI検索に勝つための7つの最高のAI可視化ツール",
           "titleOrig": "The 7 best AI visibility tools to win AI search in 2026",
           "link": "https://www.semrush.com/blog/best-ai-visibility-tools/",
@@ -86,13 +124,6 @@
           "link": "https://www.semrush.com/blog/google-research-and-ai-spam-detection/",
           "date": "Mon, 06 Jul 2026 15:10:00 +0000",
           "summary": "New Google research catches AI video spam by clustering accounts, not single videos. See what it signals."
-        },
-        {
-          "title": "AIの概要は、商用インテント検索全体に拡大しています[研究]",
-          "titleOrig": "AI Overviews are expanding across commercial intent search [Study]",
-          "link": "https://www.semrush.com/blog/ai-overviews-commercial-search-study/",
-          "date": "Thu, 02 Jul 2026 16:22:00 +0000",
-          "summary": "Google’s move to extend AI Overviews into a wider variety of SERPs is disrupting not only informational searches, but also searches with commercial intent and advertising value."
         }
       ],
       "error": null
@@ -123,6 +154,12 @@
       "feedUrl": "https://rakkokeyword.com/techo/feed/",
       "items": [
         {
+          "title": "画像からカラーコード抽出ツール",
+          "link": "https://rakkokeyword.com/techo/tool-image-color/",
+          "date": "Fri, 10 Jul 2026 03:29:53 +0000",
+          "summary": "画像を選択またはドラッグ＆ドロップ 対応形式：JPEG（.jpg/.jpeg）、PNG、GIF、WebP ファイルを選択 画像上の色を知りたい場所をクリック（スマホはタップ）してください。 HEX (カラーコード) #— ..."
+        },
+        {
           "title": "SNSアフィリエイトで稼げる穴場ジャンル8選！強敵不在のブルーオーシャン発掘術",
           "link": "https://rakkokeyword.com/techo/sns-affiliate-profitable-niche-genres/",
           "date": "Thu, 09 Jul 2026 07:04:10 +0000",
@@ -145,12 +182,6 @@
           "link": "https://rakkokeyword.com/techo/affiliate-start/",
           "date": "Thu, 09 Jul 2026 01:47:28 +0000",
           "summary": "「アフィリエイトで月に3〜5万円くらい稼げたら、家計がずいぶん楽になるのに」 物価も教育費も上がるなか、そう考えてこのページにたどり着いた方は多いはずです。 ただ、いざ始めようとすると「何から手をつければいいのか」「そも ..."
-        },
-        {
-          "title": "インスタグリッドメーカー",
-          "link": "https://rakkokeyword.com/techo/tool-instagram-grid/",
-          "date": "Wed, 08 Jul 2026 03:18:23 +0000",
-          "summary": "グリッド分割 ストーリー用グリッド作成 安心設計：画像はお使いの端末内で処理され、サーバーには送信されません 画像をドラッグ＆ドロップ またはクリックして選択 対応形式: JPG / PNG / WEBP・1枚のみ・上限 ..."
         }
       ],
       "error": null
@@ -352,6 +383,13 @@
       "feedUrl": "https://github.blog/feed/",
       "items": [
         {
+          "title": "より優れたツールは、Copilotのコードレビューを悪化させました。実際にどのように改善したかをご紹介します。",
+          "titleOrig": "Better tools made Copilot code review worse. Here’s how we actually improved it.",
+          "link": "https://github.blog/ai-and-ml/github-copilot/better-tools-made-copilot-code-review-worse-heres-how-we-actually-improved-it/",
+          "date": "Fri, 10 Jul 2026 15:57:47 +0000",
+          "summary": "How migrating Copilot code review to shared Unix-style code exploration tools reduced review cost by reshaping agent workflows around pull request evidence. The post Better tools made Copilot code rev"
+        },
+        {
           "title": "GitHubがすべてのリポジトリに永続的な所有者を与えた方法",
           "titleOrig": "How GitHub gave every repository a durable owner",
           "link": "https://github.blog/security/application-security/how-github-gave-every-repository-a-durable-owner/",
@@ -378,13 +416,6 @@
           "link": "https://github.blog/ai-and-ml/github-copilot/how-github-copilot-enables-zero-dns-configuration-for-github-pages/",
           "date": "Wed, 08 Jul 2026 16:00:00 +0000",
           "summary": "Go from an empty repository to a live custom domain with HTTPS in about 14 minutes, without manually editing a single DNS record. The post How GitHub Copilot enables zero DNS configuration for GitHub "
-        },
-        {
-          "title": "2026年第1四半期イノベーショングラフの更新：オープンソースのコラボレーションが世界的に加速",
-          "titleOrig": "Q1 2026 Innovation Graph update: Open source collaboration is accelerating worldwide",
-          "link": "https://github.blog/news-insights/policy-news-and-insights/q1-2026-innovation-graph-update-open-source-collaboration-is-accelerating-worldwide/",
-          "date": "Tue, 07 Jul 2026 16:00:00 +0000",
-          "summary": "New Innovation Graph data shows global developer communities growing faster than ever, with collaboration reaching new highs across many economies. The post Q1 2026 Innovation Graph update: Open sourc"
         }
       ],
       "error": null
