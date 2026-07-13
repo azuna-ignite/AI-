@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-07-12T02:52:19.436Z",
+  "fetchedAt": "2026-07-13T02:53:55.069Z",
   "tools": [
     {
       "tool": "ミエルカ（YouTube）",
@@ -10,6 +10,12 @@
       "handle": "@mieruca-channel",
       "feedUrl": "",
       "items": [
+        {
+          "title": "サーチコンソール新機能「プラットフォーム プロパティ」｜X・YouTubeのGoogle検索成果を確認｜SEO Weekly Update",
+          "link": "https://www.youtube.com/watch?v=6X51_qK0BLE",
+          "date": "2026-07-12T23:27:45.000Z",
+          "summary": ""
+        },
         {
           "title": "LLMO対策の始め方｜AI検索で選ばれるために最初に見るべき5つ",
           "link": "https://www.youtube.com/watch?v=RPiwE5sRLmY",
@@ -32,12 +38,6 @@
           "title": "【2026年6月】Googleスパムアップデート開始、SEO担当者が確認すべきこと｜SEO Weekly Update",
           "link": "https://www.youtube.com/watch?v=XPpafZUc6QQ",
           "date": "2026-06-28T22:30:37.000Z",
-          "summary": ""
-        },
-        {
-          "title": "トピッククラスターとは？SEOで成果につなげる作り方・内部リンク設計・失敗例",
-          "link": "https://www.youtube.com/watch?v=IhdS9s45s2o",
-          "date": "2026-06-24T08:00:07.000Z",
           "summary": ""
         }
       ],
