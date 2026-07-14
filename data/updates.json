@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-07-13T02:53:55.069Z",
+  "fetchedAt": "2026-07-14T02:34:51.861Z",
   "tools": [
     {
       "tool": "ミエルカ（YouTube）",
@@ -10,6 +10,12 @@
       "handle": "@mieruca-channel",
       "feedUrl": "",
       "items": [
+        {
+          "title": "【テクニカルSEOとは】AI検索時代にも重要なクロール・インデックス・レンダリングの基本",
+          "link": "https://www.youtube.com/watch?v=ppsGy2jJsSU",
+          "date": "2026-07-13T23:00:08.000Z",
+          "summary": ""
+        },
         {
           "title": "サーチコンソール新機能「プラットフォーム プロパティ」｜X・YouTubeのGoogle検索成果を確認｜SEO Weekly Update",
           "link": "https://www.youtube.com/watch?v=6X51_qK0BLE",
@@ -32,12 +38,6 @@
           "title": "SEO担当者がヒートマップを見るべき理由｜GA4・サーチコンソールだけでは見えないユーザー行動",
           "link": "https://www.youtube.com/watch?v=NbquRjP69rA",
           "date": "2026-06-30T23:00:07.000Z",
-          "summary": ""
-        },
-        {
-          "title": "【2026年6月】Googleスパムアップデート開始、SEO担当者が確認すべきこと｜SEO Weekly Update",
-          "link": "https://www.youtube.com/watch?v=XPpafZUc6QQ",
-          "date": "2026-06-28T22:30:37.000Z",
           "summary": ""
         }
       ],
@@ -154,6 +154,24 @@
       "feedUrl": "https://rakkokeyword.com/techo/feed/",
       "items": [
         {
+          "title": "MP3→OGG変換ツール",
+          "link": "https://rakkokeyword.com/techo/tool-mp3-ogg/",
+          "date": "Mon, 13 Jul 2026 07:07:53 +0000",
+          "summary": "このツールはブラウザ内で変換処理を行います。アップロードは行われず、ファイルが外部へ送信されることはありません。 ここをクリックするか、MP3ファイルをドラッグ＆ドロップ （対応形式：MP3 / 上限：50MB） 選択中 ..."
+        },
+        {
+          "title": "noteとブログはどっちが稼げる？違いと使い分けを比較",
+          "link": "https://rakkokeyword.com/techo/note-vs-blog-earnings-comparison/",
+          "date": "Mon, 13 Jul 2026 05:29:55 +0000",
+          "summary": "noteとブログは、どちらも文章で発信できる点は同じですが、収益化の仕組み・集客の方法・資産としての残り方が根本から違います。 この違いを理解すれば、あなたの目的に合うのがどちらかは迷わず決められます。 この記事では、n ..."
+        },
+        {
+          "title": "TikTokでバズるハッシュタグの選び方は？おすすめの見つけ方とコツを解説",
+          "link": "https://rakkokeyword.com/techo/tiktok-viral-hashtags-guide/",
+          "date": "Mon, 13 Jul 2026 05:20:43 +0000",
+          "summary": "「企画も音源選びも編集も時間をかけているのに、再生回数が200〜300回で止まってしまう。」 「おすすめ（For You）になかなか載らない。」 その原因のひとつが、思いついた単語を並べただけのハッシュタグかもしれません ..."
+        },
+        {
           "title": "画像からカラーコード抽出ツール",
           "link": "https://rakkokeyword.com/techo/tool-image-color/",
           "date": "Fri, 10 Jul 2026 03:29:53 +0000",
@@ -164,24 +182,6 @@
           "link": "https://rakkokeyword.com/techo/sns-affiliate-profitable-niche-genres/",
           "date": "Thu, 09 Jul 2026 07:04:10 +0000",
           "summary": "結論から言うと、競合の強いジャンルを避けて「穴場ジャンル」を選べば、フォロワーが少ない初心者でも月数万円の収益は十分に狙えます。 ポイントは、企業や強いアフィリエイターが手を出しにくく、それでいてSNSで発信しやすいジャ ..."
-        },
-        {
-          "title": "マルチカウンターツール",
-          "link": "https://rakkokeyword.com/techo/tool-multi-counter/",
-          "date": "Thu, 09 Jul 2026 03:25:29 +0000",
-          "summary": "合計カウント 0 音 割合(%)表示 すべてリセット データ出力 ＋ カウンターを追加 複数同時にカウントできる無料のかちかちカウンターツールです。音あり機能つき。目標カウント数の設定もできます。カウント結果はCSVでダ ..."
-        },
-        {
-          "title": "電子レンジワット数変換ツール",
-          "link": "https://rakkokeyword.com/techo/tool-microwave-converter/",
-          "date": "Thu, 09 Jul 2026 03:04:07 +0000",
-          "summary": "変換元（レシピ表記）のワット数 W 500W 600W 700W 800W 1000W 変換元（レシピ表記）の加熱時間 分 秒 ⇅ ワット数を入れ替える 変換先（自宅のレンジ）のワット数 W 500W 600W 700W ..."
-        },
-        {
-          "title": "アフィリエイトの始め方！知識ゼロから迷わず稼ぐロードマップ",
-          "link": "https://rakkokeyword.com/techo/affiliate-start/",
-          "date": "Thu, 09 Jul 2026 01:47:28 +0000",
-          "summary": "「アフィリエイトで月に3〜5万円くらい稼げたら、家計がずいぶん楽になるのに」 物価も教育費も上がるなか、そう考えてこのページにたどり着いた方は多いはずです。 ただ、いざ始めようとすると「何から手をつければいいのか」「そも ..."
         }
       ],
       "error": null
@@ -293,6 +293,13 @@
       "feedUrl": "https://wordpress.org/news/feed/",
       "items": [
         {
+          "title": "WordCamp US 2026ガイド",
+          "titleOrig": "Your Guide to WordCamp US 2026",
+          "link": "https://wordpress.org/news/2026/07/wcus-2026-guide/",
+          "date": "Mon, 13 Jul 2026 13:07:07 +0000",
+          "summary": "WordCamp US 2026 returns for another year, this time in Phoenix, Arizona, for four days, August 16 to 19. It comes at a moment of real energy for WordPress, as artificial intelligence reshapes everyda"
+        },
+        {
           "title": "WordPress 7.0.1メンテナンスリリース",
           "titleOrig": "WordPress 7.0.1 Maintenance Release",
           "link": "https://wordpress.org/news/2026/07/wordpress-7-0-1-maintenance-release/",
@@ -319,13 +326,6 @@
           "link": "https://wordpress.org/news/2026/06/kim-parsell-wcus-scholarship/",
           "date": "Fri, 19 Jun 2026 16:55:00 +0000",
           "summary": "Applications are now open for the 2026 Kim Parsell Memorial Scholarship, which supports one active WordPress contributor who identifies as a woman and has not previously attended WordCamp US. The scho"
-        },
-        {
-          "title": "2026年ワードプレスイベントシーズン前半のグローバルパートナー",
-          "titleOrig": "Global Partners Across the First Half of the 2026 WordPress Event Season",
-          "link": "https://wordpress.org/news/2026/06/global-partners-first-half-2026/",
-          "date": "Thu, 18 Jun 2026 17:01:21 +0000",
-          "summary": "This post recaps how the WordPress project’s five Global Partners — Jetpack, WordPress.com, WooCommerce, Bluehost, and Hostinger — supported community events during the first half of 2026. Across more"
         }
       ],
       "error": null
