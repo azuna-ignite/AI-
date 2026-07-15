@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-07-14T02:34:51.861Z",
+  "fetchedAt": "2026-07-15T02:33:08.062Z",
   "tools": [
     {
       "tool": "ミエルカ（YouTube）",
@@ -9,39 +9,8 @@
       "type": "youtube",
       "handle": "@mieruca-channel",
       "feedUrl": "",
-      "items": [
-        {
-          "title": "【テクニカルSEOとは】AI検索時代にも重要なクロール・インデックス・レンダリングの基本",
-          "link": "https://www.youtube.com/watch?v=ppsGy2jJsSU",
-          "date": "2026-07-13T23:00:08.000Z",
-          "summary": ""
-        },
-        {
-          "title": "サーチコンソール新機能「プラットフォーム プロパティ」｜X・YouTubeのGoogle検索成果を確認｜SEO Weekly Update",
-          "link": "https://www.youtube.com/watch?v=6X51_qK0BLE",
-          "date": "2026-07-12T23:27:45.000Z",
-          "summary": ""
-        },
-        {
-          "title": "LLMO対策の始め方｜AI検索で選ばれるために最初に見るべき5つ",
-          "link": "https://www.youtube.com/watch?v=RPiwE5sRLmY",
-          "date": "2026-07-07T23:00:09.000Z",
-          "summary": ""
-        },
-        {
-          "title": "AI Overviewsに「トップニュース」が直接表示、優先ソースの価値が高まる｜SEO Weekly Update",
-          "link": "https://www.youtube.com/watch?v=Fwc-GNGGBK4",
-          "date": "2026-07-05T22:30:21.000Z",
-          "summary": ""
-        },
-        {
-          "title": "SEO担当者がヒートマップを見るべき理由｜GA4・サーチコンソールだけでは見えないユーザー行動",
-          "link": "https://www.youtube.com/watch?v=NbquRjP69rA",
-          "date": "2026-06-30T23:00:07.000Z",
-          "summary": ""
-        }
-      ],
-      "error": null
+      "items": [],
+      "error": "Status code 404"
     },
     {
       "tool": "Ahrefs",
@@ -91,6 +60,27 @@
       "feedUrl": "https://www.semrush.com/blog/feed/",
       "items": [
         {
+          "title": "ブランドポジショニングがAI検索変数になった理由",
+          "titleOrig": "Why Brand Positioning Is Now an AI Search Variable",
+          "link": "https://www.semrush.com/blog/brand-positioning-is-an-ai-search-variable/",
+          "date": "Wed, 15 Jul 2026 13:01:00 +0000",
+          "summary": "AI doesn‘t just rank pages. It forms an understanding of your brand. Here‘s why brand positioning has become a critical factor in AI visibility."
+        },
+        {
+          "title": "オーディエンスリサーチ：内容と実施方法",
+          "titleOrig": "Audience research: What it is & how to conduct it",
+          "link": "https://www.semrush.com/blog/audience-research/",
+          "date": "Tue, 14 Jul 2026 09:25:00 +0000",
+          "summary": "Audience research helps you understand your ideal customers. Here’s a breakdown and how to do it."
+        },
+        {
+          "title": "キーワードのカニバリゼーション：それを見つけ、修正し、防止する方法",
+          "titleOrig": "Keyword cannibalization: How to find, fix, and prevent it",
+          "link": "https://www.semrush.com/blog/keyword-cannibalization-guide/",
+          "date": "Tue, 14 Jul 2026 09:12:00 +0000",
+          "summary": "Keyword cannibalization occurs when pages on a site target the same keyword. They can affect your rankings and AI citations. Here’s how to fix them."
+        },
+        {
           "title": "Google Search Consoleがソーシャルレポートとビデオレポートを追加",
           "titleOrig": "Google Search Console adds social and video reports",
           "link": "https://www.semrush.com/blog/google-search-console-adds-social-and-video-reports/",
@@ -103,27 +93,6 @@
           "link": "https://www.semrush.com/blog/best-ai-visibility-tools/",
           "date": "Wed, 08 Jul 2026 20:20:00 +0000",
           "summary": "Explore these tried and tested AI visibility tools that help you monitor, analyze, and improve your brand presence across AI search engines."
-        },
-        {
-          "title": "AIツールがB 2 B購入プロセスをどのように形作るか： 600人以上の米国のビジネスプロフェッショナルを対象とした調査",
-          "titleOrig": "How AI tools shape the B2B buying process: A survey of 600+ US business professionals",
-          "link": "https://www.semrush.com/blog/how-ai-shapes-b2b-buying/",
-          "date": "Wed, 08 Jul 2026 12:00:00 +0000",
-          "summary": "New research reveals how AI influences B2B vendor discovery, evaluation, shortlists, and purchase decisions."
-        },
-        {
-          "title": "Cardmarketが誰よりもコミュニティを知っていることで検索に勝つ方法",
-          "titleOrig": "How Cardmarket wins search by knowing its community better than anyone",
-          "link": "https://www.semrush.com/blog/how-cardmarket-wins-search/",
-          "date": "Tue, 07 Jul 2026 13:00:00 +0000",
-          "summary": "How Cardmarket built a community-first SEO strategy that drove steady organic growth, stronger AI visibility, and 200% growth in AI-referred sessions."
-        },
-        {
-          "title": "Googleの調査でパターンレベルのAIビデオスパム検出が明らかに",
-          "titleOrig": "Google research reveals pattern-level AI video spam detection",
-          "link": "https://www.semrush.com/blog/google-research-and-ai-spam-detection/",
-          "date": "Mon, 06 Jul 2026 15:10:00 +0000",
-          "summary": "New Google research catches AI video spam by clustering accounts, not single videos. See what it signals."
         }
       ],
       "error": null
@@ -154,6 +123,12 @@
       "feedUrl": "https://rakkokeyword.com/techo/feed/",
       "items": [
         {
+          "title": "無料ブログのおすすめ8選！スマホで簡単・収益化も狙えるベストな選択",
+          "link": "https://rakkokeyword.com/techo/best-free-blogs-smartphone-monetization/",
+          "date": "Tue, 14 Jul 2026 08:15:32 +0000",
+          "summary": "その迷いは、選ぶときに見るべきポイントを絞れば解消できます。 無料ブログは初期費用ゼロで、スマホひとつでその日のうちに始められます。 ただしサービスによって「勝手に表示される広告の有無」「アフィリエイトで収益化できるか」 ..."
+        },
+        {
           "title": "MP3→OGG変換ツール",
           "link": "https://rakkokeyword.com/techo/tool-mp3-ogg/",
           "date": "Mon, 13 Jul 2026 07:07:53 +0000",
@@ -176,12 +151,6 @@
           "link": "https://rakkokeyword.com/techo/tool-image-color/",
           "date": "Fri, 10 Jul 2026 03:29:53 +0000",
           "summary": "画像を選択またはドラッグ＆ドロップ 対応形式：JPEG（.jpg/.jpeg）、PNG、GIF、WebP ファイルを選択 画像上の色を知りたい場所をクリック（スマホはタップ）してください。 HEX (カラーコード) #— ..."
-        },
-        {
-          "title": "SNSアフィリエイトで稼げる穴場ジャンル8選！強敵不在のブルーオーシャン発掘術",
-          "link": "https://rakkokeyword.com/techo/sns-affiliate-profitable-niche-genres/",
-          "date": "Thu, 09 Jul 2026 07:04:10 +0000",
-          "summary": "結論から言うと、競合の強いジャンルを避けて「穴場ジャンル」を選べば、フォロワーが少ない初心者でも月数万円の収益は十分に狙えます。 ポイントは、企業や強いアフィリエイターが手を出しにくく、それでいてSNSで発信しやすいジャ ..."
         }
       ],
       "error": null
@@ -202,6 +171,13 @@
       "sourceType": "tool",
       "feedUrl": "https://blog.google/technology/ai/rss/",
       "items": [
+        {
+          "title": "ビジュアル検索のイノベーションの25年を祝う",
+          "titleOrig": "Celebrating 25 years of visual search innovation",
+          "link": "https://blog.google/products-and-platforms/products/search/google-images-25th-anniversary/",
+          "date": "Tue, 14 Jul 2026 16:00:00 +0000",
+          "summary": "Google Images is turning 25. Here’s a look back at some major milestones — and new ways to explore and create visual content."
+        },
         {
           "title": "Gemini APIでのマネージドエージェントの拡張：バックグラウンドタスク、リモートMCPなど",
           "titleOrig": "Expanding Managed Agents in Gemini API:  background tasks, remote MCP and more",
@@ -229,13 +205,6 @@
           "link": "https://blog.google/company-news/inside-google/around-the-globe/google-europe/united-kingdom/unlocking-britains-next-era-of-productivity-building-a-nation-of-ai-trailblazers/",
           "date": "Tue, 30 Jun 2026 06:00:00 +0000",
           "summary": "Google UK shares its latest Economic Impact Report and how to enable more people to unlock the benefits of AI-powered technologies."
-        },
-        {
-          "title": "AIの専門家に尋ねてください：フルスタックとは正確には何ですか？",
-          "titleOrig": "Ask an AI expert: What exactly is the full stack?",
-          "link": "https://blog.google/innovation-and-ai/technology/ai/full-stack-ai-explainer/",
-          "date": "Mon, 29 Jun 2026 16:00:00 +0000",
-          "summary": "A Google expert explains what it means to take a full-stack approach to AI and why it’s been the foundation of our AI work for so long."
         }
       ],
       "error": null
@@ -338,6 +307,20 @@
       "feedUrl": "https://obsidian.md/changelog.xml",
       "items": [
         {
+          "title": "Obsidian 1.13.2モバイル（先行アクセス）",
+          "titleOrig": "Obsidian 1.13.2 Mobile (Early access)",
+          "link": "https://obsidian.md/changelog/2026-07-14-mobile-v1.13.2/",
+          "date": "2026-07-14T00:00:00.000Z",
+          "summary": "Includes all new features and bug fixes up to Obsidian Desktop v1.13.2. Improvements iOS: Added a `` variable to the Share Sheet template for inserting the shared link into your note. No longer broken"
+        },
+        {
+          "title": "Obsidian 1.13.2デスクトップ（先行アクセス）",
+          "titleOrig": "Obsidian 1.13.2 Desktop (Early access)",
+          "link": "https://obsidian.md/changelog/2026-07-14-desktop-v1.13.2/",
+          "date": "2026-07-14T00:00:00.000Z",
+          "summary": "New New image lightbox for viewing images fullscreen. Click the image in reading mode to open it. Or in live preview, with an image selected, click or press Space to open it in the lightbox. Use arrow"
+        },
+        {
           "title": "Obsidian 1.13.1モバイル（早期アクセス）",
           "titleOrig": "Obsidian 1.13.1 Mobile (Early access)",
           "link": "https://obsidian.md/changelog/2026-06-09-mobile-v1.13.1/",
@@ -357,20 +340,6 @@
           "link": "https://obsidian.md/changelog/2026-05-28-mobile-v1.13.0/",
           "date": "2026-05-28T00:00:00.000Z",
           "summary": "Includes all new features and bug fixes up to Obsidian Desktop v1.13.0. New iOS: New Share Sheet with configurable Locations. Configure Locations to point to different destinations across any of your "
-        },
-        {
-          "title": "Obsidian 1.13.0デスクトップ（先行アクセス）",
-          "titleOrig": "Obsidian 1.13.0 Desktop (Early access)",
-          "link": "https://obsidian.md/changelog/2026-05-28-desktop-v1.13.0/",
-          "date": "2026-05-28T00:00:00.000Z",
-          "summary": "This release introduces a revamped Settings panel that opens in a new window with built-in search and keyboard navigation. New Settings Settings now open in a new window. You can turn this off in Sett"
-        },
-        {
-          "title": "Obsidian 1.12.7モバイル（パブリック）",
-          "titleOrig": "Obsidian 1.12.7 Mobile (Public)",
-          "link": "https://obsidian.md/changelog/2026-03-23-mobile-v1.12.7/",
-          "date": "2026-03-23T00:00:00.000Z",
-          "summary": "Includes all new features and bug fixes up to Obsidian Desktop v1.12.7."
         }
       ],
       "error": null
