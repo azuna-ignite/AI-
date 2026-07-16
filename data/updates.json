@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-07-15T02:33:08.062Z",
+  "fetchedAt": "2026-07-16T02:41:43.639Z",
   "tools": [
     {
       "tool": "ミエルカ（YouTube）",
@@ -9,8 +9,39 @@
       "type": "youtube",
       "handle": "@mieruca-channel",
       "feedUrl": "",
-      "items": [],
-      "error": "Status code 404"
+      "items": [
+        {
+          "title": "LLMOで選ばれるブランドになるには？サイテーション・外部言及の考え方と増やし方",
+          "link": "https://www.youtube.com/watch?v=zCvKrcVbIUM",
+          "date": "2026-07-15T23:00:39.000Z",
+          "summary": ""
+        },
+        {
+          "title": "【テクニカルSEOとは】AI検索時代にも重要なクロール・インデックス・レンダリングの基本",
+          "link": "https://www.youtube.com/watch?v=ppsGy2jJsSU",
+          "date": "2026-07-13T23:00:08.000Z",
+          "summary": ""
+        },
+        {
+          "title": "サーチコンソール新機能「プラットフォーム プロパティ」｜X・YouTubeのGoogle検索成果を確認｜SEO Weekly Update",
+          "link": "https://www.youtube.com/watch?v=6X51_qK0BLE",
+          "date": "2026-07-12T23:27:45.000Z",
+          "summary": ""
+        },
+        {
+          "title": "LLMO対策の始め方｜AI検索で選ばれるために最初に見るべき5つ",
+          "link": "https://www.youtube.com/watch?v=RPiwE5sRLmY",
+          "date": "2026-07-07T23:00:09.000Z",
+          "summary": ""
+        },
+        {
+          "title": "AI Overviewsに「トップニュース」が直接表示、優先ソースの価値が高まる｜SEO Weekly Update",
+          "link": "https://www.youtube.com/watch?v=Fwc-GNGGBK4",
+          "date": "2026-07-05T22:30:21.000Z",
+          "summary": ""
+        }
+      ],
+      "error": null
     },
     {
       "tool": "Ahrefs",
@@ -67,6 +98,13 @@
           "summary": "AI doesn‘t just rank pages. It forms an understanding of your brand. Here‘s why brand positioning has become a critical factor in AI visibility."
         },
         {
+          "title": "ローカルビジネス向けにAI検索を最適化する方法",
+          "titleOrig": "How to do AI search optimization for local businesses",
+          "link": "https://www.semrush.com/blog/ai-search-optimization-for-local-businesses/",
+          "date": "Wed, 15 Jul 2026 11:05:00 +0000",
+          "summary": "See how AI search decides which local business to recommend, and how to become the one it names."
+        },
+        {
           "title": "オーディエンスリサーチ：内容と実施方法",
           "titleOrig": "Audience research: What it is & how to conduct it",
           "link": "https://www.semrush.com/blog/audience-research/",
@@ -86,13 +124,6 @@
           "link": "https://www.semrush.com/blog/google-search-console-adds-social-and-video-reports/",
           "date": "Fri, 10 Jul 2026 14:45:00 +0000",
           "summary": "Google Search Console now shows how your Instagram, TikTok, X, and YouTube content performs in Google Search."
-        },
-        {
-          "title": "2026年にAI検索に勝つための7つの最高のAI可視化ツール",
-          "titleOrig": "The 7 best AI visibility tools to win AI search in 2026",
-          "link": "https://www.semrush.com/blog/best-ai-visibility-tools/",
-          "date": "Wed, 08 Jul 2026 20:20:00 +0000",
-          "summary": "Explore these tried and tested AI visibility tools that help you monitor, analyze, and improve your brand presence across AI search engines."
         }
       ],
       "error": null
@@ -121,39 +152,8 @@
       "category": "SEO・キーワード調査",
       "sourceType": "tool",
       "feedUrl": "https://rakkokeyword.com/techo/feed/",
-      "items": [
-        {
-          "title": "無料ブログのおすすめ8選！スマホで簡単・収益化も狙えるベストな選択",
-          "link": "https://rakkokeyword.com/techo/best-free-blogs-smartphone-monetization/",
-          "date": "Tue, 14 Jul 2026 08:15:32 +0000",
-          "summary": "その迷いは、選ぶときに見るべきポイントを絞れば解消できます。 無料ブログは初期費用ゼロで、スマホひとつでその日のうちに始められます。 ただしサービスによって「勝手に表示される広告の有無」「アフィリエイトで収益化できるか」 ..."
-        },
-        {
-          "title": "MP3→OGG変換ツール",
-          "link": "https://rakkokeyword.com/techo/tool-mp3-ogg/",
-          "date": "Mon, 13 Jul 2026 07:07:53 +0000",
-          "summary": "このツールはブラウザ内で変換処理を行います。アップロードは行われず、ファイルが外部へ送信されることはありません。 ここをクリックするか、MP3ファイルをドラッグ＆ドロップ （対応形式：MP3 / 上限：50MB） 選択中 ..."
-        },
-        {
-          "title": "noteとブログはどっちが稼げる？違いと使い分けを比較",
-          "link": "https://rakkokeyword.com/techo/note-vs-blog-earnings-comparison/",
-          "date": "Mon, 13 Jul 2026 05:29:55 +0000",
-          "summary": "noteとブログは、どちらも文章で発信できる点は同じですが、収益化の仕組み・集客の方法・資産としての残り方が根本から違います。 この違いを理解すれば、あなたの目的に合うのがどちらかは迷わず決められます。 この記事では、n ..."
-        },
-        {
-          "title": "TikTokでバズるハッシュタグの選び方は？おすすめの見つけ方とコツを解説",
-          "link": "https://rakkokeyword.com/techo/tiktok-viral-hashtags-guide/",
-          "date": "Mon, 13 Jul 2026 05:20:43 +0000",
-          "summary": "「企画も音源選びも編集も時間をかけているのに、再生回数が200〜300回で止まってしまう。」 「おすすめ（For You）になかなか載らない。」 その原因のひとつが、思いついた単語を並べただけのハッシュタグかもしれません ..."
-        },
-        {
-          "title": "画像からカラーコード抽出ツール",
-          "link": "https://rakkokeyword.com/techo/tool-image-color/",
-          "date": "Fri, 10 Jul 2026 03:29:53 +0000",
-          "summary": "画像を選択またはドラッグ＆ドロップ 対応形式：JPEG（.jpg/.jpeg）、PNG、GIF、WebP ファイルを選択 画像上の色を知りたい場所をクリック（スマホはタップ）してください。 HEX (カラーコード) #— ..."
-        }
-      ],
-      "error": null
+      "items": [],
+      "error": "Status code 415"
     },
     {
       "tool": "Claude / Claude Code",
@@ -262,6 +262,13 @@
       "feedUrl": "https://wordpress.org/news/feed/",
       "items": [
         {
+          "title": "WordPress 7.1ベータ1",
+          "titleOrig": "WordPress 7.1 Beta 1",
+          "link": "https://wordpress.org/news/2026/07/wordpress-7-1-beta-1/",
+          "date": "Wed, 15 Jul 2026 15:53:33 +0000",
+          "summary": "WordPress 7.1 Beta 1 is ready for download and testing! This beta release is intended for testing and development only. Please do not install, run, or test this version of WordPress on production or m"
+        },
+        {
           "title": "WordCamp US 2026ガイド",
           "titleOrig": "Your Guide to WordCamp US 2026",
           "link": "https://wordpress.org/news/2026/07/wcus-2026-guide/",
@@ -288,13 +295,6 @@
           "link": "https://wordpress.org/news/2026/06/open-web-merch/",
           "date": "Mon, 22 Jun 2026 15:07:00 +0000",
           "summary": "Mercantile, the official swag store of the WordPress project, has a newly redesigned storefront with a catalog that now sits front and center, and a design tuned to hold up across a wide range of scre"
-        },
-        {
-          "title": "キム・パーセル記念奨学金がWordCamp US 2026にオープン",
-          "titleOrig": "Kim Parsell Memorial Scholarship Opens for WordCamp US 2026",
-          "link": "https://wordpress.org/news/2026/06/kim-parsell-wcus-scholarship/",
-          "date": "Fri, 19 Jun 2026 16:55:00 +0000",
-          "summary": "Applications are now open for the 2026 Kim Parsell Memorial Scholarship, which supports one active WordPress contributor who identifies as a woman and has not previously attended WordCamp US. The scho"
         }
       ],
       "error": null
@@ -311,7 +311,7 @@
           "titleOrig": "Obsidian 1.13.2 Mobile (Early access)",
           "link": "https://obsidian.md/changelog/2026-07-14-mobile-v1.13.2/",
           "date": "2026-07-14T00:00:00.000Z",
-          "summary": "Includes all new features and bug fixes up to Obsidian Desktop v1.13.2. Improvements iOS: Added a `` variable to the Share Sheet template for inserting the shared link into your note. No longer broken"
+          "summary": "Includes all new features and bug fixes up to Obsidian Desktop v1.13.2. Improvements iOS: Added a url variable to the Share Sheet template for inserting the shared link into your note. No longer broke"
         },
         {
           "title": "Obsidian 1.13.2デスクトップ（先行アクセス）",
@@ -352,6 +352,13 @@
       "feedUrl": "https://github.blog/feed/",
       "items": [
         {
+          "title": "初心者のためのGitHub ： GitHubの必需品を習得するためのロードマップ",
+          "titleOrig": "GitHub for Beginners: Your roadmap to mastering the GitHub essentials",
+          "link": "https://github.blog/developer-skills/github/github-for-beginners-your-roadmap-to-mastering-the-github-essentials/",
+          "date": "Wed, 15 Jul 2026 17:29:31 +0000",
+          "summary": "New to GitHub? This beginner's guide explains version control, repositories, and pull requests—plus everything else you need to start working confidently on GitHub. The post GitHub for Beginners: Your"
+        },
+        {
           "title": "より優れたツールは、Copilotのコードレビューを悪化させました。実際にどのように改善したかをご紹介します。",
           "titleOrig": "Better tools made Copilot code review worse. Here’s how we actually improved it.",
           "link": "https://github.blog/ai-and-ml/github-copilot/better-tools-made-copilot-code-review-worse-heres-how-we-actually-improved-it/",
@@ -378,13 +385,6 @@
           "link": "https://github.blog/news-insights/company-news/github-availability-report-june-2026/",
           "date": "Wed, 08 Jul 2026 19:35:51 +0000",
           "summary": "In June, we experienced six incidents that resulted in degraded performance across GitHub services. The post GitHub availability report: June 2026 appeared first on The GitHub Blog."
-        },
-        {
-          "title": "GitHub CopilotがGitHubページのDNS設定をゼロにする方法",
-          "titleOrig": "How GitHub Copilot enables zero DNS configuration for GitHub Pages",
-          "link": "https://github.blog/ai-and-ml/github-copilot/how-github-copilot-enables-zero-dns-configuration-for-github-pages/",
-          "date": "Wed, 08 Jul 2026 16:00:00 +0000",
-          "summary": "Go from an empty repository to a live custom domain with HTTPS in about 14 minutes, without manually editing a single DNS record. The post How GitHub Copilot enables zero DNS configuration for GitHub "
         }
       ],
       "error": null
