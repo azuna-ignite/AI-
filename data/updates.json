@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-07-16T02:41:43.639Z",
+  "fetchedAt": "2026-07-17T02:43:51.721Z",
   "tools": [
     {
       "tool": "ミエルカ（YouTube）",
@@ -51,6 +51,18 @@
       "feedUrl": "https://ahrefs.com/blog/ja/feed/",
       "items": [
         {
+          "title": "AEO（回答エンジン最適化）とは？SEO・GEO・LLMO との違いと、AI による概要に表示されるための実践ガイド",
+          "link": "https://ahrefs.com/blog/ja/aeo-seo-geo-llmo-difference/",
+          "date": "Fri, 17 Jul 2026 00:56:48 +0000",
+          "summary": "AEO（回答エンジン最適化）とは、ChatGPT・Gemini・Perplexity などの AI に自社コンテンツを引用・推奨させる最適化手法です。SEO・GEO・LLMO との違いや、Google の AI による概要に表示されるための実践的な対策を Ahrefs のツール活用例とともに解説します。 Read more › The post AEO（回答エンジン最適化）とは？SEO・GEO・L"
+        },
+        {
+          "title": "ブランドレーダー × Claude Code：ファンアウトクエリを活用したAI検索コンテンツギャップの見つけ方",
+          "link": "https://ahrefs.com/blog/ja/fan-out-query-content-gap/",
+          "date": "Thu, 16 Jul 2026 05:09:52 +0000",
+          "summary": "AI検索で自社が引用されない原因をクエリファンアウトで可視化し、競合ページとの構造ギャップを分析して、具体的なコンテンツ対策案まで導き出す方法を解説します。 Read more › The post ブランドレーダー × Claude Code：ファンアウトクエリを活用したAI検索コンテンツギャップの見つけ方 appeared first on Ahrefs 公式ブログ."
+        },
+        {
           "title": "ランキング・比較記事が AI 検索に与える影響｜AI SEO の調査結果",
           "link": "https://ahrefs.com/blog/ja/self-promotional-content-ai-seo-experiment/",
           "date": "Wed, 08 Jul 2026 06:34:22 +0000",
@@ -67,18 +79,6 @@
           "link": "https://ahrefs.com/blog/ja/what-is-a-good-ctr/",
           "date": "Tue, 30 Jun 2026 06:15:48 +0000",
           "summary": "42 万サイトの実データから算出した検索結果クリック率の業界別ベンチマーク。適切なオーガニック CTR の目安と、AI 検索時代のクリック率低下要因を詳しく解説します。 Read more › The post 適切なオーガニック CTR （検索結果クリック率）とは？実際のウェブサイトベンチマーク（2026 年 6 月版） appeared first on Ahrefs 公式ブログ."
-        },
-        {
-          "title": "Google AI モードと SEO への影響｜検索行動・CTR・SERP 変化を Ahrefs（エイチレフス）データで分析",
-          "link": "https://ahrefs.com/blog/ja/google-ai-mode-seo-analysis/",
-          "date": "Tue, 30 Jun 2026 00:29:42 +0000",
-          "summary": "Google AI モードや AI による概要が SERP 構造やクリック率（CTR）に与える影響を Ahrefs の最新データで分析。情報収集型クエリでの露出減少への短期的リライト対策から、一次情報を活かした中長期的な AI 検索最適化（AIO）の手順までプロの視点で解説します。 Read more › The post Google AI モードと SEO への影響｜検索行動・CTR・SERP"
-        },
-        {
-          "title": "AI 検索最適化（AIO）完全ガイド｜ChatGPT・Perplexity に引用されるコンテンツの作り方と Ahrefs（エイチレフス）活用法",
-          "link": "https://ahrefs.com/blog/ja/ahrefs-aio-guide/",
-          "date": "Fri, 26 Jun 2026 04:44:30 +0000",
-          "summary": "Ahrefs の AI エージェント機能を用いた AI 検索最適化（AIO）の解説記事です。自然言語での指示で被リンク監視やカレンダー生成などの業務を自動化する Ahrefs の使い方や、ChatGPT などの生成 AI 検索で自社サイトが引用されるための AI 検索対策を解説します。 Read more › The post AI 検索最適化（AIO）完全ガイド｜ChatGPT・Perplexi"
         }
       ],
       "error": null
@@ -172,6 +172,20 @@
       "feedUrl": "https://blog.google/technology/ai/rss/",
       "items": [
         {
+          "title": "より多くのアプリを検索に接続する",
+          "titleOrig": "Connect more of your apps to Search",
+          "link": "https://blog.google/products-and-platforms/products/search/connected-apps/",
+          "date": "Thu, 16 Jul 2026 16:00:00 +0000",
+          "summary": "You’ll be able to securely link and interact with your go-to services directly in AI Mode."
+        },
+        {
+          "title": "2つのGoogle Vidsアップデートで動画を作成、編集、スター付け",
+          "titleOrig": "Create, edit and star in videos with two Google Vids updates",
+          "link": "https://blog.google/products-and-platforms/products/workspace/gemini-omni-personal-avatars/",
+          "date": "Thu, 16 Jul 2026 16:00:00 +0000",
+          "summary": "Gemini Omni and personal avatars in Google Vids make video creation easier than ever."
+        },
+        {
           "title": "ビジュアル検索のイノベーションの25年を祝う",
           "titleOrig": "Celebrating 25 years of visual search innovation",
           "link": "https://blog.google/products-and-platforms/products/search/google-images-25th-anniversary/",
@@ -191,20 +205,6 @@
           "link": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-june-2026/",
           "date": "Wed, 01 Jul 2026 18:15:00 +0000",
           "summary": "Here are Google’s latest AI updates from June 2026."
-        },
-        {
-          "title": "ニューヨーク市の教育者や業界のリーダーがGoogleのオフィスに集まり、教室でのAIの未来を形作りました。",
-          "titleOrig": "New York City educators and industry leaders gathered at Google’s offices to shape the future of AI in classrooms.",
-          "link": "https://blog.google/products-and-platforms/products/education/nyc-ai-summit/",
-          "date": "Wed, 01 Jul 2026 16:00:00 +0000",
-          "summary": "Google, the New York Jobs CEO Council and Urban Assembly hosted an AI summit for 150 education and industry leaders."
-        },
-        {
-          "title": "英国の生産性の次の時代を解き放つ： AIの先駆者の国を構築する",
-          "titleOrig": "Unlocking Britain’s next era of productivity: Building a nation of AI trailblazers",
-          "link": "https://blog.google/company-news/inside-google/around-the-globe/google-europe/united-kingdom/unlocking-britains-next-era-of-productivity-building-a-nation-of-ai-trailblazers/",
-          "date": "Tue, 30 Jun 2026 06:00:00 +0000",
-          "summary": "Google UK shares its latest Economic Impact Report and how to enable more people to unlock the benefits of AI-powered technologies."
         }
       ],
       "error": null
