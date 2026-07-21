@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-07-20T03:22:25.414Z",
+  "fetchedAt": "2026-07-21T02:46:44.291Z",
   "tools": [
     {
       "tool": "ミエルカ（YouTube）",
@@ -9,39 +9,8 @@
       "type": "youtube",
       "handle": "@mieruca-channel",
       "feedUrl": "",
-      "items": [
-        {
-          "title": "LLMOで選ばれるブランドになるには？サイテーション・外部言及の考え方と増やし方",
-          "link": "https://www.youtube.com/watch?v=zCvKrcVbIUM",
-          "date": "2026-07-15T23:00:39.000Z",
-          "summary": ""
-        },
-        {
-          "title": "【テクニカルSEOとは】AI検索時代にも重要なクロール・インデックス・レンダリングの基本",
-          "link": "https://www.youtube.com/watch?v=ppsGy2jJsSU",
-          "date": "2026-07-13T23:00:08.000Z",
-          "summary": ""
-        },
-        {
-          "title": "サーチコンソール新機能「プラットフォーム プロパティ」｜X・YouTubeのGoogle検索成果を確認｜SEO Weekly Update",
-          "link": "https://www.youtube.com/watch?v=6X51_qK0BLE",
-          "date": "2026-07-12T23:27:45.000Z",
-          "summary": ""
-        },
-        {
-          "title": "LLMO対策の始め方｜AI検索で選ばれるために最初に見るべき5つ",
-          "link": "https://www.youtube.com/watch?v=RPiwE5sRLmY",
-          "date": "2026-07-07T23:00:09.000Z",
-          "summary": ""
-        },
-        {
-          "title": "AI Overviewsに「トップニュース」が直接表示、優先ソースの価値が高まる｜SEO Weekly Update",
-          "link": "https://www.youtube.com/watch?v=Fwc-GNGGBK4",
-          "date": "2026-07-05T22:30:21.000Z",
-          "summary": ""
-        }
-      ],
-      "error": null
+      "items": [],
+      "error": "Status code 404"
     },
     {
       "tool": "Ahrefs",
@@ -50,6 +19,12 @@
       "sourceType": "tool",
       "feedUrl": "https://ahrefs.com/blog/ja/feed/",
       "items": [
+        {
+          "title": "AI 推奨で自社ブランドのポジショニングを高める方法：AEO 対策と Ahrefs（エイチレフス）ブランドレーダー活用ガイド",
+          "link": "https://ahrefs.com/blog/ja/aeo-guide-ahrefs-brand-radar/",
+          "date": "Tue, 21 Jul 2026 00:48:52 +0000",
+          "summary": "ChatGPT などの普及で注目される AEO（Answer Engine Optimization）とは 何かを分かりやすく解説。Ahrefs のブランドレーダー機能を活用して自社ブランドの AI 上での見え方を定量的に把握し、競合との差を特定して引用率を改善するための具体的な AEO 対策の実務手順をお届けします。 Read more › The post AI 推奨で自社ブランドのポジショニ"
+        },
         {
           "title": "AEO（回答エンジン最適化）とは？SEO・GEO・LLMO との違いと、AI による概要に表示されるための実践ガイド",
           "link": "https://ahrefs.com/blog/ja/aeo-seo-geo-llmo-difference/",
@@ -73,12 +48,6 @@
           "link": "https://ahrefs.com/blog/ja/reddit-seo/",
           "date": "Fri, 03 Jul 2026 03:33:13 +0000",
           "summary": "Reddit を SEO に活用する正しい方法を解説。Google 検索や AI 検索での表示を増やすコミュニティ参加のベストプラクティスからブランド認知向上まで、実践的なステップを網羅しています。 Read more › The post Reddit の使い方：検索順位と AI 検索対策を強化する正しいアプローチ appeared first on Ahrefs 公式ブログ."
-        },
-        {
-          "title": "適切なオーガニック CTR （検索結果クリック率）とは？実際のウェブサイトベンチマーク（2026 年 6 月版）",
-          "link": "https://ahrefs.com/blog/ja/what-is-a-good-ctr/",
-          "date": "Tue, 30 Jun 2026 06:15:48 +0000",
-          "summary": "42 万サイトの実データから算出した検索結果クリック率の業界別ベンチマーク。適切なオーガニック CTR の目安と、AI 検索時代のクリック率低下要因を詳しく解説します。 Read more › The post 適切なオーガニック CTR （検索結果クリック率）とは？実際のウェブサイトベンチマーク（2026 年 6 月版） appeared first on Ahrefs 公式ブログ."
         }
       ],
       "error": null
@@ -90,6 +59,20 @@
       "sourceType": "tool",
       "feedUrl": "https://www.semrush.com/blog/feed/",
       "items": [
+        {
+          "title": "2026年の9つのベストジェネレーティブエンジン最適化（ GEO ）ツール",
+          "titleOrig": "The 9 Best Generative Engine Optimization (GEO) Tools of 2026",
+          "link": "https://www.semrush.com/blog/best-generative-engine-optimization-tools/",
+          "date": "Mon, 20 Jul 2026 20:36:00 +0000",
+          "summary": "Explore these handpicked GEO tools that help you monitor LLM mentions, analyze the competition, and boost your presence in AI search engines."
+        },
+        {
+          "title": "AIの可視性はトピックレベルのゲームです： ChatGPTで50,000ブランドの研究[研究]",
+          "titleOrig": "AI visibility is a topic-level game: A study of 50,000 brands in ChatGPT [Study]",
+          "link": "https://www.semrush.com/blog/chatgpt-topic-authority-study/",
+          "date": "Mon, 20 Jul 2026 13:04:00 +0000",
+          "summary": "Most ChatGPT topics still have no dominant brand. See what 50,000 brands reveal about winning AI visibility at the topic level."
+        },
         {
           "title": "Semrushを使用してAIの音声シェアを測定する方法",
           "titleOrig": "How to measure AI share of voice using Semrush",
@@ -110,20 +93,6 @@
           "link": "https://www.semrush.com/blog/brand-positioning-is-an-ai-search-variable/",
           "date": "Wed, 15 Jul 2026 13:01:00 +0000",
           "summary": "AI doesn‘t just rank pages. It forms an understanding of your brand. Here‘s why brand positioning has become a critical factor in AI visibility."
-        },
-        {
-          "title": "ローカルビジネス向けにAI検索を最適化する方法",
-          "titleOrig": "How to do AI search optimization for local businesses",
-          "link": "https://www.semrush.com/blog/ai-search-optimization-for-local-businesses/",
-          "date": "Wed, 15 Jul 2026 11:05:00 +0000",
-          "summary": "See how AI search decides which local business to recommend, and how to become the one it names."
-        },
-        {
-          "title": "オーディエンスリサーチ：内容と実施方法",
-          "titleOrig": "Audience research: What it is & how to conduct it",
-          "link": "https://www.semrush.com/blog/audience-research/",
-          "date": "Tue, 14 Jul 2026 09:25:00 +0000",
-          "summary": "Audience research helps you understand your ideal customers. Here’s a breakdown and how to do it."
         }
       ],
       "error": null
@@ -383,6 +352,13 @@
       "feedUrl": "https://github.blog/feed/",
       "items": [
         {
+          "title": "オープンソースのための1億$ ：コミュニティによって構築されたマイルストーン",
+          "titleOrig": "$100 million for open source: A milestone built by the community",
+          "link": "https://github.blog/open-source/maintainers/100-million-for-open-source-a-milestone-built-by-the-community/",
+          "date": "Mon, 20 Jul 2026 16:00:00 +0000",
+          "summary": "Celebrating $100 million contributed by the community to the people who build and sustain open source every day. The post $100 million for open source: A milestone built by the community appeared firs"
+        },
+        {
           "title": "「はい」と言うコストが変わりました",
           "titleOrig": "The cost of saying yes has changed",
           "link": "https://github.blog/engineering/the-cost-of-saying-yes-has-changed/",
@@ -409,13 +385,6 @@
           "link": "https://github.blog/security/application-security/how-github-gave-every-repository-a-durable-owner/",
           "date": "Thu, 09 Jul 2026 16:29:37 +0000",
           "summary": "GitHub had over 14,000 repositories. Fewer than half had clear ownership. Here's how we gave every active repository a validated owner in under 45 days, archived the rest, and made ownership the found"
-        },
-        {
-          "title": "GitHub Agentic Workflowsを使用したクロスレポドキュメントの自動化",
-          "titleOrig": "Automating cross-repo documentation with GitHub Agentic Workflows",
-          "link": "https://github.blog/ai-and-ml/github-copilot/automating-cross-repo-documentation-with-github-agentic-workflows/",
-          "date": "Wed, 08 Jul 2026 21:11:56 +0000",
-          "summary": "Explore how the Aspire team turns merged product changes into SME-reviewed docs pull requests, closing the gap between release and documentation. The post Automating cross-repo documentation with GitH"
         }
       ],
       "error": null
