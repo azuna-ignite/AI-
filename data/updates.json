@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-07-21T02:46:44.291Z",
+  "fetchedAt": "2026-07-22T02:44:22.520Z",
   "tools": [
     {
       "tool": "ミエルカ（YouTube）",
@@ -9,8 +9,39 @@
       "type": "youtube",
       "handle": "@mieruca-channel",
       "feedUrl": "",
-      "items": [],
-      "error": "Status code 404"
+      "items": [
+        {
+          "title": "【試験導入】GoogleマーチャントセンターにAI検索の分析機能｜自社商品の表示シェアがわかる｜SEO Weekly Update",
+          "link": "https://www.youtube.com/watch?v=rnS-OMVHJQ0",
+          "date": "2026-07-20T22:30:39.000Z",
+          "summary": ""
+        },
+        {
+          "title": "LLMOで選ばれるブランドになるには？サイテーション・外部言及の考え方と増やし方",
+          "link": "https://www.youtube.com/watch?v=zCvKrcVbIUM",
+          "date": "2026-07-15T23:00:39.000Z",
+          "summary": ""
+        },
+        {
+          "title": "【テクニカルSEOとは】AI検索時代にも重要なクロール・インデックス・レンダリングの基本",
+          "link": "https://www.youtube.com/watch?v=ppsGy2jJsSU",
+          "date": "2026-07-13T23:00:08.000Z",
+          "summary": ""
+        },
+        {
+          "title": "サーチコンソール新機能「プラットフォーム プロパティ」｜X・YouTubeのGoogle検索成果を確認｜SEO Weekly Update",
+          "link": "https://www.youtube.com/watch?v=6X51_qK0BLE",
+          "date": "2026-07-12T23:27:45.000Z",
+          "summary": ""
+        },
+        {
+          "title": "LLMO対策の始め方｜AI検索で選ばれるために最初に見るべき5つ",
+          "link": "https://www.youtube.com/watch?v=RPiwE5sRLmY",
+          "date": "2026-07-07T23:00:09.000Z",
+          "summary": ""
+        }
+      ],
+      "error": null
     },
     {
       "tool": "Ahrefs",
@@ -19,6 +50,12 @@
       "sourceType": "tool",
       "feedUrl": "https://ahrefs.com/blog/ja/feed/",
       "items": [
+        {
+          "title": "AI 概要で Google 検索 1 位の CTR が半年で激減、日本 クリック率が − 62.7% に減少",
+          "link": "https://ahrefs.com/blog/ja/ai-overviews-reduce-clicks-june-2026/",
+          "date": "Tue, 21 Jul 2026 16:37:10 +0000",
+          "summary": "AI 概要（ AI Overviews ）による検索 1 位のクリック率（ CTR ）低下が、この半年で一気に進行しています。Ahrefs のブランドレーダーでは、日本の情報収集型キーワードの検索 1 位 CTR 低下率が 2025 年 12 月の −38% から、2026 年 6 月には −62.7% へと拡大しました。「順位＝流入」の前提が崩れる今、マーケターが取るべき打ち手を解説します。 A"
+        },
         {
           "title": "AI 推奨で自社ブランドのポジショニングを高める方法：AEO 対策と Ahrefs（エイチレフス）ブランドレーダー活用ガイド",
           "link": "https://ahrefs.com/blog/ja/aeo-guide-ahrefs-brand-radar/",
@@ -42,12 +79,6 @@
           "link": "https://ahrefs.com/blog/ja/self-promotional-content-ai-seo-experiment/",
           "date": "Wed, 08 Jul 2026 06:34:22 +0000",
           "summary": "特集記事や推奨記事はAI検索結果にどう影響する？ChatGPT、Gemini 等 4 つの AI で 9,886 回答を分析。意外な逆効果パターンも判明した実験データを公開。 Read more › The post ランキング・比較記事が AI 検索に与える影響｜AI SEO の調査結果 appeared first on Ahrefs 公式ブログ."
-        },
-        {
-          "title": "Reddit の使い方：検索順位と AI 検索対策を強化する正しいアプローチ",
-          "link": "https://ahrefs.com/blog/ja/reddit-seo/",
-          "date": "Fri, 03 Jul 2026 03:33:13 +0000",
-          "summary": "Reddit を SEO に活用する正しい方法を解説。Google 検索や AI 検索での表示を増やすコミュニティ参加のベストプラクティスからブランド認知向上まで、実践的なステップを網羅しています。 Read more › The post Reddit の使い方：検索順位と AI 検索対策を強化する正しいアプローチ appeared first on Ahrefs 公式ブログ."
         }
       ],
       "error": null
@@ -307,6 +338,20 @@
       "feedUrl": "https://obsidian.md/changelog.xml",
       "items": [
         {
+          "title": "Obsidian 1.13.3モバイル（早期アクセス）",
+          "titleOrig": "Obsidian 1.13.3 Mobile (Early access)",
+          "link": "https://obsidian.md/changelog/2026-07-21-mobile-v1.13.3/",
+          "date": "2026-07-21T00:00:00.000Z",
+          "summary": "Includes all new features and bug fixes up to Obsidian Desktop v1.13.3. Improvements Added \"swipe down\" gesture to dismiss an image in the lightbox. No longer broken Tapping an image no longer shows t"
+        },
+        {
+          "title": "Obsidian 1.13.3デスクトップ（先行アクセス）",
+          "titleOrig": "Obsidian 1.13.3 Desktop (Early access)",
+          "link": "https://obsidian.md/changelog/2026-07-21-desktop-v1.13.3/",
+          "date": "2026-07-21T00:00:00.000Z",
+          "summary": "Improvements Live Preview: When the image is the only text on a line, the editor line height is no longer preserved to match the image height. Live Preview: Added a new selection state to image embeds"
+        },
+        {
           "title": "Obsidian 1.13.2モバイル（先行アクセス）",
           "titleOrig": "Obsidian 1.13.2 Mobile (Early access)",
           "link": "https://obsidian.md/changelog/2026-07-14-mobile-v1.13.2/",
@@ -326,20 +371,6 @@
           "link": "https://obsidian.md/changelog/2026-06-09-mobile-v1.13.1/",
           "date": "2026-06-09T00:00:00.000Z",
           "summary": "Includes all new features and bug fixes up to Obsidian Desktop v1.13.1. Improvements Settings pages now have enough padding to scroll fully into view when the onscreen keyboard is showing. No longer b"
-        },
-        {
-          "title": "Obsidian 1.13.1デスクトップ（先行アクセス）",
-          "titleOrig": "Obsidian 1.13.1 Desktop (Early access)",
-          "link": "https://obsidian.md/changelog/2026-06-09-desktop-v1.13.1/",
-          "date": "2026-06-09T00:00:00.000Z",
-          "summary": "Improvements Settings Sliders now show a permanent label with the current value, shown inline next to the slider instead of in a tooltip. Searching within a settings group now automatically filters th"
-        },
-        {
-          "title": "Obsidian 1.13.0モバイル（早期アクセス）",
-          "titleOrig": "Obsidian 1.13.0 Mobile (Early access)",
-          "link": "https://obsidian.md/changelog/2026-05-28-mobile-v1.13.0/",
-          "date": "2026-05-28T00:00:00.000Z",
-          "summary": "Includes all new features and bug fixes up to Obsidian Desktop v1.13.0. New iOS: New Share Sheet with configurable Locations. Configure Locations to point to different destinations across any of your "
         }
       ],
       "error": null
@@ -351,6 +382,13 @@
       "sourceType": "tool",
       "feedUrl": "https://github.blog/feed/",
       "items": [
+        {
+          "title": "キャンバスでインタラクティブな体験を構築する方法",
+          "titleOrig": "How to build interactive experiences with canvases",
+          "link": "https://github.blog/ai-and-ml/github-copilot/how-to-build-interactive-experiences-with-canvases/",
+          "date": "Tue, 21 Jul 2026 16:00:00 +0000",
+          "summary": "Canvases turn AI into interactive workspaces where you can visualize information, explore workflows, and take action across complex tasks. The post How to build interactive experiences with canvases a"
+        },
         {
           "title": "オープンソースのための1億$ ：コミュニティによって構築されたマイルストーン",
           "titleOrig": "$100 million for open source: A milestone built by the community",
@@ -378,13 +416,6 @@
           "link": "https://github.blog/ai-and-ml/github-copilot/better-tools-made-copilot-code-review-worse-heres-how-we-actually-improved-it/",
           "date": "Fri, 10 Jul 2026 15:57:47 +0000",
           "summary": "How migrating Copilot code review to shared Unix-style code exploration tools reduced review cost by reshaping agent workflows around pull request evidence. The post Better tools made Copilot code rev"
-        },
-        {
-          "title": "GitHubがすべてのリポジトリに永続的な所有者を与えた方法",
-          "titleOrig": "How GitHub gave every repository a durable owner",
-          "link": "https://github.blog/security/application-security/how-github-gave-every-repository-a-durable-owner/",
-          "date": "Thu, 09 Jul 2026 16:29:37 +0000",
-          "summary": "GitHub had over 14,000 repositories. Fewer than half had clear ownership. Here's how we gave every active repository a validated owner in under 45 days, archived the rest, and made ownership the found"
         }
       ],
       "error": null
@@ -396,6 +427,12 @@
       "sourceType": "media",
       "feedUrl": "https://www.mindfactory.co.jp/blog/feed/",
       "items": [
+        {
+          "title": "【新入社員インタビュー】5年の経験を経て、マインドファクトリーを選んだ理由￼￼",
+          "link": "https://www.mindfactory.co.jp/blog/8431",
+          "date": "Tue, 21 Jul 2026 07:51:09 +0000",
+          "summary": "マインドファクトリーのクリエイティブチームでは、企業のビジネスを加速させるデジタルマーケティングの一環として、戦略的かつハイクオリティなデザイン制作に取り組んでいます。組織のさらなる成長とクリエイティブ力の強化を目指す中 […]"
+        },
         {
           "title": "“伝わる”UIをつくれるデザイナーを目指して - インターン生インタビュー",
           "link": "https://www.mindfactory.co.jp/blog/8370",
@@ -419,12 +456,6 @@
           "link": "https://www.mindfactory.co.jp/blog/8333",
           "date": "Tue, 04 Nov 2025 03:17:02 +0000",
           "summary": "こんにちは。広告プランナーの野倉です。今回は、9月に参加した「岐阜県長良川研修ツアー」をレポートします！ 開会式とプレゼンテーションで旅が始まる ツアーは、朝の開会式からスタートしました。会場には少し緊張した面持ちの参加 […]"
-        },
-        {
-          "title": "株式会社桜とのパートナーシップ提携のご案内",
-          "link": "https://www.mindfactory.co.jp/blog/8312",
-          "date": "Thu, 04 Sep 2025 05:09:59 +0000",
-          "summary": "はじめに このたび、株式会社桜（以下 桜）と株式会社マインドファクトリー（以下 当社）は、ブランドコピーライティングとデジタルマーケティングにおいてパートナーシップ提携いたしました。桜が強みとする「ブランドコピーライティ […]"
         }
       ],
       "error": null
