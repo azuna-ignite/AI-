@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-07-22T02:44:22.520Z",
+  "fetchedAt": "2026-07-23T02:50:05.797Z",
   "tools": [
     {
       "tool": "ミエルカ（YouTube）",
@@ -10,6 +10,12 @@
       "handle": "@mieruca-channel",
       "feedUrl": "",
       "items": [
+        {
+          "title": "GEO/LLMO対策Q&A｜構造化データ・llms.txt・チャンク化は本当に有効か",
+          "link": "https://www.youtube.com/watch?v=t4FlUlAQfYo",
+          "date": "2026-07-22T23:00:32.000Z",
+          "summary": ""
+        },
         {
           "title": "【試験導入】GoogleマーチャントセンターにAI検索の分析機能｜自社商品の表示シェアがわかる｜SEO Weekly Update",
           "link": "https://www.youtube.com/watch?v=rnS-OMVHJQ0",
@@ -33,12 +39,6 @@
           "link": "https://www.youtube.com/watch?v=6X51_qK0BLE",
           "date": "2026-07-12T23:27:45.000Z",
           "summary": ""
-        },
-        {
-          "title": "LLMO対策の始め方｜AI検索で選ばれるために最初に見るべき5つ",
-          "link": "https://www.youtube.com/watch?v=RPiwE5sRLmY",
-          "date": "2026-07-07T23:00:09.000Z",
-          "summary": ""
         }
       ],
       "error": null
@@ -54,7 +54,7 @@
           "title": "AI 概要で Google 検索 1 位の CTR が半年で激減、日本 クリック率が − 62.7% に減少",
           "link": "https://ahrefs.com/blog/ja/ai-overviews-reduce-clicks-june-2026/",
           "date": "Tue, 21 Jul 2026 16:37:10 +0000",
-          "summary": "AI 概要（ AI Overviews ）による検索 1 位のクリック率（ CTR ）低下が、この半年で一気に進行しています。Ahrefs のブランドレーダーでは、日本の情報収集型キーワードの検索 1 位 CTR 低下率が 2025 年 12 月の −38% から、2026 年 6 月には −62.7% へと拡大しました。「順位＝流入」の前提が崩れる今、マーケターが取るべき打ち手を解説します。 A"
+          "summary": "AI 概要（ AI Overviews ）による検索 1 位のクリック率（ CTR ）低下が、この半年で一気に進行しています。Ahrefs の調査では、日本の情報収集型キーワードの検索 1 位 CTR 低下率が 2025 年 12 月の −38% から、2026 年 6 月には −62.7% へと拡大しました（米国は −58% → −68.8% ）。「順位＝流入」の前提が崩れる今、マーケターが取る"
         },
         {
           "title": "AI 推奨で自社ブランドのポジショニングを高める方法：AEO 対策と Ahrefs（エイチレフス）ブランドレーダー活用ガイド",
@@ -91,6 +91,20 @@
       "feedUrl": "https://www.semrush.com/blog/feed/",
       "items": [
         {
+          "title": "SEOのバックリンクとは何ですか？どのように入手できますか？",
+          "titleOrig": "What are backlinks in SEO & how do I get them?",
+          "link": "https://www.semrush.com/blog/what-are-backlinks/",
+          "date": "Wed, 22 Jul 2026 10:22:00 +0000",
+          "summary": "Backlinks signal trust and authority to search engines and AI. Learn 7 proven ways to build them."
+        },
+        {
+          "title": "ウェブサイトマーケティング： AI検索時代のガイド",
+          "titleOrig": "Website marketing: A guide for the AI search era",
+          "link": "https://www.semrush.com/blog/website-marketing/",
+          "date": "Wed, 22 Jul 2026 10:05:00 +0000",
+          "summary": "Website marketing strategies that build the credibility AI systems use to decide which brands to recommend."
+        },
+        {
           "title": "2026年の9つのベストジェネレーティブエンジン最適化（ GEO ）ツール",
           "titleOrig": "The 9 Best Generative Engine Optimization (GEO) Tools of 2026",
           "link": "https://www.semrush.com/blog/best-generative-engine-optimization-tools/",
@@ -110,20 +124,6 @@
           "link": "https://www.semrush.com/blog/how-to-measure-ai-share-of-voice/",
           "date": "Fri, 17 Jul 2026 10:35:00 +0000",
           "summary": "Learn how to measure your AI share of voice in AI search with Semrush, so you can start improving it."
-        },
-        {
-          "title": "SEOのためのリンク構築： 2026年にうまくいくこと",
-          "titleOrig": "Link building for SEO: What works in 2026",
-          "link": "https://www.semrush.com/blog/link-building/",
-          "date": "Fri, 17 Jul 2026 10:24:00 +0000",
-          "summary": "Learn what link building involves and how it improves your visibility in search engines and AI systems."
-        },
-        {
-          "title": "ブランドポジショニングがAI検索変数になった理由",
-          "titleOrig": "Why Brand Positioning Is Now an AI Search Variable",
-          "link": "https://www.semrush.com/blog/brand-positioning-is-an-ai-search-variable/",
-          "date": "Wed, 15 Jul 2026 13:01:00 +0000",
-          "summary": "AI doesn‘t just rank pages. It forms an understanding of your brand. Here‘s why brand positioning has become a critical factor in AI visibility."
         }
       ],
       "error": null
@@ -154,6 +154,12 @@
       "feedUrl": "https://rakkokeyword.com/techo/feed/",
       "items": [
         {
+          "title": "スコアボード（得点板）ツール",
+          "link": "https://rakkokeyword.com/techo/tool-scoreboard-web/",
+          "date": "Wed, 22 Jul 2026 06:39:07 +0000",
+          "summary": "全画面表示 名前を編集 SETS – 0 + 0 1点戻す 名前を編集 SETS – 0 + 0 1点戻す コートチェンジ リセット スコアとセット数を0にリセットしますか？ キャンセル リセットする ブラウザ上で今すぐ ..."
+        },
+        {
           "title": "大学生がブログで稼ぐには？始め方・おすすめジャンル・注意点",
           "link": "https://rakkokeyword.com/techo/college-student-blog/",
           "date": "Fri, 17 Jul 2026 07:16:59 +0000",
@@ -176,12 +182,6 @@
           "link": "https://rakkokeyword.com/techo/tool-pdf-image/",
           "date": "Thu, 16 Jul 2026 08:47:01 +0000",
           "summary": "ここにPDFファイルをドロップ またはクリックしてファイルを選択（最大5件/合計100MB） 選択をクリア 出力フォーマット JPG PNG ページ範囲指定（オプション） ※空白の場合は全ページから抽出します 画像を抽出 ..."
-        },
-        {
-          "title": "無料ブログのおすすめ8選！スマホで簡単・収益化も狙えるベストな選択",
-          "link": "https://rakkokeyword.com/techo/best-free-blogs-smartphone-monetization/",
-          "date": "Tue, 14 Jul 2026 08:15:32 +0000",
-          "summary": "その迷いは、選ぶときに見るべきポイントを絞れば解消できます。 無料ブログは初期費用ゼロで、スマホひとつでその日のうちに始められます。 ただしサービスによって「勝手に表示される広告の有無」「アフィリエイトで収益化できるか」 ..."
         }
       ],
       "error": null
@@ -202,6 +202,13 @@
       "sourceType": "tool",
       "feedUrl": "https://blog.google/technology/ai/rss/",
       "items": [
+        {
+          "title": "Galaxy Unpacked 2026からの3つのGoogleアップデート",
+          "titleOrig": "3 Google updates from Galaxy Unpacked 2026",
+          "link": "https://blog.google/products-and-platforms/platforms/android/galaxy-unpacked-2026/",
+          "date": "Wed, 22 Jul 2026 13:00:00 +0000",
+          "summary": "We shared how Samsung users can boost productivity and get time back on new foldables, watches, and glasses coming soon."
+        },
         {
           "title": "より多くのアプリを検索に接続する",
           "titleOrig": "Connect more of your apps to Search",
@@ -229,13 +236,6 @@
           "link": "https://blog.google/innovation-and-ai/technology/developers-tools/expanding-managed-agents-gemini-api/",
           "date": "Tue, 07 Jul 2026 08:54:00 +0000",
           "summary": "We’re announcing new capabilities in Managed Agents in Gemini API so developers can build reliable, production-ready agents."
-        },
-        {
-          "title": "2026年6月に発表した最新のAIニュース",
-          "titleOrig": "The latest AI news we announced in June 2026",
-          "link": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-june-2026/",
-          "date": "Wed, 01 Jul 2026 18:15:00 +0000",
-          "summary": "Here are Google’s latest AI updates from June 2026."
         }
       ],
       "error": null
@@ -293,6 +293,13 @@
       "feedUrl": "https://wordpress.org/news/feed/",
       "items": [
         {
+          "title": "WordPress 7.1ベータ3",
+          "titleOrig": "WordPress 7.1 Beta 3",
+          "link": "https://wordpress.org/news/2026/07/wordpress-7-1-beta-3/",
+          "date": "Wed, 22 Jul 2026 15:23:14 +0000",
+          "summary": "WordPress 7.1 Beta 3 is ready for download and testing! This beta release is intended for testing and development only. Please do not install, run, or test this version of WordPress on production or m"
+        },
+        {
           "title": "WordPress 7.0.2リリース",
           "titleOrig": "WordPress 7.0.2 Release",
           "link": "https://wordpress.org/news/2026/07/wordpress-7-0-2-release/",
@@ -319,13 +326,6 @@
           "link": "https://wordpress.org/news/2026/07/wordpress-7-0-1-maintenance-release/",
           "date": "Thu, 09 Jul 2026 17:33:42 +0000",
           "summary": "WordPress 7.0.1 is now available! This minor release includes fixes for 31 bugs throughout Core and the Block Editor, addressing issues affecting multiple areas of WordPress including the block editor"
-        },
-        {
-          "title": "初のAIリーダー卒業生",
-          "titleOrig": "The First AI Leaders Graduates",
-          "link": "https://wordpress.org/news/2026/06/ai-leaders-graduates/",
-          "date": "Mon, 29 Jun 2026 20:29:26 +0000",
-          "summary": "On June 23, around 40 students from the University of Illinois Chicago (UIC), Louisiana Tech University, and the University of Louisiana at Lafayette were celebrated in Chicago as the first cohort to "
         }
       ],
       "error": null
@@ -383,6 +383,20 @@
       "feedUrl": "https://github.blog/feed/",
       "items": [
         {
+          "title": "Copilot vs. RAW APIアクセス：実際には何にお金を払っていますか？",
+          "titleOrig": "Copilot vs. raw API access: What are you actually paying for?",
+          "link": "https://github.blog/ai-and-ml/github-copilot/copilot-vs-raw-api-access-what-are-you-actually-paying-for/",
+          "date": "Wed, 22 Jul 2026 19:00:00 +0000",
+          "summary": "Copilot now bills usage at listed API rates. Compare direct model access with the coding workflow, policy, and harness work around it. The post Copilot vs. raw API access: What are you actually paying"
+        },
+        {
+          "title": "次の章： GitHubのバグバウンティプログラムの再構築",
+          "titleOrig": "Next chapter: Restructuring GitHub’s bug bounty program",
+          "link": "https://github.blog/security/next-chapter-restructuring-githubs-bug-bounty-program/",
+          "date": "Wed, 22 Jul 2026 16:00:00 +0000",
+          "summary": "GitHub is making some significant changes to its bug bounty program, shifting its focus to give researchers a better experience working with the GitHub team. The post Next chapter: Restructuring GitHu"
+        },
+        {
           "title": "キャンバスでインタラクティブな体験を構築する方法",
           "titleOrig": "How to build interactive experiences with canvases",
           "link": "https://github.blog/ai-and-ml/github-copilot/how-to-build-interactive-experiences-with-canvases/",
@@ -402,20 +416,6 @@
           "link": "https://github.blog/engineering/the-cost-of-saying-yes-has-changed/",
           "date": "Fri, 17 Jul 2026 16:46:47 +0000",
           "summary": "The cost of writing code dropped; the cost of owning it didn't. A framework for deciding which changes are actually cheap in the AI era. The post The cost of saying yes has changed appeared first on T"
-        },
-        {
-          "title": "初心者のためのGitHub ： GitHubの必需品を習得するためのロードマップ",
-          "titleOrig": "GitHub for Beginners: Your roadmap to mastering the GitHub essentials",
-          "link": "https://github.blog/developer-skills/github/github-for-beginners-your-roadmap-to-mastering-the-github-essentials/",
-          "date": "Wed, 15 Jul 2026 17:29:31 +0000",
-          "summary": "New to GitHub? This beginner's guide explains version control, repositories, and pull requests—plus everything else you need to start working confidently on GitHub. The post GitHub for Beginners: Your"
-        },
-        {
-          "title": "より優れたツールは、Copilotのコードレビューを悪化させました。実際にどのように改善したかをご紹介します。",
-          "titleOrig": "Better tools made Copilot code review worse. Here’s how we actually improved it.",
-          "link": "https://github.blog/ai-and-ml/github-copilot/better-tools-made-copilot-code-review-worse-heres-how-we-actually-improved-it/",
-          "date": "Fri, 10 Jul 2026 15:57:47 +0000",
-          "summary": "How migrating Copilot code review to shared Unix-style code exploration tools reduced review cost by reshaping agent workflows around pull request evidence. The post Better tools made Copilot code rev"
         }
       ],
       "error": null
