@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-07-23T02:50:05.797Z",
+  "fetchedAt": "2026-07-24T02:45:17.794Z",
   "tools": [
     {
       "tool": "ミエルカ（YouTube）",
@@ -91,6 +91,20 @@
       "feedUrl": "https://www.semrush.com/blog/feed/",
       "items": [
         {
+          "title": "コンテンツSEOマネージャー：新しい役割がコンテンツマーケティングを引き継いだ方法[研究]",
+          "titleOrig": "The Content SEO Manager: How a brand-new role took over content marketing [Study]",
+          "link": "https://www.semrush.com/blog/content-seo-manager-study/",
+          "date": "Thu, 23 Jul 2026 13:00:00 +0000",
+          "summary": "We analyzed 1,000+ Content SEO Manager job listings to reveal the skills, AI expertise, and SEO trends shaping this emerging role."
+        },
+        {
+          "title": "ランディングページとは？知っておくべきこと+例",
+          "titleOrig": "What is a landing page? What to know + examples",
+          "link": "https://www.semrush.com/blog/what-is-a-landing-page/",
+          "date": "Thu, 23 Jul 2026 09:42:00 +0000",
+          "summary": "A landing page is designed to drive one action. Here are 7 best practices to improve your landing pages."
+        },
+        {
           "title": "SEOのバックリンクとは何ですか？どのように入手できますか？",
           "titleOrig": "What are backlinks in SEO & how do I get them?",
           "link": "https://www.semrush.com/blog/what-are-backlinks/",
@@ -110,20 +124,6 @@
           "link": "https://www.semrush.com/blog/best-generative-engine-optimization-tools/",
           "date": "Mon, 20 Jul 2026 20:36:00 +0000",
           "summary": "Explore these handpicked GEO tools that help you monitor LLM mentions, analyze the competition, and boost your presence in AI search engines."
-        },
-        {
-          "title": "AIの可視性はトピックレベルのゲームです： ChatGPTで50,000ブランドの研究[研究]",
-          "titleOrig": "AI visibility is a topic-level game: A study of 50,000 brands in ChatGPT [Study]",
-          "link": "https://www.semrush.com/blog/chatgpt-topic-authority-study/",
-          "date": "Mon, 20 Jul 2026 13:04:00 +0000",
-          "summary": "Most ChatGPT topics still have no dominant brand. See what 50,000 brands reveal about winning AI visibility at the topic level."
-        },
-        {
-          "title": "Semrushを使用してAIの音声シェアを測定する方法",
-          "titleOrig": "How to measure AI share of voice using Semrush",
-          "link": "https://www.semrush.com/blog/how-to-measure-ai-share-of-voice/",
-          "date": "Fri, 17 Jul 2026 10:35:00 +0000",
-          "summary": "Learn how to measure your AI share of voice in AI search with Semrush, so you can start improving it."
         }
       ],
       "error": null
@@ -154,6 +154,18 @@
       "feedUrl": "https://rakkokeyword.com/techo/feed/",
       "items": [
         {
+          "title": "シルエットクイズメーカー",
+          "link": "https://rakkokeyword.com/techo/tool-silhouette-quiz/",
+          "date": "Thu, 23 Jul 2026 05:32:20 +0000",
+          "summary": "安心設計：ファイルはお客様の端末内で処理され、サーバーには送信されません 画像ファイル（PNG/JPG）をドラッグ＆ドロップ またはクリックして選択 複数選択可 / 自動でシルエット化されます ＋ 追加する 🔄 ランダム ..."
+        },
+        {
+          "title": "X（旧Twitter）収益化の条件と稼ぐ方・収入の目安",
+          "link": "https://rakkokeyword.com/techo/x-twitter-monetization-requirements-earnings/",
+          "date": "Thu, 23 Jul 2026 05:16:51 +0000",
+          "summary": "Xの収益化は「公式プログラムで稼ぐ道」と「集客に使って外部で稼ぐ道」の2つがあり、後者なら公式の厳しい条件を満たさなくても収入につなげられます。 ただし公式プログラムで収益を受け取るには、「X Premiumへの加入」「 ..."
+        },
+        {
           "title": "スコアボード（得点板）ツール",
           "link": "https://rakkokeyword.com/techo/tool-scoreboard-web/",
           "date": "Wed, 22 Jul 2026 06:39:07 +0000",
@@ -170,18 +182,6 @@
           "link": "https://rakkokeyword.com/techo/how-to-make-money-blogging-high-school-students/",
           "date": "Fri, 17 Jul 2026 06:46:49 +0000",
           "summary": "スマホで情報発信するのが当たり前になった今、「高校生のうちからブログで稼ぎたい」と考える人が増えています。 結論から言うと、高校生でもブログで収入を得ることは可能です。実際に、趣味の記事だけで月数千円を稼ぐ人や、育てたブ ..."
-        },
-        {
-          "title": "VODアフィリエイトで趣味を収益化！初心者が稼ぐための戦略と記事の書き方・注意点",
-          "link": "https://rakkokeyword.com/techo/vod-affiliate-monetize-hobby-strategy/",
-          "date": "Fri, 17 Jul 2026 03:53:02 +0000",
-          "summary": "VODアフィリエイトは、正しい戦略とキーワード選定を押さえれば、初心者が今から参入しても収益を出せるジャンルです。 成果条件が「無料お試し登録」でハードルが低く、新作が次々に配信されるためネタも尽きにくいという特徴があり ..."
-        },
-        {
-          "title": "PDF→画像抽出ツール",
-          "link": "https://rakkokeyword.com/techo/tool-pdf-image/",
-          "date": "Thu, 16 Jul 2026 08:47:01 +0000",
-          "summary": "ここにPDFファイルをドロップ またはクリックしてファイルを選択（最大5件/合計100MB） 選択をクリア 出力フォーマット JPG PNG ページ範囲指定（オプション） ※空白の場合は全ページから抽出します 画像を抽出 ..."
         }
       ],
       "error": null
@@ -383,6 +383,13 @@
       "feedUrl": "https://github.blog/feed/",
       "items": [
         {
+          "title": "クールダウンの理由：バージョンアップを発行する前にDependabotが待機する理由",
+          "titleOrig": "The case for a cooldown: Why Dependabot now waits before issuing version updates",
+          "link": "https://github.blog/security/supply-chain-security/the-case-for-a-cooldown-why-dependabot-now-waits-before-issuing-version-updates/",
+          "date": "Thu, 23 Jul 2026 16:00:00 +0000",
+          "summary": "A new default three-day cooldown delays version update pull requests so maintainers and security researchers can address findings in a release before it gets into your code. The post The case for a co"
+        },
+        {
           "title": "Copilot vs. RAW APIアクセス：実際には何にお金を払っていますか？",
           "titleOrig": "Copilot vs. raw API access: What are you actually paying for?",
           "link": "https://github.blog/ai-and-ml/github-copilot/copilot-vs-raw-api-access-what-are-you-actually-paying-for/",
@@ -409,13 +416,6 @@
           "link": "https://github.blog/open-source/maintainers/100-million-for-open-source-a-milestone-built-by-the-community/",
           "date": "Mon, 20 Jul 2026 16:00:00 +0000",
           "summary": "Celebrating $100 million contributed by the community to the people who build and sustain open source every day. The post $100 million for open source: A milestone built by the community appeared firs"
-        },
-        {
-          "title": "「はい」と言うコストが変わりました",
-          "titleOrig": "The cost of saying yes has changed",
-          "link": "https://github.blog/engineering/the-cost-of-saying-yes-has-changed/",
-          "date": "Fri, 17 Jul 2026 16:46:47 +0000",
-          "summary": "The cost of writing code dropped; the cost of owning it didn't. A framework for deciding which changes are actually cheap in the AI era. The post The cost of saying yes has changed appeared first on T"
         }
       ],
       "error": null
