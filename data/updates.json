@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-07-24T02:45:17.794Z",
+  "fetchedAt": "2026-07-25T02:44:04.225Z",
   "tools": [
     {
       "tool": "ミエルカ（YouTube）",
@@ -91,6 +91,13 @@
       "feedUrl": "https://www.semrush.com/blog/feed/",
       "items": [
         {
+          "title": "Semrushのレビュー：人々がプラットフォームについてどのように言っているか",
+          "titleOrig": "Semrush reviews: What people say about the platform",
+          "link": "https://www.semrush.com/blog/semrush-reviews/",
+          "date": "Fri, 24 Jul 2026 16:34:00 +0000",
+          "summary": "Semrush has over 6,300 online reviews across G2 and Capterra. Read a summary of the top themes seen across them."
+        },
+        {
           "title": "コンテンツSEOマネージャー：新しい役割がコンテンツマーケティングを引き継いだ方法[研究]",
           "titleOrig": "The Content SEO Manager: How a brand-new role took over content marketing [Study]",
           "link": "https://www.semrush.com/blog/content-seo-manager-study/",
@@ -117,13 +124,6 @@
           "link": "https://www.semrush.com/blog/website-marketing/",
           "date": "Wed, 22 Jul 2026 10:05:00 +0000",
           "summary": "Website marketing strategies that build the credibility AI systems use to decide which brands to recommend."
-        },
-        {
-          "title": "2026年の9つのベストジェネレーティブエンジン最適化（ GEO ）ツール",
-          "titleOrig": "The 9 Best Generative Engine Optimization (GEO) Tools of 2026",
-          "link": "https://www.semrush.com/blog/best-generative-engine-optimization-tools/",
-          "date": "Mon, 20 Jul 2026 20:36:00 +0000",
-          "summary": "Explore these handpicked GEO tools that help you monitor LLM mentions, analyze the competition, and boost your presence in AI search engines."
         }
       ],
       "error": null
