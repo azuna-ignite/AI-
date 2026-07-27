@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-07-26T02:52:47.985Z",
+  "fetchedAt": "2026-07-27T03:17:54.702Z",
   "tools": [
     {
       "tool": "ミエルカ（YouTube）",
@@ -10,6 +10,12 @@
       "handle": "@mieruca-channel",
       "feedUrl": "",
       "items": [
+        {
+          "title": "ChatGPTで「Google離れ」は進んだ？利用データから見えたAI検索の実態｜SEO Weekly Update",
+          "link": "https://www.youtube.com/watch?v=ekQttgTMfsA",
+          "date": "2026-07-26T22:30:30.000Z",
+          "summary": ""
+        },
         {
           "title": "GEO/LLMO対策Q&A｜構造化データ・llms.txt・チャンク化は本当に有効か",
           "link": "https://www.youtube.com/watch?v=t4FlUlAQfYo",
@@ -32,12 +38,6 @@
           "title": "【テクニカルSEOとは】AI検索時代にも重要なクロール・インデックス・レンダリングの基本",
           "link": "https://www.youtube.com/watch?v=ppsGy2jJsSU",
           "date": "2026-07-13T23:00:08.000Z",
-          "summary": ""
-        },
-        {
-          "title": "サーチコンソール新機能「プラットフォーム プロパティ」｜X・YouTubeのGoogle検索成果を確認｜SEO Weekly Update",
-          "link": "https://www.youtube.com/watch?v=6X51_qK0BLE",
-          "date": "2026-07-12T23:27:45.000Z",
           "summary": ""
         }
       ],
