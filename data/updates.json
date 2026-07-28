@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-07-27T03:17:54.702Z",
+  "fetchedAt": "2026-07-28T02:36:20.284Z",
   "tools": [
     {
       "tool": "ミエルカ（YouTube）",
@@ -51,6 +51,12 @@
       "feedUrl": "https://ahrefs.com/blog/ja/feed/",
       "items": [
         {
+          "title": "【Ahrefs 独占取材】Hakuhodo DY ONE は、いかに AI 検索時代の市場変化をデータで読み解くのか？",
+          "link": "https://ahrefs.com/blog/ja/hakuhodo-dy-one-ai-search-interview/",
+          "date": "Mon, 27 Jul 2026 23:28:12 +0000",
+          "summary": "AI 検索のトラフィック総量は前年比 約2.3 倍、検索プラットフォーム全体では 約110% と拡大を続ける。 従来型検索が AI 検索に「食われる」のではなく、ユーザーは目的に応じて使い分けを始めている。この変化の最前線で、クライアント企業の検索戦略を支え続けているのが、株式会社 Hakuhodo DY ONEです。 同社のAI検索研究機関「ONE-AIO Lab」 の所長を務める登 章良氏は、"
+        },
+        {
           "title": "AI 概要で Google 検索 1 位の CTR が半年で激減、日本 クリック率が − 62.7% に減少",
           "link": "https://ahrefs.com/blog/ja/ai-overviews-reduce-clicks-june-2026/",
           "date": "Tue, 21 Jul 2026 16:37:10 +0000",
@@ -73,12 +79,6 @@
           "link": "https://ahrefs.com/blog/ja/fan-out-query-content-gap/",
           "date": "Thu, 16 Jul 2026 05:09:52 +0000",
           "summary": "AI検索で自社が引用されない原因をクエリファンアウトで可視化し、競合ページとの構造ギャップを分析して、具体的なコンテンツ対策案まで導き出す方法を解説します。 Read more › The post ブランドレーダー × Claude Code：ファンアウトクエリを活用したAI検索コンテンツギャップの見つけ方 appeared first on Ahrefs 公式ブログ."
-        },
-        {
-          "title": "ランキング・比較記事が AI 検索に与える影響｜AI SEO の調査結果",
-          "link": "https://ahrefs.com/blog/ja/self-promotional-content-ai-seo-experiment/",
-          "date": "Wed, 08 Jul 2026 06:34:22 +0000",
-          "summary": "特集記事や推奨記事はAI検索結果にどう影響する？ChatGPT、Gemini 等 4 つの AI で 9,886 回答を分析。意外な逆効果パターンも判明した実験データを公開。 Read more › The post ランキング・比較記事が AI 検索に与える影響｜AI SEO の調査結果 appeared first on Ahrefs 公式ブログ."
         }
       ],
       "error": null
@@ -91,39 +91,39 @@
       "feedUrl": "https://www.semrush.com/blog/feed/",
       "items": [
         {
+          "title": "SEOのためのキーワードマッピング：ガイド+無料テンプレート",
+          "titleOrig": "Keyword mapping for SEO: Guide + free template",
+          "link": "https://www.semrush.com/blog/keyword-mapping/",
+          "date": "Mon, 27 Jul 2026 15:11:00 +0000",
+          "summary": "Keyword mapping is an SEO technique for assigning target terms to the corresponding pages on your site."
+        },
+        {
+          "title": "AIの可視性ROIと収益への影響を判断する方法",
+          "titleOrig": "How to determine AI visibility ROI and revenue impact",
+          "link": "https://www.semrush.com/blog/ai-visibility-roi/",
+          "date": "Mon, 27 Jul 2026 10:17:00 +0000",
+          "summary": "Determine AI visibility ROI by linking mentions, citations, and AI referrals directly to leads and revenue."
+        },
+        {
+          "title": "SemrushでAIの可視性ギャップを見つける方法",
+          "titleOrig": "How to find AI visibility gaps with Semrush",
+          "link": "https://www.semrush.com/blog/find-ai-visibility-gaps-with-semrush/",
+          "date": "Mon, 27 Jul 2026 09:34:00 +0000",
+          "summary": "Find AI visibility gaps with Semrush. Spot prompts and sources where competitors get cited but you don‘t."
+        },
+        {
+          "title": "2026年の13の高度なSEOテクニックと戦略",
+          "titleOrig": "13 Advanced SEO techniques & strategies for 2026",
+          "link": "https://www.semrush.com/blog/advanced-seo/",
+          "date": "Mon, 27 Jul 2026 09:12:00 +0000",
+          "summary": "Advanced SEO techniques include optimizing content for AI extraction and improving crawl depth."
+        },
+        {
           "title": "Semrushのレビュー：人々がプラットフォームについてどのように言っているか",
           "titleOrig": "Semrush reviews: What people say about the platform",
           "link": "https://www.semrush.com/blog/semrush-reviews/",
           "date": "Fri, 24 Jul 2026 16:34:00 +0000",
           "summary": "Semrush has over 6,300 online reviews across G2 and Capterra. Read a summary of the top themes seen across them."
-        },
-        {
-          "title": "コンテンツSEOマネージャー：新しい役割がコンテンツマーケティングを引き継いだ方法[研究]",
-          "titleOrig": "The Content SEO Manager: How a brand-new role took over content marketing [Study]",
-          "link": "https://www.semrush.com/blog/content-seo-manager-study/",
-          "date": "Thu, 23 Jul 2026 13:00:00 +0000",
-          "summary": "We analyzed 1,000+ Content SEO Manager job listings to reveal the skills, AI expertise, and SEO trends shaping this emerging role."
-        },
-        {
-          "title": "ランディングページとは？知っておくべきこと+例",
-          "titleOrig": "What is a landing page? What to know + examples",
-          "link": "https://www.semrush.com/blog/what-is-a-landing-page/",
-          "date": "Thu, 23 Jul 2026 09:42:00 +0000",
-          "summary": "A landing page is designed to drive one action. Here are 7 best practices to improve your landing pages."
-        },
-        {
-          "title": "SEOのバックリンクとは何ですか？どのように入手できますか？",
-          "titleOrig": "What are backlinks in SEO & how do I get them?",
-          "link": "https://www.semrush.com/blog/what-are-backlinks/",
-          "date": "Wed, 22 Jul 2026 10:22:00 +0000",
-          "summary": "Backlinks signal trust and authority to search engines and AI. Learn 7 proven ways to build them."
-        },
-        {
-          "title": "ウェブサイトマーケティング： AI検索時代のガイド",
-          "titleOrig": "Website marketing: A guide for the AI search era",
-          "link": "https://www.semrush.com/blog/website-marketing/",
-          "date": "Wed, 22 Jul 2026 10:05:00 +0000",
-          "summary": "Website marketing strategies that build the credibility AI systems use to decide which brands to recommend."
         }
       ],
       "error": null
@@ -154,6 +154,18 @@
       "feedUrl": "https://rakkokeyword.com/techo/feed/",
       "items": [
         {
+          "title": "自己流のインスタ集客から脱却！成功事例で学ぶファン化の仕組み",
+          "link": "https://rakkokeyword.com/techo/instagram-marketing-fan-building-strategy/",
+          "date": "Mon, 27 Jul 2026 07:04:29 +0000",
+          "summary": "Instagramの集客がうまくいかない原因の多くは、センスや投稿数ではなく、見込み客を集めて来店につなげる「流れ」ができていないことにあります。 見込み客に見つけてもらい、興味を持ってもらい、ファンになってもらって、最 ..."
+        },
+        {
+          "title": "レシピ分量計算ツール",
+          "link": "https://rakkokeyword.com/techo/tool-recipe-calc/",
+          "date": "Mon, 27 Jul 2026 05:02:50 +0000",
+          "summary": "元の基準値 (人分・個分など) 0より大きい正しい数値を入力してください 希望の基準値 (人分・個分など) 0より大きい正しい数値を入力してください 材料リスト 材料名 元の分量 単位 ＋ 材料を追加 ↺ 全てリセット ..."
+        },
+        {
           "title": "シルエットクイズメーカー",
           "link": "https://rakkokeyword.com/techo/tool-silhouette-quiz/",
           "date": "Thu, 23 Jul 2026 05:32:20 +0000",
@@ -170,18 +182,6 @@
           "link": "https://rakkokeyword.com/techo/tool-scoreboard-web/",
           "date": "Wed, 22 Jul 2026 06:39:07 +0000",
           "summary": "全画面表示 名前を編集 SETS – 0 + 0 1点戻す 名前を編集 SETS – 0 + 0 1点戻す コートチェンジ リセット スコアとセット数を0にリセットしますか？ キャンセル リセットする ブラウザ上で今すぐ ..."
-        },
-        {
-          "title": "大学生がブログで稼ぐには？始め方・おすすめジャンル・注意点",
-          "link": "https://rakkokeyword.com/techo/college-student-blog/",
-          "date": "Fri, 17 Jul 2026 07:16:59 +0000",
-          "summary": "そんな不安があっても心配いりません。 大学生はブログに向いています。 時間の自由がきき、就活で語れる経験になり、しかも数万円の元手で始められるからです。 この記事では、ブログ完全初心者の大学生に向けて、「やめとけ」の真相 ..."
-        },
-        {
-          "title": "高校生がブログで稼ぐには？始め方・おすすめジャンル・安全対策",
-          "link": "https://rakkokeyword.com/techo/how-to-make-money-blogging-high-school-students/",
-          "date": "Fri, 17 Jul 2026 06:46:49 +0000",
-          "summary": "スマホで情報発信するのが当たり前になった今、「高校生のうちからブログで稼ぎたい」と考える人が増えています。 結論から言うと、高校生でもブログで収入を得ることは可能です。実際に、趣味の記事だけで月数千円を稼ぐ人や、育てたブ ..."
         }
       ],
       "error": null
@@ -338,6 +338,20 @@
       "feedUrl": "https://obsidian.md/changelog.xml",
       "items": [
         {
+          "title": "Obsidian 1.13.4モバイル（先行アクセス）",
+          "titleOrig": "Obsidian 1.13.4 Mobile (Early access)",
+          "link": "https://obsidian.md/changelog/2026-07-27-mobile-v1.13.4/",
+          "date": "2026-07-27T00:00:00.000Z",
+          "summary": "Includes all new features and bug fixes up to Obsidian Desktop v1.13.4. Improvements Improved overall appearance of settings in dark mode. No longer broken Fixed search input getting automatically foc"
+        },
+        {
+          "title": "Obsidian 1.13.4デスクトップ（先行アクセス）",
+          "titleOrig": "Obsidian 1.13.4 Desktop (Early access)",
+          "link": "https://obsidian.md/changelog/2026-07-27-desktop-v1.13.4/",
+          "date": "2026-07-27T00:00:00.000Z",
+          "summary": "Improvements The image lightbox now displays the file name of the current image. Improved layout of Page Preview settings. Settings: Download counts are now abbreviated for plugins and themes. Setting"
+        },
+        {
           "title": "Obsidian 1.13.3モバイル（早期アクセス）",
           "titleOrig": "Obsidian 1.13.3 Mobile (Early access)",
           "link": "https://obsidian.md/changelog/2026-07-21-mobile-v1.13.3/",
@@ -357,20 +371,6 @@
           "link": "https://obsidian.md/changelog/2026-07-14-mobile-v1.13.2/",
           "date": "2026-07-14T00:00:00.000Z",
           "summary": "Includes all new features and bug fixes up to Obsidian Desktop v1.13.2. Improvements iOS: Added a url variable to the Share Sheet template for inserting the shared link into your note. No longer broke"
-        },
-        {
-          "title": "Obsidian 1.13.2デスクトップ（先行アクセス）",
-          "titleOrig": "Obsidian 1.13.2 Desktop (Early access)",
-          "link": "https://obsidian.md/changelog/2026-07-14-desktop-v1.13.2/",
-          "date": "2026-07-14T00:00:00.000Z",
-          "summary": "New New image lightbox for viewing images fullscreen. Click the image in reading mode to open it. Or in live preview, with an image selected, click or press Space to open it in the lightbox. Use arrow"
-        },
-        {
-          "title": "Obsidian 1.13.1モバイル（早期アクセス）",
-          "titleOrig": "Obsidian 1.13.1 Mobile (Early access)",
-          "link": "https://obsidian.md/changelog/2026-06-09-mobile-v1.13.1/",
-          "date": "2026-06-09T00:00:00.000Z",
-          "summary": "Includes all new features and bug fixes up to Obsidian Desktop v1.13.1. Improvements Settings pages now have enough padding to scroll fully into view when the onscreen keyboard is showing. No longer b"
         }
       ],
       "error": null
@@ -382,6 +382,20 @@
       "sourceType": "tool",
       "feedUrl": "https://github.blog/feed/",
       "items": [
+        {
+          "title": "ハーネスはあなたが必要とするすべてです（主に）",
+          "titleOrig": "The harness is all you need (mostly)",
+          "link": "https://github.blog/ai-and-ml/github-copilot/the-harness-is-all-you-need-mostly/",
+          "date": "Mon, 27 Jul 2026 18:00:00 +0000",
+          "summary": "A practical GitHub Copilot workflow for prototyping, planning, implementing, and reviewing software without chasing every new AI tool. The post The harness is all you need (mostly) appeared first on T"
+        },
+        {
+          "title": "初心者向けGitHub Copilotアプリ：はじめに",
+          "titleOrig": "GitHub Copilot app for Beginners: Getting started",
+          "link": "https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-getting-started/",
+          "date": "Mon, 27 Jul 2026 16:00:00 +0000",
+          "summary": "New to the GitHub Copilot app? Learn how to start projects, work with AI agents, explore canvases, and streamline your development workflow. The post GitHub Copilot app for Beginners: Getting started "
+        },
         {
           "title": "クールダウンの理由：バージョンアップを発行する前にDependabotが待機する理由",
           "titleOrig": "The case for a cooldown: Why Dependabot now waits before issuing version updates",
@@ -402,20 +416,6 @@
           "link": "https://github.blog/security/next-chapter-restructuring-githubs-bug-bounty-program/",
           "date": "Wed, 22 Jul 2026 16:00:00 +0000",
           "summary": "GitHub is making some significant changes to its bug bounty program, shifting its focus to give researchers a better experience working with the GitHub team. The post Next chapter: Restructuring GitHu"
-        },
-        {
-          "title": "キャンバスでインタラクティブな体験を構築する方法",
-          "titleOrig": "How to build interactive experiences with canvases",
-          "link": "https://github.blog/ai-and-ml/github-copilot/how-to-build-interactive-experiences-with-canvases/",
-          "date": "Tue, 21 Jul 2026 16:00:00 +0000",
-          "summary": "Canvases turn AI into interactive workspaces where you can visualize information, explore workflows, and take action across complex tasks. The post How to build interactive experiences with canvases a"
-        },
-        {
-          "title": "オープンソースのための1億$ ：コミュニティによって構築されたマイルストーン",
-          "titleOrig": "$100 million for open source: A milestone built by the community",
-          "link": "https://github.blog/open-source/maintainers/100-million-for-open-source-a-milestone-built-by-the-community/",
-          "date": "Mon, 20 Jul 2026 16:00:00 +0000",
-          "summary": "Celebrating $100 million contributed by the community to the people who build and sustain open source every day. The post $100 million for open source: A milestone built by the community appeared firs"
         }
       ],
       "error": null
@@ -427,6 +427,12 @@
       "sourceType": "media",
       "feedUrl": "https://www.mindfactory.co.jp/blog/feed/",
       "items": [
+        {
+          "title": "【新入社員インタビュー】プリ機のUIデザインから新天地へ。￼",
+          "link": "https://www.mindfactory.co.jp/blog/8439",
+          "date": "Tue, 28 Jul 2026 01:38:35 +0000",
+          "summary": "マインドファクトリーのクリエイティブチームでは、企業の課題解決を最大化するデジタルマーケティングの一環として、ロジックに基づいた戦略的なデザインの提供に注力しています。チームの多様性とクリエイティブの幅をさらに広げるべく […]"
+        },
         {
           "title": "【新入社員インタビュー】5年の経験を経て、マインドファクトリーを選んだ理由￼￼",
           "link": "https://www.mindfactory.co.jp/blog/8431",
@@ -450,12 +456,6 @@
           "link": "https://www.mindfactory.co.jp/blog/8357",
           "date": "Fri, 05 Dec 2025 09:20:14 +0000",
           "summary": "平素は格別のお引き立てを賜り、厚く御礼申し上げます。誠に勝手ながら、弊社は、下記の期間を年末年始休業とさせていただきます。 ■ 年末年始休暇期間2025年12月27日（土）～2026年1月4日（日） ご不便をおかけいたし […]"
-        },
-        {
-          "title": "岐阜の魅力を満喫！長良川研修ツアー体験記",
-          "link": "https://www.mindfactory.co.jp/blog/8333",
-          "date": "Tue, 04 Nov 2025 03:17:02 +0000",
-          "summary": "こんにちは。広告プランナーの野倉です。今回は、9月に参加した「岐阜県長良川研修ツアー」をレポートします！ 開会式とプレゼンテーションで旅が始まる ツアーは、朝の開会式からスタートしました。会場には少し緊張した面持ちの参加 […]"
         }
       ],
       "error": null
