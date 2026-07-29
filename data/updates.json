@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-07-28T02:36:20.284Z",
+  "fetchedAt": "2026-07-29T02:43:28.490Z",
   "tools": [
     {
       "tool": "ミエルカ（YouTube）",
@@ -10,6 +10,12 @@
       "handle": "@mieruca-channel",
       "feedUrl": "",
       "items": [
+        {
+          "title": "AI記事が「どこかで見た内容」になる理由｜SEO記事に独自性を出す工夫とは",
+          "link": "https://www.youtube.com/watch?v=BeN2zIb6qYo",
+          "date": "2026-07-28T23:00:06.000Z",
+          "summary": ""
+        },
         {
           "title": "ChatGPTで「Google離れ」は進んだ？利用データから見えたAI検索の実態｜SEO Weekly Update",
           "link": "https://www.youtube.com/watch?v=ekQttgTMfsA",
@@ -32,12 +38,6 @@
           "title": "LLMOで選ばれるブランドになるには？サイテーション・外部言及の考え方と増やし方",
           "link": "https://www.youtube.com/watch?v=zCvKrcVbIUM",
           "date": "2026-07-15T23:00:39.000Z",
-          "summary": ""
-        },
-        {
-          "title": "【テクニカルSEOとは】AI検索時代にも重要なクロール・インデックス・レンダリングの基本",
-          "link": "https://www.youtube.com/watch?v=ppsGy2jJsSU",
-          "date": "2026-07-13T23:00:08.000Z",
           "summary": ""
         }
       ],
@@ -154,6 +154,18 @@
       "feedUrl": "https://rakkokeyword.com/techo/feed/",
       "items": [
         {
+          "title": "TikTokの伸ばし方・再生数が止まる原因を絶つ本質的な運用術",
+          "link": "https://rakkokeyword.com/techo/tiktok-growth-strategy/",
+          "date": "Tue, 28 Jul 2026 06:55:01 +0000",
+          "summary": "TikTokの再生回数が伸びないのは、才能やセンスの問題ではありません。 動画をおすすめに表示させる「アルゴリズム」の仕組みを理解し、それに沿った運用に切り替えれば、伸び悩みの多くは解消できます。 この記事を読めば、「2 ..."
+        },
+        {
+          "title": "【noteで稼ぐ】一般人の記事は誰が買う？実績ゼロから着実に収益化する手順",
+          "link": "https://rakkokeyword.com/techo/note-monetization-guide/",
+          "date": "Tue, 28 Jul 2026 02:51:58 +0000",
+          "summary": "結論から言うと、実績ゼロの一般人でもnoteで収入を得ることは十分に可能です。 noteは有料記事やメンバーシップなど、初期費用ゼロで始められる収益化の仕組みが整っており、ブログのように難しい初期設定やSEOの知識がなく ..."
+        },
+        {
           "title": "自己流のインスタ集客から脱却！成功事例で学ぶファン化の仕組み",
           "link": "https://rakkokeyword.com/techo/instagram-marketing-fan-building-strategy/",
           "date": "Mon, 27 Jul 2026 07:04:29 +0000",
@@ -170,18 +182,6 @@
           "link": "https://rakkokeyword.com/techo/tool-silhouette-quiz/",
           "date": "Thu, 23 Jul 2026 05:32:20 +0000",
           "summary": "安心設計：ファイルはお客様の端末内で処理され、サーバーには送信されません 画像ファイル（PNG/JPG）をドラッグ＆ドロップ またはクリックして選択 複数選択可 / 自動でシルエット化されます ＋ 追加する 🔄 ランダム ..."
-        },
-        {
-          "title": "X（旧Twitter）収益化の条件と稼ぐ方・収入の目安",
-          "link": "https://rakkokeyword.com/techo/x-twitter-monetization-requirements-earnings/",
-          "date": "Thu, 23 Jul 2026 05:16:51 +0000",
-          "summary": "Xの収益化は「公式プログラムで稼ぐ道」と「集客に使って外部で稼ぐ道」の2つがあり、後者なら公式の厳しい条件を満たさなくても収入につなげられます。 ただし公式プログラムで収益を受け取るには、「X Premiumへの加入」「 ..."
-        },
-        {
-          "title": "スコアボード（得点板）ツール",
-          "link": "https://rakkokeyword.com/techo/tool-scoreboard-web/",
-          "date": "Wed, 22 Jul 2026 06:39:07 +0000",
-          "summary": "全画面表示 名前を編集 SETS – 0 + 0 1点戻す 名前を編集 SETS – 0 + 0 1点戻す コートチェンジ リセット スコアとセット数を0にリセットしますか？ キャンセル リセットする ブラウザ上で今すぐ ..."
         }
       ],
       "error": null
@@ -203,6 +203,27 @@
       "feedUrl": "https://blog.google/technology/ai/rss/",
       "items": [
         {
+          "title": "Gemini APIマネージドエージェント： 3.6 Flash、フックなど",
+          "titleOrig": "Gemini API Managed Agents: 3.6 Flash, hooks, and more",
+          "link": "https://blog.google/innovation-and-ai/technology/developers-tools/expanding-managed-agents-gemini-api-3-6-flash-hooks/",
+          "date": "Tue, 28 Jul 2026 16:00:00 +0000",
+          "summary": "We’re announcing even more new capabilities in Managed Agents in Gemini API so developers can build reliable, production-ready agents."
+        },
+        {
+          "title": "検索のAIモードが現実世界を楽しむのに役立つ5つの方法",
+          "titleOrig": "5 ways AI Mode in Search helps you enjoy the real world",
+          "link": "https://blog.google/products-and-platforms/products/search/ai-mode-real-world-tips/",
+          "date": "Tue, 28 Jul 2026 13:00:00 +0000",
+          "summary": "It might sound counterintuitive, but Search's AI tools can actually help you make the most of your time offline whether you want to book concert tickets or find the perf…"
+        },
+        {
+          "title": "Google検索で究極のディナーパーティーを開催する5つの方法",
+          "titleOrig": "5 ways to host the ultimate dinner party with Google Search",
+          "link": "https://blog.google/products-and-platforms/products/search/dinner-party-hosting-tips/",
+          "date": "Tue, 28 Jul 2026 13:00:00 +0000",
+          "summary": "These AI features can help you craft a menu, design a tablescape, and handle other party-planning tasks."
+        },
+        {
           "title": "Galaxy Unpacked 2026からの3つのGoogleアップデート",
           "titleOrig": "3 Google updates from Galaxy Unpacked 2026",
           "link": "https://blog.google/products-and-platforms/platforms/android/galaxy-unpacked-2026/",
@@ -215,27 +236,6 @@
           "link": "https://blog.google/products-and-platforms/products/search/connected-apps/",
           "date": "Thu, 16 Jul 2026 16:00:00 +0000",
           "summary": "You’ll be able to securely link and interact with your go-to services directly in AI Mode."
-        },
-        {
-          "title": "2つのGoogle Vidsアップデートで動画を作成、編集、スター付け",
-          "titleOrig": "Create, edit and star in videos with two Google Vids updates",
-          "link": "https://blog.google/products-and-platforms/products/workspace/gemini-omni-personal-avatars/",
-          "date": "Thu, 16 Jul 2026 16:00:00 +0000",
-          "summary": "Gemini Omni and personal avatars in Google Vids make video creation easier than ever."
-        },
-        {
-          "title": "ビジュアル検索のイノベーションの25年を祝う",
-          "titleOrig": "Celebrating 25 years of visual search innovation",
-          "link": "https://blog.google/products-and-platforms/products/search/google-images-25th-anniversary/",
-          "date": "Tue, 14 Jul 2026 16:00:00 +0000",
-          "summary": "Google Images is turning 25. Here’s a look back at some major milestones — and new ways to explore and create visual content."
-        },
-        {
-          "title": "Gemini APIでのマネージドエージェントの拡張：バックグラウンドタスク、リモートMCPなど",
-          "titleOrig": "Expanding Managed Agents in Gemini API:  background tasks, remote MCP and more",
-          "link": "https://blog.google/innovation-and-ai/technology/developers-tools/expanding-managed-agents-gemini-api/",
-          "date": "Tue, 07 Jul 2026 08:54:00 +0000",
-          "summary": "We’re announcing new capabilities in Managed Agents in Gemini API so developers can build reliable, production-ready agents."
         }
       ],
       "error": null
@@ -383,6 +383,13 @@
       "feedUrl": "https://github.blog/feed/",
       "items": [
         {
+          "title": "NpmとGitHubへのサプライチェーン攻撃の中断アクション",
+          "titleOrig": "Disrupting supply chain attacks on npm and GitHub Actions",
+          "link": "https://github.blog/security/supply-chain-security/disrupting-supply-chain-attacks-on-npm-and-github-actions/",
+          "date": "Tue, 28 Jul 2026 16:00:00 +0000",
+          "summary": "Explore the changes we've shipped across npm and GitHub Actions over the past few months to disrupt supply chain attack techniques and limit their impact. The post Disrupting supply chain attacks on n"
+        },
+        {
           "title": "ハーネスはあなたが必要とするすべてです（主に）",
           "titleOrig": "The harness is all you need (mostly)",
           "link": "https://github.blog/ai-and-ml/github-copilot/the-harness-is-all-you-need-mostly/",
@@ -409,13 +416,6 @@
           "link": "https://github.blog/ai-and-ml/github-copilot/copilot-vs-raw-api-access-what-are-you-actually-paying-for/",
           "date": "Wed, 22 Jul 2026 19:00:00 +0000",
           "summary": "Copilot now bills usage at listed API rates. Compare direct model access with the coding workflow, policy, and harness work around it. The post Copilot vs. raw API access: What are you actually paying"
-        },
-        {
-          "title": "次の章： GitHubのバグバウンティプログラムの再構築",
-          "titleOrig": "Next chapter: Restructuring GitHub’s bug bounty program",
-          "link": "https://github.blog/security/next-chapter-restructuring-githubs-bug-bounty-program/",
-          "date": "Wed, 22 Jul 2026 16:00:00 +0000",
-          "summary": "GitHub is making some significant changes to its bug bounty program, shifting its focus to give researchers a better experience working with the GitHub team. The post Next chapter: Restructuring GitHu"
         }
       ],
       "error": null
