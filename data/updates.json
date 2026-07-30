@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-07-29T02:43:28.490Z",
+  "fetchedAt": "2026-07-30T02:28:53.967Z",
   "tools": [
     {
       "tool": "ミエルカ（YouTube）",
@@ -293,6 +293,13 @@
       "feedUrl": "https://wordpress.org/news/feed/",
       "items": [
         {
+          "title": "WordPress 7.1ベータ4",
+          "titleOrig": "WordPress 7.1 Beta 4",
+          "link": "https://wordpress.org/news/2026/07/wordpress-7-1-beta-4/",
+          "date": "Wed, 29 Jul 2026 15:30:58 +0000",
+          "summary": "WordPress 7.1 Beta 4 is ready for download and testing! This beta release is intended for testing and development only. Please do not install, run, or test this version of WordPress on production or m"
+        },
+        {
           "title": "WordPress 7.1ベータ3",
           "titleOrig": "WordPress 7.1 Beta 3",
           "link": "https://wordpress.org/news/2026/07/wordpress-7-1-beta-3/",
@@ -319,13 +326,6 @@
           "link": "https://wordpress.org/news/2026/07/wcus-2026-guide/",
           "date": "Mon, 13 Jul 2026 13:07:07 +0000",
           "summary": "WordCamp US 2026 returns for another year, this time in Phoenix, Arizona, for four days, August 16 to 19. It comes at a moment of real energy for WordPress, as artificial intelligence reshapes everyda"
-        },
-        {
-          "title": "WordPress 7.0.1メンテナンスリリース",
-          "titleOrig": "WordPress 7.0.1 Maintenance Release",
-          "link": "https://wordpress.org/news/2026/07/wordpress-7-0-1-maintenance-release/",
-          "date": "Thu, 09 Jul 2026 17:33:42 +0000",
-          "summary": "WordPress 7.0.1 is now available! This minor release includes fixes for 31 bugs throughout Core and the Block Editor, addressing issues affecting multiple areas of WordPress including the block editor"
         }
       ],
       "error": null
@@ -383,6 +383,13 @@
       "feedUrl": "https://github.blog/feed/",
       "items": [
         {
+          "title": "Tame Dependabot ：アップデートをグループ化し、ケイデンスを遅くし、セキュリティを高速に保ちます",
+          "titleOrig": "Tame Dependabot: Group your updates, slow the cadence, keep security fast",
+          "link": "https://github.blog/security/supply-chain-security/tame-dependabot-group-your-updates-slow-the-cadence-keep-security-fast/",
+          "date": "Wed, 29 Jul 2026 16:00:00 +0000",
+          "summary": "Dependabot keeps your dependencies current, but its defaults can flood your repository with pull requests. Here's how grouping updates, slowing the cadence, and keeping security fixes fast cut the noi"
+        },
+        {
           "title": "NpmとGitHubへのサプライチェーン攻撃の中断アクション",
           "titleOrig": "Disrupting supply chain attacks on npm and GitHub Actions",
           "link": "https://github.blog/security/supply-chain-security/disrupting-supply-chain-attacks-on-npm-and-github-actions/",
@@ -409,13 +416,6 @@
           "link": "https://github.blog/security/supply-chain-security/the-case-for-a-cooldown-why-dependabot-now-waits-before-issuing-version-updates/",
           "date": "Thu, 23 Jul 2026 16:00:00 +0000",
           "summary": "A new default three-day cooldown delays version update pull requests so maintainers and security researchers can address findings in a release before it gets into your code. The post The case for a co"
-        },
-        {
-          "title": "Copilot vs. RAW APIアクセス：実際には何にお金を払っていますか？",
-          "titleOrig": "Copilot vs. raw API access: What are you actually paying for?",
-          "link": "https://github.blog/ai-and-ml/github-copilot/copilot-vs-raw-api-access-what-are-you-actually-paying-for/",
-          "date": "Wed, 22 Jul 2026 19:00:00 +0000",
-          "summary": "Copilot now bills usage at listed API rates. Compare direct model access with the coding workflow, policy, and harness work around it. The post Copilot vs. raw API access: What are you actually paying"
         }
       ],
       "error": null
