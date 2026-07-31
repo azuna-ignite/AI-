@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-07-30T02:28:53.967Z",
+  "fetchedAt": "2026-07-31T02:53:44.959Z",
   "tools": [
     {
       "tool": "ミエルカ（YouTube）",
@@ -91,6 +91,27 @@
       "feedUrl": "https://www.semrush.com/blog/feed/",
       "items": [
         {
+          "title": "AI可視性のためのデジタルPR ： 5つの戦術+測定方法",
+          "titleOrig": "Digital PR for AI visibility: 5 tactics + how to measure",
+          "link": "https://www.semrush.com/blog/digital-pr-for-ai-visibility/",
+          "date": "Thu, 30 Jul 2026 10:42:00 +0000",
+          "summary": "Having a site isn‘t enough to get AI to talk about you. Use these 5 digital PR tactics to grow AI visibility."
+        },
+        {
+          "title": "スキーママークアップとは何ですか？サイトに追加する方法",
+          "titleOrig": "What is schema markup? And how to add it to your site",
+          "link": "https://www.semrush.com/blog/schema-markup/",
+          "date": "Thu, 30 Jul 2026 10:21:00 +0000",
+          "summary": "Schema markup is code you add to your site to give search engines and AI systems explicit data about your pages."
+        },
+        {
+          "title": "コンテンツの最適化： SEOとAIの可視性を高めるための20の戦術",
+          "titleOrig": "Content optimization: 20 tactics to boost SEO & AI visibility",
+          "link": "https://www.semrush.com/blog/content-optimization/",
+          "date": "Thu, 30 Jul 2026 10:07:00 +0000",
+          "summary": "Content optimization makes your pages work for readers, search, and AI at once. Get 20 tactics to boost visibility and conversions."
+        },
+        {
           "title": "SEOのためのキーワードマッピング：ガイド+無料テンプレート",
           "titleOrig": "Keyword mapping for SEO: Guide + free template",
           "link": "https://www.semrush.com/blog/keyword-mapping/",
@@ -103,27 +124,6 @@
           "link": "https://www.semrush.com/blog/ai-visibility-roi/",
           "date": "Mon, 27 Jul 2026 10:17:00 +0000",
           "summary": "Determine AI visibility ROI by linking mentions, citations, and AI referrals directly to leads and revenue."
-        },
-        {
-          "title": "SemrushでAIの可視性ギャップを見つける方法",
-          "titleOrig": "How to find AI visibility gaps with Semrush",
-          "link": "https://www.semrush.com/blog/find-ai-visibility-gaps-with-semrush/",
-          "date": "Mon, 27 Jul 2026 09:34:00 +0000",
-          "summary": "Find AI visibility gaps with Semrush. Spot prompts and sources where competitors get cited but you don‘t."
-        },
-        {
-          "title": "2026年の13の高度なSEOテクニックと戦略",
-          "titleOrig": "13 Advanced SEO techniques & strategies for 2026",
-          "link": "https://www.semrush.com/blog/advanced-seo/",
-          "date": "Mon, 27 Jul 2026 09:12:00 +0000",
-          "summary": "Advanced SEO techniques include optimizing content for AI extraction and improving crawl depth."
-        },
-        {
-          "title": "Semrushのレビュー：人々がプラットフォームについてどのように言っているか",
-          "titleOrig": "Semrush reviews: What people say about the platform",
-          "link": "https://www.semrush.com/blog/semrush-reviews/",
-          "date": "Fri, 24 Jul 2026 16:34:00 +0000",
-          "summary": "Semrush has over 6,300 online reviews across G2 and Capterra. Read a summary of the top themes seen across them."
         }
       ],
       "error": null
@@ -154,6 +154,12 @@
       "feedUrl": "https://rakkokeyword.com/techo/feed/",
       "items": [
         {
+          "title": "【X運用】フォロワー増より重要！売上に直結する戦略とKPI設計",
+          "link": "https://rakkokeyword.com/techo/x-strategy-sales-kpi-design/",
+          "date": "Thu, 30 Jul 2026 04:19:34 +0000",
+          "summary": "X（旧Twitter）運用でつまずく原因の多くは、投稿テクニックではなく「目的とKPIの設計」が抜けている点にあります。 逆に言えば、運用目的から逆算して戦略・体制・リスク管理を最初に組み立てれば、少ない人数でも成果につ ..."
+        },
+        {
           "title": "TikTokの伸ばし方・再生数が止まる原因を絶つ本質的な運用術",
           "link": "https://rakkokeyword.com/techo/tiktok-growth-strategy/",
           "date": "Tue, 28 Jul 2026 06:55:01 +0000",
@@ -176,12 +182,6 @@
           "link": "https://rakkokeyword.com/techo/tool-recipe-calc/",
           "date": "Mon, 27 Jul 2026 05:02:50 +0000",
           "summary": "元の基準値 (人分・個分など) 0より大きい正しい数値を入力してください 希望の基準値 (人分・個分など) 0より大きい正しい数値を入力してください 材料リスト 材料名 元の分量 単位 ＋ 材料を追加 ↺ 全てリセット ..."
-        },
-        {
-          "title": "シルエットクイズメーカー",
-          "link": "https://rakkokeyword.com/techo/tool-silhouette-quiz/",
-          "date": "Thu, 23 Jul 2026 05:32:20 +0000",
-          "summary": "安心設計：ファイルはお客様の端末内で処理され、サーバーには送信されません 画像ファイル（PNG/JPG）をドラッグ＆ドロップ またはクリックして選択 複数選択可 / 自動でシルエット化されます ＋ 追加する 🔄 ランダム ..."
         }
       ],
       "error": null
@@ -338,6 +338,20 @@
       "feedUrl": "https://obsidian.md/changelog.xml",
       "items": [
         {
+          "title": "Obsidian 1.13モバイル（パブリック）",
+          "titleOrig": "Obsidian 1.13 Mobile (Public)",
+          "link": "https://obsidian.md/changelog/2026-07-30-mobile-v1.13.4/",
+          "date": "2026-07-30T00:00:00.000Z",
+          "summary": "This update introduces a new searchable Settings panel and iOS Share Sheet. Scrolling large files and selecting text should also be improved on both iOS and Android. Includes all new features and bug "
+        },
+        {
+          "title": "Obsidian 1.13デスクトップ（パブリック）",
+          "titleOrig": "Obsidian 1.13 Desktop (Public)",
+          "link": "https://obsidian.md/changelog/2026-07-30-desktop-v1.13.4/",
+          "date": "2026-07-30T00:00:00.000Z",
+          "summary": "This update introduces a new searchable Settings panel and new experience for working with images, including a full-screen image viewer. Settings Settings have been completely revamped with keyboard n"
+        },
+        {
           "title": "Obsidian 1.13.4モバイル（先行アクセス）",
           "titleOrig": "Obsidian 1.13.4 Mobile (Early access)",
           "link": "https://obsidian.md/changelog/2026-07-27-mobile-v1.13.4/",
@@ -357,20 +371,6 @@
           "link": "https://obsidian.md/changelog/2026-07-21-mobile-v1.13.3/",
           "date": "2026-07-21T00:00:00.000Z",
           "summary": "Includes all new features and bug fixes up to Obsidian Desktop v1.13.3. Improvements Added \"swipe down\" gesture to dismiss an image in the lightbox. No longer broken Tapping an image no longer shows t"
-        },
-        {
-          "title": "Obsidian 1.13.3デスクトップ（先行アクセス）",
-          "titleOrig": "Obsidian 1.13.3 Desktop (Early access)",
-          "link": "https://obsidian.md/changelog/2026-07-21-desktop-v1.13.3/",
-          "date": "2026-07-21T00:00:00.000Z",
-          "summary": "Improvements Live Preview: When the image is the only text on a line, the editor line height is no longer preserved to match the image height. Live Preview: Added a new selection state to image embeds"
-        },
-        {
-          "title": "Obsidian 1.13.2モバイル（先行アクセス）",
-          "titleOrig": "Obsidian 1.13.2 Mobile (Early access)",
-          "link": "https://obsidian.md/changelog/2026-07-14-mobile-v1.13.2/",
-          "date": "2026-07-14T00:00:00.000Z",
-          "summary": "Includes all new features and bug fixes up to Obsidian Desktop v1.13.2. Improvements iOS: Added a url variable to the Share Sheet template for inserting the shared link into your note. No longer broke"
         }
       ],
       "error": null
@@ -382,6 +382,13 @@
       "sourceType": "tool",
       "feedUrl": "https://github.blog/feed/",
       "items": [
+        {
+          "title": "GitHub Copilotアプリのスタックされたセッションとプルリクエスト",
+          "titleOrig": "Stacked sessions and pull requests in the GitHub Copilot app",
+          "link": "https://github.blog/ai-and-ml/github-copilot/stacked-sessions-and-pull-requests-in-the-github-copilot-app/",
+          "date": "Thu, 30 Jul 2026 17:30:24 +0000",
+          "summary": "Learn how I modernized an old codebase of mine using stacked sessions and pull requests in the GitHub Copilot app. The post Stacked sessions and pull requests in the GitHub Copilot app appeared first "
+        },
         {
           "title": "Tame Dependabot ：アップデートをグループ化し、ケイデンスを遅くし、セキュリティを高速に保ちます",
           "titleOrig": "Tame Dependabot: Group your updates, slow the cadence, keep security fast",
@@ -409,13 +416,6 @@
           "link": "https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-getting-started/",
           "date": "Mon, 27 Jul 2026 16:00:00 +0000",
           "summary": "New to the GitHub Copilot app? Learn how to start projects, work with AI agents, explore canvases, and streamline your development workflow. The post GitHub Copilot app for Beginners: Getting started "
-        },
-        {
-          "title": "クールダウンの理由：バージョンアップを発行する前にDependabotが待機する理由",
-          "titleOrig": "The case for a cooldown: Why Dependabot now waits before issuing version updates",
-          "link": "https://github.blog/security/supply-chain-security/the-case-for-a-cooldown-why-dependabot-now-waits-before-issuing-version-updates/",
-          "date": "Thu, 23 Jul 2026 16:00:00 +0000",
-          "summary": "A new default three-day cooldown delays version update pull requests so maintainers and security researchers can address findings in a release before it gets into your code. The post The case for a co"
         }
       ],
       "error": null
