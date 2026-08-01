@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-07-31T02:53:44.959Z",
+  "fetchedAt": "2026-08-01T02:53:07.150Z",
   "tools": [
     {
       "tool": "ミエルカ（YouTube）",
@@ -51,6 +51,12 @@
       "feedUrl": "https://ahrefs.com/blog/ja/feed/",
       "items": [
         {
+          "title": "ブランドレーダーが Claude 対応、X と Threads を同時に管理、その他の新機能｜2026年 7月",
+          "link": "https://ahrefs.com/blog/ja/july-2026-roundup/",
+          "date": "Fri, 31 Jul 2026 06:32:42 +0000",
+          "summary": "今月は12件のアップデートがあります。ブランドレーダーでClaudeに対応し、AI調整ボリューム指標を導入しました。ソーシャルメディアマネージャーではTikTok対応とメンションストラッカーを追加し、ウェブアナリティクスにはステータスコードレポートが加わりました。 Read more › The post ブランドレーダーが Claude 対応、X と Threads を同時に管理、その他の新機能"
+        },
+        {
           "title": "【Ahrefs 独占取材】Hakuhodo DY ONE は、いかに AI 検索時代の市場変化をデータで読み解くのか？",
           "link": "https://ahrefs.com/blog/ja/hakuhodo-dy-one-ai-search-interview/",
           "date": "Mon, 27 Jul 2026 23:28:12 +0000",
@@ -73,12 +79,6 @@
           "link": "https://ahrefs.com/blog/ja/aeo-seo-geo-llmo-difference/",
           "date": "Fri, 17 Jul 2026 00:56:48 +0000",
           "summary": "AEO（回答エンジン最適化）とは、ChatGPT・Gemini・Perplexity などの AI に自社コンテンツを引用・推奨させる最適化手法です。SEO・GEO・LLMO との違いや、Google の AI による概要に表示されるための実践的な対策を Ahrefs のツール活用例とともに解説します。 Read more › The post AEO（回答エンジン最適化）とは？SEO・GEO・L"
-        },
-        {
-          "title": "ブランドレーダー × Claude Code：ファンアウトクエリを活用したAI検索コンテンツギャップの見つけ方",
-          "link": "https://ahrefs.com/blog/ja/fan-out-query-content-gap/",
-          "date": "Thu, 16 Jul 2026 05:09:52 +0000",
-          "summary": "AI検索で自社が引用されない原因をクエリファンアウトで可視化し、競合ページとの構造ギャップを分析して、具体的なコンテンツ対策案まで導き出す方法を解説します。 Read more › The post ブランドレーダー × Claude Code：ファンアウトクエリを活用したAI検索コンテンツギャップの見つけ方 appeared first on Ahrefs 公式ブログ."
         }
       ],
       "error": null
@@ -90,6 +90,13 @@
       "sourceType": "tool",
       "feedUrl": "https://www.semrush.com/blog/feed/",
       "items": [
+        {
+          "title": "ニーズに応じた代理店向けの7つの最高のAI可視性追跡ツール",
+          "titleOrig": "7 best AI visibility tracking tools for agencies by need",
+          "link": "https://www.semrush.com/blog/ai-visibility-tracking-tools-for-agencies/",
+          "date": "Fri, 31 Jul 2026 15:04:00 +0000",
+          "summary": "The best AI visibility tracking tools for agencies include Semrush, OtterlyAI, and Peec AI. Here’s why."
+        },
         {
           "title": "AI可視性のためのデジタルPR ： 5つの戦術+測定方法",
           "titleOrig": "Digital PR for AI visibility: 5 tactics + how to measure",
@@ -117,13 +124,6 @@
           "link": "https://www.semrush.com/blog/keyword-mapping/",
           "date": "Mon, 27 Jul 2026 15:11:00 +0000",
           "summary": "Keyword mapping is an SEO technique for assigning target terms to the corresponding pages on your site."
-        },
-        {
-          "title": "AIの可視性ROIと収益への影響を判断する方法",
-          "titleOrig": "How to determine AI visibility ROI and revenue impact",
-          "link": "https://www.semrush.com/blog/ai-visibility-roi/",
-          "date": "Mon, 27 Jul 2026 10:17:00 +0000",
-          "summary": "Determine AI visibility ROI by linking mentions, citations, and AI referrals directly to leads and revenue."
         }
       ],
       "error": null
@@ -383,6 +383,13 @@
       "feedUrl": "https://github.blog/feed/",
       "items": [
         {
+          "title": "早めに停止しないでください：メモリ速度でケース折りたたみソースコード",
+          "titleOrig": "Don’t stop early: Case-folding source code at memory speed",
+          "link": "https://github.blog/engineering/architecture-optimization/dont-stop-early-case-folding-source-code-at-memory-speed/",
+          "date": "Fri, 31 Jul 2026 16:00:00 +0000",
+          "summary": "How a branch-free loop and byte-space arithmetic let GitHub case-fold every byte of code search at >45 GiB/s on a single core. The post Don’t stop early: Case-folding source code at memory speed appea"
+        },
+        {
           "title": "GitHub Copilotアプリのスタックされたセッションとプルリクエスト",
           "titleOrig": "Stacked sessions and pull requests in the GitHub Copilot app",
           "link": "https://github.blog/ai-and-ml/github-copilot/stacked-sessions-and-pull-requests-in-the-github-copilot-app/",
@@ -409,13 +416,6 @@
           "link": "https://github.blog/ai-and-ml/github-copilot/the-harness-is-all-you-need-mostly/",
           "date": "Mon, 27 Jul 2026 18:00:00 +0000",
           "summary": "A practical GitHub Copilot workflow for prototyping, planning, implementing, and reviewing software without chasing every new AI tool. The post The harness is all you need (mostly) appeared first on T"
-        },
-        {
-          "title": "初心者向けGitHub Copilotアプリ：はじめに",
-          "titleOrig": "GitHub Copilot app for Beginners: Getting started",
-          "link": "https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-getting-started/",
-          "date": "Mon, 27 Jul 2026 16:00:00 +0000",
-          "summary": "New to the GitHub Copilot app? Learn how to start projects, work with AI agents, explore canvases, and streamline your development workflow. The post GitHub Copilot app for Beginners: Getting started "
         }
       ],
       "error": null
