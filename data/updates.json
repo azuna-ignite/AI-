@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-08-02T02:52:02.637Z",
+  "fetchedAt": "2026-08-03T02:53:10.970Z",
   "tools": [
     {
       "tool": "ミエルカ（YouTube）",
@@ -10,6 +10,12 @@
       "handle": "@mieruca-channel",
       "feedUrl": "",
       "items": [
+        {
+          "title": "ChatGPTで選ばれるブランドは何が違う？比較表・価格・レビューの影響｜SEO Weekly Update",
+          "link": "https://www.youtube.com/watch?v=TG665Fk43X8",
+          "date": "2026-08-02T22:30:29.000Z",
+          "summary": ""
+        },
         {
           "title": "AI記事が「どこかで見た内容」になる理由｜SEO記事に独自性を出す工夫とは",
           "link": "https://www.youtube.com/watch?v=BeN2zIb6qYo",
@@ -32,12 +38,6 @@
           "title": "【試験導入】GoogleマーチャントセンターにAI検索の分析機能｜自社商品の表示シェアがわかる｜SEO Weekly Update",
           "link": "https://www.youtube.com/watch?v=rnS-OMVHJQ0",
           "date": "2026-07-20T22:30:39.000Z",
-          "summary": ""
-        },
-        {
-          "title": "LLMOで選ばれるブランドになるには？サイテーション・外部言及の考え方と増やし方",
-          "link": "https://www.youtube.com/watch?v=zCvKrcVbIUM",
-          "date": "2026-07-15T23:00:39.000Z",
           "summary": ""
         }
       ],
@@ -426,39 +426,8 @@
       "category": "制作・デザイン",
       "sourceType": "media",
       "feedUrl": "https://www.mindfactory.co.jp/blog/feed/",
-      "items": [
-        {
-          "title": "【新入社員インタビュー】プリ機のUIデザインから新天地へ。￼",
-          "link": "https://www.mindfactory.co.jp/blog/8439",
-          "date": "Tue, 28 Jul 2026 01:38:35 +0000",
-          "summary": "マインドファクトリーのクリエイティブチームでは、企業の課題解決を最大化するデジタルマーケティングの一環として、ロジックに基づいた戦略的なデザインの提供に注力しています。チームの多様性とクリエイティブの幅をさらに広げるべく […]"
-        },
-        {
-          "title": "【新入社員インタビュー】5年の経験を経て、マインドファクトリーを選んだ理由￼￼",
-          "link": "https://www.mindfactory.co.jp/blog/8431",
-          "date": "Tue, 21 Jul 2026 07:51:09 +0000",
-          "summary": "マインドファクトリーのクリエイティブチームでは、企業のビジネスを加速させるデジタルマーケティングの一環として、戦略的かつハイクオリティなデザイン制作に取り組んでいます。組織のさらなる成長とクリエイティブ力の強化を目指す中 […]"
-        },
-        {
-          "title": "“伝わる”UIをつくれるデザイナーを目指して - インターン生インタビュー",
-          "link": "https://www.mindfactory.co.jp/blog/8370",
-          "date": "Fri, 27 Feb 2026 11:43:03 +0000",
-          "summary": "今年マインドファクトリーでは、初めてインターンシップの受け入れを行いました。 今回は、インターンで来てくれた名古屋モード学園グラフィック学科の水野君に、デザイナーを志したきっかけや弊社でのインターンの感想をインタビューし […]"
-        },
-        {
-          "title": "WEBメディア「CREATORS STATION」に代表富岡のインタビュー記事が掲載されました",
-          "link": "https://www.mindfactory.co.jp/blog/8364",
-          "date": "Mon, 16 Feb 2026 08:57:39 +0000",
-          "summary": "株式会社フェローズが運営する、日本全国のクリエイターを応援するためのWEBメディア「CREATORS STATION」に、弊社代表 富岡のインタビュー記事が掲載されました。自身のこれまでのキャリアから、事業内容、今後の展 […]"
-        },
-        {
-          "title": "年末年始休暇のお知らせ",
-          "link": "https://www.mindfactory.co.jp/blog/8357",
-          "date": "Fri, 05 Dec 2025 09:20:14 +0000",
-          "summary": "平素は格別のお引き立てを賜り、厚く御礼申し上げます。誠に勝手ながら、弊社は、下記の期間を年末年始休業とさせていただきます。 ■ 年末年始休暇期間2025年12月27日（土）～2026年1月4日（日） ご不便をおかけいたし […]"
-        }
-      ],
-      "error": null
+      "items": [],
+      "error": "Request timed out after 10000ms"
     },
     {
       "tool": "Empathy Writing",
