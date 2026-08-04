@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-08-03T02:53:10.970Z",
+  "fetchedAt": "2026-08-04T02:37:06.300Z",
   "tools": [
     {
       "tool": "ミエルカ（YouTube）",
@@ -10,6 +10,12 @@
       "handle": "@mieruca-channel",
       "feedUrl": "",
       "items": [
+        {
+          "title": "クリックされない時代のSEO｜ゼロクリックマーケティングから考える成果の見方",
+          "link": "https://www.youtube.com/watch?v=TotTeLAsEsk",
+          "date": "2026-08-03T23:00:19.000Z",
+          "summary": ""
+        },
         {
           "title": "ChatGPTで選ばれるブランドは何が違う？比較表・価格・レビューの影響｜SEO Weekly Update",
           "link": "https://www.youtube.com/watch?v=TG665Fk43X8",
@@ -33,12 +39,6 @@
           "link": "https://www.youtube.com/watch?v=t4FlUlAQfYo",
           "date": "2026-07-22T23:00:32.000Z",
           "summary": ""
-        },
-        {
-          "title": "【試験導入】GoogleマーチャントセンターにAI検索の分析機能｜自社商品の表示シェアがわかる｜SEO Weekly Update",
-          "link": "https://www.youtube.com/watch?v=rnS-OMVHJQ0",
-          "date": "2026-07-20T22:30:39.000Z",
-          "summary": ""
         }
       ],
       "error": null
@@ -51,10 +51,10 @@
       "feedUrl": "https://ahrefs.com/blog/ja/feed/",
       "items": [
         {
-          "title": "ブランドレーダーが Claude 対応、X と Threads を同時に管理、その他の新機能｜2026年 7月",
-          "link": "https://ahrefs.com/blog/ja/july-2026-roundup/",
-          "date": "Fri, 31 Jul 2026 06:32:42 +0000",
-          "summary": "今月は12件のアップデートがあります。ブランドレーダーでClaudeに対応し、AI調整ボリューム指標を導入しました。ソーシャルメディアマネージャーではTikTok対応とメンションストラッカーを追加し、ウェブアナリティクスにはステータスコードレポートが加わりました。 Read more › The post ブランドレーダーが Claude 対応、X と Threads を同時に管理、その他の新機能"
+          "title": "33.1 万ページを調べて分かった、Google が AI コンテンツを罰しない理由",
+          "link": "https://ahrefs.com/blog/ja/google-doesnt-punish-ai-content/",
+          "date": "Tue, 04 Aug 2026 02:19:06 +0000",
+          "summary": "33 万ページを対象にした調査で、Google が SEO コンテンツと AI の関係をどう評価しているかを検証しました。上位表示ページの 5.3% が完全な AI 生成であり、品質こそが検索順位を左右する鍵であることが明らかになりました。 Read more › The post 33.1 万ページを調べて分かった、Google が AI コンテンツを罰しない理由 appeared first "
         },
         {
           "title": "【Ahrefs 独占取材】Hakuhodo DY ONE は、いかに AI 検索時代の市場変化をデータで読み解くのか？",
@@ -91,6 +91,13 @@
       "feedUrl": "https://www.semrush.com/blog/feed/",
       "items": [
         {
+          "title": "ChatGPTで局所的な権威がどのように広がるか（および広がらない場所） [Study]",
+          "titleOrig": "How topical authority spreads (and where it doesn’t) in ChatGPT [Study]",
+          "link": "https://www.semrush.com/blog/chatgpt-topical-focus-study/",
+          "date": "Mon, 03 Aug 2026 13:00:00 +0000",
+          "summary": "Can authority in one ChatGPT topic help you win another? Our study shows where topical authority carries over — and where it stops."
+        },
+        {
           "title": "ニーズに応じた代理店向けの7つの最高のAI可視性追跡ツール",
           "titleOrig": "7 best AI visibility tracking tools for agencies by need",
           "link": "https://www.semrush.com/blog/ai-visibility-tracking-tools-for-agencies/",
@@ -117,13 +124,6 @@
           "link": "https://www.semrush.com/blog/content-optimization/",
           "date": "Thu, 30 Jul 2026 10:07:00 +0000",
           "summary": "Content optimization makes your pages work for readers, search, and AI at once. Get 20 tactics to boost visibility and conversions."
-        },
-        {
-          "title": "SEOのためのキーワードマッピング：ガイド+無料テンプレート",
-          "titleOrig": "Keyword mapping for SEO: Guide + free template",
-          "link": "https://www.semrush.com/blog/keyword-mapping/",
-          "date": "Mon, 27 Jul 2026 15:11:00 +0000",
-          "summary": "Keyword mapping is an SEO technique for assigning target terms to the corresponding pages on your site."
         }
       ],
       "error": null
@@ -154,6 +154,12 @@
       "feedUrl": "https://rakkokeyword.com/techo/feed/",
       "items": [
         {
+          "title": "Webライターはやめとけ？言われる理由と生き残る人の違い",
+          "link": "https://rakkokeyword.com/techo/web-writer-reasons-to-avoid-how-to-survive/",
+          "date": "Mon, 03 Aug 2026 07:33:44 +0000",
+          "summary": "「Webライターはやめとけ」という声は、たしかに厳しい現実を映しています。 ただし、その多くは正しいやり方を知らないまま挫折した人の意見で、続けてスキルを身につけた人はきちんと稼いでいます。 この記事では、これから副業で ..."
+        },
+        {
           "title": "【X運用】フォロワー増より重要！売上に直結する戦略とKPI設計",
           "link": "https://rakkokeyword.com/techo/x-strategy-sales-kpi-design/",
           "date": "Thu, 30 Jul 2026 04:19:34 +0000",
@@ -176,12 +182,6 @@
           "link": "https://rakkokeyword.com/techo/instagram-marketing-fan-building-strategy/",
           "date": "Mon, 27 Jul 2026 07:04:29 +0000",
           "summary": "Instagramの集客がうまくいかない原因の多くは、センスや投稿数ではなく、見込み客を集めて来店につなげる「流れ」ができていないことにあります。 見込み客に見つけてもらい、興味を持ってもらい、ファンになってもらって、最 ..."
-        },
-        {
-          "title": "レシピ分量計算ツール",
-          "link": "https://rakkokeyword.com/techo/tool-recipe-calc/",
-          "date": "Mon, 27 Jul 2026 05:02:50 +0000",
-          "summary": "元の基準値 (人分・個分など) 0より大きい正しい数値を入力してください 希望の基準値 (人分・個分など) 0より大きい正しい数値を入力してください 材料リスト 材料名 元の分量 単位 ＋ 材料を追加 ↺ 全てリセット ..."
         }
       ],
       "error": null
@@ -426,8 +426,39 @@
       "category": "制作・デザイン",
       "sourceType": "media",
       "feedUrl": "https://www.mindfactory.co.jp/blog/feed/",
-      "items": [],
-      "error": "Request timed out after 10000ms"
+      "items": [
+        {
+          "title": "【新入社員インタビュー】プリ機のUIデザインから新天地へ。￼",
+          "link": "https://www.mindfactory.co.jp/blog/8439",
+          "date": "Tue, 28 Jul 2026 01:38:35 +0000",
+          "summary": "マインドファクトリーのクリエイティブチームでは、企業の課題解決を最大化するデジタルマーケティングの一環として、ロジックに基づいた戦略的なデザインの提供に注力しています。チームの多様性とクリエイティブの幅をさらに広げるべく […]"
+        },
+        {
+          "title": "【新入社員インタビュー】5年の経験を経て、マインドファクトリーを選んだ理由￼￼",
+          "link": "https://www.mindfactory.co.jp/blog/8431",
+          "date": "Tue, 21 Jul 2026 07:51:09 +0000",
+          "summary": "マインドファクトリーのクリエイティブチームでは、企業のビジネスを加速させるデジタルマーケティングの一環として、戦略的かつハイクオリティなデザイン制作に取り組んでいます。組織のさらなる成長とクリエイティブ力の強化を目指す中 […]"
+        },
+        {
+          "title": "“伝わる”UIをつくれるデザイナーを目指して - インターン生インタビュー",
+          "link": "https://www.mindfactory.co.jp/blog/8370",
+          "date": "Fri, 27 Feb 2026 11:43:03 +0000",
+          "summary": "今年マインドファクトリーでは、初めてインターンシップの受け入れを行いました。 今回は、インターンで来てくれた名古屋モード学園グラフィック学科の水野君に、デザイナーを志したきっかけや弊社でのインターンの感想をインタビューし […]"
+        },
+        {
+          "title": "WEBメディア「CREATORS STATION」に代表富岡のインタビュー記事が掲載されました",
+          "link": "https://www.mindfactory.co.jp/blog/8364",
+          "date": "Mon, 16 Feb 2026 08:57:39 +0000",
+          "summary": "株式会社フェローズが運営する、日本全国のクリエイターを応援するためのWEBメディア「CREATORS STATION」に、弊社代表 富岡のインタビュー記事が掲載されました。自身のこれまでのキャリアから、事業内容、今後の展 […]"
+        },
+        {
+          "title": "年末年始休暇のお知らせ",
+          "link": "https://www.mindfactory.co.jp/blog/8357",
+          "date": "Fri, 05 Dec 2025 09:20:14 +0000",
+          "summary": "平素は格別のお引き立てを賜り、厚く御礼申し上げます。誠に勝手ながら、弊社は、下記の期間を年末年始休業とさせていただきます。 ■ 年末年始休暇期間2025年12月27日（土）～2026年1月4日（日） ご不便をおかけいたし […]"
+        }
+      ],
+      "error": null
     },
     {
       "tool": "Empathy Writing",
