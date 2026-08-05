@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-08-04T02:37:06.300Z",
+  "fetchedAt": "2026-08-05T02:35:26.221Z",
   "tools": [
     {
       "tool": "ミエルカ（YouTube）",
@@ -9,39 +9,8 @@
       "type": "youtube",
       "handle": "@mieruca-channel",
       "feedUrl": "",
-      "items": [
-        {
-          "title": "クリックされない時代のSEO｜ゼロクリックマーケティングから考える成果の見方",
-          "link": "https://www.youtube.com/watch?v=TotTeLAsEsk",
-          "date": "2026-08-03T23:00:19.000Z",
-          "summary": ""
-        },
-        {
-          "title": "ChatGPTで選ばれるブランドは何が違う？比較表・価格・レビューの影響｜SEO Weekly Update",
-          "link": "https://www.youtube.com/watch?v=TG665Fk43X8",
-          "date": "2026-08-02T22:30:29.000Z",
-          "summary": ""
-        },
-        {
-          "title": "AI記事が「どこかで見た内容」になる理由｜SEO記事に独自性を出す工夫とは",
-          "link": "https://www.youtube.com/watch?v=BeN2zIb6qYo",
-          "date": "2026-07-28T23:00:06.000Z",
-          "summary": ""
-        },
-        {
-          "title": "ChatGPTで「Google離れ」は進んだ？利用データから見えたAI検索の実態｜SEO Weekly Update",
-          "link": "https://www.youtube.com/watch?v=ekQttgTMfsA",
-          "date": "2026-07-26T22:30:30.000Z",
-          "summary": ""
-        },
-        {
-          "title": "GEO/LLMO対策Q&A｜構造化データ・llms.txt・チャンク化は本当に有効か",
-          "link": "https://www.youtube.com/watch?v=t4FlUlAQfYo",
-          "date": "2026-07-22T23:00:32.000Z",
-          "summary": ""
-        }
-      ],
-      "error": null
+      "items": [],
+      "error": "Status code 500"
     },
     {
       "tool": "Ahrefs",
@@ -203,6 +172,20 @@
       "feedUrl": "https://blog.google/technology/ai/rss/",
       "items": [
         {
+          "title": "2026年7月に発表した最新のAIニュース",
+          "titleOrig": "The latest AI news we announced in July 2026",
+          "link": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-july-2026/",
+          "date": "Tue, 04 Aug 2026 13:00:00 +0000",
+          "summary": "Here are Google’s latest AI updates from July 2026"
+        },
+        {
+          "title": "353,000人規模のバイブコーディングコース",
+          "titleOrig": "Inside our 353,000-person vibe coding course",
+          "link": "https://blog.google/innovation-and-ai/technology/developers-tools/ai-agents-intensive-recap-2026/",
+          "date": "Mon, 03 Aug 2026 15:00:00 +0000",
+          "summary": "Kaggle’s AI Agents Intensive with Google brought learners together in a no-cost course to build and deploy the next frontier of AI."
+        },
+        {
           "title": "Gemini APIマネージドエージェント： 3.6 Flash、フックなど",
           "titleOrig": "Gemini API Managed Agents: 3.6 Flash, hooks, and more",
           "link": "https://blog.google/innovation-and-ai/technology/developers-tools/expanding-managed-agents-gemini-api-3-6-flash-hooks/",
@@ -222,20 +205,6 @@
           "link": "https://blog.google/products-and-platforms/products/search/dinner-party-hosting-tips/",
           "date": "Tue, 28 Jul 2026 13:00:00 +0000",
           "summary": "These AI features can help you craft a menu, design a tablescape, and handle other party-planning tasks."
-        },
-        {
-          "title": "Galaxy Unpacked 2026からの3つのGoogleアップデート",
-          "titleOrig": "3 Google updates from Galaxy Unpacked 2026",
-          "link": "https://blog.google/products-and-platforms/platforms/android/galaxy-unpacked-2026/",
-          "date": "Wed, 22 Jul 2026 13:00:00 +0000",
-          "summary": "We shared how Samsung users can boost productivity and get time back on new foldables, watches, and glasses coming soon."
-        },
-        {
-          "title": "より多くのアプリを検索に接続する",
-          "titleOrig": "Connect more of your apps to Search",
-          "link": "https://blog.google/products-and-platforms/products/search/connected-apps/",
-          "date": "Thu, 16 Jul 2026 16:00:00 +0000",
-          "summary": "You’ll be able to securely link and interact with your go-to services directly in AI Mode."
         }
       ],
       "error": null
@@ -383,6 +352,20 @@
       "feedUrl": "https://github.blog/feed/",
       "items": [
         {
+          "title": "GitHub法務チームがCopilot CLIを使用してワークフローを合理化した方法",
+          "titleOrig": "How the GitHub legal team used Copilot CLI to streamline their workflows",
+          "link": "https://github.blog/ai-and-ml/github-copilot/how-the-github-legal-team-used-copilot-cli-to-streamline-their-workflows/",
+          "date": "Tue, 04 Aug 2026 19:02:34 +0000",
+          "summary": "Learn how to build tools to simplify how you work—without writing a single line of code. The post How the GitHub legal team used Copilot CLI to streamline their workflows appeared first on The GitHub "
+        },
+        {
+          "title": "1つの巨大なAI生成プルリクエストをレビュー可能なスタックに変換する",
+          "titleOrig": "Turn one giant AI-generated pull request to a reviewable stack",
+          "link": "https://github.blog/engineering/turn-one-giant-ai-generated-pull-request-to-a-reviewable-stack/",
+          "date": "Tue, 04 Aug 2026 16:47:18 +0000",
+          "summary": "Instead of one huge, un-reviewable pull request, teach coding agents to decompose work into a clean, ordered stack with GitHub stacked pull requests. The post Turn one giant AI-generated pull request "
+        },
+        {
           "title": "早めに停止しないでください：メモリ速度でケース折りたたみソースコード",
           "titleOrig": "Don’t stop early: Case-folding source code at memory speed",
           "link": "https://github.blog/engineering/architecture-optimization/dont-stop-early-case-folding-source-code-at-memory-speed/",
@@ -402,20 +385,6 @@
           "link": "https://github.blog/security/supply-chain-security/tame-dependabot-group-your-updates-slow-the-cadence-keep-security-fast/",
           "date": "Wed, 29 Jul 2026 16:00:00 +0000",
           "summary": "Dependabot keeps your dependencies current, but its defaults can flood your repository with pull requests. Here's how grouping updates, slowing the cadence, and keeping security fixes fast cut the noi"
-        },
-        {
-          "title": "NpmとGitHubへのサプライチェーン攻撃の中断アクション",
-          "titleOrig": "Disrupting supply chain attacks on npm and GitHub Actions",
-          "link": "https://github.blog/security/supply-chain-security/disrupting-supply-chain-attacks-on-npm-and-github-actions/",
-          "date": "Tue, 28 Jul 2026 16:00:00 +0000",
-          "summary": "Explore the changes we've shipped across npm and GitHub Actions over the past few months to disrupt supply chain attack techniques and limit their impact. The post Disrupting supply chain attacks on n"
-        },
-        {
-          "title": "ハーネスはあなたが必要とするすべてです（主に）",
-          "titleOrig": "The harness is all you need (mostly)",
-          "link": "https://github.blog/ai-and-ml/github-copilot/the-harness-is-all-you-need-mostly/",
-          "date": "Mon, 27 Jul 2026 18:00:00 +0000",
-          "summary": "A practical GitHub Copilot workflow for prototyping, planning, implementing, and reviewing software without chasing every new AI tool. The post The harness is all you need (mostly) appeared first on T"
         }
       ],
       "error": null
