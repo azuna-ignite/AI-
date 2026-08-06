@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-08-05T02:35:26.221Z",
+  "fetchedAt": "2026-08-06T02:38:36.065Z",
   "tools": [
     {
       "tool": "ミエルカ（YouTube）",
@@ -9,8 +9,39 @@
       "type": "youtube",
       "handle": "@mieruca-channel",
       "feedUrl": "",
-      "items": [],
-      "error": "Status code 500"
+      "items": [
+        {
+          "title": "AI検索流入はどこまで増えた？数十サイトのGA4データで見るAIの影響と今やるべきSEO",
+          "link": "https://www.youtube.com/watch?v=xYibKzKHoZ4",
+          "date": "2026-08-05T23:00:18.000Z",
+          "summary": ""
+        },
+        {
+          "title": "クリックされない時代のSEO｜ゼロクリックマーケティングから考える成果の見方",
+          "link": "https://www.youtube.com/watch?v=TotTeLAsEsk",
+          "date": "2026-08-03T23:00:19.000Z",
+          "summary": ""
+        },
+        {
+          "title": "ChatGPTで選ばれるブランドは何が違う？比較表・価格・レビューの影響｜SEO Weekly Update",
+          "link": "https://www.youtube.com/watch?v=TG665Fk43X8",
+          "date": "2026-08-02T22:30:29.000Z",
+          "summary": ""
+        },
+        {
+          "title": "AI記事が「どこかで見た内容」になる理由｜SEO記事に独自性を出す工夫とは",
+          "link": "https://www.youtube.com/watch?v=BeN2zIb6qYo",
+          "date": "2026-07-28T23:00:06.000Z",
+          "summary": ""
+        },
+        {
+          "title": "ChatGPTで「Google離れ」は進んだ？利用データから見えたAI検索の実態｜SEO Weekly Update",
+          "link": "https://www.youtube.com/watch?v=ekQttgTMfsA",
+          "date": "2026-07-26T22:30:30.000Z",
+          "summary": ""
+        }
+      ],
+      "error": null
     },
     {
       "tool": "Ahrefs",
@@ -262,6 +293,13 @@
       "feedUrl": "https://wordpress.org/news/feed/",
       "items": [
         {
+          "title": "WordPress 7.1リリース候補1",
+          "titleOrig": "WordPress 7.1 Release Candidate 1",
+          "link": "https://wordpress.org/news/2026/08/wordpress-7-1-release-candidate-1/",
+          "date": "Wed, 05 Aug 2026 15:37:33 +0000",
+          "summary": "The first Release Candidate (“RC1”) for WordPress 7.1 is ready for download and testing! This version of the WordPress software is still under development. Please do not install, run, or test this ver"
+        },
+        {
           "title": "WordPress 7.1ベータ4",
           "titleOrig": "WordPress 7.1 Beta 4",
           "link": "https://wordpress.org/news/2026/07/wordpress-7-1-beta-4/",
@@ -288,13 +326,6 @@
           "link": "https://wordpress.org/news/2026/07/wordpress-7-1-beta-1/",
           "date": "Wed, 15 Jul 2026 15:53:33 +0000",
           "summary": "WordPress 7.1 Beta 1 is ready for download and testing! This beta release is intended for testing and development only. Please do not install, run, or test this version of WordPress on production or m"
-        },
-        {
-          "title": "WordCamp US 2026ガイド",
-          "titleOrig": "Your Guide to WordCamp US 2026",
-          "link": "https://wordpress.org/news/2026/07/wcus-2026-guide/",
-          "date": "Mon, 13 Jul 2026 13:07:07 +0000",
-          "summary": "WordCamp US 2026 returns for another year, this time in Phoenix, Arizona, for four days, August 16 to 19. It comes at a moment of real energy for WordPress, as artificial intelligence reshapes everyda"
         }
       ],
       "error": null
@@ -306,6 +337,20 @@
       "sourceType": "tool",
       "feedUrl": "https://obsidian.md/changelog.xml",
       "items": [
+        {
+          "title": "Obsidian 1.13.5モバイル（早期アクセス）",
+          "titleOrig": "Obsidian 1.13.5 Mobile (Early access)",
+          "link": "https://obsidian.md/changelog/2026-08-05-mobile-v1.13.5/",
+          "date": "2026-08-05T00:00:00.000Z",
+          "summary": "Includes all new features and bug fixes up to Obsidian Desktop v1.13.5. New Added swipe-to-close to close tabs in the tab switcher. Improvements Tabs now animate to their new position after closing a "
+        },
+        {
+          "title": "Obsidian 1.13.5デスクトップ（先行アクセス）",
+          "titleOrig": "Obsidian 1.13.5 Desktop (Early access)",
+          "link": "https://obsidian.md/changelog/2026-08-05-desktop-v1.13.5/",
+          "date": "2026-08-05T00:00:00.000Z",
+          "summary": "Improvements The app now waits for configuration files to finish saving when quitting to avoid the file getting corrupted. Improved \"Undo close tab\" behavior. Tabs now reopen in the correct tab group,"
+        },
         {
           "title": "Obsidian 1.13モバイル（パブリック）",
           "titleOrig": "Obsidian 1.13 Mobile (Public)",
@@ -326,20 +371,6 @@
           "link": "https://obsidian.md/changelog/2026-07-27-mobile-v1.13.4/",
           "date": "2026-07-27T00:00:00.000Z",
           "summary": "Includes all new features and bug fixes up to Obsidian Desktop v1.13.4. Improvements Improved overall appearance of settings in dark mode. No longer broken Fixed search input getting automatically foc"
-        },
-        {
-          "title": "Obsidian 1.13.4デスクトップ（先行アクセス）",
-          "titleOrig": "Obsidian 1.13.4 Desktop (Early access)",
-          "link": "https://obsidian.md/changelog/2026-07-27-desktop-v1.13.4/",
-          "date": "2026-07-27T00:00:00.000Z",
-          "summary": "Improvements The image lightbox now displays the file name of the current image. Improved layout of Page Preview settings. Settings: Download counts are now abbreviated for plugins and themes. Setting"
-        },
-        {
-          "title": "Obsidian 1.13.3モバイル（早期アクセス）",
-          "titleOrig": "Obsidian 1.13.3 Mobile (Early access)",
-          "link": "https://obsidian.md/changelog/2026-07-21-mobile-v1.13.3/",
-          "date": "2026-07-21T00:00:00.000Z",
-          "summary": "Includes all new features and bug fixes up to Obsidian Desktop v1.13.3. Improvements Added \"swipe down\" gesture to dismiss an image in the lightbox. No longer broken Tapping an image no longer shows t"
         }
       ],
       "error": null
