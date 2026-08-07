@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-08-06T02:38:36.065Z",
+  "fetchedAt": "2026-08-07T02:42:28.015Z",
   "tools": [
     {
       "tool": "ミエルカ（YouTube）",
@@ -9,39 +9,8 @@
       "type": "youtube",
       "handle": "@mieruca-channel",
       "feedUrl": "",
-      "items": [
-        {
-          "title": "AI検索流入はどこまで増えた？数十サイトのGA4データで見るAIの影響と今やるべきSEO",
-          "link": "https://www.youtube.com/watch?v=xYibKzKHoZ4",
-          "date": "2026-08-05T23:00:18.000Z",
-          "summary": ""
-        },
-        {
-          "title": "クリックされない時代のSEO｜ゼロクリックマーケティングから考える成果の見方",
-          "link": "https://www.youtube.com/watch?v=TotTeLAsEsk",
-          "date": "2026-08-03T23:00:19.000Z",
-          "summary": ""
-        },
-        {
-          "title": "ChatGPTで選ばれるブランドは何が違う？比較表・価格・レビューの影響｜SEO Weekly Update",
-          "link": "https://www.youtube.com/watch?v=TG665Fk43X8",
-          "date": "2026-08-02T22:30:29.000Z",
-          "summary": ""
-        },
-        {
-          "title": "AI記事が「どこかで見た内容」になる理由｜SEO記事に独自性を出す工夫とは",
-          "link": "https://www.youtube.com/watch?v=BeN2zIb6qYo",
-          "date": "2026-07-28T23:00:06.000Z",
-          "summary": ""
-        },
-        {
-          "title": "ChatGPTで「Google離れ」は進んだ？利用データから見えたAI検索の実態｜SEO Weekly Update",
-          "link": "https://www.youtube.com/watch?v=ekQttgTMfsA",
-          "date": "2026-07-26T22:30:30.000Z",
-          "summary": ""
-        }
-      ],
-      "error": null
+      "items": [],
+      "error": "Status code 404"
     },
     {
       "tool": "Ahrefs",
@@ -154,6 +123,12 @@
       "feedUrl": "https://rakkokeyword.com/techo/feed/",
       "items": [
         {
+          "title": "Webライターに向いてる人の特徴と未経験からのなり方",
+          "link": "https://rakkokeyword.com/techo/web-writer-traits-how-to-become/",
+          "date": "Thu, 06 Aug 2026 07:20:52 +0000",
+          "summary": "Webライターは、特別な文章の才能がなくても始められる仕事です。 むしろ、これまでの仕事で培ってきた力や仕事への姿勢が、そのまま強みになります。 この記事を読めば、自分に適性があるかを見極め、未経験から副業で月数万円を稼 ..."
+        },
+        {
           "title": "Webライターはやめとけ？言われる理由と生き残る人の違い",
           "link": "https://rakkokeyword.com/techo/web-writer-reasons-to-avoid-how-to-survive/",
           "date": "Mon, 03 Aug 2026 07:33:44 +0000",
@@ -176,12 +151,6 @@
           "link": "https://rakkokeyword.com/techo/note-monetization-guide/",
           "date": "Tue, 28 Jul 2026 02:51:58 +0000",
           "summary": "結論から言うと、実績ゼロの一般人でもnoteで収入を得ることは十分に可能です。 noteは有料記事やメンバーシップなど、初期費用ゼロで始められる収益化の仕組みが整っており、ブログのように難しい初期設定やSEOの知識がなく ..."
-        },
-        {
-          "title": "自己流のインスタ集客から脱却！成功事例で学ぶファン化の仕組み",
-          "link": "https://rakkokeyword.com/techo/instagram-marketing-fan-building-strategy/",
-          "date": "Mon, 27 Jul 2026 07:04:29 +0000",
-          "summary": "Instagramの集客がうまくいかない原因の多くは、センスや投稿数ではなく、見込み客を集めて来店につなげる「流れ」ができていないことにあります。 見込み客に見つけてもらい、興味を持ってもらい、ファンになってもらって、最 ..."
         }
       ],
       "error": null
@@ -293,6 +262,13 @@
       "feedUrl": "https://wordpress.org/news/feed/",
       "items": [
         {
+          "title": "WordPress 7.0.3リリース",
+          "titleOrig": "WordPress 7.0.3 release",
+          "link": "https://wordpress.org/news/2026/08/wordpress-7-0-3-release/",
+          "date": "Thu, 06 Aug 2026 18:55:30 +0000",
+          "summary": "WordPress 7.0.3 is now available WordPress 7.0.3 is now available which features several security fixes. Because this is a security release, it is recommended that you update your sites immediately. Y"
+        },
+        {
           "title": "WordPress 7.1リリース候補1",
           "titleOrig": "WordPress 7.1 Release Candidate 1",
           "link": "https://wordpress.org/news/2026/08/wordpress-7-1-release-candidate-1/",
@@ -319,13 +295,6 @@
           "link": "https://wordpress.org/news/2026/07/wordpress-7-0-2-release/",
           "date": "Fri, 17 Jul 2026 18:45:54 +0000",
           "summary": "WordPress 7.0.2 is now available. The 7.0.2 security release addresses one critical and one high severity security issue. Because this is a security release, it is recommended that you update your sit"
-        },
-        {
-          "title": "WordPress 7.1ベータ1",
-          "titleOrig": "WordPress 7.1 Beta 1",
-          "link": "https://wordpress.org/news/2026/07/wordpress-7-1-beta-1/",
-          "date": "Wed, 15 Jul 2026 15:53:33 +0000",
-          "summary": "WordPress 7.1 Beta 1 is ready for download and testing! This beta release is intended for testing and development only. Please do not install, run, or test this version of WordPress on production or m"
         }
       ],
       "error": null
@@ -383,6 +352,20 @@
       "feedUrl": "https://github.blog/feed/",
       "items": [
         {
+          "title": "GitHub Copilotアプリのスラッシュコマンドのガイド",
+          "titleOrig": "A guide to slash commands in the GitHub Copilot app",
+          "link": "https://github.blog/ai-and-ml/github-copilot/a-guide-to-slash-commands-in-the-github-copilot-app/",
+          "date": "Thu, 06 Aug 2026 19:49:34 +0000",
+          "summary": "Go beyond chat in the GitHub Copilot app with these slash commands. They'll help you plan, collaborate, automate, and customize your dev workflow. The post A guide to slash commands in the GitHub Copi"
+        },
+        {
+          "title": "Npmを超えてマルウェアアドバイザリーを活用した方法",
+          "titleOrig": "How we took malware advisories beyond npm",
+          "link": "https://github.blog/security/supply-chain-security/how-we-took-malware-advisories-beyond-npm/",
+          "date": "Thu, 06 Aug 2026 16:51:12 +0000",
+          "summary": "GitHub malware advisories no longer stop at npm. Here's how we wired OpenSSF's malicious-packages data into the Advisory Database, and why we built the pipeline paranoid. The post How we took malware "
+        },
+        {
           "title": "GitHub法務チームがCopilot CLIを使用してワークフローを合理化した方法",
           "titleOrig": "How the GitHub legal team used Copilot CLI to streamline their workflows",
           "link": "https://github.blog/ai-and-ml/github-copilot/how-the-github-legal-team-used-copilot-cli-to-streamline-their-workflows/",
@@ -402,20 +385,6 @@
           "link": "https://github.blog/engineering/architecture-optimization/dont-stop-early-case-folding-source-code-at-memory-speed/",
           "date": "Fri, 31 Jul 2026 16:00:00 +0000",
           "summary": "How a branch-free loop and byte-space arithmetic let GitHub case-fold every byte of code search at >45 GiB/s on a single core. The post Don’t stop early: Case-folding source code at memory speed appea"
-        },
-        {
-          "title": "GitHub Copilotアプリのスタックされたセッションとプルリクエスト",
-          "titleOrig": "Stacked sessions and pull requests in the GitHub Copilot app",
-          "link": "https://github.blog/ai-and-ml/github-copilot/stacked-sessions-and-pull-requests-in-the-github-copilot-app/",
-          "date": "Thu, 30 Jul 2026 17:30:24 +0000",
-          "summary": "Learn how I modernized an old codebase of mine using stacked sessions and pull requests in the GitHub Copilot app. The post Stacked sessions and pull requests in the GitHub Copilot app appeared first "
-        },
-        {
-          "title": "Tame Dependabot ：アップデートをグループ化し、ケイデンスを遅くし、セキュリティを高速に保ちます",
-          "titleOrig": "Tame Dependabot: Group your updates, slow the cadence, keep security fast",
-          "link": "https://github.blog/security/supply-chain-security/tame-dependabot-group-your-updates-slow-the-cadence-keep-security-fast/",
-          "date": "Wed, 29 Jul 2026 16:00:00 +0000",
-          "summary": "Dependabot keeps your dependencies current, but its defaults can flood your repository with pull requests. Here's how grouping updates, slowing the cadence, and keeping security fixes fast cut the noi"
         }
       ],
       "error": null
