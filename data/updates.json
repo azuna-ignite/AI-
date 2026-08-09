@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-08-07T02:42:28.015Z",
+  "fetchedAt": "2026-08-09T01:48:28.046Z",
   "tools": [
     {
       "tool": "ミエルカ（YouTube）",
@@ -9,8 +9,39 @@
       "type": "youtube",
       "handle": "@mieruca-channel",
       "feedUrl": "",
-      "items": [],
-      "error": "Status code 404"
+      "items": [
+        {
+          "title": "AI検索流入はどこまで増えた？数十サイトのGA4データで見るAIの影響と今やるべきSEO",
+          "link": "https://www.youtube.com/watch?v=xYibKzKHoZ4",
+          "date": "2026-08-05T23:00:18.000Z",
+          "summary": ""
+        },
+        {
+          "title": "クリックされない時代のSEO｜ゼロクリックマーケティングから考える成果の見方",
+          "link": "https://www.youtube.com/watch?v=TotTeLAsEsk",
+          "date": "2026-08-03T23:00:19.000Z",
+          "summary": ""
+        },
+        {
+          "title": "ChatGPTで選ばれるブランドは何が違う？比較表・価格・レビューの影響｜SEO Weekly Update",
+          "link": "https://www.youtube.com/watch?v=TG665Fk43X8",
+          "date": "2026-08-02T22:30:29.000Z",
+          "summary": ""
+        },
+        {
+          "title": "AI記事が「どこかで見た内容」になる理由｜SEO記事に独自性を出す工夫とは",
+          "link": "https://www.youtube.com/watch?v=BeN2zIb6qYo",
+          "date": "2026-07-28T23:00:06.000Z",
+          "summary": ""
+        },
+        {
+          "title": "ChatGPTで「Google離れ」は進んだ？利用データから見えたAI検索の実態｜SEO Weekly Update",
+          "link": "https://www.youtube.com/watch?v=ekQttgTMfsA",
+          "date": "2026-07-26T22:30:30.000Z",
+          "summary": ""
+        }
+      ],
+      "error": null
     },
     {
       "tool": "Ahrefs",
@@ -18,39 +49,8 @@
       "category": "SEO・キーワード調査",
       "sourceType": "tool",
       "feedUrl": "https://ahrefs.com/blog/ja/feed/",
-      "items": [
-        {
-          "title": "33.1 万ページを調べて分かった、Google が AI コンテンツを罰しない理由",
-          "link": "https://ahrefs.com/blog/ja/google-doesnt-punish-ai-content/",
-          "date": "Tue, 04 Aug 2026 02:19:06 +0000",
-          "summary": "33 万ページを対象にした調査で、Google が SEO コンテンツと AI の関係をどう評価しているかを検証しました。上位表示ページの 5.3% が完全な AI 生成であり、品質こそが検索順位を左右する鍵であることが明らかになりました。 Read more › The post 33.1 万ページを調べて分かった、Google が AI コンテンツを罰しない理由 appeared first "
-        },
-        {
-          "title": "【Ahrefs 独占取材】Hakuhodo DY ONE は、いかに AI 検索時代の市場変化をデータで読み解くのか？",
-          "link": "https://ahrefs.com/blog/ja/hakuhodo-dy-one-ai-search-interview/",
-          "date": "Mon, 27 Jul 2026 23:28:12 +0000",
-          "summary": "AI 検索のトラフィック総量は前年比 約2.3 倍、検索プラットフォーム全体では 約110% と拡大を続ける。 従来型検索が AI 検索に「食われる」のではなく、ユーザーは目的に応じて使い分けを始めている。この変化の最前線で、クライアント企業の検索戦略を支え続けているのが、株式会社 Hakuhodo DY ONEです。 同社のAI検索研究機関「ONE-AIO Lab」 の所長を務める登 章良氏は、"
-        },
-        {
-          "title": "AI 概要で Google 検索 1 位の CTR が半年で激減、日本 クリック率が − 62.7% に減少",
-          "link": "https://ahrefs.com/blog/ja/ai-overviews-reduce-clicks-june-2026/",
-          "date": "Tue, 21 Jul 2026 16:37:10 +0000",
-          "summary": "AI 概要（ AI Overviews ）による検索 1 位のクリック率（ CTR ）低下が、この半年で一気に進行しています。Ahrefs の調査では、日本の情報収集型キーワードの検索 1 位 CTR 低下率が 2025 年 12 月の −38% から、2026 年 6 月には −62.7% へと拡大しました（米国は −58% → −68.8% ）。「順位＝流入」の前提が崩れる今、マーケターが取る"
-        },
-        {
-          "title": "AI 推奨で自社ブランドのポジショニングを高める方法：AEO 対策と Ahrefs（エイチレフス）ブランドレーダー活用ガイド",
-          "link": "https://ahrefs.com/blog/ja/aeo-guide-ahrefs-brand-radar/",
-          "date": "Tue, 21 Jul 2026 00:48:52 +0000",
-          "summary": "ChatGPT などの普及で注目される AEO（Answer Engine Optimization）とは 何かを分かりやすく解説。Ahrefs のブランドレーダー機能を活用して自社ブランドの AI 上での見え方を定量的に把握し、競合との差を特定して引用率を改善するための具体的な AEO 対策の実務手順をお届けします。 Read more › The post AI 推奨で自社ブランドのポジショニ"
-        },
-        {
-          "title": "AEO（回答エンジン最適化）とは？SEO・GEO・LLMO との違いと、AI による概要に表示されるための実践ガイド",
-          "link": "https://ahrefs.com/blog/ja/aeo-seo-geo-llmo-difference/",
-          "date": "Fri, 17 Jul 2026 00:56:48 +0000",
-          "summary": "AEO（回答エンジン最適化）とは、ChatGPT・Gemini・Perplexity などの AI に自社コンテンツを引用・推奨させる最適化手法です。SEO・GEO・LLMO との違いや、Google の AI による概要に表示されるための実践的な対策を Ahrefs のツール活用例とともに解説します。 Read more › The post AEO（回答エンジン最適化）とは？SEO・GEO・L"
-        }
-      ],
-      "error": null
+      "items": [],
+      "error": "Status code 404"
     },
     {
       "tool": "Semrush",
@@ -307,6 +307,20 @@
       "feedUrl": "https://obsidian.md/changelog.xml",
       "items": [
         {
+          "title": "Obsidian 1.13.6モバイル（先行アクセス）",
+          "titleOrig": "Obsidian 1.13.6 Mobile (Early access)",
+          "link": "https://obsidian.md/changelog/2026-08-07-mobile-v1.13.6/",
+          "date": "2026-08-07T00:00:00.000Z",
+          "summary": "Includes all new features and bug fixes up to Obsidian Desktop v1.13.6. No longer broken iOS: Fixed editor sometimes selecting entire paragraph after double-tapping on text or dragging cursor"
+        },
+        {
+          "title": "Obsidian 1.13.6デスクトップ（先行アクセス）",
+          "titleOrig": "Obsidian 1.13.6 Desktop (Early access)",
+          "link": "https://obsidian.md/changelog/2026-08-07-desktop-v1.13.6/",
+          "date": "2026-08-07T00:00:00.000Z",
+          "summary": "Improvements Sliders in settings now use the accent color. Removed the confirmation dialog when Obsidian receives a URI action. No longer broken Settings: Fixed bug where pressing the back button on a"
+        },
+        {
           "title": "Obsidian 1.13.5モバイル（早期アクセス）",
           "titleOrig": "Obsidian 1.13.5 Mobile (Early access)",
           "link": "https://obsidian.md/changelog/2026-08-05-mobile-v1.13.5/",
@@ -326,20 +340,6 @@
           "link": "https://obsidian.md/changelog/2026-07-30-mobile-v1.13.4/",
           "date": "2026-07-30T00:00:00.000Z",
           "summary": "This update introduces a new searchable Settings panel and iOS Share Sheet. Scrolling large files and selecting text should also be improved on both iOS and Android. Includes all new features and bug "
-        },
-        {
-          "title": "Obsidian 1.13デスクトップ（パブリック）",
-          "titleOrig": "Obsidian 1.13 Desktop (Public)",
-          "link": "https://obsidian.md/changelog/2026-07-30-desktop-v1.13.4/",
-          "date": "2026-07-30T00:00:00.000Z",
-          "summary": "This update introduces a new searchable Settings panel and new experience for working with images, including a full-screen image viewer. Settings Settings have been completely revamped with keyboard n"
-        },
-        {
-          "title": "Obsidian 1.13.4モバイル（先行アクセス）",
-          "titleOrig": "Obsidian 1.13.4 Mobile (Early access)",
-          "link": "https://obsidian.md/changelog/2026-07-27-mobile-v1.13.4/",
-          "date": "2026-07-27T00:00:00.000Z",
-          "summary": "Includes all new features and bug fixes up to Obsidian Desktop v1.13.4. Improvements Improved overall appearance of settings in dark mode. No longer broken Fixed search input getting automatically foc"
         }
       ],
       "error": null
