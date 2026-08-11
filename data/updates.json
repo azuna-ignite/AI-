@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-08-10T01:52:15.811Z",
+  "fetchedAt": "2026-08-11T01:48:45.972Z",
   "tools": [
     {
       "tool": "ミエルカ（YouTube）",
@@ -60,6 +60,27 @@
       "feedUrl": "https://www.semrush.com/blog/feed/",
       "items": [
         {
+          "title": "トラフィックがダウンしています。次は何ですか？ AI時代のマーケティングの成功",
+          "titleOrig": "Traffic Is Down—Now What? Marketing Success In the Age of AI",
+          "link": "https://www.semrush.com/blog/overcoming-ai-related-traffic-loss/",
+          "date": "Mon, 10 Aug 2026 09:52:00 +0000",
+          "summary": "Google traffic is slowly declining. Learn how to future-proof your business in the AI era."
+        },
+        {
+          "title": "オーガニックトラフィックとは？ （そしてそれを増やす方法）",
+          "titleOrig": "What is organic traffic? (And how to increase it)",
+          "link": "https://www.semrush.com/blog/organic-traffic/",
+          "date": "Mon, 10 Aug 2026 08:58:00 +0000",
+          "summary": "Organic traffic is the visitors who land on your site through unpaid search results. Increase yours in 5 steps."
+        },
+        {
+          "title": "ローカルSEOキーワードリサーチ：ステップバイステップガイド",
+          "titleOrig": "Local SEO keyword research: A step-by-step guide",
+          "link": "https://www.semrush.com/blog/local-keyword-research/",
+          "date": "Mon, 10 Aug 2026 08:41:00 +0000",
+          "summary": "Local SEO keyword research in six steps: find the terms customers use, validate intent, and improve visibility on Google Search, Maps, and AI answers."
+        },
+        {
           "title": "ChatGPTで局所的な権威がどのように広がるか（および広がらない場所） [Study]",
           "titleOrig": "How topical authority spreads (and where it doesn’t) in ChatGPT [Study]",
           "link": "https://www.semrush.com/blog/chatgpt-topical-focus-study/",
@@ -72,27 +93,6 @@
           "link": "https://www.semrush.com/blog/ai-visibility-tracking-tools-for-agencies/",
           "date": "Fri, 31 Jul 2026 15:04:00 +0000",
           "summary": "The best AI visibility tracking tools for agencies include Semrush, OtterlyAI, and Peec AI. Here’s why."
-        },
-        {
-          "title": "AI可視性のためのデジタルPR ： 5つの戦術+測定方法",
-          "titleOrig": "Digital PR for AI visibility: 5 tactics + how to measure",
-          "link": "https://www.semrush.com/blog/digital-pr-for-ai-visibility/",
-          "date": "Thu, 30 Jul 2026 10:42:00 +0000",
-          "summary": "Having a site isn‘t enough to get AI to talk about you. Use these 5 digital PR tactics to grow AI visibility."
-        },
-        {
-          "title": "スキーママークアップとは何ですか？サイトに追加する方法",
-          "titleOrig": "What is schema markup? And how to add it to your site",
-          "link": "https://www.semrush.com/blog/schema-markup/",
-          "date": "Thu, 30 Jul 2026 10:21:00 +0000",
-          "summary": "Schema markup is code you add to your site to give search engines and AI systems explicit data about your pages."
-        },
-        {
-          "title": "コンテンツの最適化： SEOとAIの可視性を高めるための20の戦術",
-          "titleOrig": "Content optimization: 20 tactics to boost SEO & AI visibility",
-          "link": "https://www.semrush.com/blog/content-optimization/",
-          "date": "Thu, 30 Jul 2026 10:07:00 +0000",
-          "summary": "Content optimization makes your pages work for readers, search, and AI at once. Get 20 tactics to boost visibility and conversions."
         }
       ],
       "error": null
@@ -121,8 +121,39 @@
       "category": "SEO・キーワード調査",
       "sourceType": "tool",
       "feedUrl": "https://rakkokeyword.com/techo/feed/",
-      "items": [],
-      "error": "Status code 415"
+      "items": [
+        {
+          "title": "Webライターに向いてる人の特徴と未経験からのなり方",
+          "link": "https://rakkokeyword.com/techo/web-writer-traits-how-to-become/",
+          "date": "Thu, 06 Aug 2026 07:20:52 +0000",
+          "summary": "Webライターは、特別な文章の才能がなくても始められる仕事です。 むしろ、これまでの仕事で培ってきた力や仕事への姿勢が、そのまま強みになります。 この記事を読めば、自分に適性があるかを見極め、未経験から副業で月数万円を稼 ..."
+        },
+        {
+          "title": "Webライターはやめとけ？言われる理由と生き残る人の違い",
+          "link": "https://rakkokeyword.com/techo/web-writer-reasons-to-avoid-how-to-survive/",
+          "date": "Mon, 03 Aug 2026 07:33:44 +0000",
+          "summary": "「Webライターはやめとけ」という声は、たしかに厳しい現実を映しています。 ただし、その多くは正しいやり方を知らないまま挫折した人の意見で、続けてスキルを身につけた人はきちんと稼いでいます。 この記事では、これから副業で ..."
+        },
+        {
+          "title": "【X運用】フォロワー増より重要！売上に直結する戦略とKPI設計",
+          "link": "https://rakkokeyword.com/techo/x-strategy-sales-kpi-design/",
+          "date": "Thu, 30 Jul 2026 04:19:34 +0000",
+          "summary": "X（旧Twitter）運用でつまずく原因の多くは、投稿テクニックではなく「目的とKPIの設計」が抜けている点にあります。 逆に言えば、運用目的から逆算して戦略・体制・リスク管理を最初に組み立てれば、少ない人数でも成果につ ..."
+        },
+        {
+          "title": "TikTokの伸ばし方・再生数が止まる原因を絶つ本質的な運用術",
+          "link": "https://rakkokeyword.com/techo/tiktok-growth-strategy/",
+          "date": "Tue, 28 Jul 2026 06:55:01 +0000",
+          "summary": "TikTokの再生回数が伸びないのは、才能やセンスの問題ではありません。 動画をおすすめに表示させる「アルゴリズム」の仕組みを理解し、それに沿った運用に切り替えれば、伸び悩みの多くは解消できます。 この記事を読めば、「2 ..."
+        },
+        {
+          "title": "【noteで稼ぐ】一般人の記事は誰が買う？実績ゼロから着実に収益化する手順",
+          "link": "https://rakkokeyword.com/techo/note-monetization-guide/",
+          "date": "Tue, 28 Jul 2026 02:51:58 +0000",
+          "summary": "結論から言うと、実績ゼロの一般人でもnoteで収入を得ることは十分に可能です。 noteは有料記事やメンバーシップなど、初期費用ゼロで始められる収益化の仕組みが整っており、ブログのように難しい初期設定やSEOの知識がなく ..."
+        }
+      ],
+      "error": null
     },
     {
       "tool": "Claude / Claude Code",
@@ -140,6 +171,13 @@
       "sourceType": "tool",
       "feedUrl": "https://blog.google/technology/ai/rss/",
       "items": [
+        {
+          "title": "新しいAIツールでマーケティングを進化させましょう",
+          "titleOrig": "Evolve your marketing with new AI tools",
+          "link": "https://blog.google/products/ads-commerce/google-ads-analytics-ai-updates/",
+          "date": "Mon, 10 Aug 2026 14:30:00 +0000",
+          "summary": "Learn how new AI and agentic experiences across Google Ads and Google Analytics can simplify your marketing workflow."
+        },
         {
           "title": "2026年7月に発表した最新のAIニュース",
           "titleOrig": "The latest AI news we announced in July 2026",
@@ -167,13 +205,6 @@
           "link": "https://blog.google/products-and-platforms/products/search/ai-mode-real-world-tips/",
           "date": "Tue, 28 Jul 2026 13:00:00 +0000",
           "summary": "It might sound counterintuitive, but Search's AI tools can actually help you make the most of your time offline whether you want to book concert tickets or find the perf…"
-        },
-        {
-          "title": "Google検索で究極のディナーパーティーを開催する5つの方法",
-          "titleOrig": "5 ways to host the ultimate dinner party with Google Search",
-          "link": "https://blog.google/products-and-platforms/products/search/dinner-party-hosting-tips/",
-          "date": "Tue, 28 Jul 2026 13:00:00 +0000",
-          "summary": "These AI features can help you craft a menu, design a tablescape, and handle other party-planning tasks."
         }
       ],
       "error": null
@@ -276,6 +307,20 @@
       "feedUrl": "https://obsidian.md/changelog.xml",
       "items": [
         {
+          "title": "Obsidian 1.13.6モバイル（パブリック）",
+          "titleOrig": "Obsidian 1.13.6 Mobile (Public)",
+          "link": "https://obsidian.md/changelog/2026-08-10-mobile-v1.13.6/",
+          "date": "2026-08-10T00:00:00.000Z",
+          "summary": "Includes all new features and bug fixes up to Obsidian Desktop v1.13.6. New Added swipe-to-close to close tabs in the tab switcher. Improvements Tabs now animate to their new position after closing a "
+        },
+        {
+          "title": "Obsidian 1.13.6デスクトップ（パブリック）",
+          "titleOrig": "Obsidian 1.13.6 Desktop (Public)",
+          "link": "https://obsidian.md/changelog/2026-08-10-desktop-v1.13.6/",
+          "date": "2026-08-10T00:00:00.000Z",
+          "summary": "Improvements The app now waits for configuration files to finish saving when quitting to avoid the file getting corrupted. Improved \"Undo close tab\" behavior. Tabs now reopen in the correct tab group,"
+        },
+        {
           "title": "Obsidian 1.13.6モバイル（先行アクセス）",
           "titleOrig": "Obsidian 1.13.6 Mobile (Early access)",
           "link": "https://obsidian.md/changelog/2026-08-07-mobile-v1.13.6/",
@@ -287,7 +332,7 @@
           "titleOrig": "Obsidian 1.13.6 Desktop (Early access)",
           "link": "https://obsidian.md/changelog/2026-08-07-desktop-v1.13.6/",
           "date": "2026-08-07T00:00:00.000Z",
-          "summary": "Improvements Sliders in settings now use the accent color. Removed the confirmation dialog when Obsidian receives a URI action. No longer broken Settings: Fixed bug where pressing the back button on a"
+          "summary": "Improvements Sliders in settings now use the accent color. Removed dialog to approve URI actions because it was creating even more confusion for non-technical users. 1.13 already introduced some new g"
         },
         {
           "title": "Obsidian 1.13.5モバイル（早期アクセス）",
@@ -295,20 +340,6 @@
           "link": "https://obsidian.md/changelog/2026-08-05-mobile-v1.13.5/",
           "date": "2026-08-05T00:00:00.000Z",
           "summary": "Includes all new features and bug fixes up to Obsidian Desktop v1.13.5. New Added swipe-to-close to close tabs in the tab switcher. Improvements Tabs now animate to their new position after closing a "
-        },
-        {
-          "title": "Obsidian 1.13.5デスクトップ（先行アクセス）",
-          "titleOrig": "Obsidian 1.13.5 Desktop (Early access)",
-          "link": "https://obsidian.md/changelog/2026-08-05-desktop-v1.13.5/",
-          "date": "2026-08-05T00:00:00.000Z",
-          "summary": "Improvements The app now waits for configuration files to finish saving when quitting to avoid the file getting corrupted. Improved \"Undo close tab\" behavior. Tabs now reopen in the correct tab group,"
-        },
-        {
-          "title": "Obsidian 1.13モバイル（パブリック）",
-          "titleOrig": "Obsidian 1.13 Mobile (Public)",
-          "link": "https://obsidian.md/changelog/2026-07-30-mobile-v1.13.4/",
-          "date": "2026-07-30T00:00:00.000Z",
-          "summary": "This update introduces a new searchable Settings panel and iOS Share Sheet. Scrolling large files and selecting text should also be improved on both iOS and Android. Includes all new features and bug "
         }
       ],
       "error": null
@@ -320,6 +351,13 @@
       "sourceType": "tool",
       "feedUrl": "https://github.blog/feed/",
       "items": [
+        {
+          "title": "GitHub Copilot SDK for Javaの使用",
+          "titleOrig": "Using the GitHub Copilot SDK for Java",
+          "link": "https://github.blog/engineering/using-the-github-copilot-sdk-for-java/",
+          "date": "Mon, 10 Aug 2026 19:30:00 +0000",
+          "summary": "Enterprise Java developers have a new superpower—drive GitHub Copilot from idiomatic Java code with annotations, virtual threads, and more. The post Using the GitHub Copilot SDK for Java appeared firs"
+        },
         {
           "title": "GitHub Copilotアプリのスラッシュコマンドのガイド",
           "titleOrig": "A guide to slash commands in the GitHub Copilot app",
@@ -347,13 +385,6 @@
           "link": "https://github.blog/engineering/turn-one-giant-ai-generated-pull-request-to-a-reviewable-stack/",
           "date": "Tue, 04 Aug 2026 16:47:18 +0000",
           "summary": "Instead of one huge, un-reviewable pull request, teach coding agents to decompose work into a clean, ordered stack with GitHub stacked pull requests. The post Turn one giant AI-generated pull request "
-        },
-        {
-          "title": "早めに停止しないでください：メモリ速度でケース折りたたみソースコード",
-          "titleOrig": "Don’t stop early: Case-folding source code at memory speed",
-          "link": "https://github.blog/engineering/architecture-optimization/dont-stop-early-case-folding-source-code-at-memory-speed/",
-          "date": "Fri, 31 Jul 2026 16:00:00 +0000",
-          "summary": "How a branch-free loop and byte-space arithmetic let GitHub case-fold every byte of code search at >45 GiB/s on a single core. The post Don’t stop early: Case-folding source code at memory speed appea"
         }
       ],
       "error": null
@@ -364,39 +395,8 @@
       "category": "制作・デザイン",
       "sourceType": "media",
       "feedUrl": "https://www.mindfactory.co.jp/blog/feed/",
-      "items": [
-        {
-          "title": "【新入社員インタビュー】プリ機のUIデザインから新天地へ。￼",
-          "link": "https://www.mindfactory.co.jp/blog/8439",
-          "date": "Tue, 28 Jul 2026 01:38:35 +0000",
-          "summary": "マインドファクトリーのクリエイティブチームでは、企業の課題解決を最大化するデジタルマーケティングの一環として、ロジックに基づいた戦略的なデザインの提供に注力しています。チームの多様性とクリエイティブの幅をさらに広げるべく […]"
-        },
-        {
-          "title": "【新入社員インタビュー】5年の経験を経て、マインドファクトリーを選んだ理由￼￼",
-          "link": "https://www.mindfactory.co.jp/blog/8431",
-          "date": "Tue, 21 Jul 2026 07:51:09 +0000",
-          "summary": "マインドファクトリーのクリエイティブチームでは、企業のビジネスを加速させるデジタルマーケティングの一環として、戦略的かつハイクオリティなデザイン制作に取り組んでいます。組織のさらなる成長とクリエイティブ力の強化を目指す中 […]"
-        },
-        {
-          "title": "“伝わる”UIをつくれるデザイナーを目指して - インターン生インタビュー",
-          "link": "https://www.mindfactory.co.jp/blog/8370",
-          "date": "Fri, 27 Feb 2026 11:43:03 +0000",
-          "summary": "今年マインドファクトリーでは、初めてインターンシップの受け入れを行いました。 今回は、インターンで来てくれた名古屋モード学園グラフィック学科の水野君に、デザイナーを志したきっかけや弊社でのインターンの感想をインタビューし […]"
-        },
-        {
-          "title": "WEBメディア「CREATORS STATION」に代表富岡のインタビュー記事が掲載されました",
-          "link": "https://www.mindfactory.co.jp/blog/8364",
-          "date": "Mon, 16 Feb 2026 08:57:39 +0000",
-          "summary": "株式会社フェローズが運営する、日本全国のクリエイターを応援するためのWEBメディア「CREATORS STATION」に、弊社代表 富岡のインタビュー記事が掲載されました。自身のこれまでのキャリアから、事業内容、今後の展 […]"
-        },
-        {
-          "title": "年末年始休暇のお知らせ",
-          "link": "https://www.mindfactory.co.jp/blog/8357",
-          "date": "Fri, 05 Dec 2025 09:20:14 +0000",
-          "summary": "平素は格別のお引き立てを賜り、厚く御礼申し上げます。誠に勝手ながら、弊社は、下記の期間を年末年始休業とさせていただきます。 ■ 年末年始休暇期間2025年12月27日（土）～2026年1月4日（日） ご不便をおかけいたし […]"
-        }
-      ],
-      "error": null
+      "items": [],
+      "error": "Request timed out after 10000ms"
     },
     {
       "tool": "Empathy Writing",
