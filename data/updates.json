@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-08-11T01:48:45.972Z",
+  "fetchedAt": "2026-08-12T02:00:40.390Z",
   "tools": [
     {
       "tool": "ミエルカ（YouTube）",
@@ -10,6 +10,12 @@
       "handle": "@mieruca-channel",
       "feedUrl": "",
       "items": [
+        {
+          "title": "XのアルゴリズムとSEOの関係｜Google検索への表示・流入の実例を解説",
+          "link": "https://www.youtube.com/watch?v=ohMiqmhOj7s",
+          "date": "2026-08-11T23:00:32.000Z",
+          "summary": ""
+        },
         {
           "title": "Google検索の47％がゼロクリック、それでも日本では低水準｜国ごとに変わる検索行動｜SEO Weekly Update",
           "link": "https://www.youtube.com/watch?v=kKzl1e1Fa1s",
@@ -33,12 +39,6 @@
           "link": "https://www.youtube.com/watch?v=TG665Fk43X8",
           "date": "2026-08-02T22:30:29.000Z",
           "summary": ""
-        },
-        {
-          "title": "AI記事が「どこかで見た内容」になる理由｜SEO記事に独自性を出す工夫とは",
-          "link": "https://www.youtube.com/watch?v=BeN2zIb6qYo",
-          "date": "2026-07-28T23:00:06.000Z",
-          "summary": ""
         }
       ],
       "error": null
@@ -60,39 +60,39 @@
       "feedUrl": "https://www.semrush.com/blog/feed/",
       "items": [
         {
-          "title": "トラフィックがダウンしています。次は何ですか？ AI時代のマーケティングの成功",
+          "title": "Topical Gravity: Why topics are the new unit of your search strategy",
+          "titleOrig": "Topical Gravity: Why topics are the new unit of your search strategy",
+          "link": "https://www.semrush.com/blog/topical-gravity/",
+          "date": "Tue, 11 Aug 2026 13:00:00 +0000",
+          "summary": "Search has become a topic-level game. Here‘s a framework to build, measure, and grow topical authority across AI and Google."
+        },
+        {
+          "title": "Traffic Is Down—Now What? Marketing Success In the Age of AI",
           "titleOrig": "Traffic Is Down—Now What? Marketing Success In the Age of AI",
           "link": "https://www.semrush.com/blog/overcoming-ai-related-traffic-loss/",
           "date": "Mon, 10 Aug 2026 09:52:00 +0000",
           "summary": "Google traffic is slowly declining. Learn how to future-proof your business in the AI era."
         },
         {
-          "title": "オーガニックトラフィックとは？ （そしてそれを増やす方法）",
+          "title": "What is organic traffic? (And how to increase it)",
           "titleOrig": "What is organic traffic? (And how to increase it)",
           "link": "https://www.semrush.com/blog/organic-traffic/",
           "date": "Mon, 10 Aug 2026 08:58:00 +0000",
           "summary": "Organic traffic is the visitors who land on your site through unpaid search results. Increase yours in 5 steps."
         },
         {
-          "title": "ローカルSEOキーワードリサーチ：ステップバイステップガイド",
+          "title": "Local SEO keyword research: A step-by-step guide",
           "titleOrig": "Local SEO keyword research: A step-by-step guide",
           "link": "https://www.semrush.com/blog/local-keyword-research/",
           "date": "Mon, 10 Aug 2026 08:41:00 +0000",
           "summary": "Local SEO keyword research in six steps: find the terms customers use, validate intent, and improve visibility on Google Search, Maps, and AI answers."
         },
         {
-          "title": "ChatGPTで局所的な権威がどのように広がるか（および広がらない場所） [Study]",
+          "title": "How topical authority spreads (and where it doesn’t) in ChatGPT [Study]",
           "titleOrig": "How topical authority spreads (and where it doesn’t) in ChatGPT [Study]",
           "link": "https://www.semrush.com/blog/chatgpt-topical-focus-study/",
           "date": "Mon, 03 Aug 2026 13:00:00 +0000",
           "summary": "Can authority in one ChatGPT topic help you win another? Our study shows where topical authority carries over — and where it stops."
-        },
-        {
-          "title": "ニーズに応じた代理店向けの7つの最高のAI可視性追跡ツール",
-          "titleOrig": "7 best AI visibility tracking tools for agencies by need",
-          "link": "https://www.semrush.com/blog/ai-visibility-tracking-tools-for-agencies/",
-          "date": "Fri, 31 Jul 2026 15:04:00 +0000",
-          "summary": "The best AI visibility tracking tools for agencies include Semrush, OtterlyAI, and Peec AI. Here’s why."
         }
       ],
       "error": null
@@ -172,39 +172,39 @@
       "feedUrl": "https://blog.google/technology/ai/rss/",
       "items": [
         {
-          "title": "新しいAIツールでマーケティングを進化させましょう",
+          "title": "AMIE, our research medical AI system, demonstrates real-time clinical video consultation capabilities in a first-of-its-kind study.",
+          "titleOrig": "AMIE, our research medical AI system, demonstrates real-time clinical video consultation capabilities in a first-of-its-kind study.",
+          "link": "https://blog.google/innovation-and-ai/models-and-research/google-research/amie-video-consultations/",
+          "date": "Tue, 11 Aug 2026 17:00:00 +0000",
+          "summary": "Google introduces AMIE for real-time clinical video consultations in simulated settings."
+        },
+        {
+          "title": "Evolve your marketing with new AI tools",
           "titleOrig": "Evolve your marketing with new AI tools",
           "link": "https://blog.google/products/ads-commerce/google-ads-analytics-ai-updates/",
           "date": "Mon, 10 Aug 2026 14:30:00 +0000",
           "summary": "Learn how new AI and agentic experiences across Google Ads and Google Analytics can simplify your marketing workflow."
         },
         {
-          "title": "2026年7月に発表した最新のAIニュース",
+          "title": "The latest AI news we announced in July 2026",
           "titleOrig": "The latest AI news we announced in July 2026",
           "link": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-july-2026/",
           "date": "Tue, 04 Aug 2026 13:00:00 +0000",
           "summary": "Here are Google’s latest AI updates from July 2026"
         },
         {
-          "title": "353,000人規模のバイブコーディングコース",
+          "title": "Inside our 353,000-person vibe coding course",
           "titleOrig": "Inside our 353,000-person vibe coding course",
           "link": "https://blog.google/innovation-and-ai/technology/developers-tools/ai-agents-intensive-recap-2026/",
           "date": "Mon, 03 Aug 2026 15:00:00 +0000",
           "summary": "Kaggle’s AI Agents Intensive with Google brought learners together in a no-cost course to build and deploy the next frontier of AI."
         },
         {
-          "title": "Gemini APIマネージドエージェント： 3.6 Flash、フックなど",
+          "title": "Gemini API Managed Agents: 3.6 Flash, hooks, and more",
           "titleOrig": "Gemini API Managed Agents: 3.6 Flash, hooks, and more",
           "link": "https://blog.google/innovation-and-ai/technology/developers-tools/expanding-managed-agents-gemini-api-3-6-flash-hooks/",
           "date": "Tue, 28 Jul 2026 16:00:00 +0000",
           "summary": "We’re announcing even more new capabilities in Managed Agents in Gemini API so developers can build reliable, production-ready agents."
-        },
-        {
-          "title": "検索のAIモードが現実世界を楽しむのに役立つ5つの方法",
-          "titleOrig": "5 ways AI Mode in Search helps you enjoy the real world",
-          "link": "https://blog.google/products-and-platforms/products/search/ai-mode-real-world-tips/",
-          "date": "Tue, 28 Jul 2026 13:00:00 +0000",
-          "summary": "It might sound counterintuitive, but Search's AI tools can actually help you make the most of your time offline whether you want to book concert tickets or find the perf…"
         }
       ],
       "error": null
@@ -262,35 +262,35 @@
       "feedUrl": "https://wordpress.org/news/feed/",
       "items": [
         {
-          "title": "WordPress 7.0.3リリース",
+          "title": "WordPress 7.0.3 release",
           "titleOrig": "WordPress 7.0.3 release",
           "link": "https://wordpress.org/news/2026/08/wordpress-7-0-3-release/",
           "date": "Thu, 06 Aug 2026 18:55:30 +0000",
           "summary": "WordPress 7.0.3 is now available WordPress 7.0.3 is now available which features several security fixes. Because this is a security release, it is recommended that you update your sites immediately. Y"
         },
         {
-          "title": "WordPress 7.1リリース候補1",
+          "title": "WordPress 7.1 Release Candidate 1",
           "titleOrig": "WordPress 7.1 Release Candidate 1",
           "link": "https://wordpress.org/news/2026/08/wordpress-7-1-release-candidate-1/",
           "date": "Wed, 05 Aug 2026 15:37:33 +0000",
           "summary": "The first Release Candidate (“RC1”) for WordPress 7.1 is ready for download and testing! This version of the WordPress software is still under development. Please do not install, run, or test this ver"
         },
         {
-          "title": "WordPress 7.1ベータ4",
+          "title": "WordPress 7.1 Beta 4",
           "titleOrig": "WordPress 7.1 Beta 4",
           "link": "https://wordpress.org/news/2026/07/wordpress-7-1-beta-4/",
           "date": "Wed, 29 Jul 2026 15:30:58 +0000",
           "summary": "WordPress 7.1 Beta 4 is ready for download and testing! This beta release is intended for testing and development only. Please do not install, run, or test this version of WordPress on production or m"
         },
         {
-          "title": "WordPress 7.1ベータ3",
+          "title": "WordPress 7.1 Beta 3",
           "titleOrig": "WordPress 7.1 Beta 3",
           "link": "https://wordpress.org/news/2026/07/wordpress-7-1-beta-3/",
           "date": "Wed, 22 Jul 2026 15:23:14 +0000",
           "summary": "WordPress 7.1 Beta 3 is ready for download and testing! This beta release is intended for testing and development only. Please do not install, run, or test this version of WordPress on production or m"
         },
         {
-          "title": "WordPress 7.0.2リリース",
+          "title": "WordPress 7.0.2 Release",
           "titleOrig": "WordPress 7.0.2 Release",
           "link": "https://wordpress.org/news/2026/07/wordpress-7-0-2-release/",
           "date": "Fri, 17 Jul 2026 18:45:54 +0000",
@@ -307,39 +307,39 @@
       "feedUrl": "https://obsidian.md/changelog.xml",
       "items": [
         {
-          "title": "Obsidian 1.13.6モバイル（パブリック）",
+          "title": "Obsidian 1.13.7 Mobile (Early access)",
+          "titleOrig": "Obsidian 1.13.7 Mobile (Early access)",
+          "link": "https://obsidian.md/changelog/2026-08-11-mobile-v1.13.7/",
+          "date": "2026-08-11T00:00:00.000Z",
+          "summary": "Includes all new features and bug fixes up to Obsidian Desktop v1.13.7."
+        },
+        {
+          "title": "Obsidian 1.13.7 Desktop (Early access)",
+          "titleOrig": "Obsidian 1.13.7 Desktop (Early access)",
+          "link": "https://obsidian.md/changelog/2026-08-11-desktop-v1.13.7/",
+          "date": "2026-08-11T00:00:00.000Z",
+          "summary": "No longer broken macOS: Fixed files with special characters in their names sometimes not appearing in the vault. Editor: Fixed inline math in a list item or callout not rendering correctly. Live Previ"
+        },
+        {
+          "title": "Obsidian 1.13.6 Mobile (Public)",
           "titleOrig": "Obsidian 1.13.6 Mobile (Public)",
           "link": "https://obsidian.md/changelog/2026-08-10-mobile-v1.13.6/",
           "date": "2026-08-10T00:00:00.000Z",
           "summary": "Includes all new features and bug fixes up to Obsidian Desktop v1.13.6. New Added swipe-to-close to close tabs in the tab switcher. Improvements Tabs now animate to their new position after closing a "
         },
         {
-          "title": "Obsidian 1.13.6デスクトップ（パブリック）",
+          "title": "Obsidian 1.13.6 Desktop (Public)",
           "titleOrig": "Obsidian 1.13.6 Desktop (Public)",
           "link": "https://obsidian.md/changelog/2026-08-10-desktop-v1.13.6/",
           "date": "2026-08-10T00:00:00.000Z",
           "summary": "Improvements The app now waits for configuration files to finish saving when quitting to avoid the file getting corrupted. Improved \"Undo close tab\" behavior. Tabs now reopen in the correct tab group,"
         },
         {
-          "title": "Obsidian 1.13.6モバイル（先行アクセス）",
+          "title": "Obsidian 1.13.6 Mobile (Early access)",
           "titleOrig": "Obsidian 1.13.6 Mobile (Early access)",
           "link": "https://obsidian.md/changelog/2026-08-07-mobile-v1.13.6/",
           "date": "2026-08-07T00:00:00.000Z",
           "summary": "Includes all new features and bug fixes up to Obsidian Desktop v1.13.6. No longer broken iOS: Fixed editor sometimes selecting entire paragraph after double-tapping on text or dragging cursor"
-        },
-        {
-          "title": "Obsidian 1.13.6デスクトップ（先行アクセス）",
-          "titleOrig": "Obsidian 1.13.6 Desktop (Early access)",
-          "link": "https://obsidian.md/changelog/2026-08-07-desktop-v1.13.6/",
-          "date": "2026-08-07T00:00:00.000Z",
-          "summary": "Improvements Sliders in settings now use the accent color. Removed dialog to approve URI actions because it was creating even more confusion for non-technical users. 1.13 already introduced some new g"
-        },
-        {
-          "title": "Obsidian 1.13.5モバイル（早期アクセス）",
-          "titleOrig": "Obsidian 1.13.5 Mobile (Early access)",
-          "link": "https://obsidian.md/changelog/2026-08-05-mobile-v1.13.5/",
-          "date": "2026-08-05T00:00:00.000Z",
-          "summary": "Includes all new features and bug fixes up to Obsidian Desktop v1.13.5. New Added swipe-to-close to close tabs in the tab switcher. Improvements Tabs now animate to their new position after closing a "
         }
       ],
       "error": null
@@ -352,39 +352,39 @@
       "feedUrl": "https://github.blog/feed/",
       "items": [
         {
-          "title": "GitHub Copilot SDK for Javaの使用",
+          "title": "From coder to orchestrator: How agents shift the role of a developer",
+          "titleOrig": "From coder to orchestrator: How agents shift the role of a developer",
+          "link": "https://github.blog/developer-skills/career-growth/from-coder-to-orchestrator-how-agents-shift-the-role-of-a-developer/",
+          "date": "Tue, 11 Aug 2026 18:38:17 +0000",
+          "summary": "Developers are owning more of the delivery system around code, not just code itself. Join us during GitHub Universe to meet other devs, learn something new, and explore what's next. The post From code"
+        },
+        {
+          "title": "Using the GitHub Copilot SDK for Java",
           "titleOrig": "Using the GitHub Copilot SDK for Java",
           "link": "https://github.blog/engineering/using-the-github-copilot-sdk-for-java/",
           "date": "Mon, 10 Aug 2026 19:30:00 +0000",
           "summary": "Enterprise Java developers have a new superpower—drive GitHub Copilot from idiomatic Java code with annotations, virtual threads, and more. The post Using the GitHub Copilot SDK for Java appeared firs"
         },
         {
-          "title": "GitHub Copilotアプリのスラッシュコマンドのガイド",
+          "title": "A guide to slash commands in the GitHub Copilot app",
           "titleOrig": "A guide to slash commands in the GitHub Copilot app",
           "link": "https://github.blog/ai-and-ml/github-copilot/a-guide-to-slash-commands-in-the-github-copilot-app/",
           "date": "Thu, 06 Aug 2026 19:49:34 +0000",
           "summary": "Go beyond chat in the GitHub Copilot app with these slash commands. They'll help you plan, collaborate, automate, and customize your dev workflow. The post A guide to slash commands in the GitHub Copi"
         },
         {
-          "title": "Npmを超えてマルウェアアドバイザリーを活用した方法",
+          "title": "How we took malware advisories beyond npm",
           "titleOrig": "How we took malware advisories beyond npm",
           "link": "https://github.blog/security/supply-chain-security/how-we-took-malware-advisories-beyond-npm/",
           "date": "Thu, 06 Aug 2026 16:51:12 +0000",
           "summary": "GitHub malware advisories no longer stop at npm. Here's how we wired OpenSSF's malicious-packages data into the Advisory Database, and why we built the pipeline paranoid. The post How we took malware "
         },
         {
-          "title": "GitHub法務チームがCopilot CLIを使用してワークフローを合理化した方法",
+          "title": "How the GitHub legal team used Copilot CLI to streamline their workflows",
           "titleOrig": "How the GitHub legal team used Copilot CLI to streamline their workflows",
           "link": "https://github.blog/ai-and-ml/github-copilot/how-the-github-legal-team-used-copilot-cli-to-streamline-their-workflows/",
           "date": "Tue, 04 Aug 2026 19:02:34 +0000",
           "summary": "Learn how to build tools to simplify how you work—without writing a single line of code. The post How the GitHub legal team used Copilot CLI to streamline their workflows appeared first on The GitHub "
-        },
-        {
-          "title": "1つの巨大なAI生成プルリクエストをレビュー可能なスタックに変換する",
-          "titleOrig": "Turn one giant AI-generated pull request to a reviewable stack",
-          "link": "https://github.blog/engineering/turn-one-giant-ai-generated-pull-request-to-a-reviewable-stack/",
-          "date": "Tue, 04 Aug 2026 16:47:18 +0000",
-          "summary": "Instead of one huge, un-reviewable pull request, teach coding agents to decompose work into a clean, ordered stack with GitHub stacked pull requests. The post Turn one giant AI-generated pull request "
         }
       ],
       "error": null
@@ -395,8 +395,39 @@
       "category": "制作・デザイン",
       "sourceType": "media",
       "feedUrl": "https://www.mindfactory.co.jp/blog/feed/",
-      "items": [],
-      "error": "Request timed out after 10000ms"
+      "items": [
+        {
+          "title": "【新入社員インタビュー】プリ機のUIデザインから新天地へ。￼",
+          "link": "https://www.mindfactory.co.jp/blog/8439",
+          "date": "Tue, 28 Jul 2026 01:38:35 +0000",
+          "summary": "マインドファクトリーのクリエイティブチームでは、企業の課題解決を最大化するデジタルマーケティングの一環として、ロジックに基づいた戦略的なデザインの提供に注力しています。チームの多様性とクリエイティブの幅をさらに広げるべく […]"
+        },
+        {
+          "title": "【新入社員インタビュー】5年の経験を経て、マインドファクトリーを選んだ理由￼￼",
+          "link": "https://www.mindfactory.co.jp/blog/8431",
+          "date": "Tue, 21 Jul 2026 07:51:09 +0000",
+          "summary": "マインドファクトリーのクリエイティブチームでは、企業のビジネスを加速させるデジタルマーケティングの一環として、戦略的かつハイクオリティなデザイン制作に取り組んでいます。組織のさらなる成長とクリエイティブ力の強化を目指す中 […]"
+        },
+        {
+          "title": "“伝わる”UIをつくれるデザイナーを目指して - インターン生インタビュー",
+          "link": "https://www.mindfactory.co.jp/blog/8370",
+          "date": "Fri, 27 Feb 2026 11:43:03 +0000",
+          "summary": "今年マインドファクトリーでは、初めてインターンシップの受け入れを行いました。 今回は、インターンで来てくれた名古屋モード学園グラフィック学科の水野君に、デザイナーを志したきっかけや弊社でのインターンの感想をインタビューし […]"
+        },
+        {
+          "title": "WEBメディア「CREATORS STATION」に代表富岡のインタビュー記事が掲載されました",
+          "link": "https://www.mindfactory.co.jp/blog/8364",
+          "date": "Mon, 16 Feb 2026 08:57:39 +0000",
+          "summary": "株式会社フェローズが運営する、日本全国のクリエイターを応援するためのWEBメディア「CREATORS STATION」に、弊社代表 富岡のインタビュー記事が掲載されました。自身のこれまでのキャリアから、事業内容、今後の展 […]"
+        },
+        {
+          "title": "年末年始休暇のお知らせ",
+          "link": "https://www.mindfactory.co.jp/blog/8357",
+          "date": "Fri, 05 Dec 2025 09:20:14 +0000",
+          "summary": "平素は格別のお引き立てを賜り、厚く御礼申し上げます。誠に勝手ながら、弊社は、下記の期間を年末年始休業とさせていただきます。 ■ 年末年始休暇期間2025年12月27日（土）～2026年1月4日（日） ご不便をおかけいたし […]"
+        }
+      ],
+      "error": null
     },
     {
       "tool": "Empathy Writing",
