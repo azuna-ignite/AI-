@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-08-16T01:21:13.554Z",
+  "fetchedAt": "2026-08-17T01:18:11.066Z",
   "tools": [
     {
       "tool": "ミエルカ（YouTube）",
@@ -10,6 +10,12 @@
       "handle": "@mieruca-channel",
       "feedUrl": "",
       "items": [
+        {
+          "title": "ChatGPTはどのブランドを回答に出す？ 最初の検索候補で約33倍の差｜SEO Weekly Update",
+          "link": "https://www.youtube.com/watch?v=0S83L_-MNLM",
+          "date": "2026-08-16T22:30:21.000Z",
+          "summary": ""
+        },
         {
           "title": "XのアルゴリズムとSEOの関係｜Google検索への表示・流入の実例を解説",
           "link": "https://www.youtube.com/watch?v=ohMiqmhOj7s",
@@ -32,12 +38,6 @@
           "title": "クリックされない時代のSEO｜ゼロクリックマーケティングから考える成果の見方",
           "link": "https://www.youtube.com/watch?v=TotTeLAsEsk",
           "date": "2026-08-03T23:00:19.000Z",
-          "summary": ""
-        },
-        {
-          "title": "ChatGPTで選ばれるブランドは何が違う？比較表・価格・レビューの影響｜SEO Weekly Update",
-          "link": "https://www.youtube.com/watch?v=TG665Fk43X8",
-          "date": "2026-08-02T22:30:29.000Z",
           "summary": ""
         }
       ],
