@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-08-17T01:18:11.066Z",
+  "fetchedAt": "2026-08-20T01:16:32.062Z",
   "tools": [
     {
       "tool": "ミエルカ（YouTube）",
@@ -11,7 +11,13 @@
       "feedUrl": "",
       "items": [
         {
-          "title": "ChatGPTはどのブランドを回答に出す？ 最初の検索候補で約33倍の差｜SEO Weekly Update",
+          "title": "GEO/LLMO対策の成果はどう測る？GA4だけでは見えないAI回答・指名検索・売上まで",
+          "link": "https://www.youtube.com/watch?v=YE3ZWnctVtk",
+          "date": "2026-08-18T23:00:27.000Z",
+          "summary": ""
+        },
+        {
+          "title": "ChatGPTに選ばれるブランドは検索前に決まる？ 回答登場率に約33倍の差｜SEO Weekly Update",
           "link": "https://www.youtube.com/watch?v=0S83L_-MNLM",
           "date": "2026-08-16T22:30:21.000Z",
           "summary": ""
@@ -32,12 +38,6 @@
           "title": "AI検索流入はどこまで増えた？数十サイトのGA4データで見るAIの影響と今やるべきSEO",
           "link": "https://www.youtube.com/watch?v=xYibKzKHoZ4",
           "date": "2026-08-05T23:00:18.000Z",
-          "summary": ""
-        },
-        {
-          "title": "クリックされない時代のSEO｜ゼロクリックマーケティングから考える成果の見方",
-          "link": "https://www.youtube.com/watch?v=TotTeLAsEsk",
-          "date": "2026-08-03T23:00:19.000Z",
           "summary": ""
         }
       ],
@@ -60,39 +60,39 @@
       "feedUrl": "https://www.semrush.com/blog/feed/",
       "items": [
         {
-          "title": "AIキーワードリサーチ：無料チャットボットツールの使い方",
-          "titleOrig": "AI keyword research: How to use free chatbot tools",
-          "link": "https://www.semrush.com/blog/ai-keyword-research/",
-          "date": "Thu, 13 Aug 2026 11:09:00 +0000",
-          "summary": "We tested 5 free chatbots for AI keyword research. See how they performed and how to validate their suggestions with real search data."
+          "title": "コンテンツマーケティング戦略を作成するための究極のガイド",
+          "titleOrig": "The ultimate guide to creating a content marketing strategy",
+          "link": "https://www.semrush.com/blog/content-marketing-strategy-guide/",
+          "date": "Wed, 19 Aug 2026 08:34:00 +0000",
+          "summary": "Learn how to build a content marketing strategy to reach your audience across search, AI, social & more."
         },
         {
-          "title": "234 ChatGPTプロンプト（および独自の書き方）",
-          "titleOrig": "234 ChatGPT prompts (and how to write your own)",
-          "link": "https://www.semrush.com/blog/chatgpt-prompts/",
-          "date": "Wed, 12 Aug 2026 06:58:00 +0000",
-          "summary": "Copy-ready 234 ChatGPT prompts for marketing, SEO, sales, and 10+ use cases, plus the PROMPT framework for writing your own."
+          "title": "Microsoft ClarityがAIスクレイプと参照の比率を追加",
+          "titleOrig": "Microsoft Clarity adds an AI Scrape-to-Referral Ratio",
+          "link": "https://www.semrush.com/blog/microsoft-clarity-scrape-to-referral/",
+          "date": "Wed, 19 Aug 2026 08:22:00 +0000",
+          "summary": "Microsoft Clarity‘s AI Scrape-to-Referral Ratio compares what AI crawlers take from your site with what they send back."
         },
         {
-          "title": "Topical Gravity: Why topics are the new unit of your search strategy",
-          "titleOrig": "Topical Gravity: Why topics are the new unit of your search strategy",
-          "link": "https://www.semrush.com/blog/topical-gravity/",
-          "date": "Tue, 11 Aug 2026 13:00:00 +0000",
-          "summary": "Search has become a topic-level game. Here‘s a framework to build, measure, and grow topical authority across AI and Google."
+          "title": "SEOコンテンツ：検索とAIの完全ガイド",
+          "titleOrig": "SEO content: A complete guide for search and AI",
+          "link": "https://www.semrush.com/blog/seo-content/",
+          "date": "Mon, 17 Aug 2026 10:53:00 +0000",
+          "summary": "SEO content now has three audiences: users, search engines, and AI. Follow this five-step workflow to create pages that rank and get cited."
         },
         {
-          "title": "トラフィックがダウンしています。次は何ですか？ AI時代のマーケティングの成功",
-          "titleOrig": "Traffic Is Down—Now What? Marketing Success In the Age of AI",
-          "link": "https://www.semrush.com/blog/overcoming-ai-related-traffic-loss/",
-          "date": "Mon, 10 Aug 2026 09:52:00 +0000",
-          "summary": "Google traffic is slowly declining. Learn how to future-proof your business in the AI era."
+          "title": "2026年のSEO戦略：構築方法（+無料ワークブック）",
+          "titleOrig": "SEO strategy in 2026: how to build one (+ free workbook)",
+          "link": "https://www.semrush.com/blog/seo-strategy/",
+          "date": "Mon, 17 Aug 2026 10:08:00 +0000",
+          "summary": "Create a modern SEO strategy that earns qualified leads across search and AI answers. Get a free workbook to make the six decisions that matter."
         },
         {
-          "title": "オーガニックトラフィックとは？ （そしてそれを増やす方法）",
-          "titleOrig": "What is organic traffic? (And how to increase it)",
-          "link": "https://www.semrush.com/blog/organic-traffic/",
-          "date": "Mon, 10 Aug 2026 08:58:00 +0000",
-          "summary": "Organic traffic is the visitors who land on your site through unpaid search results. Increase yours in 5 steps."
+          "title": "新しいウェブサイトのSEO ：最初の90日間のシーケンシングガイド",
+          "titleOrig": "SEO for a new website: A sequencing guide for your first 90 days",
+          "link": "https://www.semrush.com/blog/seo-for-new-website/",
+          "date": "Mon, 17 Aug 2026 09:29:00 +0000",
+          "summary": "SEO for a new website is all about sequencing. This guide covers what to do before and after launch, plus how to show up in AI answers like ChatGPT."
         }
       ],
       "error": null
@@ -123,6 +123,18 @@
       "feedUrl": "https://rakkokeyword.com/techo/feed/",
       "items": [
         {
+          "title": "YouTubeのトレンドの調べ方は？伸びるネタ・需要の見つけ方を解説",
+          "link": "https://rakkokeyword.com/techo/how-to-find-youtube-trends/",
+          "date": "Tue, 18 Aug 2026 07:45:11 +0000",
+          "summary": "YouTubeのトレンドは、YouTube公式の機能・外部の分析ツール・SNSの3つを組み合わせれば、初心者でも今日から調べられます。 1つの情報源に頼るのではなく、複数を掛け合わせることで「需要があるのに動画が少ない穴 ..."
+        },
+        {
+          "title": "無料でサイトのアクセス数を調べる方法は？自社と競合を分析して集客に活かす",
+          "link": "https://rakkokeyword.com/techo/free-website-traffic-competitor-analysis/",
+          "date": "Tue, 18 Aug 2026 07:26:57 +0000",
+          "summary": "サイトのアクセス数は、無料のツールを使えば、自社サイトも競合サイトも自分で調べられます。 自社サイトはGoogleアナリティクスで正確な数字を、競合サイトはSimilarWebなどの推定ツールでおおよその規模を確認できま ..."
+        },
+        {
           "title": "Googleトレンドの使い方は？トレンド・急上昇ワードの調べ方を解説",
           "link": "https://rakkokeyword.com/techo/how-to-use-google-trends/",
           "date": "Fri, 14 Aug 2026 00:05:12 +0000",
@@ -139,18 +151,6 @@
           "link": "https://rakkokeyword.com/techo/web-writer-reasons-to-avoid-how-to-survive/",
           "date": "Mon, 03 Aug 2026 07:33:44 +0000",
           "summary": "「Webライターはやめとけ」という声は、たしかに厳しい現実を映しています。 ただし、その多くは正しいやり方を知らないまま挫折した人の意見で、続けてスキルを身につけた人はきちんと稼いでいます。 この記事では、これから副業で ..."
-        },
-        {
-          "title": "【X運用】フォロワー増より重要！売上に直結する戦略とKPI設計",
-          "link": "https://rakkokeyword.com/techo/x-strategy-sales-kpi-design/",
-          "date": "Thu, 30 Jul 2026 04:19:34 +0000",
-          "summary": "X（旧Twitter）運用でつまずく原因の多くは、投稿テクニックではなく「目的とKPIの設計」が抜けている点にあります。 逆に言えば、運用目的から逆算して戦略・体制・リスク管理を最初に組み立てれば、少ない人数でも成果につ ..."
-        },
-        {
-          "title": "TikTokの伸ばし方・再生数が止まる原因を絶つ本質的な運用術",
-          "link": "https://rakkokeyword.com/techo/tiktok-growth-strategy/",
-          "date": "Tue, 28 Jul 2026 06:55:01 +0000",
-          "summary": "TikTokの再生回数が伸びないのは、才能やセンスの問題ではありません。 動画をおすすめに表示させる「アルゴリズム」の仕組みを理解し、それに沿った運用に切り替えれば、伸び悩みの多くは解消できます。 この記事を読めば、「2 ..."
         }
       ],
       "error": null
@@ -172,6 +172,20 @@
       "feedUrl": "https://blog.google/technology/ai/rss/",
       "items": [
         {
+          "title": "検索で学習をレベルアップする5つの新しい方法",
+          "titleOrig": "5 new ways to level up your learning with Search",
+          "link": "https://blog.google/products-and-platforms/products/search/back-to-school-study-tools/",
+          "date": "Wed, 19 Aug 2026 19:00:00 +0000",
+          "summary": "Here’s how you can use Google Search tools to study for classes and standardized tests."
+        },
+        {
+          "title": "GeminiとPixelでゲームに近づこう",
+          "titleOrig": "Get closer to the game with Gemini and Pixel",
+          "link": "https://blog.google/products-and-platforms/products/gemini/google-gemini-pixel-football-club-partnerships/",
+          "date": "Mon, 17 Aug 2026 08:00:00 +0000",
+          "summary": "Google Gemini and Pixel partner with five global football clubs to elevate the fan matchday experience through AI and Smartphone Technology."
+        },
+        {
           "title": "Sheetsキャンバスでスプレッドシートのデータを生き生きと",
           "titleOrig": "Bring your spreadsheet data to life with Sheets canvas",
           "link": "https://blog.google/products-and-platforms/products/workspace/sheets-canvas-for-google-sheets-spreadsheets/",
@@ -191,20 +205,6 @@
           "link": "https://blog.google/products/ads-commerce/google-ads-analytics-ai-updates/",
           "date": "Mon, 10 Aug 2026 14:30:00 +0000",
           "summary": "Learn how new AI and agentic experiences across Google Ads and Google Analytics can simplify your marketing workflow."
-        },
-        {
-          "title": "2026年7月に発表した最新のAIニュース",
-          "titleOrig": "The latest AI news we announced in July 2026",
-          "link": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-july-2026/",
-          "date": "Tue, 04 Aug 2026 13:00:00 +0000",
-          "summary": "Here are Google’s latest AI updates from July 2026"
-        },
-        {
-          "title": "353,000人規模のバイブコーディングコース",
-          "titleOrig": "Inside our 353,000-person vibe coding course",
-          "link": "https://blog.google/innovation-and-ai/technology/developers-tools/ai-agents-intensive-recap-2026/",
-          "date": "Mon, 03 Aug 2026 15:00:00 +0000",
-          "summary": "Kaggle’s AI Agents Intensive with Google brought learners together in a no-cost course to build and deploy the next frontier of AI."
         }
       ],
       "error": null
@@ -262,6 +262,13 @@
       "feedUrl": "https://wordpress.org/news/feed/",
       "items": [
         {
+          "title": "WordPress 7.1「Mary Lou」",
+          "titleOrig": "WordPress 7.1 “Mary Lou”",
+          "link": "https://wordpress.org/news/2026/08/mary-lou/",
+          "date": "Wed, 19 Aug 2026 23:33:49 +0000",
+          "summary": "WordPress 7.1, “Mary Lou,” is here—celebrating the pioneering jazz pianist, composer, and arranger Mary Lou Williams and her spirit of reinvention and collaboration. This release brings a more flexibl"
+        },
+        {
           "title": "WordPressブラウザ拡張機能のご紹介",
           "titleOrig": "Introducing the WordPress Browser Extension",
           "link": "https://wordpress.org/news/2026/08/browser-extension/",
@@ -288,13 +295,6 @@
           "link": "https://wordpress.org/news/2026/08/wordpress-7-1-release-candidate-1/",
           "date": "Wed, 05 Aug 2026 15:37:33 +0000",
           "summary": "The first Release Candidate (“RC1”) for WordPress 7.1 is ready for download and testing! This version of the WordPress software is still under development. Please do not install, run, or test this ver"
-        },
-        {
-          "title": "WordPress 7.1ベータ4",
-          "titleOrig": "WordPress 7.1 Beta 4",
-          "link": "https://wordpress.org/news/2026/07/wordpress-7-1-beta-4/",
-          "date": "Wed, 29 Jul 2026 15:30:58 +0000",
-          "summary": "WordPress 7.1 Beta 4 is ready for download and testing! This beta release is intended for testing and development only. Please do not install, run, or test this version of WordPress on production or m"
         }
       ],
       "error": null
@@ -352,6 +352,20 @@
       "feedUrl": "https://github.blog/feed/",
       "items": [
         {
+          "title": "初心者向けGitHub Copilotアプリ：仕事の管理",
+          "titleOrig": "GitHub Copilot app for Beginners: Managing your work",
+          "link": "https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-managing-your-work/",
+          "date": "Wed, 19 Aug 2026 17:50:23 +0000",
+          "summary": "If you’re juggling multiple Copilot sessions, use the My work pane to track what's in flight, what's done, and what's next. The post GitHub Copilot app for Beginners: Managing your work appeared first"
+        },
+        {
+          "title": "キャンバスがエージェント的なワークフローを可視化し、操縦可能で、費用対効果の高いものにする方法",
+          "titleOrig": "How canvases make agentic workflows visible, steerable, and cost-efficient",
+          "link": "https://github.blog/ai-and-ml/github-copilot/how-canvases-make-agentic-workflows-visible-steerable-and-cost-efficient/",
+          "date": "Mon, 17 Aug 2026 16:00:00 +0000",
+          "summary": "Chat is great for intent, but agent work gets lost in the scroll. Here is how I use canvases with my agentic workflows—and why your workflow also deserves a canvas. The post How canvases make agentic "
+        },
+        {
           "title": "エージェントアプリを使用してソフトウェアデリバリーワークフローをGitHubに導入する方法",
           "titleOrig": "How to bring your software delivery workflow into GitHub with agent apps",
           "link": "https://github.blog/ai-and-ml/github-copilot/how-to-bring-your-software-delivery-workflow-into-github-with-agent-apps/",
@@ -371,20 +385,6 @@
           "link": "https://github.blog/open-source/maintainers/what-50-open-source-projects-taught-us-about-security-in-the-ai-era/",
           "date": "Thu, 13 Aug 2026 16:00:00 +0000",
           "summary": "See how the open source projects in Session 4 of the GitHub Secure Open Source Fund combined AI-assisted workflows, maintainer expertise, GitHub security tools, expert guidance, and funding to improve"
-        },
-        {
-          "title": "GitHub可用性レポート： 2026年7月",
-          "titleOrig": "GitHub availability report: July 2026",
-          "link": "https://github.blog/news-insights/company-news/github-availability-report-july-2026/",
-          "date": "Wed, 12 Aug 2026 22:17:32 +0000",
-          "summary": "In July, we experienced eight incidents that resulted in degraded performance across GitHub services. The post GitHub availability report: July 2026 appeared first on The GitHub Blog."
-        },
-        {
-          "title": "GitHub Copilotアプリで最初のプロンプトを書く",
-          "titleOrig": "Write your first prompt with the GitHub Copilot app",
-          "link": "https://github.blog/ai-and-ml/github-copilot/write-your-first-prompt-with-the-github-copilot-app/",
-          "date": "Wed, 12 Aug 2026 19:00:00 +0000",
-          "summary": "Learn how to write your first prompt in the GitHub Copilot app, choose the right context and model, and start your first task with confidence. The post Write your first prompt with the GitHub Copilot "
         }
       ],
       "error": null
