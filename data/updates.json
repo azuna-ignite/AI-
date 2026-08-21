@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-08-20T01:16:32.062Z",
+  "fetchedAt": "2026-08-21T01:20:25.506Z",
   "tools": [
     {
       "tool": "ミエルカ（YouTube）",
@@ -60,6 +60,13 @@
       "feedUrl": "https://www.semrush.com/blog/feed/",
       "items": [
         {
+          "title": "Google検索コンソール： 2026年の究極ガイド",
+          "titleOrig": "Google Search Console: the ultimate guide for 2026",
+          "link": "https://www.semrush.com/blog/google-search-console/",
+          "date": "Thu, 20 Aug 2026 12:57:00 +0000",
+          "summary": "Learn how to properly set up GSC + use it to spot site issues and areas for improvement."
+        },
+        {
           "title": "コンテンツマーケティング戦略を作成するための究極のガイド",
           "titleOrig": "The ultimate guide to creating a content marketing strategy",
           "link": "https://www.semrush.com/blog/content-marketing-strategy-guide/",
@@ -86,13 +93,6 @@
           "link": "https://www.semrush.com/blog/seo-strategy/",
           "date": "Mon, 17 Aug 2026 10:08:00 +0000",
           "summary": "Create a modern SEO strategy that earns qualified leads across search and AI answers. Get a free workbook to make the six decisions that matter."
-        },
-        {
-          "title": "新しいウェブサイトのSEO ：最初の90日間のシーケンシングガイド",
-          "titleOrig": "SEO for a new website: A sequencing guide for your first 90 days",
-          "link": "https://www.semrush.com/blog/seo-for-new-website/",
-          "date": "Mon, 17 Aug 2026 09:29:00 +0000",
-          "summary": "SEO for a new website is all about sequencing. This guide covers what to do before and after launch, plus how to show up in AI answers like ChatGPT."
         }
       ],
       "error": null
@@ -262,6 +262,13 @@
       "feedUrl": "https://wordpress.org/news/feed/",
       "items": [
         {
+          "title": "アーティストがWordCamp US 2026で出荷している間にAIが機会を創出",
+          "titleOrig": "AI Creates Opportunity While Artists Ship at WordCamp US 2026",
+          "link": "https://wordpress.org/news/2026/08/wcus-2026-recap/",
+          "date": "Thu, 20 Aug 2026 05:51:52 +0000",
+          "summary": "WordCamp US (WCUS) 2026 just wrapped up after 4 days at the Phoenix Convention Center in Phoenix, Arizona. Over 1,100 people from around the world registered to attend, and thousands more watched onli"
+        },
+        {
           "title": "WordPress 7.1「Mary Lou」",
           "titleOrig": "WordPress 7.1 “Mary Lou”",
           "link": "https://wordpress.org/news/2026/08/mary-lou/",
@@ -288,13 +295,6 @@
           "link": "https://wordpress.org/news/2026/08/wordpress-7-0-3-release/",
           "date": "Thu, 06 Aug 2026 18:55:30 +0000",
           "summary": "WordPress 7.0.3 is now available WordPress 7.0.3 is now available which features several security fixes. Because this is a security release, it is recommended that you update your sites immediately. Y"
-        },
-        {
-          "title": "WordPress 7.1リリース候補1",
-          "titleOrig": "WordPress 7.1 Release Candidate 1",
-          "link": "https://wordpress.org/news/2026/08/wordpress-7-1-release-candidate-1/",
-          "date": "Wed, 05 Aug 2026 15:37:33 +0000",
-          "summary": "The first Release Candidate (“RC1”) for WordPress 7.1 is ready for download and testing! This version of the WordPress software is still under development. Please do not install, run, or test this ver"
         }
       ],
       "error": null
@@ -306,6 +306,13 @@
       "sourceType": "tool",
       "feedUrl": "https://obsidian.md/changelog.xml",
       "items": [
+        {
+          "title": "Obsidian 1.13.8モバイル（パブリック）",
+          "titleOrig": "Obsidian 1.13.8 Mobile (Public)",
+          "link": "https://obsidian.md/changelog/2026-08-20-mobile-v1.13.8/",
+          "date": "2026-08-20T00:00:00.000Z",
+          "summary": "Android: Fixed bug causing editor to accidentally switch from reading mode to edit mode while scrolling."
+        },
         {
           "title": "Obsidian 1.13.7モバイル（パブリック）",
           "titleOrig": "Obsidian 1.13.7 Mobile (Public)",
@@ -333,13 +340,6 @@
           "link": "https://obsidian.md/changelog/2026-08-11-desktop-v1.13.7/",
           "date": "2026-08-11T00:00:00.000Z",
           "summary": "No longer broken macOS: Fixed files with special characters in their names sometimes not appearing in the vault. Editor: Fixed inline math in a list item or callout not rendering correctly. Live Previ"
-        },
-        {
-          "title": "Obsidian 1.13.6モバイル（パブリック）",
-          "titleOrig": "Obsidian 1.13.6 Mobile (Public)",
-          "link": "https://obsidian.md/changelog/2026-08-10-mobile-v1.13.6/",
-          "date": "2026-08-10T00:00:00.000Z",
-          "summary": "Includes all new features and bug fixes up to Obsidian Desktop v1.13.6. New Added swipe-to-close to close tabs in the tab switcher. Improvements Tabs now animate to their new position after closing a "
         }
       ],
       "error": null
@@ -351,6 +351,13 @@
       "sourceType": "tool",
       "feedUrl": "https://github.blog/feed/",
       "items": [
+        {
+          "title": "8月17日のアウテージと今後の作業",
+          "titleOrig": "The August 17 outage, and the work ahead",
+          "link": "https://github.blog/news-insights/company-news/the-august-17-outage-and-the-work-ahead/",
+          "date": "Thu, 20 Aug 2026 18:36:11 +0000",
+          "summary": "An update on the August 17 outage and the steps we're taking to improve reliability. The post The August 17 outage, and the work ahead appeared first on The GitHub Blog."
+        },
         {
           "title": "初心者向けGitHub Copilotアプリ：仕事の管理",
           "titleOrig": "GitHub Copilot app for Beginners: Managing your work",
@@ -378,13 +385,6 @@
           "link": "https://github.blog/news-insights/company-news/your-guide-to-github-universe-2026-is-here-the-schedule-just-launched/",
           "date": "Thu, 13 Aug 2026 19:00:00 +0000",
           "summary": "The GitHub Universe session catalog is live. Explore interactive workshops, community talks, demos, and panels. Plus, register before August 19 to save $300. The post Your guide to GitHub Universe 202"
-        },
-        {
-          "title": "AI時代のセキュリティについて50のオープンソースプロジェクトが教えてくれたこと",
-          "titleOrig": "What 50 open source projects taught us about security in the AI era",
-          "link": "https://github.blog/open-source/maintainers/what-50-open-source-projects-taught-us-about-security-in-the-ai-era/",
-          "date": "Thu, 13 Aug 2026 16:00:00 +0000",
-          "summary": "See how the open source projects in Session 4 of the GitHub Secure Open Source Fund combined AI-assisted workflows, maintainer expertise, GitHub security tools, expert guidance, and funding to improve"
         }
       ],
       "error": null
@@ -435,39 +435,8 @@
       "category": "制作・デザイン",
       "sourceType": "media",
       "feedUrl": "https://empathywriting.com/feed/",
-      "items": [
-        {
-          "title": "阿部 憲夫(Norio Abe)",
-          "link": "https://empathywriting.com/empathywriting_coach/norio_abe/?utm_source=rss&utm_medium=rss&utm_campaign=norio_abe",
-          "date": "Sun, 29 Aug 2021 23:32:00 +0000",
-          "summary": "ＬＬＣ阿部マネジメントオフィス代表一般社団法人グロウイングクラウド理事エンパシーライティング®認定コーチ経営士／ITコーディネータ ひと言自己紹介 絵本東北を中心に人材育成支援をおこなうコンサルタント。特に『コミュニケー […] The post 阿部 憲夫(Norio Abe) first appeared on エンパシーライティング公式サイト."
-        },
-        {
-          "title": "糸井 謙司(Kenji Itoi)",
-          "link": "https://empathywriting.com/empathywriting_coach/kenji_itoi/?utm_source=rss&utm_medium=rss&utm_campaign=kenji_itoi",
-          "date": "Sat, 28 Aug 2021 08:12:00 +0000",
-          "summary": "式会社白亞 代表取締役社長 Growth Mind Consultant／プロビジネスコーチ／アチーバストレーナー／ビル管理士エンパシーライティング®認定コーチ ひと言自己紹介 ２代目社長向けの経営サポート。組織改革の一 […] The post 糸井 謙司(Kenji Itoi) first appeared on エンパシーライティング公式サイト."
-        },
-        {
-          "title": "岩田 由美子(Yumiko Iwata)",
-          "link": "https://empathywriting.com/empathywriting_coach/yumiko-iwata/?utm_source=rss&utm_medium=rss&utm_campaign=yumiko-iwata",
-          "date": "Sat, 28 Aug 2021 01:51:00 +0000",
-          "summary": "Lifeコーディネーター整理収納アドバイザー１級時短家事コーディネーター®︎認定講師エンパシーライティング®認定コーチ ひと言自己紹介 「ちょっとずつ毎日が楽しくなる、くらしのコーディネート」がテーマ。講座開催・コーディ […] The post 岩田 由美子(Yumiko Iwata) first appeared on エンパシーライティング公式サイト."
-        },
-        {
-          "title": "伊藤あづさ(Adusa Ito)",
-          "link": "https://empathywriting.com/empathywriting_coach/adusa-ito/?utm_source=rss&utm_medium=rss&utm_campaign=adusa-ito",
-          "date": "Sat, 28 Aug 2021 00:17:07 +0000",
-          "summary": "ごきげんな暮らしを叶えるProp-Port COCORO-LABO 代表KAORI CREATOR🄬/臨床発達心理士/ミッションメンタリング®認定マスター/ミッションメンタリング®認定「自分らしさ」トレーナー/ IFA認 […] The post 伊藤あづさ(Adusa Ito) first appeared on エンパシーライティング公式サイト."
-        },
-        {
-          "title": "岡田 仲史(Nakafumi Okada)",
-          "link": "https://empathywriting.com/empathywriting_coach/nakafumi_okada/?utm_source=rss&utm_medium=rss&utm_campaign=nakafumi_okada",
-          "date": "Thu, 26 Aug 2021 23:16:00 +0000",
-          "summary": "一級建築士マンション管理士宅地建物取引士TRINITY LABO.認定 家族信託コンサルタントエンパシーライティング®認定コーチ ひと言自己紹介 『つなぐデザイン』を探求する一級建築士。建築と文章に[つなぐ]という共通点 […] The post 岡田 仲史(Nakafumi Okada) first appeared on エンパシーライティング公式サイト."
-        }
-      ],
-      "error": null
+      "items": [],
+      "error": "Status code 500"
     }
   ]
 }
