@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-08-23T01:22:46.464Z",
+  "fetchedAt": "2026-08-25T01:18:48.680Z",
   "tools": [
     {
       "tool": "ミエルカ（YouTube）",
@@ -10,6 +10,12 @@
       "handle": "@mieruca-channel",
       "feedUrl": "",
       "items": [
+        {
+          "title": "コンテンツ品質は文字数・制作時間では測れない｜Googleが見るのは「ページに残る仕事の証拠」｜SEO Weekly Update",
+          "link": "https://www.youtube.com/watch?v=53jaaanjWbY",
+          "date": "2026-08-23T23:29:00.000Z",
+          "summary": ""
+        },
         {
           "title": "GEO/LLMO対策の成果はどう測る？GA4だけでは見えないAI回答・指名検索・売上まで",
           "link": "https://www.youtube.com/watch?v=YE3ZWnctVtk",
@@ -32,12 +38,6 @@
           "title": "Google検索の47％がゼロクリック、それでも日本では低水準｜国ごとに変わる検索行動｜SEO Weekly Update",
           "link": "https://www.youtube.com/watch?v=kKzl1e1Fa1s",
           "date": "2026-08-09T22:30:36.000Z",
-          "summary": ""
-        },
-        {
-          "title": "AI検索流入はどこまで増えた？数十サイトのGA4データで見るAIの影響と今やるべきSEO",
-          "link": "https://www.youtube.com/watch?v=xYibKzKHoZ4",
-          "date": "2026-08-05T23:00:18.000Z",
           "summary": ""
         }
       ],
@@ -123,6 +123,12 @@
       "feedUrl": "https://rakkokeyword.com/techo/feed/",
       "items": [
         {
+          "title": "【インスタ】ハッシュタグは意味ない？AIに好かれる本質の集客術",
+          "link": "https://rakkokeyword.com/techo/instagram-hashtags-ai-marketing/",
+          "date": "Mon, 24 Aug 2026 06:25:30 +0000",
+          "summary": "結論から言うと、Instagramのハッシュタグは「無意味」ではありませんが、その役割は大きく変わりました。 かつてのように「たくさんつければ多くの人に見てもらえる」時代は終わり、今は少数の的確なタグを、AIに投稿内容を ..."
+        },
+        {
           "title": "YouTubeのトレンドの調べ方は？伸びるネタ・需要の見つけ方を解説",
           "link": "https://rakkokeyword.com/techo/how-to-find-youtube-trends/",
           "date": "Tue, 18 Aug 2026 07:45:11 +0000",
@@ -145,12 +151,6 @@
           "link": "https://rakkokeyword.com/techo/web-writer-traits-how-to-become/",
           "date": "Thu, 06 Aug 2026 07:20:52 +0000",
           "summary": "Webライターは、特別な文章の才能がなくても始められる仕事です。 むしろ、これまでの仕事で培ってきた力や仕事への姿勢が、そのまま強みになります。 この記事を読めば、自分に適性があるかを見極め、未経験から副業で月数万円を稼 ..."
-        },
-        {
-          "title": "Webライターはやめとけ？言われる理由と生き残る人の違い",
-          "link": "https://rakkokeyword.com/techo/web-writer-reasons-to-avoid-how-to-survive/",
-          "date": "Mon, 03 Aug 2026 07:33:44 +0000",
-          "summary": "「Webライターはやめとけ」という声は、たしかに厳しい現実を映しています。 ただし、その多くは正しいやり方を知らないまま挫折した人の意見で、続けてスキルを身につけた人はきちんと稼いでいます。 この記事では、これから副業で ..."
         }
       ],
       "error": null
@@ -352,6 +352,13 @@
       "feedUrl": "https://github.blog/feed/",
       "items": [
         {
+          "title": "代替テキストは自動チェックに合格します。それは良いことを意味するものではありません。",
+          "titleOrig": "Your alt text passes automated checks. That doesn’t mean it’s any good.",
+          "link": "https://github.blog/engineering/user-experience/your-alt-text-passes-automated-checks-that-doesnt-mean-its-any-good/",
+          "date": "Mon, 24 Aug 2026 20:56:32 +0000",
+          "summary": "We built a plugin for the GitHub Accessibility Scanner to make sure your alt text is actually accessible. Here's how it works. The post Your alt text passes automated checks. That doesn’t mean it’s an"
+        },
+        {
           "title": "8月17日のアウテージと今後の作業",
           "titleOrig": "The August 17 outage, and the work ahead",
           "link": "https://github.blog/news-insights/company-news/the-august-17-outage-and-the-work-ahead/",
@@ -378,13 +385,6 @@
           "link": "https://github.blog/ai-and-ml/github-copilot/how-to-bring-your-software-delivery-workflow-into-github-with-agent-apps/",
           "date": "Fri, 14 Aug 2026 16:00:00 +0000",
           "summary": "See how four GitHub agent apps can help you scope, secure, roll out, and ship a feature across the SDLC–all without leaving GitHub. The post How to bring your software delivery workflow into GitHub wi"
-        },
-        {
-          "title": "GitHub Universe 2026のガイドはこちら：スケジュールが開始されました！",
-          "titleOrig": "Your guide to GitHub Universe 2026 is here: The schedule just launched!",
-          "link": "https://github.blog/news-insights/company-news/your-guide-to-github-universe-2026-is-here-the-schedule-just-launched/",
-          "date": "Thu, 13 Aug 2026 19:00:00 +0000",
-          "summary": "The GitHub Universe session catalog is live. Explore interactive workshops, community talks, demos, and panels. Plus, register before August 19 to save $300. The post Your guide to GitHub Universe 202"
         }
       ],
       "error": null
@@ -435,8 +435,39 @@
       "category": "制作・デザイン",
       "sourceType": "media",
       "feedUrl": "https://empathywriting.com/feed/",
-      "items": [],
-      "error": "Status code 500"
+      "items": [
+        {
+          "title": "阿部 憲夫(Norio Abe)",
+          "link": "https://empathywriting.com/empathywriting_coach/norio_abe/?utm_source=rss&utm_medium=rss&utm_campaign=norio_abe",
+          "date": "Sun, 29 Aug 2021 23:32:00 +0000",
+          "summary": "ＬＬＣ阿部マネジメントオフィス代表一般社団法人グロウイングクラウド理事エンパシーライティング®認定コーチ経営士／ITコーディネータ ひと言自己紹介 絵本東北を中心に人材育成支援をおこなうコンサルタント。特に『コミュニケー […] The post 阿部 憲夫(Norio Abe) first appeared on エンパシーライティング公式サイト."
+        },
+        {
+          "title": "糸井 謙司(Kenji Itoi)",
+          "link": "https://empathywriting.com/empathywriting_coach/kenji_itoi/?utm_source=rss&utm_medium=rss&utm_campaign=kenji_itoi",
+          "date": "Sat, 28 Aug 2021 08:12:00 +0000",
+          "summary": "式会社白亞 代表取締役社長 Growth Mind Consultant／プロビジネスコーチ／アチーバストレーナー／ビル管理士エンパシーライティング®認定コーチ ひと言自己紹介 ２代目社長向けの経営サポート。組織改革の一 […] The post 糸井 謙司(Kenji Itoi) first appeared on エンパシーライティング公式サイト."
+        },
+        {
+          "title": "岩田 由美子(Yumiko Iwata)",
+          "link": "https://empathywriting.com/empathywriting_coach/yumiko-iwata/?utm_source=rss&utm_medium=rss&utm_campaign=yumiko-iwata",
+          "date": "Sat, 28 Aug 2021 01:51:00 +0000",
+          "summary": "Lifeコーディネーター整理収納アドバイザー１級時短家事コーディネーター®︎認定講師エンパシーライティング®認定コーチ ひと言自己紹介 「ちょっとずつ毎日が楽しくなる、くらしのコーディネート」がテーマ。講座開催・コーディ […] The post 岩田 由美子(Yumiko Iwata) first appeared on エンパシーライティング公式サイト."
+        },
+        {
+          "title": "伊藤あづさ(Adusa Ito)",
+          "link": "https://empathywriting.com/empathywriting_coach/adusa-ito/?utm_source=rss&utm_medium=rss&utm_campaign=adusa-ito",
+          "date": "Sat, 28 Aug 2021 00:17:07 +0000",
+          "summary": "ごきげんな暮らしを叶えるProp-Port COCORO-LABO 代表KAORI CREATOR🄬/臨床発達心理士/ミッションメンタリング®認定マスター/ミッションメンタリング®認定「自分らしさ」トレーナー/ IFA認 […] The post 伊藤あづさ(Adusa Ito) first appeared on エンパシーライティング公式サイト."
+        },
+        {
+          "title": "岡田 仲史(Nakafumi Okada)",
+          "link": "https://empathywriting.com/empathywriting_coach/nakafumi_okada/?utm_source=rss&utm_medium=rss&utm_campaign=nakafumi_okada",
+          "date": "Thu, 26 Aug 2021 23:16:00 +0000",
+          "summary": "一級建築士マンション管理士宅地建物取引士TRINITY LABO.認定 家族信託コンサルタントエンパシーライティング®認定コーチ ひと言自己紹介 『つなぐデザイン』を探求する一級建築士。建築と文章に[つなぐ]という共通点 […] The post 岡田 仲史(Nakafumi Okada) first appeared on エンパシーライティング公式サイト."
+        }
+      ],
+      "error": null
     }
   ]
 }
