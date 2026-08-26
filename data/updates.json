@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-08-25T01:18:48.680Z",
+  "fetchedAt": "2026-08-26T01:22:01.490Z",
   "tools": [
     {
       "tool": "ミエルカ（YouTube）",
@@ -10,6 +10,12 @@
       "handle": "@mieruca-channel",
       "feedUrl": "",
       "items": [
+        {
+          "title": "LLMO対策でAIにおすすめされるには？引用・言及から見る5段階",
+          "link": "https://www.youtube.com/watch?v=KlYlXvNQXgg",
+          "date": "2026-08-25T23:00:17.000Z",
+          "summary": ""
+        },
         {
           "title": "コンテンツ品質は文字数・制作時間では測れない｜Googleが見るのは「ページに残る仕事の証拠」｜SEO Weekly Update",
           "link": "https://www.youtube.com/watch?v=53jaaanjWbY",
@@ -32,12 +38,6 @@
           "title": "XのアルゴリズムとSEOの関係｜Google検索への表示・流入の実例を解説",
           "link": "https://www.youtube.com/watch?v=ohMiqmhOj7s",
           "date": "2026-08-11T23:00:32.000Z",
-          "summary": ""
-        },
-        {
-          "title": "Google検索の47％がゼロクリック、それでも日本では低水準｜国ごとに変わる検索行動｜SEO Weekly Update",
-          "link": "https://www.youtube.com/watch?v=kKzl1e1Fa1s",
-          "date": "2026-08-09T22:30:36.000Z",
           "summary": ""
         }
       ],
@@ -123,6 +123,12 @@
       "feedUrl": "https://rakkokeyword.com/techo/feed/",
       "items": [
         {
+          "title": "ハンドメイド販売の始め方は？売れ筋・需要の調べ方と販路の選び方",
+          "link": "https://rakkokeyword.com/techo/how-to-start-selling-handmade-items/",
+          "date": "Tue, 25 Aug 2026 08:14:44 +0000",
+          "summary": "ハンドメイド販売は、スマホ1台と数百円の梱包資材があれば、今日からでも始められます。 大切なのは「自分の作品に合った販路を1〜2つに絞ること」と「需要のあるジャンルを数字で見極めること」の2つです。 この記事では、ネット ..."
+        },
+        {
           "title": "【インスタ】ハッシュタグは意味ない？AIに好かれる本質の集客術",
           "link": "https://rakkokeyword.com/techo/instagram-hashtags-ai-marketing/",
           "date": "Mon, 24 Aug 2026 06:25:30 +0000",
@@ -145,12 +151,6 @@
           "link": "https://rakkokeyword.com/techo/how-to-use-google-trends/",
           "date": "Fri, 14 Aug 2026 00:05:12 +0000",
           "summary": "Googleトレンドは、キーワードの検索需要が「どう移り変わっているか」を無料でグラフ化できるツールです。 使いどころさえ押さえれば、記事の公開やリライトのタイミングを、勘ではなくデータで決められるようになります。 はじ ..."
-        },
-        {
-          "title": "Webライターに向いてる人の特徴と未経験からのなり方",
-          "link": "https://rakkokeyword.com/techo/web-writer-traits-how-to-become/",
-          "date": "Thu, 06 Aug 2026 07:20:52 +0000",
-          "summary": "Webライターは、特別な文章の才能がなくても始められる仕事です。 むしろ、これまでの仕事で培ってきた力や仕事への姿勢が、そのまま強みになります。 この記事を読めば、自分に適性があるかを見極め、未経験から副業で月数万円を稼 ..."
         }
       ],
       "error": null
@@ -171,6 +171,13 @@
       "sourceType": "tool",
       "feedUrl": "https://blog.google/technology/ai/rss/",
       "items": [
+        {
+          "title": "Google検索で家のインテリアをアップグレードする5つの方法",
+          "titleOrig": "5 ways to upgrade your home decor with Google Search",
+          "link": "https://blog.google/products-and-platforms/products/search/home-decor-tips/",
+          "date": "Tue, 25 Aug 2026 16:00:00 +0000",
+          "summary": "Learn how to use Google Search tools to find home decor inspiration, shop for furniture, and tackle DIY projects."
+        },
         {
           "title": "検索で学習をレベルアップする5つの新しい方法",
           "titleOrig": "5 new ways to level up your learning with Search",
@@ -198,13 +205,6 @@
           "link": "https://blog.google/innovation-and-ai/models-and-research/google-research/amie-video-consultations/",
           "date": "Tue, 11 Aug 2026 17:00:00 +0000",
           "summary": "Google introduces AMIE for real-time clinical video consultations in simulated settings."
-        },
-        {
-          "title": "新しいAIツールでマーケティングを進化させましょう",
-          "titleOrig": "Evolve your marketing with new AI tools",
-          "link": "https://blog.google/products/ads-commerce/google-ads-analytics-ai-updates/",
-          "date": "Mon, 10 Aug 2026 14:30:00 +0000",
-          "summary": "Learn how new AI and agentic experiences across Google Ads and Google Analytics can simplify your marketing workflow."
         }
       ],
       "error": null
@@ -352,7 +352,14 @@
       "feedUrl": "https://github.blog/feed/",
       "items": [
         {
-          "title": "代替テキストは自動チェックに合格します。それは良いことを意味するものではありません。",
+          "title": "制作前にLLMを評価する方法",
+          "titleOrig": "How to evaluate LLMs before production",
+          "link": "https://github.blog/ai-and-ml/llms/how-to-evaluate-llms-before-production/",
+          "date": "Tue, 25 Aug 2026 21:35:11 +0000",
+          "summary": "These are the lessons we learned evaluating LLMs for real-world secret scanning. The post How to evaluate LLMs before production appeared first on The GitHub Blog."
+        },
+        {
+          "title": "Your alt text passes automated checks. That doesn’t mean it’s any good.",
           "titleOrig": "Your alt text passes automated checks. That doesn’t mean it’s any good.",
           "link": "https://github.blog/engineering/user-experience/your-alt-text-passes-automated-checks-that-doesnt-mean-its-any-good/",
           "date": "Mon, 24 Aug 2026 20:56:32 +0000",
@@ -366,7 +373,7 @@
           "summary": "An update on the August 17 outage and the steps we're taking to improve reliability. The post The August 17 outage, and the work ahead appeared first on The GitHub Blog."
         },
         {
-          "title": "初心者向けGitHub Copilotアプリ：仕事の管理",
+          "title": "GitHub Copilot app for Beginners: Managing your work",
           "titleOrig": "GitHub Copilot app for Beginners: Managing your work",
           "link": "https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-managing-your-work/",
           "date": "Wed, 19 Aug 2026 17:50:23 +0000",
@@ -378,13 +385,6 @@
           "link": "https://github.blog/ai-and-ml/github-copilot/how-canvases-make-agentic-workflows-visible-steerable-and-cost-efficient/",
           "date": "Mon, 17 Aug 2026 16:00:00 +0000",
           "summary": "Chat is great for intent, but agent work gets lost in the scroll. Here is how I use canvases with my agentic workflows—and why your workflow also deserves a canvas. The post How canvases make agentic "
-        },
-        {
-          "title": "エージェントアプリを使用してソフトウェアデリバリーワークフローをGitHubに導入する方法",
-          "titleOrig": "How to bring your software delivery workflow into GitHub with agent apps",
-          "link": "https://github.blog/ai-and-ml/github-copilot/how-to-bring-your-software-delivery-workflow-into-github-with-agent-apps/",
-          "date": "Fri, 14 Aug 2026 16:00:00 +0000",
-          "summary": "See how four GitHub agent apps can help you scope, secure, roll out, and ship a feature across the SDLC–all without leaving GitHub. The post How to bring your software delivery workflow into GitHub wi"
         }
       ],
       "error": null
