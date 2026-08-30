@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-08-28T10:03:29.718Z",
+  "fetchedAt": "2026-08-30T04:07:26.936Z",
   "tools": [
     {
       "tool": "ミエルカ（YouTube）",
@@ -60,6 +60,13 @@
       "feedUrl": "https://www.semrush.com/blog/feed/",
       "items": [
         {
+          "title": "SemrushでAIの概要を追跡する方法",
+          "titleOrig": "How to track AI Overviews with Semrush",
+          "link": "https://www.semrush.com/blog/semrush-ai-overview-research/",
+          "date": "Fri, 28 Aug 2026 12:40:00 +0000",
+          "summary": "AI Overviews are growing and impacting SEO campaigns. Learn how to track AI Overviews with Semrush."
+        },
+        {
           "title": "Googleが2026年8月のスパム最新情報をリリース：マーケティング担当者が知っておくべきこと",
           "titleOrig": "Google releases August 2026 spam update: What marketers need to know",
           "link": "https://www.semrush.com/blog/google-august-2026-spam-update/",
@@ -86,13 +93,6 @@
           "link": "https://www.semrush.com/blog/content-marketing-strategy-guide/",
           "date": "Wed, 19 Aug 2026 08:34:00 +0000",
           "summary": "Learn how to build a content marketing strategy to reach your audience across search, AI, social & more."
-        },
-        {
-          "title": "Microsoft ClarityがAIスクレイプと参照の比率を追加",
-          "titleOrig": "Microsoft Clarity adds an AI Scrape-to-Referral Ratio",
-          "link": "https://www.semrush.com/blog/microsoft-clarity-scrape-to-referral/",
-          "date": "Wed, 19 Aug 2026 08:22:00 +0000",
-          "summary": "Microsoft Clarity‘s AI Scrape-to-Referral Ratio compares what AI crawlers take from your site with what they send back."
         }
       ],
       "error": null
@@ -123,6 +123,12 @@
       "feedUrl": "https://rakkokeyword.com/techo/feed/",
       "items": [
         {
+          "title": "ネットショップ開業で何を売る？需要から考える商材の選び方",
+          "link": "https://rakkokeyword.com/techo/online-shop-what-to-sell-product-selection/",
+          "date": "Sat, 29 Aug 2026 09:18:13 +0000",
+          "summary": "ネットショップの商材選びは、センスやひらめきで決めるものではありません。 「需要のある商品を、いくつかの基準に沿って選ぶ」という手順を踏めば、特別なスキルがなくても扱う商品は決められます。 この記事では、これから個人でネ ..."
+        },
+        {
           "title": "ハンドメイド販売の始め方は？売れ筋・需要の調べ方と販路の選び方",
           "link": "https://rakkokeyword.com/techo/how-to-start-selling-handmade-items/",
           "date": "Tue, 25 Aug 2026 08:14:44 +0000",
@@ -145,12 +151,6 @@
           "link": "https://rakkokeyword.com/techo/free-website-traffic-competitor-analysis/",
           "date": "Tue, 18 Aug 2026 07:26:57 +0000",
           "summary": "サイトのアクセス数は、無料のツールを使えば、自社サイトも競合サイトも自分で調べられます。 自社サイトはGoogleアナリティクスで正確な数字を、競合サイトはSimilarWebなどの推定ツールでおおよその規模を確認できま ..."
-        },
-        {
-          "title": "Googleトレンドの使い方は？トレンド・急上昇ワードの調べ方を解説",
-          "link": "https://rakkokeyword.com/techo/how-to-use-google-trends/",
-          "date": "Fri, 14 Aug 2026 00:05:12 +0000",
-          "summary": "Googleトレンドは、キーワードの検索需要が「どう移り変わっているか」を無料でグラフ化できるツールです。 使いどころさえ押さえれば、記事の公開やリライトのタイミングを、勘ではなくデータで決められるようになります。 はじ ..."
         }
       ],
       "error": null
@@ -269,7 +269,7 @@
           "summary": "We’re proud to announce that WordPress has signed Open Weights and American AI Leadership, an open letter asking US policymakers to not place early restrictions on open weight AI models. These are art"
         },
         {
-          "title": "AI Creates Opportunity While Artists Ship at WordCamp US 2026",
+          "title": "アーティストがWordCamp US 2026で出荷している間にAIが機会を創出",
           "titleOrig": "AI Creates Opportunity While Artists Ship at WordCamp US 2026",
           "link": "https://wordpress.org/news/2026/08/wcus-2026-recap/",
           "date": "Thu, 20 Aug 2026 05:51:52 +0000",
@@ -335,7 +335,7 @@
           "summary": "Includes all new features and bug fixes up to Obsidian Desktop v1.13.7."
         },
         {
-          "title": "Obsidian 1.13.7 Desktop (Early access)",
+          "title": "Obsidian 1.13.7デスクトップ（先行アクセス）",
           "titleOrig": "Obsidian 1.13.7 Desktop (Early access)",
           "link": "https://obsidian.md/changelog/2026-08-11-desktop-v1.13.7/",
           "date": "2026-08-11T00:00:00.000Z",
@@ -395,8 +395,39 @@
       "category": "制作・デザイン",
       "sourceType": "media",
       "feedUrl": "https://www.mindfactory.co.jp/blog/feed/",
-      "items": [],
-      "error": "Request timed out after 10000ms"
+      "items": [
+        {
+          "title": "【新入社員インタビュー】プリ機のUIデザインから新天地へ。￼",
+          "link": "https://www.mindfactory.co.jp/blog/8439",
+          "date": "Tue, 28 Jul 2026 01:38:35 +0000",
+          "summary": "マインドファクトリーのクリエイティブチームでは、企業の課題解決を最大化するデジタルマーケティングの一環として、ロジックに基づいた戦略的なデザインの提供に注力しています。チームの多様性とクリエイティブの幅をさらに広げるべく […]"
+        },
+        {
+          "title": "【新入社員インタビュー】5年の経験を経て、マインドファクトリーを選んだ理由￼￼",
+          "link": "https://www.mindfactory.co.jp/blog/8431",
+          "date": "Tue, 21 Jul 2026 07:51:09 +0000",
+          "summary": "マインドファクトリーのクリエイティブチームでは、企業のビジネスを加速させるデジタルマーケティングの一環として、戦略的かつハイクオリティなデザイン制作に取り組んでいます。組織のさらなる成長とクリエイティブ力の強化を目指す中 […]"
+        },
+        {
+          "title": "“伝わる”UIをつくれるデザイナーを目指して - インターン生インタビュー",
+          "link": "https://www.mindfactory.co.jp/blog/8370",
+          "date": "Fri, 27 Feb 2026 11:43:03 +0000",
+          "summary": "今年マインドファクトリーでは、初めてインターンシップの受け入れを行いました。 今回は、インターンで来てくれた名古屋モード学園グラフィック学科の水野君に、デザイナーを志したきっかけや弊社でのインターンの感想をインタビューし […]"
+        },
+        {
+          "title": "WEBメディア「CREATORS STATION」に代表富岡のインタビュー記事が掲載されました",
+          "link": "https://www.mindfactory.co.jp/blog/8364",
+          "date": "Mon, 16 Feb 2026 08:57:39 +0000",
+          "summary": "株式会社フェローズが運営する、日本全国のクリエイターを応援するためのWEBメディア「CREATORS STATION」に、弊社代表 富岡のインタビュー記事が掲載されました。自身のこれまでのキャリアから、事業内容、今後の展 […]"
+        },
+        {
+          "title": "年末年始休暇のお知らせ",
+          "link": "https://www.mindfactory.co.jp/blog/8357",
+          "date": "Fri, 05 Dec 2025 09:20:14 +0000",
+          "summary": "平素は格別のお引き立てを賜り、厚く御礼申し上げます。誠に勝手ながら、弊社は、下記の期間を年末年始休業とさせていただきます。 ■ 年末年始休暇期間2025年12月27日（土）～2026年1月4日（日） ご不便をおかけいたし […]"
+        }
+      ],
+      "error": null
     },
     {
       "tool": "Empathy Writing",
