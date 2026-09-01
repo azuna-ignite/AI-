@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-08-31T04:13:36.103Z",
+  "fetchedAt": "2026-09-01T03:59:54.074Z",
   "tools": [
     {
       "tool": "ミエルカ（YouTube）",
@@ -9,39 +9,8 @@
       "type": "youtube",
       "handle": "@mieruca-channel",
       "feedUrl": "",
-      "items": [
-        {
-          "title": "Google検索のリンク変更を日本でも確認、順位チェックツールへの影響は？｜SEO Weekly Update",
-          "link": "https://www.youtube.com/watch?v=I6-BzzjBIME",
-          "date": "2026-08-30T22:30:09.000Z",
-          "summary": ""
-        },
-        {
-          "title": "LLMO対策でAIにおすすめされるには？引用・言及から見る5段階",
-          "link": "https://www.youtube.com/watch?v=KlYlXvNQXgg",
-          "date": "2026-08-25T23:00:17.000Z",
-          "summary": ""
-        },
-        {
-          "title": "Googleはコンテンツ品質を何で判断する？評価される「ページ上の証拠」｜SEO Weekly Update",
-          "link": "https://www.youtube.com/watch?v=53jaaanjWbY",
-          "date": "2026-08-23T23:29:00.000Z",
-          "summary": ""
-        },
-        {
-          "title": "GEO/LLMO対策の成果はどう測る？GA4だけでは見えないAI回答・指名検索・売上まで",
-          "link": "https://www.youtube.com/watch?v=YE3ZWnctVtk",
-          "date": "2026-08-18T23:00:27.000Z",
-          "summary": ""
-        },
-        {
-          "title": "ChatGPTに選ばれるブランドは検索前に決まる？ 回答登場率に約33倍の差｜SEO Weekly Update",
-          "link": "https://www.youtube.com/watch?v=0S83L_-MNLM",
-          "date": "2026-08-16T22:30:21.000Z",
-          "summary": ""
-        }
-      ],
-      "error": null
+      "items": [],
+      "error": "Status code 404"
     },
     {
       "tool": "Ahrefs",
@@ -60,39 +29,39 @@
       "feedUrl": "https://www.semrush.com/blog/feed/",
       "items": [
         {
-          "title": "SemrushでAIの概要を追跡する方法",
-          "titleOrig": "How to track AI Overviews with Semrush",
-          "link": "https://www.semrush.com/blog/semrush-ai-overview-research/",
-          "date": "Fri, 28 Aug 2026 12:40:00 +0000",
-          "summary": "AI Overviews are growing and impacting SEO campaigns. Learn how to track AI Overviews with Semrush."
+          "title": "2026年の競合他社分析にAIツールを使用する方法",
+          "titleOrig": "How to use AI tools for competitor analysis in 2026",
+          "link": "https://www.semrush.com/blog/ai-tools-for-competitor-analysis/",
+          "date": "Mon, 31 Aug 2026 09:42:00 +0000",
+          "summary": "ChatGPT alone won‘t cut it. See how to use AI tools for competitor analysis the right way, with Semrush MCP and a step-by-step workflow."
         },
         {
-          "title": "Googleが2026年8月のスパム最新情報をリリース：マーケティング担当者が知っておくべきこと",
-          "titleOrig": "Google releases August 2026 spam update: What marketers need to know",
-          "link": "https://www.semrush.com/blog/google-august-2026-spam-update/",
-          "date": "Wed, 26 Aug 2026 08:25:00 +0000",
-          "summary": "Google‘s August 2026 spam update finished rolling out on August 21. Learn what changed, what didn‘t, and how to read your data."
+          "title": "オーガニック＆ AI検索パフォーマンスを測定するための18のSEO KPI",
+          "titleOrig": "18 SEO KPIs to measure organic & AI search performance",
+          "link": "https://www.semrush.com/blog/seo-kpis/",
+          "date": "Mon, 31 Aug 2026 09:23:00 +0000",
+          "summary": "Relevant SEO KPIs to track include AI visibility, keyword rankings, organic traffic, and brand mentions."
         },
         {
-          "title": "ChatGPTでのRedditの引用が3.8%から0.5%に減少",
-          "titleOrig": "Reddit's citations in ChatGPT fall from 3.8% to 0.5%",
-          "link": "https://www.semrush.com/blog/reddits-citations-in-chatgpt-fall/",
-          "date": "Wed, 26 Aug 2026 08:21:00 +0000",
-          "summary": "Promptwatch says Reddit‘s share of ChatGPT citations fell 86% in four days. OpenAI says it hasn‘t changed how it picks sources."
+          "title": "エンタープライズSEO ：それが何であるか、そして勝利戦略を構築する方法",
+          "titleOrig": "Enterprise SEO: What it is & how to build a winning strategy",
+          "link": "https://www.semrush.com/blog/enterprise-seo/",
+          "date": "Mon, 31 Aug 2026 09:09:00 +0000",
+          "summary": "Enterprise SEO involves optimizing a website’s visibility at scale, using templated and automated approaches."
         },
         {
-          "title": "Google検索コンソール： 2026年の究極ガイド",
-          "titleOrig": "Google Search Console: the ultimate guide for 2026",
-          "link": "https://www.semrush.com/blog/google-search-console/",
-          "date": "Thu, 20 Aug 2026 12:57:00 +0000",
-          "summary": "Learn how to properly set up GSC + use it to spot site issues and areas for improvement."
+          "title": "ChatGPT検索でランク付けする方法：可視性を向上させる8つのステップ",
+          "titleOrig": "How to rank in ChatGPT search: 8 steps to improve visibility",
+          "link": "https://www.semrush.com/blog/chatgpt-search/",
+          "date": "Mon, 31 Aug 2026 08:45:00 +0000",
+          "summary": "Rank in ChatGPT search by making your content easy for AI systems to extract and by building off-site consensus."
         },
         {
-          "title": "コンテンツマーケティング戦略を作成するための究極のガイド",
-          "titleOrig": "The ultimate guide to creating a content marketing strategy",
-          "link": "https://www.semrush.com/blog/content-marketing-strategy-guide/",
-          "date": "Wed, 19 Aug 2026 08:34:00 +0000",
-          "summary": "Learn how to build a content marketing strategy to reach your audience across search, AI, social & more."
+          "title": "SEOが重要なのはなぜですか？ SEOが依然として重要な11の理由。",
+          "titleOrig": "Why is SEO important? 11 reasons it still matters.",
+          "link": "https://www.semrush.com/blog/importance-of-seo/",
+          "date": "Mon, 31 Aug 2026 08:21:00 +0000",
+          "summary": "SEO improves your online visibility + complements answer engine optimization. Here’s why it matters in 2026."
         }
       ],
       "error": null
@@ -123,6 +92,12 @@
       "feedUrl": "https://rakkokeyword.com/techo/feed/",
       "items": [
         {
+          "title": "ネットショップ開業の仕入れ先は？売れ筋商材の見つけ方",
+          "link": "https://rakkokeyword.com/techo/online-shop-suppliers-best-selling-products/",
+          "date": "Tue, 01 Sep 2026 00:54:07 +0000",
+          "summary": "ネットショップの仕入れは、個人や副業でも十分に始められます。 個人事業主でも無料で使える仕入れサイトや、在庫を持たずに売れる方法もあり、資金が少なくてもリスクを抑えてスタートできます。 この記事では、これからネットショッ ..."
+        },
+        {
           "title": "ネットショップ開業で何を売る？需要から考える商材の選び方",
           "link": "https://rakkokeyword.com/techo/online-shop-what-to-sell-product-selection/",
           "date": "Sat, 29 Aug 2026 09:18:13 +0000",
@@ -145,12 +120,6 @@
           "link": "https://rakkokeyword.com/techo/how-to-find-youtube-trends/",
           "date": "Tue, 18 Aug 2026 07:45:11 +0000",
           "summary": "YouTubeのトレンドは、YouTube公式の機能・外部の分析ツール・SNSの3つを組み合わせれば、初心者でも今日から調べられます。 1つの情報源に頼るのではなく、複数を掛け合わせることで「需要があるのに動画が少ない穴 ..."
-        },
-        {
-          "title": "無料でサイトのアクセス数を調べる方法は？自社と競合を分析して集客に活かす",
-          "link": "https://rakkokeyword.com/techo/free-website-traffic-competitor-analysis/",
-          "date": "Tue, 18 Aug 2026 07:26:57 +0000",
-          "summary": "サイトのアクセス数は、無料のツールを使えば、自社サイトも競合サイトも自分で調べられます。 自社サイトはGoogleアナリティクスで正確な数字を、競合サイトはSimilarWebなどの推定ツールでおおよその規模を確認できま ..."
         }
       ],
       "error": null
