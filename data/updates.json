@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-01T03:59:54.074Z",
+  "fetchedAt": "2026-09-02T03:20:43.378Z",
   "tools": [
     {
       "tool": "ミエルカ（YouTube）",
@@ -29,6 +29,13 @@
       "feedUrl": "https://www.semrush.com/blog/feed/",
       "items": [
         {
+          "title": "AIはどこで情報を取得しますか？そして引用される方法",
+          "titleOrig": "Where does AI get its information? And how to get cited",
+          "link": "https://www.semrush.com/blog/where-does-ai-get-its-information/",
+          "date": "Tue, 01 Sep 2026 07:52:00 +0000",
+          "summary": "AI gets information from channels like training data, live online information, and licensing partnerships."
+        },
+        {
           "title": "2026年の競合他社分析にAIツールを使用する方法",
           "titleOrig": "How to use AI tools for competitor analysis in 2026",
           "link": "https://www.semrush.com/blog/ai-tools-for-competitor-analysis/",
@@ -55,13 +62,6 @@
           "link": "https://www.semrush.com/blog/chatgpt-search/",
           "date": "Mon, 31 Aug 2026 08:45:00 +0000",
           "summary": "Rank in ChatGPT search by making your content easy for AI systems to extract and by building off-site consensus."
-        },
-        {
-          "title": "SEOが重要なのはなぜですか？ SEOが依然として重要な11の理由。",
-          "titleOrig": "Why is SEO important? 11 reasons it still matters.",
-          "link": "https://www.semrush.com/blog/importance-of-seo/",
-          "date": "Mon, 31 Aug 2026 08:21:00 +0000",
-          "summary": "SEO improves your online visibility + complements answer engine optimization. Here’s why it matters in 2026."
         }
       ],
       "error": null
@@ -92,6 +92,12 @@
       "feedUrl": "https://rakkokeyword.com/techo/feed/",
       "items": [
         {
+          "title": "【初心者向け】ブログジャンルの決め方を需要と収益性から解説",
+          "link": "https://rakkokeyword.com/techo/how-to-choose-blog-genre-demand-profitability/",
+          "date": "Tue, 01 Sep 2026 05:50:33 +0000",
+          "summary": "ブログアフィリエイトで成果が出るかどうかは、記事を書き始める前の「ジャンル選び」でおおよそ決まります。 やみくもに好きなことを書くのではなく、報酬単価・市場の需要・自分の強みという軸で候補を比べれば、初心者でも稼ぎやすい ..."
+        },
+        {
           "title": "ネットショップ開業の仕入れ先は？売れ筋商材の見つけ方",
           "link": "https://rakkokeyword.com/techo/online-shop-suppliers-best-selling-products/",
           "date": "Tue, 01 Sep 2026 00:54:07 +0000",
@@ -114,12 +120,6 @@
           "link": "https://rakkokeyword.com/techo/instagram-hashtags-ai-marketing/",
           "date": "Mon, 24 Aug 2026 06:25:30 +0000",
           "summary": "結論から言うと、Instagramのハッシュタグは「無意味」ではありませんが、その役割は大きく変わりました。 かつてのように「たくさんつければ多くの人に見てもらえる」時代は終わり、今は少数の的確なタグを、AIに投稿内容を ..."
-        },
-        {
-          "title": "YouTubeのトレンドの調べ方は？伸びるネタ・需要の見つけ方を解説",
-          "link": "https://rakkokeyword.com/techo/how-to-find-youtube-trends/",
-          "date": "Tue, 18 Aug 2026 07:45:11 +0000",
-          "summary": "YouTubeのトレンドは、YouTube公式の機能・外部の分析ツール・SNSの3つを組み合わせれば、初心者でも今日から調べられます。 1つの情報源に頼るのではなく、複数を掛け合わせることで「需要があるのに動画が少ない穴 ..."
         }
       ],
       "error": null
@@ -141,6 +141,20 @@
       "feedUrl": "https://blog.google/technology/ai/rss/",
       "items": [
         {
+          "title": "2026年8月に発表した最新のAIニュース",
+          "titleOrig": "The latest AI news we announced in August 2026",
+          "link": "https://blog.google/innovation-and-ai/technology/google-ai-updates-august-2026/",
+          "date": "Tue, 01 Sep 2026 20:45:00 +0000",
+          "summary": "Here are Google’s latest AI updates from August 2026"
+        },
+        {
+          "title": "Google Picsを試す： Google Workspaceで簡単な画像作成と編集",
+          "titleOrig": "Try Google Pics: Easy image creation and editing in Google Workspace",
+          "link": "https://blog.google/products-and-platforms/products/workspace/google-pics/",
+          "date": "Tue, 01 Sep 2026 16:00:00 +0000",
+          "summary": "Built on our latest Nano Banana model, Google Pics — our image creation and editing tool — is now available."
+        },
+        {
           "title": "検索で旅行を計画して予約する3つの新しい方法",
           "titleOrig": "3 new ways to plan and book travel in Search",
           "link": "https://blog.google/products-and-platforms/products/search/book-travel-ai-mode/",
@@ -160,20 +174,6 @@
           "link": "https://blog.google/products-and-platforms/products/search/back-to-school-study-tools/",
           "date": "Wed, 19 Aug 2026 19:00:00 +0000",
           "summary": "Here’s how you can use Google Search tools to study for classes and standardized tests."
-        },
-        {
-          "title": "GeminiとPixelでゲームに近づこう",
-          "titleOrig": "Get closer to the game with Gemini and Pixel",
-          "link": "https://blog.google/products-and-platforms/products/gemini/google-gemini-pixel-football-club-partnerships/",
-          "date": "Mon, 17 Aug 2026 08:00:00 +0000",
-          "summary": "Google Gemini and Pixel partner with five global football clubs to elevate the fan matchday experience through AI and Smartphone Technology."
-        },
-        {
-          "title": "Sheetsキャンバスでスプレッドシートのデータを生き生きと",
-          "titleOrig": "Bring your spreadsheet data to life with Sheets canvas",
-          "link": "https://blog.google/products-and-platforms/products/workspace/sheets-canvas-for-google-sheets-spreadsheets/",
-          "date": "Thu, 13 Aug 2026 16:45:00 +0000",
-          "summary": "Sheets canvas turns data into interactive dashboards, custom study trackers, seating charts, and more, all with a simple prompt."
         }
       ],
       "error": null
