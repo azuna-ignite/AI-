@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-02T03:20:43.378Z",
+  "fetchedAt": "2026-09-03T03:23:28.369Z",
   "tools": [
     {
       "tool": "ミエルカ（YouTube）",
@@ -29,6 +29,20 @@
       "feedUrl": "https://www.semrush.com/blog/feed/",
       "items": [
         {
+          "title": "AIブランド可視性レポートを作成する[+テンプレート]",
+          "titleOrig": "Create an AI Brand Visibility Report [+ Template]",
+          "link": "https://www.semrush.com/blog/create-ai-seo-search-marketing-report/",
+          "date": "Wed, 02 Sep 2026 09:33:00 +0000",
+          "summary": "Pair AI share of voice, citations, and sentiment with GA4 conversions in one report leadership can act on. Free template and Semrush steps included."
+        },
+        {
+          "title": "AIエージェントのためにサイトを準備する方法",
+          "titleOrig": "How to prepare your site for AI agents",
+          "link": "https://www.semrush.com/blog/how-to-prepare-your-site-for-ai-agents/",
+          "date": "Wed, 02 Sep 2026 09:18:00 +0000",
+          "summary": "AI agents browse, compare, and recommend on behalf of users. Learn how to make your site crawlable, readable, trustworthy, and easy to cite in AI-driven decision workflows."
+        },
+        {
           "title": "AIはどこで情報を取得しますか？そして引用される方法",
           "titleOrig": "Where does AI get its information? And how to get cited",
           "link": "https://www.semrush.com/blog/where-does-ai-get-its-information/",
@@ -48,20 +62,6 @@
           "link": "https://www.semrush.com/blog/seo-kpis/",
           "date": "Mon, 31 Aug 2026 09:23:00 +0000",
           "summary": "Relevant SEO KPIs to track include AI visibility, keyword rankings, organic traffic, and brand mentions."
-        },
-        {
-          "title": "エンタープライズSEO ：それが何であるか、そして勝利戦略を構築する方法",
-          "titleOrig": "Enterprise SEO: What it is & how to build a winning strategy",
-          "link": "https://www.semrush.com/blog/enterprise-seo/",
-          "date": "Mon, 31 Aug 2026 09:09:00 +0000",
-          "summary": "Enterprise SEO involves optimizing a website’s visibility at scale, using templated and automated approaches."
-        },
-        {
-          "title": "ChatGPT検索でランク付けする方法：可視性を向上させる8つのステップ",
-          "titleOrig": "How to rank in ChatGPT search: 8 steps to improve visibility",
-          "link": "https://www.semrush.com/blog/chatgpt-search/",
-          "date": "Mon, 31 Aug 2026 08:45:00 +0000",
-          "summary": "Rank in ChatGPT search by making your content easy for AI systems to extract and by building off-site consensus."
         }
       ],
       "error": null
@@ -92,6 +92,12 @@
       "feedUrl": "https://rakkokeyword.com/techo/feed/",
       "items": [
         {
+          "title": "YouTubeショートのネタは？伸びる企画の探し方を解説",
+          "link": "https://rakkokeyword.com/techo/how-to-find-youtube-shorts-ideas/",
+          "date": "Thu, 03 Sep 2026 01:30:16 +0000",
+          "summary": "YouTubeショートのネタは、「センスでひねり出すもの」ではなく「型に当てはめて見つけるもの」です。 伸びている動画には共通した企画の型があり、その型に自分の商品や専門知識を当てはめれば、明日撮る1本はすぐに決まります ..."
+        },
+        {
           "title": "【初心者向け】ブログジャンルの決め方を需要と収益性から解説",
           "link": "https://rakkokeyword.com/techo/how-to-choose-blog-genre-demand-profitability/",
           "date": "Tue, 01 Sep 2026 05:50:33 +0000",
@@ -114,12 +120,6 @@
           "link": "https://rakkokeyword.com/techo/how-to-start-selling-handmade-items/",
           "date": "Tue, 25 Aug 2026 08:14:44 +0000",
           "summary": "ハンドメイド販売は、スマホ1台と数百円の梱包資材があれば、今日からでも始められます。 大切なのは「自分の作品に合った販路を1〜2つに絞ること」と「需要のあるジャンルを数字で見極めること」の2つです。 この記事では、ネット ..."
-        },
-        {
-          "title": "【インスタ】ハッシュタグは意味ない？AIに好かれる本質の集客術",
-          "link": "https://rakkokeyword.com/techo/instagram-hashtags-ai-marketing/",
-          "date": "Mon, 24 Aug 2026 06:25:30 +0000",
-          "summary": "結論から言うと、Instagramのハッシュタグは「無意味」ではありませんが、その役割は大きく変わりました。 かつてのように「たくさんつければ多くの人に見てもらえる」時代は終わり、今は少数の的確なタグを、AIに投稿内容を ..."
         }
       ],
       "error": null
@@ -140,6 +140,13 @@
       "sourceType": "tool",
       "feedUrl": "https://blog.google/technology/ai/rss/",
       "items": [
+        {
+          "title": "政府や企業のための積極的なサイバー防御",
+          "titleOrig": "Proactive cyber defense for governments and enterprises",
+          "link": "https://blog.google/innovation-and-ai/technology/safety-security/fairwind-program/",
+          "date": "Wed, 02 Sep 2026 15:40:00 +0000",
+          "summary": "The Fairwind Program is a limited access program for governments and trusted partners to use our cyber defense tools."
+        },
         {
           "title": "2026年8月に発表した最新のAIニュース",
           "titleOrig": "The latest AI news we announced in August 2026",
@@ -167,13 +174,6 @@
           "link": "https://blog.google/products-and-platforms/products/search/home-decor-tips/",
           "date": "Tue, 25 Aug 2026 16:00:00 +0000",
           "summary": "Learn how to use Google Search tools to find home decor inspiration, shop for furniture, and tackle DIY projects."
-        },
-        {
-          "title": "検索で学習をレベルアップする5つの新しい方法",
-          "titleOrig": "5 new ways to level up your learning with Search",
-          "link": "https://blog.google/products-and-platforms/products/search/back-to-school-study-tools/",
-          "date": "Wed, 19 Aug 2026 19:00:00 +0000",
-          "summary": "Here’s how you can use Google Search tools to study for classes and standardized tests."
         }
       ],
       "error": null
@@ -276,6 +276,20 @@
       "feedUrl": "https://obsidian.md/changelog.xml",
       "items": [
         {
+          "title": "Obsidian 1.14.0モバイル（先行アクセス）",
+          "titleOrig": "Obsidian 1.14.0 Mobile (Early access)",
+          "link": "https://obsidian.md/changelog/2026-09-02-mobile-v1.14.0/",
+          "date": "2026-09-02T00:00:00.000Z",
+          "summary": "Includes all new features and bug fixes up to Obsidian Desktop v1.14.0. Improvements Settings are now shown in a dismissable sheet over the app. Swipe anywhere to dismiss. iOS Native Quick Capture on "
+        },
+        {
+          "title": "Obsidian 1.14.0デスクトップ（先行アクセス）",
+          "titleOrig": "Obsidian 1.14.0 Desktop (Early access)",
+          "link": "https://obsidian.md/changelog/2026-09-02-desktop-v1.14.0/",
+          "date": "2026-09-02T00:00:00.000Z",
+          "summary": "New Editor Added color highlights. Add a color emoji (🔴, 🟠, 🟢, 🔵, 🟣) to the start of a highlight to change its color, or pick a color from the new formatting submenu. Typing == in the editor now "
+        },
+        {
           "title": "Obsidian 1.13.8モバイル（パブリック）",
           "titleOrig": "Obsidian 1.13.8 Mobile (Public)",
           "link": "https://obsidian.md/changelog/2026-08-20-mobile-v1.13.8/",
@@ -295,20 +309,6 @@
           "link": "https://obsidian.md/changelog/2026-08-12-desktop-v1.13.7/",
           "date": "2026-08-12T00:00:00.000Z",
           "summary": "No longer broken macOS: Fixed files with special characters in their names sometimes not appearing in the vault. Editor: Fixed inline math in a list item or callout not rendering correctly. Live Previ"
-        },
-        {
-          "title": "Obsidian 1.13.7モバイル（先行アクセス）",
-          "titleOrig": "Obsidian 1.13.7 Mobile (Early access)",
-          "link": "https://obsidian.md/changelog/2026-08-11-mobile-v1.13.7/",
-          "date": "2026-08-11T00:00:00.000Z",
-          "summary": "Includes all new features and bug fixes up to Obsidian Desktop v1.13.7."
-        },
-        {
-          "title": "Obsidian 1.13.7デスクトップ（先行アクセス）",
-          "titleOrig": "Obsidian 1.13.7 Desktop (Early access)",
-          "link": "https://obsidian.md/changelog/2026-08-11-desktop-v1.13.7/",
-          "date": "2026-08-11T00:00:00.000Z",
-          "summary": "No longer broken macOS: Fixed files with special characters in their names sometimes not appearing in the vault. Editor: Fixed inline math in a list item or callout not rendering correctly. Live Previ"
         }
       ],
       "error": null
@@ -320,6 +320,20 @@
       "sourceType": "tool",
       "feedUrl": "https://github.blog/feed/",
       "items": [
+        {
+          "title": "新しいAI用語の解読：ループ、ハーネス、分隊、ヒルクライミング…なんてこった！",
+          "titleOrig": "Decoding the new AI lingo: Loops, harnesses, squads, hill climbing… oh my!",
+          "link": "https://github.blog/ai-and-ml/decoding-the-new-ai-lingo-loops-harnesses-squads-hill-climbing-oh-my/",
+          "date": "Wed, 02 Sep 2026 21:00:00 +0000",
+          "summary": "From loop engineering to harnesses, squads, and open weights, the GitHub Podcast breaks down the AI terms showing up in developer conversations. The post Decoding the new AI lingo: Loops, harnesses, s"
+        },
+        {
+          "title": "タスクの品質を犠牲にすることなく、AIコーディングをより費用対効果の高いものにする方法",
+          "titleOrig": "How we make AI coding more cost efficient without sacrificing task quality",
+          "link": "https://github.blog/ai-and-ml/github-copilot/how-we-make-ai-coding-more-cost-efficient-without-sacrificing-task-quality/",
+          "date": "Wed, 02 Sep 2026 18:00:00 +0000",
+          "summary": "Why shorter outputs can cost more, and how GitHub Copilot reduces wasted work across the complete coding task. The post How we make AI coding more cost efficient without sacrificing task quality appea"
+        },
         {
           "title": "OpenClawが大流行しました。メンテナンス担当者が構築し、セキュリティを確保しています。",
           "titleOrig": "OpenClaw went viral. Meet the maintainers building and securing it.",
@@ -340,20 +354,6 @@
           "link": "https://github.blog/ai-and-ml/llms/how-to-evaluate-llms-before-production/",
           "date": "Tue, 25 Aug 2026 21:35:11 +0000",
           "summary": "These are the lessons we learned evaluating LLMs for real-world secret scanning. The post How to evaluate LLMs before production appeared first on The GitHub Blog."
-        },
-        {
-          "title": "代替テキストは自動チェックに合格します。それは良いことを意味するものではありません。",
-          "titleOrig": "Your alt text passes automated checks. That doesn’t mean it’s any good.",
-          "link": "https://github.blog/engineering/user-experience/your-alt-text-passes-automated-checks-that-doesnt-mean-its-any-good/",
-          "date": "Mon, 24 Aug 2026 20:56:32 +0000",
-          "summary": "We built a plugin for the GitHub Accessibility Scanner to make sure your alt text is actually accessible. Here's how it works. The post Your alt text passes automated checks. That doesn’t mean it’s an"
-        },
-        {
-          "title": "8月17日のアウテージと今後の作業",
-          "titleOrig": "The August 17 outage, and the work ahead",
-          "link": "https://github.blog/news-insights/company-news/the-august-17-outage-and-the-work-ahead/",
-          "date": "Thu, 20 Aug 2026 18:36:11 +0000",
-          "summary": "An update on the August 17 outage and the steps we're taking to improve reliability. The post The August 17 outage, and the work ahead appeared first on The GitHub Blog."
         }
       ],
       "error": null
