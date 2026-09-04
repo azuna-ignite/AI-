@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-03T03:23:28.369Z",
+  "fetchedAt": "2026-09-04T03:22:51.410Z",
   "tools": [
     {
       "tool": "ミエルカ（YouTube）",
@@ -18,8 +18,39 @@
       "category": "SEO・キーワード調査",
       "sourceType": "tool",
       "feedUrl": "https://ahrefs.com/blog/ja/feed/",
-      "items": [],
-      "error": "Status code 404"
+      "items": [
+        {
+          "title": "SEO 歴 17 年の GMO TECH 執行役員 中原卓馬氏が語る、AI 検索時代に変わること、変わらないこと",
+          "link": "https://ahrefs.com/ja/blog/case-study-gmo-tech-vol1/",
+          "date": "Fri, 04 Sep 2026 01:05:26 +0000",
+          "summary": "GMO TECH × Ahrefs インタビュー 第 1 部 リンク SEO の全盛期からコンテンツの時代、そして AI 検索へ。検索環境の変化を実務と研究の両面から見続けてきた GMO TECH 株式会社 執行役員、アルゴリズム研究室長の中原卓馬氏に、キャリア、Ahrefs との関わり、AI 検索時代に企業が向き合うべき変化を伺いました。 中原氏が SEO に携わり始めたのは、31 歳の頃です。"
+        },
+        {
+          "title": "SEO における情報利得（Information Gain）とは？コンテンツに追加する方法",
+          "link": "https://ahrefs.com/ja/blog/information-gain/",
+          "date": "Fri, 04 Sep 2026 01:05:05 +0000",
+          "summary": "情報利得（Information Gain）とは、既存の検索結果を超えた追加情報のことです。SEO コンテンツに情報利得を追加してランキングを向上させる具体的な方法を解説します。"
+        },
+        {
+          "title": "YouTube ショートの対応、「適応型」トラフィック推定、プロンプトデータセットが2倍に拡大、その他｜2026年 8月",
+          "link": "https://ahrefs.com/ja/blog/august-2026-roundup/",
+          "date": "Thu, 03 Sep 2026 03:14:03 +0000",
+          "summary": "Ahrefs の月次プロダクトアップデートへようこそ。YouTube ショート動画を他のプラットフォームと並行して投稿できるようになり、新しい「適応型」トラフィック推定モデルでより AI 検索時代に即したトラフィック分析が可能になりました。"
+        },
+        {
+          "title": "分析：Google の「ディスカッションとフォーラム」検索結果の 83.9% に Reddit が表示される",
+          "link": "https://ahrefs.com/ja/blog/discussions-and-forums-serps/",
+          "date": "Mon, 31 Aug 2026 06:49:32 +0000",
+          "summary": "Google の「ディスカッションとフォーラム」SERP 機能を 1 億 4,500 万件のデータで徹底分析。Reddit が 83.9% の検索結果に表示される実態や、主要ドメインの占有率、検索意図との関係を解説します。"
+        },
+        {
+          "title": "AI に引用されやすいコンテンツの作り方：構造・文体・データの 3 要素で書く AEO ライティング術",
+          "link": "https://ahrefs.com/ja/blog/aeo-writing-guide-3-elements/",
+          "date": "Mon, 31 Aug 2026 03:41:07 +0000",
+          "summary": "AI に引用されやすいコンテンツを作るための「構造・文体・データ」の 3 要素を徹底解説。1 チャンク 1 質問設計や FAQ 活用、一次データ挿入の実践手法から、Ahrefs を用いた公開後の改善 PDCA まで分かりやすく紹介します。"
+        }
+      ],
+      "error": null
     },
     {
       "tool": "Semrush",
@@ -28,6 +59,13 @@
       "sourceType": "tool",
       "feedUrl": "https://www.semrush.com/blog/feed/",
       "items": [
+        {
+          "title": "ロングテールのキーワード：究極のガイド",
+          "titleOrig": "Long-tail keywords: the ultimate guide",
+          "link": "https://www.semrush.com/blog/how-to-choose-long-tail-keywords/",
+          "date": "Thu, 03 Sep 2026 10:48:00 +0000",
+          "summary": "Use long-tail keywords to drive quality traffic to your site from search and AI. Here’s how."
+        },
         {
           "title": "AIブランド可視性レポートを作成する[+テンプレート]",
           "titleOrig": "Create an AI Brand Visibility Report [+ Template]",
@@ -55,13 +93,6 @@
           "link": "https://www.semrush.com/blog/ai-tools-for-competitor-analysis/",
           "date": "Mon, 31 Aug 2026 09:42:00 +0000",
           "summary": "ChatGPT alone won‘t cut it. See how to use AI tools for competitor analysis the right way, with Semrush MCP and a step-by-step workflow."
-        },
-        {
-          "title": "オーガニック＆ AI検索パフォーマンスを測定するための18のSEO KPI",
-          "titleOrig": "18 SEO KPIs to measure organic & AI search performance",
-          "link": "https://www.semrush.com/blog/seo-kpis/",
-          "date": "Mon, 31 Aug 2026 09:23:00 +0000",
-          "summary": "Relevant SEO KPIs to track include AI visibility, keyword rankings, organic traffic, and brand mentions."
         }
       ],
       "error": null
@@ -92,6 +123,12 @@
       "feedUrl": "https://rakkokeyword.com/techo/feed/",
       "items": [
         {
+          "title": "インスタ集客が難しい理由は？解決方法を解説",
+          "link": "https://rakkokeyword.com/techo/instagram-marketing-difficult-solutions/",
+          "date": "Fri, 04 Sep 2026 03:15:09 +0000",
+          "summary": "インスタ集客が難しく感じるのには、はっきりした原因があります。 そしてその原因のほとんどは、投稿の「量」ではなく「設計」を見直すだけで改善できます。 この記事では、個人や少人数で運用しているアカウントが集客につまずく5つ ..."
+        },
+        {
           "title": "YouTubeショートのネタは？伸びる企画の探し方を解説",
           "link": "https://rakkokeyword.com/techo/how-to-find-youtube-shorts-ideas/",
           "date": "Thu, 03 Sep 2026 01:30:16 +0000",
@@ -114,12 +151,6 @@
           "link": "https://rakkokeyword.com/techo/online-shop-what-to-sell-product-selection/",
           "date": "Sat, 29 Aug 2026 09:18:13 +0000",
           "summary": "ネットショップの商材選びは、センスやひらめきで決めるものではありません。 「需要のある商品を、いくつかの基準に沿って選ぶ」という手順を踏めば、特別なスキルがなくても扱う商品は決められます。 この記事では、これから個人でネ ..."
-        },
-        {
-          "title": "ハンドメイド販売の始め方は？売れ筋・需要の調べ方と販路の選び方",
-          "link": "https://rakkokeyword.com/techo/how-to-start-selling-handmade-items/",
-          "date": "Tue, 25 Aug 2026 08:14:44 +0000",
-          "summary": "ハンドメイド販売は、スマホ1台と数百円の梱包資材があれば、今日からでも始められます。 大切なのは「自分の作品に合った販路を1〜2つに絞ること」と「需要のあるジャンルを数字で見極めること」の2つです。 この記事では、ネット ..."
         }
       ],
       "error": null
@@ -321,6 +352,13 @@
       "feedUrl": "https://github.blog/feed/",
       "items": [
         {
+          "title": "初心者向けGitHub Copilotアプリ：一度に複数のエージェントを実行",
+          "titleOrig": "GitHub Copilot app for Beginners: Run several agents at once",
+          "link": "https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-run-several-agents-at-once/",
+          "date": "Thu, 03 Sep 2026 16:00:00 +0000",
+          "summary": "Learn how to run parallel agents in the GitHub Copilot app, and experience the moment it stops feeling scary and starts feeling powerful. The post GitHub Copilot app for Beginners: Run several agents "
+        },
+        {
           "title": "新しいAI用語の解読：ループ、ハーネス、分隊、ヒルクライミング…なんてこった！",
           "titleOrig": "Decoding the new AI lingo: Loops, harnesses, squads, hill climbing… oh my!",
           "link": "https://github.blog/ai-and-ml/decoding-the-new-ai-lingo-loops-harnesses-squads-hill-climbing-oh-my/",
@@ -347,13 +385,6 @@
           "link": "https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-automate-dependabot-pull-request-triage/",
           "date": "Wed, 26 Aug 2026 20:12:53 +0000",
           "summary": "Managing library updates can be tedious at times. Learn how the GitHub Copilot app can handle this type of repetitive task. The post GitHub Copilot app for Beginners: Automate Dependabot pull request "
-        },
-        {
-          "title": "制作前にLLMを評価する方法",
-          "titleOrig": "How to evaluate LLMs before production",
-          "link": "https://github.blog/ai-and-ml/llms/how-to-evaluate-llms-before-production/",
-          "date": "Tue, 25 Aug 2026 21:35:11 +0000",
-          "summary": "These are the lessons we learned evaluating LLMs for real-world secret scanning. The post How to evaluate LLMs before production appeared first on The GitHub Blog."
         }
       ],
       "error": null
