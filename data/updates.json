@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-04T03:22:51.410Z",
+  "fetchedAt": "2026-09-05T03:23:10.595Z",
   "tools": [
     {
       "tool": "ミエルカ（YouTube）",
@@ -19,6 +19,12 @@
       "sourceType": "tool",
       "feedUrl": "https://ahrefs.com/blog/ja/feed/",
       "items": [
+        {
+          "title": "Claude・ChatGPT でAhrefs（エイチレフス）を使う方法：Letaido・MCP・ブランドレーダーを会話だけで操作する実践ガイド",
+          "link": "https://ahrefs.com/ja/blog/chatgpt-ahrefs-mcp-guide/",
+          "date": "Fri, 04 Sep 2026 06:25:44 +0000",
+          "summary": "Chat­G­PT で Ahrefs MCP を使う方法を徹底解説！会話だけでキーワード調査やブランドレーダーを操作する手順から、 Letai­do との使い分け、初期設定、エラー対処法や実務で使えるプロンプト例まで分かりやすくご紹介します。"
+        },
         {
           "title": "SEO 歴 17 年の GMO TECH 執行役員 中原卓馬氏が語る、AI 検索時代に変わること、変わらないこと",
           "link": "https://ahrefs.com/ja/blog/case-study-gmo-tech-vol1/",
@@ -42,12 +48,6 @@
           "link": "https://ahrefs.com/ja/blog/discussions-and-forums-serps/",
           "date": "Mon, 31 Aug 2026 06:49:32 +0000",
           "summary": "Google の「ディスカッションとフォーラム」SERP 機能を 1 億 4,500 万件のデータで徹底分析。Reddit が 83.9% の検索結果に表示される実態や、主要ドメインの占有率、検索意図との関係を解説します。"
-        },
-        {
-          "title": "AI に引用されやすいコンテンツの作り方：構造・文体・データの 3 要素で書く AEO ライティング術",
-          "link": "https://ahrefs.com/ja/blog/aeo-writing-guide-3-elements/",
-          "date": "Mon, 31 Aug 2026 03:41:07 +0000",
-          "summary": "AI に引用されやすいコンテンツを作るための「構造・文体・データ」の 3 要素を徹底解説。1 チャンク 1 質問設計や FAQ 活用、一次データ挿入の実践手法から、Ahrefs を用いた公開後の改善 PDCA まで分かりやすく紹介します。"
         }
       ],
       "error": null
@@ -352,6 +352,13 @@
       "feedUrl": "https://github.blog/feed/",
       "items": [
         {
+          "title": "プロジェクトHydraFusion ：マルチモデルオーケストレーションによるフロンティア品質",
+          "titleOrig": "Project HydraFusion: Frontier quality via multi-model orchestration",
+          "link": "https://github.blog/ai-and-ml/github-copilot/project-hydrafusion-frontier-quality-via-multi-model-orchestration/",
+          "date": "Fri, 04 Sep 2026 16:04:14 +0000",
+          "summary": "In controlled offline evaluations, HydraFusion’s selective coding workflows matched or exceeded the evaluated Opus 5 baseline while reducing estimated workflow cost. Now available as a research previe"
+        },
+        {
           "title": "初心者向けGitHub Copilotアプリ：一度に複数のエージェントを実行",
           "titleOrig": "GitHub Copilot app for Beginners: Run several agents at once",
           "link": "https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-run-several-agents-at-once/",
@@ -378,13 +385,6 @@
           "link": "https://github.blog/open-source/maintainers/openclaw-went-viral-meet-the-maintainers-building-and-securing-it/",
           "date": "Thu, 27 Aug 2026 16:00:00 +0000",
           "summary": "OpenClaw is the fastest-growing project in GitHub history. Peter Steinberger and several maintainers share what they learned in the project's first six months. The post OpenClaw went viral. Meet the m"
-        },
-        {
-          "title": "初心者向けGitHub Copilotアプリ： Dependabotプルリクエストトリアージの自動化",
-          "titleOrig": "GitHub Copilot app for Beginners: Automate Dependabot pull request triage",
-          "link": "https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-automate-dependabot-pull-request-triage/",
-          "date": "Wed, 26 Aug 2026 20:12:53 +0000",
-          "summary": "Managing library updates can be tedious at times. Learn how the GitHub Copilot app can handle this type of repetitive task. The post GitHub Copilot app for Beginners: Automate Dependabot pull request "
         }
       ],
       "error": null
