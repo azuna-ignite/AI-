@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-05T03:23:10.595Z",
+  "fetchedAt": "2026-09-07T03:22:16.529Z",
   "tools": [
     {
       "tool": "ミエルカ（YouTube）",
@@ -9,8 +9,39 @@
       "type": "youtube",
       "handle": "@mieruca-channel",
       "feedUrl": "",
-      "items": [],
-      "error": "Status code 404"
+      "items": [
+        {
+          "title": "Google AIモードとは？いま何ができて、SEOで何が変わらないのか",
+          "link": "https://www.youtube.com/watch?v=Mhe3aqXWmm8",
+          "date": "2026-09-06T23:00:37.000Z",
+          "summary": ""
+        },
+        {
+          "title": "【独自調査】GEO/LLMOは一律に対策できない？｜1,698問で見えたChatGPTとAI Overviewsの違い",
+          "link": "https://www.youtube.com/watch?v=GxVnq9vihws",
+          "date": "2026-09-01T23:00:28.000Z",
+          "summary": ""
+        },
+        {
+          "title": "Google検索のリンク変更を日本でも確認、順位チェックツールへの影響は？｜SEO Weekly Update",
+          "link": "https://www.youtube.com/watch?v=I6-BzzjBIME",
+          "date": "2026-08-30T22:30:09.000Z",
+          "summary": ""
+        },
+        {
+          "title": "LLMO対策でAIにおすすめされるには？引用・言及から見る5段階",
+          "link": "https://www.youtube.com/watch?v=KlYlXvNQXgg",
+          "date": "2026-08-25T23:00:17.000Z",
+          "summary": ""
+        },
+        {
+          "title": "Googleはコンテンツ品質を何で判断する？評価される「ページ上の証拠」｜SEO Weekly Update",
+          "link": "https://www.youtube.com/watch?v=53jaaanjWbY",
+          "date": "2026-08-23T23:29:00.000Z",
+          "summary": ""
+        }
+      ],
+      "error": null
     },
     {
       "tool": "Ahrefs",
@@ -19,6 +50,12 @@
       "sourceType": "tool",
       "feedUrl": "https://ahrefs.com/blog/ja/feed/",
       "items": [
+        {
+          "title": "SEO 歴 17 年の GMO TECH 執行役員 中原卓馬氏が語る。第 2 部：AI × Ahrefs × MCP で、AI 検索をどう分析するのか",
+          "link": "https://ahrefs.com/ja/blog/https-ahrefs-com-ja-blog-case-study-gmo-tech-vol2/",
+          "date": "Mon, 07 Sep 2026 02:33:55 +0000",
+          "summary": "GMO TECH × Ahrefs インタビュー SEO 歴 17 年の GMO TECH 執行役員 中原卓馬氏が語る、第 2 部：AI × Ahrefs × MCP で、AI 検索をどう分析するのか ブランドレーダーを起点に約 4 万件の AI 回答を読み解き、ファンアウトクエリと「推薦の文法」を実務へつなげる。GMO TECH株式会社 執行役員、アルゴリズム研究室長の中原 卓馬氏に、その分析手"
+        },
         {
           "title": "Claude・ChatGPT でAhrefs（エイチレフス）を使う方法：Letaido・MCP・ブランドレーダーを会話だけで操作する実践ガイド",
           "link": "https://ahrefs.com/ja/blog/chatgpt-ahrefs-mcp-guide/",
@@ -29,7 +66,7 @@
           "title": "SEO 歴 17 年の GMO TECH 執行役員 中原卓馬氏が語る、AI 検索時代に変わること、変わらないこと",
           "link": "https://ahrefs.com/ja/blog/case-study-gmo-tech-vol1/",
           "date": "Fri, 04 Sep 2026 01:05:26 +0000",
-          "summary": "GMO TECH × Ahrefs インタビュー 第 1 部 リンク SEO の全盛期からコンテンツの時代、そして AI 検索へ。検索環境の変化を実務と研究の両面から見続けてきた GMO TECH 株式会社 執行役員、アルゴリズム研究室長の中原卓馬氏に、キャリア、Ahrefs との関わり、AI 検索時代に企業が向き合うべき変化を伺いました。 中原氏が SEO に携わり始めたのは、31 歳の頃です。"
+          "summary": "GMO TECH｜Ahrefs インタビュー 第 1 部 リンク SEO の全盛期からコンテンツの時代、そして AI 検索へ。検索環境の変化を実務と研究の両面から見続けてきた GMO TECH株式会社 執行役員、アルゴリズム研究室長の中原卓馬氏に、キャリア、Ahrefs との関わり、AI 検索時代に企業が向き合うべき変化を伺いました。 中原氏が SEO に携わり始めたのは、31 歳の頃です。それ以"
         },
         {
           "title": "SEO における情報利得（Information Gain）とは？コンテンツに追加する方法",
@@ -42,12 +79,6 @@
           "link": "https://ahrefs.com/ja/blog/august-2026-roundup/",
           "date": "Thu, 03 Sep 2026 03:14:03 +0000",
           "summary": "Ahrefs の月次プロダクトアップデートへようこそ。YouTube ショート動画を他のプラットフォームと並行して投稿できるようになり、新しい「適応型」トラフィック推定モデルでより AI 検索時代に即したトラフィック分析が可能になりました。"
-        },
-        {
-          "title": "分析：Google の「ディスカッションとフォーラム」検索結果の 83.9% に Reddit が表示される",
-          "link": "https://ahrefs.com/ja/blog/discussions-and-forums-serps/",
-          "date": "Mon, 31 Aug 2026 06:49:32 +0000",
-          "summary": "Google の「ディスカッションとフォーラム」SERP 機能を 1 億 4,500 万件のデータで徹底分析。Reddit が 83.9% の検索結果に表示される実態や、主要ドメインの占有率、検索意図との関係を解説します。"
         }
       ],
       "error": null
