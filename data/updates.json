@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-07T03:22:16.529Z",
+  "fetchedAt": "2026-09-09T03:32:42.313Z",
   "tools": [
     {
       "tool": "ミエルカ（YouTube）",
@@ -9,39 +9,8 @@
       "type": "youtube",
       "handle": "@mieruca-channel",
       "feedUrl": "",
-      "items": [
-        {
-          "title": "Google AIモードとは？いま何ができて、SEOで何が変わらないのか",
-          "link": "https://www.youtube.com/watch?v=Mhe3aqXWmm8",
-          "date": "2026-09-06T23:00:37.000Z",
-          "summary": ""
-        },
-        {
-          "title": "【独自調査】GEO/LLMOは一律に対策できない？｜1,698問で見えたChatGPTとAI Overviewsの違い",
-          "link": "https://www.youtube.com/watch?v=GxVnq9vihws",
-          "date": "2026-09-01T23:00:28.000Z",
-          "summary": ""
-        },
-        {
-          "title": "Google検索のリンク変更を日本でも確認、順位チェックツールへの影響は？｜SEO Weekly Update",
-          "link": "https://www.youtube.com/watch?v=I6-BzzjBIME",
-          "date": "2026-08-30T22:30:09.000Z",
-          "summary": ""
-        },
-        {
-          "title": "LLMO対策でAIにおすすめされるには？引用・言及から見る5段階",
-          "link": "https://www.youtube.com/watch?v=KlYlXvNQXgg",
-          "date": "2026-08-25T23:00:17.000Z",
-          "summary": ""
-        },
-        {
-          "title": "Googleはコンテンツ品質を何で判断する？評価される「ページ上の証拠」｜SEO Weekly Update",
-          "link": "https://www.youtube.com/watch?v=53jaaanjWbY",
-          "date": "2026-08-23T23:29:00.000Z",
-          "summary": ""
-        }
-      ],
-      "error": null
+      "items": [],
+      "error": "Status code 404"
     },
     {
       "tool": "Ahrefs",
@@ -50,6 +19,12 @@
       "sourceType": "tool",
       "feedUrl": "https://ahrefs.com/blog/ja/feed/",
       "items": [
+        {
+          "title": "「その SEO 指標、経営陣に伝わっていますか？」経営層が納得する KPI の選び方",
+          "link": "https://ahrefs.com/ja/blog/mba-metrics-for-seo/",
+          "date": "Mon, 07 Sep 2026 05:57:00 +0000",
+          "summary": "なぜ SEO レポートは経営陣に響かないのか。経営陣が信頼して使える代替指標とその活用方法を解説します。"
+        },
         {
           "title": "SEO 歴 17 年の GMO TECH 執行役員 中原卓馬氏が語る。第 2 部：AI × Ahrefs × MCP で、AI 検索をどう分析するのか",
           "link": "https://ahrefs.com/ja/blog/https-ahrefs-com-ja-blog-case-study-gmo-tech-vol2/",
@@ -73,12 +48,6 @@
           "link": "https://ahrefs.com/ja/blog/information-gain/",
           "date": "Fri, 04 Sep 2026 01:05:05 +0000",
           "summary": "情報利得（Information Gain）とは、既存の検索結果を超えた追加情報のことです。SEO コンテンツに情報利得を追加してランキングを向上させる具体的な方法を解説します。"
-        },
-        {
-          "title": "YouTube ショートの対応、「適応型」トラフィック推定、プロンプトデータセットが2倍に拡大、その他｜2026年 8月",
-          "link": "https://ahrefs.com/ja/blog/august-2026-roundup/",
-          "date": "Thu, 03 Sep 2026 03:14:03 +0000",
-          "summary": "Ahrefs の月次プロダクトアップデートへようこそ。YouTube ショート動画を他のプラットフォームと並行して投稿できるようになり、新しい「適応型」トラフィック推定モデルでより AI 検索時代に即したトラフィック分析が可能になりました。"
         }
       ],
       "error": null
@@ -90,6 +59,27 @@
       "sourceType": "tool",
       "feedUrl": "https://www.semrush.com/blog/feed/",
       "items": [
+        {
+          "title": "AI検索＆製造SEO ：データが示すもの[Study]",
+          "titleOrig": "AI search & manufacturing SEO: What the data shows [Study]",
+          "link": "https://www.semrush.com/blog/manufacturing-seo-ai-search/",
+          "date": "Tue, 08 Sep 2026 13:38:00 +0000",
+          "summary": "Semrush data on AI search in manufacturing. See which brands get mentioned, which get cited, and why citations don‘t drive traffic."
+        },
+        {
+          "title": "SEOのトピッククラスター：それらが何であるか、そしてそれらを作成する方法",
+          "titleOrig": "Topic clusters for SEO: what they are & how to create them",
+          "link": "https://www.semrush.com/blog/topic-clusters/",
+          "date": "Mon, 07 Sep 2026 12:58:00 +0000",
+          "summary": "Topic clusters help you earn visibility in search engines and on AI search platforms. Follow these 5 steps to create them."
+        },
+        {
+          "title": "AIチャットボットは、AIユーザーの57.5 ％が購入していないと話しました",
+          "titleOrig": "AI chatbots talked 57.5% of AI users out of buying",
+          "link": "https://www.semrush.com/blog/ai-chatbots-talk-ai-users-out-of-buying/",
+          "date": "Mon, 07 Sep 2026 08:48:00 +0000",
+          "summary": "We surveyed 2,338 US consumers: 65% of AI users have replaced some product-related Google searches with chatbots, and 4 in 10 dislike chatbot ads."
+        },
         {
           "title": "ロングテールのキーワード：究極のガイド",
           "titleOrig": "Long-tail keywords: the ultimate guide",
@@ -103,27 +93,6 @@
           "link": "https://www.semrush.com/blog/create-ai-seo-search-marketing-report/",
           "date": "Wed, 02 Sep 2026 09:33:00 +0000",
           "summary": "Pair AI share of voice, citations, and sentiment with GA4 conversions in one report leadership can act on. Free template and Semrush steps included."
-        },
-        {
-          "title": "AIエージェントのためにサイトを準備する方法",
-          "titleOrig": "How to prepare your site for AI agents",
-          "link": "https://www.semrush.com/blog/how-to-prepare-your-site-for-ai-agents/",
-          "date": "Wed, 02 Sep 2026 09:18:00 +0000",
-          "summary": "AI agents browse, compare, and recommend on behalf of users. Learn how to make your site crawlable, readable, trustworthy, and easy to cite in AI-driven decision workflows."
-        },
-        {
-          "title": "AIはどこで情報を取得しますか？そして引用される方法",
-          "titleOrig": "Where does AI get its information? And how to get cited",
-          "link": "https://www.semrush.com/blog/where-does-ai-get-its-information/",
-          "date": "Tue, 01 Sep 2026 07:52:00 +0000",
-          "summary": "AI gets information from channels like training data, live online information, and licensing partnerships."
-        },
-        {
-          "title": "2026年の競合他社分析にAIツールを使用する方法",
-          "titleOrig": "How to use AI tools for competitor analysis in 2026",
-          "link": "https://www.semrush.com/blog/ai-tools-for-competitor-analysis/",
-          "date": "Mon, 31 Aug 2026 09:42:00 +0000",
-          "summary": "ChatGPT alone won‘t cut it. See how to use AI tools for competitor analysis the right way, with Semrush MCP and a step-by-step workflow."
         }
       ],
       "error": null
@@ -293,6 +262,13 @@
       "feedUrl": "https://wordpress.org/news/feed/",
       "items": [
         {
+          "title": "バングラデシュで生徒が2週間で108のウェブサイトを構築",
+          "titleOrig": "Students Built 108 Websites in Two Weeks in Bangladesh",
+          "link": "https://wordpress.org/news/2026/09/108-student-websites/",
+          "date": "Mon, 07 Sep 2026 23:19:34 +0000",
+          "summary": "In July, students at two campuses in Kishoreganj, Bangladesh, built 108 websites. In eastern Uganda, a workshop that arrived to find no electricity at the school ran anyway, for more than 100 learners"
+        },
+        {
           "title": "WordPressがオープンウェイトとアメリカのAIリーダーシップレターに署名",
           "titleOrig": "WordPress Signs the Open Weights and American AI Leadership Letter",
           "link": "https://wordpress.org/news/2026/08/open-weight/",
@@ -319,13 +295,6 @@
           "link": "https://wordpress.org/news/2026/08/browser-extension/",
           "date": "Thu, 13 Aug 2026 16:29:42 +0000",
           "summary": "The official WordPress Browser Extension is now available for Google Chrome and Chromium-based browsers in the Chrome Web Store and for Safari on macOS in the Mac App Store. This new open source exten"
-        },
-        {
-          "title": "WordPress 7.0.4リリース",
-          "titleOrig": "WordPress 7.0.4 Release",
-          "link": "https://wordpress.org/news/2026/08/wordpress-7-0-4-release/",
-          "date": "Wed, 12 Aug 2026 14:45:53 +0000",
-          "summary": "WordPress 7.0.4 is now available WordPress 7.0.4 is now available which features a security fix. Because this is a security release, it is recommended that you update your sites immediately. You can u"
         }
       ],
       "error": null
@@ -337,6 +306,20 @@
       "sourceType": "tool",
       "feedUrl": "https://obsidian.md/changelog.xml",
       "items": [
+        {
+          "title": "Obsidian 1.14.1モバイル（早期アクセス）",
+          "titleOrig": "Obsidian 1.14.1 Mobile (Early access)",
+          "link": "https://obsidian.md/changelog/2026-09-08-mobile-v1.14.1/",
+          "date": "2026-09-08T00:00:00.000Z",
+          "summary": "Includes all new features and bug fixes up to Obsidian Desktop 1.14.1. New iOS 26: Added a configurable Quick Capture Home Screen widget. Add shortcuts to capture directly to different Locations. Impr"
+        },
+        {
+          "title": "Obsidian 1.14.1デスクトップ（先行アクセス）",
+          "titleOrig": "Obsidian 1.14.1 Desktop (Early access)",
+          "link": "https://obsidian.md/changelog/2026-09-08-desktop-v1.14.1/",
+          "date": "2026-09-08T00:00:00.000Z",
+          "summary": "Improvements Math rendering now uses MathJax 4.1.3, replacing MathJax 3 and Temml. Bases: Added right-to-left (RTL) support to table views, including keyboard navigation, selections, and horizontal sc"
+        },
         {
           "title": "Obsidian 1.14.0モバイル（先行アクセス）",
           "titleOrig": "Obsidian 1.14.0 Mobile (Early access)",
@@ -357,20 +340,6 @@
           "link": "https://obsidian.md/changelog/2026-08-20-mobile-v1.13.8/",
           "date": "2026-08-20T00:00:00.000Z",
           "summary": "Android: Fixed bug causing editor to accidentally switch from reading mode to edit mode while scrolling."
-        },
-        {
-          "title": "Obsidian 1.13.7モバイル（パブリック）",
-          "titleOrig": "Obsidian 1.13.7 Mobile (Public)",
-          "link": "https://obsidian.md/changelog/2026-08-12-mobile-v1.13.7/",
-          "date": "2026-08-12T00:00:00.000Z",
-          "summary": "Includes all new features and bug fixes up to Obsidian Desktop v1.13.7."
-        },
-        {
-          "title": "Obsidian 1.13.7デスクトップ（パブリック）",
-          "titleOrig": "Obsidian 1.13.7 Desktop (Public)",
-          "link": "https://obsidian.md/changelog/2026-08-12-desktop-v1.13.7/",
-          "date": "2026-08-12T00:00:00.000Z",
-          "summary": "No longer broken macOS: Fixed files with special characters in their names sometimes not appearing in the vault. Editor: Fixed inline math in a list item or callout not rendering correctly. Live Previ"
         }
       ],
       "error": null
