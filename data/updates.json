@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-09T03:32:42.313Z",
+  "fetchedAt": "2026-09-10T03:30:27.954Z",
   "tools": [
     {
       "tool": "ミエルカ（YouTube）",
@@ -60,6 +60,27 @@
       "feedUrl": "https://www.semrush.com/blog/feed/",
       "items": [
         {
+          "title": "Semrushの無料SEO Chrome拡張機能であるSEOquakeを再構築しました",
+          "titleOrig": "We rebuilt SEOquake, Semrush’s free SEO Chrome extension",
+          "link": "https://www.semrush.com/blog/seoquake-relaunch/",
+          "date": "Wed, 09 Sep 2026 15:37:00 +0000",
+          "summary": "Semrush released a rebuilt version of SEOquake, the free Chrome extension for running quick page-level SEO checks without leaving your browser."
+        },
+        {
+          "title": "最初のAI SEOエージェントを構築する方法（完全なウォークスルー）",
+          "titleOrig": "How to build your first AI SEO agent (full walk-through)",
+          "link": "https://www.semrush.com/blog/seo-ai-agent/",
+          "date": "Wed, 09 Sep 2026 09:38:00 +0000",
+          "summary": "Learn how to build an AI SEO agent from scratch to automate important tasks like keyword research and topic clustering."
+        },
+        {
+          "title": "2026年のAI検索エンジンベスト9 [テストおよびレビュー済み]",
+          "titleOrig": "9 best AI search engines in 2026 [tested & reviewed]",
+          "link": "https://www.semrush.com/blog/best-ai-search-engines/",
+          "date": "Wed, 09 Sep 2026 09:22:00 +0000",
+          "summary": "We reviewed the best AI search engines so you can choose the right one for your needs."
+        },
+        {
           "title": "AI検索＆製造SEO ：データが示すもの[Study]",
           "titleOrig": "AI search & manufacturing SEO: What the data shows [Study]",
           "link": "https://www.semrush.com/blog/manufacturing-seo-ai-search/",
@@ -72,27 +93,6 @@
           "link": "https://www.semrush.com/blog/topic-clusters/",
           "date": "Mon, 07 Sep 2026 12:58:00 +0000",
           "summary": "Topic clusters help you earn visibility in search engines and on AI search platforms. Follow these 5 steps to create them."
-        },
-        {
-          "title": "AIチャットボットは、AIユーザーの57.5 ％が購入していないと話しました",
-          "titleOrig": "AI chatbots talked 57.5% of AI users out of buying",
-          "link": "https://www.semrush.com/blog/ai-chatbots-talk-ai-users-out-of-buying/",
-          "date": "Mon, 07 Sep 2026 08:48:00 +0000",
-          "summary": "We surveyed 2,338 US consumers: 65% of AI users have replaced some product-related Google searches with chatbots, and 4 in 10 dislike chatbot ads."
-        },
-        {
-          "title": "ロングテールのキーワード：究極のガイド",
-          "titleOrig": "Long-tail keywords: the ultimate guide",
-          "link": "https://www.semrush.com/blog/how-to-choose-long-tail-keywords/",
-          "date": "Thu, 03 Sep 2026 10:48:00 +0000",
-          "summary": "Use long-tail keywords to drive quality traffic to your site from search and AI. Here’s how."
-        },
-        {
-          "title": "AIブランド可視性レポートを作成する[+テンプレート]",
-          "titleOrig": "Create an AI Brand Visibility Report [+ Template]",
-          "link": "https://www.semrush.com/blog/create-ai-seo-search-marketing-report/",
-          "date": "Wed, 02 Sep 2026 09:33:00 +0000",
-          "summary": "Pair AI share of voice, citations, and sentiment with GA4 conversions in one report leadership can act on. Free template and Semrush steps included."
         }
       ],
       "error": null
@@ -172,6 +172,20 @@
       "feedUrl": "https://blog.google/technology/ai/rss/",
       "items": [
         {
+          "title": "検索の新しいサッカー機能で試合に備えましょう",
+          "titleOrig": "Get ready for the game with new football features in Search",
+          "link": "https://blog.google/products-and-platforms/products/search/football-features-google-search/",
+          "date": "Wed, 09 Sep 2026 16:00:00 +0000",
+          "summary": "Track live game feeds, explore detailed stats, and get custom fantasy recommendations directly in Search this season."
+        },
+        {
+          "title": "70年のラブストーリーをフレームごとに再現",
+          "titleOrig": "Recreating a 70-year love story frame by frame",
+          "link": "https://blog.google/innovation-and-ai/technology/ai/love-rendered-film/",
+          "date": "Wed, 09 Sep 2026 16:00:00 +0000",
+          "summary": "Discover how filmmakers and Google DeepMind used AI to recreate a couple's unrecorded past in the short film \"Love, Rendered.\""
+        },
+        {
           "title": "政府や企業のための積極的なサイバー防御",
           "titleOrig": "Proactive cyber defense for governments and enterprises",
           "link": "https://blog.google/innovation-and-ai/technology/safety-security/fairwind-program/",
@@ -191,20 +205,6 @@
           "link": "https://blog.google/products-and-platforms/products/workspace/google-pics/",
           "date": "Tue, 01 Sep 2026 16:00:00 +0000",
           "summary": "Built on our latest Nano Banana model, Google Pics — our image creation and editing tool — is now available."
-        },
-        {
-          "title": "検索で旅行を計画して予約する3つの新しい方法",
-          "titleOrig": "3 new ways to plan and book travel in Search",
-          "link": "https://blog.google/products-and-platforms/products/search/book-travel-ai-mode/",
-          "date": "Thu, 27 Aug 2026 16:00:00 +0000",
-          "summary": "Book hotels and track airfares, plus view miles and rewards with AI Mode in Google Search."
-        },
-        {
-          "title": "Google検索で家のインテリアをアップグレードする5つの方法",
-          "titleOrig": "5 ways to upgrade your home decor with Google Search",
-          "link": "https://blog.google/products-and-platforms/products/search/home-decor-tips/",
-          "date": "Tue, 25 Aug 2026 16:00:00 +0000",
-          "summary": "Learn how to use Google Search tools to find home decor inspiration, shop for furniture, and tackle DIY projects."
         }
       ],
       "error": null
@@ -352,6 +352,13 @@
       "feedUrl": "https://github.blog/feed/",
       "items": [
         {
+          "title": "GitHub可用性レポート： 2026年8月",
+          "titleOrig": "GitHub availability report: August 2026",
+          "link": "https://github.blog/news-insights/company-news/github-availability-report-august-2026/",
+          "date": "Thu, 10 Sep 2026 02:05:17 +0000",
+          "summary": "In August, we experienced five incidents that resulted in degraded performance across GitHub services. The post GitHub availability report: August 2026 appeared first on The GitHub Blog."
+        },
+        {
           "title": "プロジェクトHydraFusion ：マルチモデルオーケストレーションによるフロンティア品質",
           "titleOrig": "Project HydraFusion: Frontier quality via multi-model orchestration",
           "link": "https://github.blog/ai-and-ml/github-copilot/project-hydrafusion-frontier-quality-via-multi-model-orchestration/",
@@ -378,13 +385,6 @@
           "link": "https://github.blog/ai-and-ml/github-copilot/how-we-make-ai-coding-more-cost-efficient-without-sacrificing-task-quality/",
           "date": "Wed, 02 Sep 2026 18:00:00 +0000",
           "summary": "Why shorter outputs can cost more, and how GitHub Copilot reduces wasted work across the complete coding task. The post How we make AI coding more cost efficient without sacrificing task quality appea"
-        },
-        {
-          "title": "OpenClawが大流行しました。メンテナンス担当者が構築し、セキュリティを確保しています。",
-          "titleOrig": "OpenClaw went viral. Meet the maintainers building and securing it.",
-          "link": "https://github.blog/open-source/maintainers/openclaw-went-viral-meet-the-maintainers-building-and-securing-it/",
-          "date": "Thu, 27 Aug 2026 16:00:00 +0000",
-          "summary": "OpenClaw is the fastest-growing project in GitHub history. Peter Steinberger and several maintainers share what they learned in the project's first six months. The post OpenClaw went viral. Meet the m"
         }
       ],
       "error": null
