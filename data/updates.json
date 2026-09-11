@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-10T03:30:27.954Z",
+  "fetchedAt": "2026-09-11T03:28:18.029Z",
   "tools": [
     {
       "tool": "ミエルカ（YouTube）",
@@ -10,7 +10,7 @@
       "handle": "@mieruca-channel",
       "feedUrl": "",
       "items": [],
-      "error": "Status code 404"
+      "error": "Status code 500"
     },
     {
       "tool": "Ahrefs",
@@ -60,6 +60,20 @@
       "feedUrl": "https://www.semrush.com/blog/feed/",
       "items": [
         {
+          "title": "ClaudeとSemrushによるキーワードリサーチの方法",
+          "titleOrig": "How to do keyword research with Claude and Semrush",
+          "link": "https://www.semrush.com/blog/claude-keyword-research/",
+          "date": "Thu, 10 Sep 2026 17:12:00 +0000",
+          "summary": "Learn how to use Claude and the Semrush MCP to find keyword ideas based on what your audience is saying."
+        },
+        {
+          "title": "社内リンク：究極のガイド+戦略",
+          "titleOrig": "Internal links: ultimate guide + strategies",
+          "link": "https://www.semrush.com/blog/internal-links/",
+          "date": "Thu, 10 Sep 2026 10:11:00 +0000",
+          "summary": "Internal links help users, search engines, and AI crawlers understand your site. Here‘s how to fix issues holding you back."
+        },
+        {
           "title": "Semrushの無料SEO Chrome拡張機能であるSEOquakeを再構築しました",
           "titleOrig": "We rebuilt SEOquake, Semrush’s free SEO Chrome extension",
           "link": "https://www.semrush.com/blog/seoquake-relaunch/",
@@ -79,20 +93,6 @@
           "link": "https://www.semrush.com/blog/best-ai-search-engines/",
           "date": "Wed, 09 Sep 2026 09:22:00 +0000",
           "summary": "We reviewed the best AI search engines so you can choose the right one for your needs."
-        },
-        {
-          "title": "AI検索＆製造SEO ：データが示すもの[Study]",
-          "titleOrig": "AI search & manufacturing SEO: What the data shows [Study]",
-          "link": "https://www.semrush.com/blog/manufacturing-seo-ai-search/",
-          "date": "Tue, 08 Sep 2026 13:38:00 +0000",
-          "summary": "Semrush data on AI search in manufacturing. See which brands get mentioned, which get cited, and why citations don‘t drive traffic."
-        },
-        {
-          "title": "SEOのトピッククラスター：それらが何であるか、そしてそれらを作成する方法",
-          "titleOrig": "Topic clusters for SEO: what they are & how to create them",
-          "link": "https://www.semrush.com/blog/topic-clusters/",
-          "date": "Mon, 07 Sep 2026 12:58:00 +0000",
-          "summary": "Topic clusters help you earn visibility in search engines and on AI search platforms. Follow these 5 steps to create them."
         }
       ],
       "error": null
@@ -123,6 +123,18 @@
       "feedUrl": "https://rakkokeyword.com/techo/feed/",
       "items": [
         {
+          "title": "ブログのジャンル一覧と収益性の高い分野の選び方",
+          "link": "https://rakkokeyword.com/techo/blog-genres-profitable-niche-selection/",
+          "date": "Fri, 11 Sep 2026 01:32:51 +0000",
+          "summary": "ブログのジャンルは、「需要」と「収益性」を数字で並べれば、感覚に頼らず選べます。 この記事は、これからアフィリエイトブログを始める初心者の方向けに、ラッコの実データ（各ジャンルの月間検索数・SEO難易度と、サイト売買の実 ..."
+        },
+        {
+          "title": "Webライターの年収・単価相場と収入を上げる方法",
+          "link": "https://rakkokeyword.com/techo/web-writer-income-rates-increase/",
+          "date": "Fri, 11 Sep 2026 01:26:06 +0000",
+          "summary": "Webライターの収入は、働き方と単価の付け方で大きく変わります。 相場を正しく理解し、単価の上がりやすい分野を選んで実績を積めば、未経験からでも月5万〜20万円は現実的に目指せます。 この記事を読めば、働き方別の収入相場 ..."
+        },
+        {
           "title": "インスタ集客が難しい理由は？解決方法を解説",
           "link": "https://rakkokeyword.com/techo/instagram-marketing-difficult-solutions/",
           "date": "Fri, 04 Sep 2026 03:15:09 +0000",
@@ -139,18 +151,6 @@
           "link": "https://rakkokeyword.com/techo/how-to-choose-blog-genre-demand-profitability/",
           "date": "Tue, 01 Sep 2026 05:50:33 +0000",
           "summary": "ブログアフィリエイトで成果が出るかどうかは、記事を書き始める前の「ジャンル選び」でおおよそ決まります。 やみくもに好きなことを書くのではなく、報酬単価・市場の需要・自分の強みという軸で候補を比べれば、初心者でも稼ぎやすい ..."
-        },
-        {
-          "title": "ネットショップ開業の仕入れ先は？売れ筋商材の見つけ方",
-          "link": "https://rakkokeyword.com/techo/online-shop-suppliers-best-selling-products/",
-          "date": "Tue, 01 Sep 2026 00:54:07 +0000",
-          "summary": "ネットショップの仕入れは、個人や副業でも十分に始められます。 個人事業主でも無料で使える仕入れサイトや、在庫を持たずに売れる方法もあり、資金が少なくてもリスクを抑えてスタートできます。 この記事では、これからネットショッ ..."
-        },
-        {
-          "title": "ネットショップ開業で何を売る？需要から考える商材の選び方",
-          "link": "https://rakkokeyword.com/techo/online-shop-what-to-sell-product-selection/",
-          "date": "Sat, 29 Aug 2026 09:18:13 +0000",
-          "summary": "ネットショップの商材選びは、センスやひらめきで決めるものではありません。 「需要のある商品を、いくつかの基準に沿って選ぶ」という手順を踏めば、特別なスキルがなくても扱う商品は決められます。 この記事では、これから個人でネ ..."
         }
       ],
       "error": null
@@ -171,6 +171,13 @@
       "sourceType": "tool",
       "feedUrl": "https://blog.google/technology/ai/rss/",
       "items": [
+        {
+          "title": "検索で次のビッグレースに備える3つの方法",
+          "titleOrig": "3 ways to prep for your next big race with Search",
+          "link": "https://blog.google/products-and-platforms/products/search/running-race-training-tips/",
+          "date": "Thu, 10 Sep 2026 16:00:00 +0000",
+          "summary": "Search can help runners get race-day ready with registration alerts, tailored training plans, and more."
+        },
         {
           "title": "検索の新しいサッカー機能で試合に備えましょう",
           "titleOrig": "Get ready for the game with new football features in Search",
@@ -198,13 +205,6 @@
           "link": "https://blog.google/innovation-and-ai/technology/google-ai-updates-august-2026/",
           "date": "Tue, 01 Sep 2026 20:45:00 +0000",
           "summary": "Here are Google’s latest AI updates from August 2026"
-        },
-        {
-          "title": "Google Picsを試す： Google Workspaceで簡単な画像作成と編集",
-          "titleOrig": "Try Google Pics: Easy image creation and editing in Google Workspace",
-          "link": "https://blog.google/products-and-platforms/products/workspace/google-pics/",
-          "date": "Tue, 01 Sep 2026 16:00:00 +0000",
-          "summary": "Built on our latest Nano Banana model, Google Pics — our image creation and editing tool — is now available."
         }
       ],
       "error": null
@@ -352,6 +352,13 @@
       "feedUrl": "https://github.blog/feed/",
       "items": [
         {
+          "title": "初心者向けGitHub Copilotアプリ: diff、ターミナル、ブラウザーの使用",
+          "titleOrig": "GitHub Copilot app for Beginners: Using the diff, terminal, and browser",
+          "link": "https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-using-the-diff-terminal-and-browser/",
+          "date": "Thu, 10 Sep 2026 21:31:19 +0000",
+          "summary": "Checking agent-generated code usually means hopping between tabs. Learn how to view diffs, run terminal commands, and preview web apps side by side in the GitHub Copilot app. The post GitHub Copilot a"
+        },
+        {
           "title": "GitHub可用性レポート： 2026年8月",
           "titleOrig": "GitHub availability report: August 2026",
           "link": "https://github.blog/news-insights/company-news/github-availability-report-august-2026/",
@@ -378,13 +385,6 @@
           "link": "https://github.blog/ai-and-ml/decoding-the-new-ai-lingo-loops-harnesses-squads-hill-climbing-oh-my/",
           "date": "Wed, 02 Sep 2026 21:00:00 +0000",
           "summary": "From loop engineering to harnesses, squads, and open weights, the GitHub Podcast breaks down the AI terms showing up in developer conversations. The post Decoding the new AI lingo: Loops, harnesses, s"
-        },
-        {
-          "title": "タスクの品質を犠牲にすることなく、AIコーディングをより費用対効果の高いものにする方法",
-          "titleOrig": "How we make AI coding more cost efficient without sacrificing task quality",
-          "link": "https://github.blog/ai-and-ml/github-copilot/how-we-make-ai-coding-more-cost-efficient-without-sacrificing-task-quality/",
-          "date": "Wed, 02 Sep 2026 18:00:00 +0000",
-          "summary": "Why shorter outputs can cost more, and how GitHub Copilot reduces wasted work across the complete coding task. The post How we make AI coding more cost efficient without sacrificing task quality appea"
         }
       ],
       "error": null
