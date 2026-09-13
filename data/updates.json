@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-11T03:28:18.029Z",
+  "fetchedAt": "2026-09-13T03:39:54.085Z",
   "tools": [
     {
       "tool": "ミエルカ（YouTube）",
@@ -10,7 +10,7 @@
       "handle": "@mieruca-channel",
       "feedUrl": "",
       "items": [],
-      "error": "Status code 500"
+      "error": "Status code 404"
     },
     {
       "tool": "Ahrefs",
@@ -60,6 +60,13 @@
       "feedUrl": "https://www.semrush.com/blog/feed/",
       "items": [
         {
+          "title": "ゼロクリックマーケティングとは？それを実行し、測定する方法",
+          "titleOrig": "What is zero-click marketing? How to execute and measure it",
+          "link": "https://www.semrush.com/blog/zero-click-marketing/",
+          "date": "Fri, 11 Sep 2026 10:06:00 +0000",
+          "summary": "Zero-click marketing is a content strategy for delivering value without requiring clicks to other pages."
+        },
+        {
           "title": "ClaudeとSemrushによるキーワードリサーチの方法",
           "titleOrig": "How to do keyword research with Claude and Semrush",
           "link": "https://www.semrush.com/blog/claude-keyword-research/",
@@ -86,13 +93,6 @@
           "link": "https://www.semrush.com/blog/seo-ai-agent/",
           "date": "Wed, 09 Sep 2026 09:38:00 +0000",
           "summary": "Learn how to build an AI SEO agent from scratch to automate important tasks like keyword research and topic clustering."
-        },
-        {
-          "title": "2026年のAI検索エンジンベスト9 [テストおよびレビュー済み]",
-          "titleOrig": "9 best AI search engines in 2026 [tested & reviewed]",
-          "link": "https://www.semrush.com/blog/best-ai-search-engines/",
-          "date": "Wed, 09 Sep 2026 09:22:00 +0000",
-          "summary": "We reviewed the best AI search engines so you can choose the right one for your needs."
         }
       ],
       "error": null
@@ -352,6 +352,13 @@
       "feedUrl": "https://github.blog/feed/",
       "items": [
         {
+          "title": "コードとしてのマーケティングオペレーション： GitHubでの計画からフォローアップまでのイベントの自動化",
+          "titleOrig": "Marketing ops as code: Automating events from planning to follow-up on GitHub",
+          "link": "https://github.blog/ai-and-ml/github-copilot/marketing-ops-as-code-automating-events-from-planning-to-follow-up-on-github/",
+          "date": "Fri, 11 Sep 2026 18:26:10 +0000",
+          "summary": "If you can write down how you do your work, you can automate it. Here's what I did to support GitHub's APAC marketing team. The post Marketing ops as code: Automating events from planning to follow-up"
+        },
+        {
           "title": "初心者向けGitHub Copilotアプリ: diff、ターミナル、ブラウザーの使用",
           "titleOrig": "GitHub Copilot app for Beginners: Using the diff, terminal, and browser",
           "link": "https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-using-the-diff-terminal-and-browser/",
@@ -378,13 +385,6 @@
           "link": "https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-run-several-agents-at-once/",
           "date": "Thu, 03 Sep 2026 16:00:00 +0000",
           "summary": "Learn how to run parallel agents in the GitHub Copilot app, and experience the moment it stops feeling scary and starts feeling powerful. The post GitHub Copilot app for Beginners: Run several agents "
-        },
-        {
-          "title": "新しいAI用語の解読：ループ、ハーネス、分隊、ヒルクライミング…なんてこった！",
-          "titleOrig": "Decoding the new AI lingo: Loops, harnesses, squads, hill climbing… oh my!",
-          "link": "https://github.blog/ai-and-ml/decoding-the-new-ai-lingo-loops-harnesses-squads-hill-climbing-oh-my/",
-          "date": "Wed, 02 Sep 2026 21:00:00 +0000",
-          "summary": "From loop engineering to harnesses, squads, and open weights, the GitHub Podcast breaks down the AI terms showing up in developer conversations. The post Decoding the new AI lingo: Loops, harnesses, s"
         }
       ],
       "error": null
@@ -395,39 +395,8 @@
       "category": "制作・デザイン",
       "sourceType": "media",
       "feedUrl": "https://www.mindfactory.co.jp/blog/feed/",
-      "items": [
-        {
-          "title": "【新入社員インタビュー】プリ機のUIデザインから新天地へ。￼",
-          "link": "https://www.mindfactory.co.jp/blog/8439",
-          "date": "Tue, 28 Jul 2026 01:38:35 +0000",
-          "summary": "マインドファクトリーのクリエイティブチームでは、企業の課題解決を最大化するデジタルマーケティングの一環として、ロジックに基づいた戦略的なデザインの提供に注力しています。チームの多様性とクリエイティブの幅をさらに広げるべく […]"
-        },
-        {
-          "title": "【新入社員インタビュー】5年の経験を経て、マインドファクトリーを選んだ理由￼￼",
-          "link": "https://www.mindfactory.co.jp/blog/8431",
-          "date": "Tue, 21 Jul 2026 07:51:09 +0000",
-          "summary": "マインドファクトリーのクリエイティブチームでは、企業のビジネスを加速させるデジタルマーケティングの一環として、戦略的かつハイクオリティなデザイン制作に取り組んでいます。組織のさらなる成長とクリエイティブ力の強化を目指す中 […]"
-        },
-        {
-          "title": "“伝わる”UIをつくれるデザイナーを目指して - インターン生インタビュー",
-          "link": "https://www.mindfactory.co.jp/blog/8370",
-          "date": "Fri, 27 Feb 2026 11:43:03 +0000",
-          "summary": "今年マインドファクトリーでは、初めてインターンシップの受け入れを行いました。 今回は、インターンで来てくれた名古屋モード学園グラフィック学科の水野君に、デザイナーを志したきっかけや弊社でのインターンの感想をインタビューし […]"
-        },
-        {
-          "title": "WEBメディア「CREATORS STATION」に代表富岡のインタビュー記事が掲載されました",
-          "link": "https://www.mindfactory.co.jp/blog/8364",
-          "date": "Mon, 16 Feb 2026 08:57:39 +0000",
-          "summary": "株式会社フェローズが運営する、日本全国のクリエイターを応援するためのWEBメディア「CREATORS STATION」に、弊社代表 富岡のインタビュー記事が掲載されました。自身のこれまでのキャリアから、事業内容、今後の展 […]"
-        },
-        {
-          "title": "年末年始休暇のお知らせ",
-          "link": "https://www.mindfactory.co.jp/blog/8357",
-          "date": "Fri, 05 Dec 2025 09:20:14 +0000",
-          "summary": "平素は格別のお引き立てを賜り、厚く御礼申し上げます。誠に勝手ながら、弊社は、下記の期間を年末年始休業とさせていただきます。 ■ 年末年始休暇期間2025年12月27日（土）～2026年1月4日（日） ご不便をおかけいたし […]"
-        }
-      ],
-      "error": null
+      "items": [],
+      "error": "Request timed out after 10000ms"
     },
     {
       "tool": "Empathy Writing",
