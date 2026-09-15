@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-14T03:48:50.893Z",
+  "fetchedAt": "2026-09-15T03:49:14.053Z",
   "tools": [
     {
       "tool": "ミエルカ（YouTube）",
@@ -123,6 +123,12 @@
       "feedUrl": "https://rakkokeyword.com/techo/feed/",
       "items": [
         {
+          "title": "Webライターのポートフォリオの作り方と受注につながる見せ方",
+          "link": "https://rakkokeyword.com/techo/how-to-create-web-writer-portfolio/",
+          "date": "Tue, 15 Sep 2026 00:24:29 +0000",
+          "summary": "Webライターのポートフォリオは、実績がゼロでも今日から作り始められます。 得意なジャンルのサンプル記事を用意し、自己紹介や対応できる仕事を1ページにまとめれば、未経験でも「この人になら頼めそう」と思ってもらえる名刺にな ..."
+        },
+        {
           "title": "ブログのジャンル一覧と収益性の高い分野の選び方",
           "link": "https://rakkokeyword.com/techo/blog-genres-profitable-niche-selection/",
           "date": "Fri, 11 Sep 2026 01:32:51 +0000",
@@ -145,12 +151,6 @@
           "link": "https://rakkokeyword.com/techo/how-to-find-youtube-shorts-ideas/",
           "date": "Thu, 03 Sep 2026 01:30:16 +0000",
           "summary": "YouTubeショートのネタは、「センスでひねり出すもの」ではなく「型に当てはめて見つけるもの」です。 伸びている動画には共通した企画の型があり、その型に自分の商品や専門知識を当てはめれば、明日撮る1本はすぐに決まります ..."
-        },
-        {
-          "title": "【初心者向け】ブログジャンルの決め方を需要と収益性から解説",
-          "link": "https://rakkokeyword.com/techo/how-to-choose-blog-genre-demand-profitability/",
-          "date": "Tue, 01 Sep 2026 05:50:33 +0000",
-          "summary": "ブログアフィリエイトで成果が出るかどうかは、記事を書き始める前の「ジャンル選び」でおおよそ決まります。 やみくもに好きなことを書くのではなく、報酬単価・市場の需要・自分の強みという軸で候補を比べれば、初心者でも稼ぎやすい ..."
         }
       ],
       "error": null
@@ -172,6 +172,20 @@
       "feedUrl": "https://blog.google/technology/ai/rss/",
       "items": [
         {
+          "title": "宇宙飛行士クリスティーナ・コッホとGoogleのジェームズ・マニカが宇宙、技術、発見について話し合うのをご覧ください。",
+          "titleOrig": "Watch astronaut Christina Koch and Google’s James Manyika discuss space, technology, and discovery.",
+          "link": "https://blog.google/innovation-and-ai/technology/ai/dialogues-christina-koch/",
+          "date": "Mon, 14 Sep 2026 19:00:00 +0000",
+          "summary": "Christina Koch sits down with James Manyika, Google’s Senior Vice President of Research, Labs, Technology & Society."
+        },
+        {
+          "title": "DevFestが帰ってきました",
+          "titleOrig": "DevFest is back",
+          "link": "https://blog.google/innovation-and-ai/technology/developers-tools/devfest2026/",
+          "date": "Mon, 14 Sep 2026 16:00:00 +0000",
+          "summary": "DevFest 2026 is back and here’s how you can connect with one of the more than 800 global events to build, secure, and scale in the agentic AI era."
+        },
+        {
           "title": "検索で次のビッグレースに備える3つの方法",
           "titleOrig": "3 ways to prep for your next big race with Search",
           "link": "https://blog.google/products-and-platforms/products/search/running-race-training-tips/",
@@ -191,20 +205,6 @@
           "link": "https://blog.google/innovation-and-ai/technology/ai/love-rendered-film/",
           "date": "Wed, 09 Sep 2026 16:00:00 +0000",
           "summary": "Discover how filmmakers and Google DeepMind used AI to recreate a couple's unrecorded past in the short film \"Love, Rendered.\""
-        },
-        {
-          "title": "政府や企業のための積極的なサイバー防御",
-          "titleOrig": "Proactive cyber defense for governments and enterprises",
-          "link": "https://blog.google/innovation-and-ai/technology/safety-security/fairwind-program/",
-          "date": "Wed, 02 Sep 2026 15:40:00 +0000",
-          "summary": "The Fairwind Program is a limited access program for governments and trusted partners to use our cyber defense tools."
-        },
-        {
-          "title": "2026年8月に発表した最新のAIニュース",
-          "titleOrig": "The latest AI news we announced in August 2026",
-          "link": "https://blog.google/innovation-and-ai/technology/google-ai-updates-august-2026/",
-          "date": "Tue, 01 Sep 2026 20:45:00 +0000",
-          "summary": "Here are Google’s latest AI updates from August 2026"
         }
       ],
       "error": null
