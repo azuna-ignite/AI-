@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-15T03:49:14.053Z",
+  "fetchedAt": "2026-09-16T03:46:29.290Z",
   "tools": [
     {
       "tool": "ミエルカ（YouTube）",
@@ -172,39 +172,39 @@
       "feedUrl": "https://blog.google/technology/ai/rss/",
       "items": [
         {
+          "title": "社会的影響のためのAI",
+          "titleOrig": "AI for Societal Impact",
+          "link": "https://blog.google/innovation-and-ai/technology/ai/ai-for-societal-impact/",
+          "date": "Tue, 15 Sep 2026 16:00:00 +0000",
+          "summary": "Explore this collection to see how experts and local leaders are using AI breakthroughs to ensure everyone can share the opportunity of AI."
+        },
+        {
+          "title": "科学を加速し、生活を改善するためのAIの構築",
+          "titleOrig": "Building AI to accelerate science and improve lives",
+          "link": "https://blog.google/innovation-and-ai/technology/ai/ai-applications-science-people/",
+          "date": "Tue, 15 Sep 2026 16:00:00 +0000",
+          "summary": "The true measure of AI is who it helps. Here’s how it’s impacting lives today. We're focused on key areas where advanced technology can help make extraordinary progress …"
+        },
+        {
+          "title": "あらゆる言語のすべての人のためのAI",
+          "titleOrig": "AI for everyone in every language",
+          "link": "https://blog.google/innovation-and-ai/technology/ai/ai-for-every-language/",
+          "date": "Tue, 15 Sep 2026 16:00:00 +0000",
+          "summary": "We’re moving beyond traditional text translation to build models that understand the world’s rich, living languages exactly as they are expressed."
+        },
+        {
+          "title": "GoogleのAI ＆エコノミーアトラスからの新しい洞察",
+          "titleOrig": "New insights from Google’s AI & Economy ATLAS",
+          "link": "https://blog.google/innovation-and-ai/technology/ai/ai-economy-atlas-september-2026/",
+          "date": "Tue, 15 Sep 2026 13:00:00 +0000",
+          "summary": "We’ve translated ATLAS’s millions of global data points into an interactive, open-access experience."
+        },
+        {
           "title": "宇宙飛行士クリスティーナ・コッホとGoogleのジェームズ・マニカが宇宙、技術、発見について話し合うのをご覧ください。",
           "titleOrig": "Watch astronaut Christina Koch and Google’s James Manyika discuss space, technology, and discovery.",
           "link": "https://blog.google/innovation-and-ai/technology/ai/dialogues-christina-koch/",
           "date": "Mon, 14 Sep 2026 19:00:00 +0000",
           "summary": "Christina Koch sits down with James Manyika, Google’s Senior Vice President of Research, Labs, Technology & Society."
-        },
-        {
-          "title": "DevFestが帰ってきました",
-          "titleOrig": "DevFest is back",
-          "link": "https://blog.google/innovation-and-ai/technology/developers-tools/devfest2026/",
-          "date": "Mon, 14 Sep 2026 16:00:00 +0000",
-          "summary": "DevFest 2026 is back and here’s how you can connect with one of the more than 800 global events to build, secure, and scale in the agentic AI era."
-        },
-        {
-          "title": "検索で次のビッグレースに備える3つの方法",
-          "titleOrig": "3 ways to prep for your next big race with Search",
-          "link": "https://blog.google/products-and-platforms/products/search/running-race-training-tips/",
-          "date": "Thu, 10 Sep 2026 16:00:00 +0000",
-          "summary": "Search can help runners get race-day ready with registration alerts, tailored training plans, and more."
-        },
-        {
-          "title": "検索の新しいサッカー機能で試合に備えましょう",
-          "titleOrig": "Get ready for the game with new football features in Search",
-          "link": "https://blog.google/products-and-platforms/products/search/football-features-google-search/",
-          "date": "Wed, 09 Sep 2026 16:00:00 +0000",
-          "summary": "Track live game feeds, explore detailed stats, and get custom fantasy recommendations directly in Search this season."
-        },
-        {
-          "title": "70年のラブストーリーをフレームごとに再現",
-          "titleOrig": "Recreating a 70-year love story frame by frame",
-          "link": "https://blog.google/innovation-and-ai/technology/ai/love-rendered-film/",
-          "date": "Wed, 09 Sep 2026 16:00:00 +0000",
-          "summary": "Discover how filmmakers and Google DeepMind used AI to recreate a couple's unrecorded past in the short film \"Love, Rendered.\""
         }
       ],
       "error": null
@@ -307,6 +307,20 @@
       "feedUrl": "https://obsidian.md/changelog.xml",
       "items": [
         {
+          "title": "Obsidian 1.14.2モバイル（先行アクセス）",
+          "titleOrig": "Obsidian 1.14.2 Mobile (Early access)",
+          "link": "https://obsidian.md/changelog/2026-09-15-mobile-v1.14.2/",
+          "date": "2026-09-15T00:00:00.000Z",
+          "summary": "Includes all new features and bug fixes up to Obsidian Desktop 1.14.2. New iOS 27: Added support for the new extra large Quick Capture and View Note widgets. Improvements iOS: Quick Capture's color sc"
+        },
+        {
+          "title": "Obsidian 1.14.2デスクトップ（先行アクセス）",
+          "titleOrig": "Obsidian 1.14.2 Desktop (Early access)",
+          "link": "https://obsidian.md/changelog/2026-09-15-desktop-v1.14.2/",
+          "date": "2026-09-15T00:00:00.000Z",
+          "summary": "New You can now open files from outside your vault in Obsidian. The file opens in your current window (Desktop only). Added the \"Open file from outside the vault...\" command. Pick any file on your com"
+        },
+        {
           "title": "Obsidian 1.14.1モバイル（早期アクセス）",
           "titleOrig": "Obsidian 1.14.1 Mobile (Early access)",
           "link": "https://obsidian.md/changelog/2026-09-08-mobile-v1.14.1/",
@@ -326,20 +340,6 @@
           "link": "https://obsidian.md/changelog/2026-09-02-mobile-v1.14.0/",
           "date": "2026-09-02T00:00:00.000Z",
           "summary": "Includes all new features and bug fixes up to Obsidian Desktop v1.14.0. Improvements Settings are now shown in a dismissable sheet over the app. Swipe anywhere to dismiss. iOS Native Quick Capture on "
-        },
-        {
-          "title": "Obsidian 1.14.0デスクトップ（先行アクセス）",
-          "titleOrig": "Obsidian 1.14.0 Desktop (Early access)",
-          "link": "https://obsidian.md/changelog/2026-09-02-desktop-v1.14.0/",
-          "date": "2026-09-02T00:00:00.000Z",
-          "summary": "New Editor Added color highlights. Add a color emoji (🔴, 🟠, 🟢, 🔵, 🟣) to the start of a highlight to change its color, or pick a color from the new formatting submenu. Typing == in the editor now "
-        },
-        {
-          "title": "Obsidian 1.13.8モバイル（パブリック）",
-          "titleOrig": "Obsidian 1.13.8 Mobile (Public)",
-          "link": "https://obsidian.md/changelog/2026-08-20-mobile-v1.13.8/",
-          "date": "2026-08-20T00:00:00.000Z",
-          "summary": "Android: Fixed bug causing editor to accidentally switch from reading mode to edit mode while scrolling."
         }
       ],
       "error": null
