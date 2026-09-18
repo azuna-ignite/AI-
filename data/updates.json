@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-16T03:46:29.290Z",
+  "fetchedAt": "2026-09-18T03:38:16.020Z",
   "tools": [
     {
       "tool": "ミエルカ（YouTube）",
@@ -19,6 +19,12 @@
       "sourceType": "tool",
       "feedUrl": "https://ahrefs.com/blog/ja/feed/",
       "items": [
+        {
+          "title": "品質重視の文章作成 AI 活用法：「AI スロップ」を作らない Ahrefs の手法",
+          "link": "https://ahrefs.com/ja/blog/how-we-use-ai-without-making-ai-slop/",
+          "date": "Wed, 16 Sep 2026 20:30:22 +0000",
+          "summary": "AI を使った文章作成で「AI スロップ」を避ける方法を解説。Ahrefs が実践する品質重視の AI ライティング手法と、人間の判断力を活かすコンテンツ制作プロセスをご紹介します。"
+        },
         {
           "title": "「その SEO 指標、経営陣に伝わっていますか？」経営層が納得する KPI の選び方",
           "link": "https://ahrefs.com/ja/blog/mba-metrics-for-seo/",
@@ -42,12 +48,6 @@
           "link": "https://ahrefs.com/ja/blog/case-study-gmo-tech-vol1/",
           "date": "Fri, 04 Sep 2026 01:05:26 +0000",
           "summary": "GMO TECH｜Ahrefs インタビュー 第 1 部 リンク SEO の全盛期からコンテンツの時代、そして AI 検索へ。検索環境の変化を実務と研究の両面から見続けてきた GMO TECH株式会社 執行役員、アルゴリズム研究室長の中原卓馬氏に、キャリア、Ahrefs との関わり、AI 検索時代に企業が向き合うべき変化を伺いました。 中原氏が SEO に携わり始めたのは、31 歳の頃です。それ以"
-        },
-        {
-          "title": "SEO における情報利得（Information Gain）とは？コンテンツに追加する方法",
-          "link": "https://ahrefs.com/ja/blog/information-gain/",
-          "date": "Fri, 04 Sep 2026 01:05:05 +0000",
-          "summary": "情報利得（Information Gain）とは、既存の検索結果を超えた追加情報のことです。SEO コンテンツに情報利得を追加してランキングを向上させる具体的な方法を解説します。"
         }
       ],
       "error": null
@@ -59,6 +59,13 @@
       "sourceType": "tool",
       "feedUrl": "https://www.semrush.com/blog/feed/",
       "items": [
+        {
+          "title": "私は年間115以上の記事を編集しています。下書きを編集する5つの方法をご紹介します。",
+          "titleOrig": "I edit 115+ articles per year. Here are the 5 ways I edit drafts.",
+          "link": "https://www.semrush.com/blog/my-editing-approaches-framework/",
+          "date": "Thu, 17 Sep 2026 13:34:00 +0000",
+          "summary": "I use 5 editing approaches for content reviews. Find out what they are and how I choose the right one."
+        },
         {
           "title": "ゼロクリックマーケティングとは？それを実行し、測定する方法",
           "titleOrig": "What is zero-click marketing? How to execute and measure it",
@@ -86,13 +93,6 @@
           "link": "https://www.semrush.com/blog/seoquake-relaunch/",
           "date": "Wed, 09 Sep 2026 15:37:00 +0000",
           "summary": "Semrush released a rebuilt version of SEOquake, the free Chrome extension for running quick page-level SEO checks without leaving your browser."
-        },
-        {
-          "title": "最初のAI SEOエージェントを構築する方法（完全なウォークスルー）",
-          "titleOrig": "How to build your first AI SEO agent (full walk-through)",
-          "link": "https://www.semrush.com/blog/seo-ai-agent/",
-          "date": "Wed, 09 Sep 2026 09:38:00 +0000",
-          "summary": "Learn how to build an AI SEO agent from scratch to automate important tasks like keyword research and topic clustering."
         }
       ],
       "error": null
@@ -123,6 +123,18 @@
       "feedUrl": "https://rakkokeyword.com/techo/feed/",
       "items": [
         {
+          "title": "インスタの自己紹介文の書き方とフォローされる例文",
+          "link": "https://rakkokeyword.com/techo/how-to-write-instagram-bio-examples/",
+          "date": "Thu, 17 Sep 2026 08:25:46 +0000",
+          "summary": "その原因は、投稿ではなくプロフィール（自己紹介）にあるかもしれません。 プロフィールは、訪問者が「フォローするか」「リンクを押すか」を判断する最後のひと押しになる場所です。 ここを整えるだけで、同じ投稿数でもフォロワーや ..."
+        },
+        {
+          "title": "インスタ収益化の条件とは？機能別の必要フォロワー数まとめ",
+          "link": "https://rakkokeyword.com/techo/instagram-monetization-requirements-followers/",
+          "date": "Thu, 17 Sep 2026 02:46:20 +0000",
+          "summary": "インスタグラムの収益化に「フォロワー〇人以上」という一律の条件はありません。 アフィリエイトや商品販売のように、フォロワーが少なくても今日から始められる方法もあります。 この記事では、フォロワーが少なくても始められる稼ぎ ..."
+        },
+        {
           "title": "Webライターのポートフォリオの作り方と受注につながる見せ方",
           "link": "https://rakkokeyword.com/techo/how-to-create-web-writer-portfolio/",
           "date": "Tue, 15 Sep 2026 00:24:29 +0000",
@@ -139,18 +151,6 @@
           "link": "https://rakkokeyword.com/techo/web-writer-income-rates-increase/",
           "date": "Fri, 11 Sep 2026 01:26:06 +0000",
           "summary": "Webライターの収入は、働き方と単価の付け方で大きく変わります。 相場を正しく理解し、単価の上がりやすい分野を選んで実績を積めば、未経験からでも月5万〜20万円は現実的に目指せます。 この記事を読めば、働き方別の収入相場 ..."
-        },
-        {
-          "title": "インスタ集客が難しい理由は？解決方法を解説",
-          "link": "https://rakkokeyword.com/techo/instagram-marketing-difficult-solutions/",
-          "date": "Fri, 04 Sep 2026 03:15:09 +0000",
-          "summary": "インスタ集客が難しく感じるのには、はっきりした原因があります。 そしてその原因のほとんどは、投稿の「量」ではなく「設計」を見直すだけで改善できます。 この記事では、個人や少人数で運用しているアカウントが集客につまずく5つ ..."
-        },
-        {
-          "title": "YouTubeショートのネタは？伸びる企画の探し方を解説",
-          "link": "https://rakkokeyword.com/techo/how-to-find-youtube-shorts-ideas/",
-          "date": "Thu, 03 Sep 2026 01:30:16 +0000",
-          "summary": "YouTubeショートのネタは、「センスでひねり出すもの」ではなく「型に当てはめて見つけるもの」です。 伸びている動画には共通した企画の型があり、その型に自分の商品や専門知識を当てはめれば、明日撮る1本はすぐに決まります ..."
         }
       ],
       "error": null
@@ -171,6 +171,13 @@
       "sourceType": "tool",
       "feedUrl": "https://blog.google/technology/ai/rss/",
       "items": [
+        {
+          "title": "グローバルデータを探索しやすくする",
+          "titleOrig": "Making global data easier to explore",
+          "link": "https://blog.google/innovation-and-ai/technology/ai/google-un-data-commons-platform/",
+          "date": "Thu, 17 Sep 2026 20:00:00 +0000",
+          "summary": "Google and the UN system have launched the UN System Data Commons, a new open platform making global statistics accessible and easy to search."
+        },
         {
           "title": "社会的影響のためのAI",
           "titleOrig": "AI for Societal Impact",
@@ -198,13 +205,6 @@
           "link": "https://blog.google/innovation-and-ai/technology/ai/ai-economy-atlas-september-2026/",
           "date": "Tue, 15 Sep 2026 13:00:00 +0000",
           "summary": "We’ve translated ATLAS’s millions of global data points into an interactive, open-access experience."
-        },
-        {
-          "title": "宇宙飛行士クリスティーナ・コッホとGoogleのジェームズ・マニカが宇宙、技術、発見について話し合うのをご覧ください。",
-          "titleOrig": "Watch astronaut Christina Koch and Google’s James Manyika discuss space, technology, and discovery.",
-          "link": "https://blog.google/innovation-and-ai/technology/ai/dialogues-christina-koch/",
-          "date": "Mon, 14 Sep 2026 19:00:00 +0000",
-          "summary": "Christina Koch sits down with James Manyika, Google’s Senior Vice President of Research, Labs, Technology & Society."
         }
       ],
       "error": null
@@ -262,6 +262,13 @@
       "feedUrl": "https://wordpress.org/news/feed/",
       "items": [
         {
+          "title": "WordPress 7.1.1メンテナンスとセキュリティリリース",
+          "titleOrig": "WordPress 7.1.1 Maintenance and Security Release",
+          "link": "https://wordpress.org/news/2026/09/wordpress-7-1-1-maintenance-and-security-release/",
+          "date": "Thu, 17 Sep 2026 19:53:09 +0000",
+          "summary": "This security and maintenance release features 17 bug fixes on Core, 19 bug fixes for the Block Editor, and 11 security fixes. Because this is a security release, it is recommended that you update you"
+        },
+        {
           "title": "バングラデシュで生徒が2週間で108のウェブサイトを構築",
           "titleOrig": "Students Built 108 Websites in Two Weeks in Bangladesh",
           "link": "https://wordpress.org/news/2026/09/108-student-websites/",
@@ -288,13 +295,6 @@
           "link": "https://wordpress.org/news/2026/08/mary-lou/",
           "date": "Wed, 19 Aug 2026 23:33:49 +0000",
           "summary": "WordPress 7.1, “Mary Lou,” is here—celebrating the pioneering jazz pianist, composer, and arranger Mary Lou Williams and her spirit of reinvention and collaboration. This release brings a more flexibl"
-        },
-        {
-          "title": "WordPressブラウザ拡張機能のご紹介",
-          "titleOrig": "Introducing the WordPress Browser Extension",
-          "link": "https://wordpress.org/news/2026/08/browser-extension/",
-          "date": "Thu, 13 Aug 2026 16:29:42 +0000",
-          "summary": "The official WordPress Browser Extension is now available for Google Chrome and Chromium-based browsers in the Chrome Web Store and for Safari on macOS in the Mac App Store. This new open source exten"
         }
       ],
       "error": null
@@ -352,6 +352,13 @@
       "feedUrl": "https://github.blog/feed/",
       "items": [
         {
+          "title": "Copilotを使用したGitHub CopilotランタイムのRustへの移行",
+          "titleOrig": "Migrating the GitHub Copilot runtime to Rust, using Copilot",
+          "link": "https://github.blog/ai-and-ml/generative-ai/migrating-the-github-copilot-runtime-to-rust-using-copilot/",
+          "date": "Thu, 17 Sep 2026 00:26:43 +0000",
+          "summary": "A rewrite this size wasn't affordable before agents. Here's what porting the Copilot agent runtime to 800,000 lines of production Rust actually took. The post Migrating the GitHub Copilot runtime to R"
+        },
+        {
           "title": "コードとしてのマーケティングオペレーション： GitHubでの計画からフォローアップまでのイベントの自動化",
           "titleOrig": "Marketing ops as code: Automating events from planning to follow-up on GitHub",
           "link": "https://github.blog/ai-and-ml/github-copilot/marketing-ops-as-code-automating-events-from-planning-to-follow-up-on-github/",
@@ -378,13 +385,6 @@
           "link": "https://github.blog/ai-and-ml/github-copilot/project-hydrafusion-frontier-quality-via-multi-model-orchestration/",
           "date": "Fri, 04 Sep 2026 16:04:14 +0000",
           "summary": "In controlled offline evaluations, HydraFusion’s selective coding workflows matched or exceeded the evaluated Opus 5 baseline while reducing estimated workflow cost. Now available as a research previe"
-        },
-        {
-          "title": "初心者向けGitHub Copilotアプリ：一度に複数のエージェントを実行",
-          "titleOrig": "GitHub Copilot app for Beginners: Run several agents at once",
-          "link": "https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-run-several-agents-at-once/",
-          "date": "Thu, 03 Sep 2026 16:00:00 +0000",
-          "summary": "Learn how to run parallel agents in the GitHub Copilot app, and experience the moment it stops feeling scary and starts feeling powerful. The post GitHub Copilot app for Beginners: Run several agents "
         }
       ],
       "error": null
