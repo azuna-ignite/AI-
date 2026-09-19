@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-18T03:38:16.020Z",
+  "fetchedAt": "2026-09-19T03:35:17.179Z",
   "tools": [
     {
       "tool": "ミエルカ（YouTube）",
@@ -60,6 +60,27 @@
       "feedUrl": "https://www.semrush.com/blog/feed/",
       "items": [
         {
+          "title": "エージェントSEOとは？ライブサイトで実行される8つのワークフロー",
+          "titleOrig": "What is agentic SEO? 8 workflows run on a live site",
+          "link": "https://www.semrush.com/blog/agentic-seo/",
+          "date": "Fri, 18 Sep 2026 14:37:00 +0000",
+          "summary": "Agentic SEO hands defined workflows to an AI that pulls its own data. See the free Claude setup we used."
+        },
+        {
+          "title": "Semrush MCPのユースケース： ClaudeまたはChatGPTの16のプロンプト",
+          "titleOrig": "Semrush MCP use cases: 16 prompts for Claude or ChatGPT",
+          "link": "https://www.semrush.com/blog/semrush-mcp-use-case/",
+          "date": "Fri, 18 Sep 2026 14:17:00 +0000",
+          "summary": "Copy-paste Semrush MCP prompts for keyword, competitor, content, and reporting work, tested on a live site."
+        },
+        {
+          "title": "CloudflareのAIトレーニングブロックがGooglebotを救うようになりました",
+          "titleOrig": "Cloudflare's AI training block now spares Googlebot",
+          "link": "https://www.semrush.com/blog/cloudfare-blocks-ai-training/",
+          "date": "Fri, 18 Sep 2026 14:04:00 +0000",
+          "summary": "Cloudflare‘s Disallow AI Training setting blocks AI training crawlers but not Googlebot. Bing won‘t honor it until early 2027."
+        },
+        {
           "title": "私は年間115以上の記事を編集しています。下書きを編集する5つの方法をご紹介します。",
           "titleOrig": "I edit 115+ articles per year. Here are the 5 ways I edit drafts.",
           "link": "https://www.semrush.com/blog/my-editing-approaches-framework/",
@@ -72,27 +93,6 @@
           "link": "https://www.semrush.com/blog/zero-click-marketing/",
           "date": "Fri, 11 Sep 2026 10:06:00 +0000",
           "summary": "Zero-click marketing is a content strategy for delivering value without requiring clicks to other pages."
-        },
-        {
-          "title": "ClaudeとSemrushによるキーワードリサーチの方法",
-          "titleOrig": "How to do keyword research with Claude and Semrush",
-          "link": "https://www.semrush.com/blog/claude-keyword-research/",
-          "date": "Thu, 10 Sep 2026 17:12:00 +0000",
-          "summary": "Learn how to use Claude and the Semrush MCP to find keyword ideas based on what your audience is saying."
-        },
-        {
-          "title": "社内リンク：究極のガイド+戦略",
-          "titleOrig": "Internal links: ultimate guide + strategies",
-          "link": "https://www.semrush.com/blog/internal-links/",
-          "date": "Thu, 10 Sep 2026 10:11:00 +0000",
-          "summary": "Internal links help users, search engines, and AI crawlers understand your site. Here‘s how to fix issues holding you back."
-        },
-        {
-          "title": "Semrushの無料SEO Chrome拡張機能であるSEOquakeを再構築しました",
-          "titleOrig": "We rebuilt SEOquake, Semrush’s free SEO Chrome extension",
-          "link": "https://www.semrush.com/blog/seoquake-relaunch/",
-          "date": "Wed, 09 Sep 2026 15:37:00 +0000",
-          "summary": "Semrush released a rebuilt version of SEOquake, the free Chrome extension for running quick page-level SEO checks without leaving your browser."
         }
       ],
       "error": null
@@ -172,6 +172,20 @@
       "feedUrl": "https://blog.google/technology/ai/rss/",
       "items": [
         {
+          "title": "GoogleのAI & Economyチームに新しいエキスパートが加わりました",
+          "titleOrig": "New experts join Google’s AI & Economy team",
+          "link": "https://blog.google/innovation-and-ai/technology/ai/expanding-ai-economy-research-bench/",
+          "date": "Fri, 18 Sep 2026 14:00:00 +0000",
+          "summary": "We are expanding our AI & Economy team with world-class academic advisors, fellows, and core internal researchers."
+        },
+        {
+          "title": "Googleとファッションの未来を共創",
+          "titleOrig": "Co-creating the future of fashion with Google",
+          "link": "https://blog.google/innovation-and-ai/technology/ai/google-flow-fashion-week/",
+          "date": "Fri, 18 Sep 2026 13:00:00 +0000",
+          "summary": "Google worked side-by-side with designers Jane Wade and Sergio Hudson to custom-design Google Flow tools to prep for NYFW."
+        },
+        {
           "title": "グローバルデータを探索しやすくする",
           "titleOrig": "Making global data easier to explore",
           "link": "https://blog.google/innovation-and-ai/technology/ai/google-un-data-commons-platform/",
@@ -191,20 +205,6 @@
           "link": "https://blog.google/innovation-and-ai/technology/ai/ai-applications-science-people/",
           "date": "Tue, 15 Sep 2026 16:00:00 +0000",
           "summary": "The true measure of AI is who it helps. Here’s how it’s impacting lives today. We're focused on key areas where advanced technology can help make extraordinary progress …"
-        },
-        {
-          "title": "あらゆる言語のすべての人のためのAI",
-          "titleOrig": "AI for everyone in every language",
-          "link": "https://blog.google/innovation-and-ai/technology/ai/ai-for-every-language/",
-          "date": "Tue, 15 Sep 2026 16:00:00 +0000",
-          "summary": "We’re moving beyond traditional text translation to build models that understand the world’s rich, living languages exactly as they are expressed."
-        },
-        {
-          "title": "GoogleのAI ＆エコノミーアトラスからの新しい洞察",
-          "titleOrig": "New insights from Google’s AI & Economy ATLAS",
-          "link": "https://blog.google/innovation-and-ai/technology/ai/ai-economy-atlas-september-2026/",
-          "date": "Tue, 15 Sep 2026 13:00:00 +0000",
-          "summary": "We’ve translated ATLAS’s millions of global data points into an interactive, open-access experience."
         }
       ],
       "error": null
@@ -352,6 +352,13 @@
       "feedUrl": "https://github.blog/feed/",
       "items": [
         {
+          "title": "あなたはコードを読むべきですか、RAGは死んでいますか、そしてスキルはMCPを殺しましたか？",
+          "titleOrig": "Should you read the code, is RAG dead, and did Skills kill MCP?",
+          "link": "https://github.blog/ai-and-ml/should-you-read-the-code-is-rag-dead-and-did-skills-kill-mcp/",
+          "date": "Fri, 18 Sep 2026 15:00:00 +0000",
+          "summary": "We dive into these questions and other AI hot takes on the latest episode of the GitHub Podcast. The post Should you read the code, is RAG dead, and did Skills kill MCP? appeared first on The GitHub B"
+        },
+        {
           "title": "Copilotを使用したGitHub CopilotランタイムのRustへの移行",
           "titleOrig": "Migrating the GitHub Copilot runtime to Rust, using Copilot",
           "link": "https://github.blog/ai-and-ml/generative-ai/migrating-the-github-copilot-runtime-to-rust-using-copilot/",
@@ -378,13 +385,6 @@
           "link": "https://github.blog/news-insights/company-news/github-availability-report-august-2026/",
           "date": "Thu, 10 Sep 2026 02:05:17 +0000",
           "summary": "In August, we experienced five incidents that resulted in degraded performance across GitHub services. The post GitHub availability report: August 2026 appeared first on The GitHub Blog."
-        },
-        {
-          "title": "プロジェクトHydraFusion ：マルチモデルオーケストレーションによるフロンティア品質",
-          "titleOrig": "Project HydraFusion: Frontier quality via multi-model orchestration",
-          "link": "https://github.blog/ai-and-ml/github-copilot/project-hydrafusion-frontier-quality-via-multi-model-orchestration/",
-          "date": "Fri, 04 Sep 2026 16:04:14 +0000",
-          "summary": "In controlled offline evaluations, HydraFusion’s selective coding workflows matched or exceeded the evaluated Opus 5 baseline while reducing estimated workflow cost. Now available as a research previe"
         }
       ],
       "error": null
