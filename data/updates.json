@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-20T03:51:07.789Z",
+  "fetchedAt": "2026-09-21T03:47:22.336Z",
   "tools": [
     {
       "tool": "ミエルカ（YouTube）",
@@ -60,35 +60,35 @@
       "feedUrl": "https://www.semrush.com/blog/feed/",
       "items": [
         {
-          "title": "エージェントSEOとは？ライブサイトで実行される8つのワークフロー",
+          "title": "What is agentic SEO? 8 workflows run on a live site",
           "titleOrig": "What is agentic SEO? 8 workflows run on a live site",
           "link": "https://www.semrush.com/blog/agentic-seo/",
           "date": "Fri, 18 Sep 2026 14:37:00 +0000",
           "summary": "Agentic SEO hands defined workflows to an AI that pulls its own data. See the free Claude setup we used."
         },
         {
-          "title": "Semrush MCPのユースケース： ClaudeまたはChatGPTの16のプロンプト",
+          "title": "Semrush MCP use cases: 16 prompts for Claude or ChatGPT",
           "titleOrig": "Semrush MCP use cases: 16 prompts for Claude or ChatGPT",
           "link": "https://www.semrush.com/blog/semrush-mcp-use-case/",
           "date": "Fri, 18 Sep 2026 14:17:00 +0000",
           "summary": "Copy-paste Semrush MCP prompts for keyword, competitor, content, and reporting work, tested on a live site."
         },
         {
-          "title": "CloudflareのAIトレーニングブロックがGooglebotを救うようになりました",
+          "title": "Cloudflare's AI training block now spares Googlebot",
           "titleOrig": "Cloudflare's AI training block now spares Googlebot",
           "link": "https://www.semrush.com/blog/cloudfare-blocks-ai-training/",
           "date": "Fri, 18 Sep 2026 14:04:00 +0000",
           "summary": "Cloudflare‘s Disallow AI Training setting blocks AI training crawlers but not Googlebot. Bing won‘t honor it until early 2027."
         },
         {
-          "title": "私は年間115以上の記事を編集しています。下書きを編集する5つの方法をご紹介します。",
+          "title": "I edit 115+ articles per year. Here are the 5 ways I edit drafts.",
           "titleOrig": "I edit 115+ articles per year. Here are the 5 ways I edit drafts.",
           "link": "https://www.semrush.com/blog/my-editing-approaches-framework/",
           "date": "Thu, 17 Sep 2026 13:34:00 +0000",
           "summary": "I use 5 editing approaches for content reviews. Find out what they are and how I choose the right one."
         },
         {
-          "title": "ゼロクリックマーケティングとは？それを実行し、測定する方法",
+          "title": "What is zero-click marketing? How to execute and measure it",
           "titleOrig": "What is zero-click marketing? How to execute and measure it",
           "link": "https://www.semrush.com/blog/zero-click-marketing/",
           "date": "Fri, 11 Sep 2026 10:06:00 +0000",
@@ -172,35 +172,35 @@
       "feedUrl": "https://blog.google/technology/ai/rss/",
       "items": [
         {
-          "title": "GoogleのAI & Economyチームに新しいエキスパートが加わりました",
+          "title": "New experts join Google’s AI & Economy team",
           "titleOrig": "New experts join Google’s AI & Economy team",
           "link": "https://blog.google/innovation-and-ai/technology/ai/expanding-ai-economy-research-bench/",
           "date": "Fri, 18 Sep 2026 14:00:00 +0000",
           "summary": "We are expanding our AI & Economy team with world-class academic advisors, fellows, and core internal researchers."
         },
         {
-          "title": "Googleとファッションの未来を共創",
+          "title": "Co-creating the future of fashion with Google",
           "titleOrig": "Co-creating the future of fashion with Google",
           "link": "https://blog.google/innovation-and-ai/technology/ai/google-flow-fashion-week/",
           "date": "Fri, 18 Sep 2026 13:00:00 +0000",
           "summary": "Google worked side-by-side with designers Jane Wade and Sergio Hudson to custom-design Google Flow tools to prep for NYFW."
         },
         {
-          "title": "グローバルデータを探索しやすくする",
+          "title": "Making global data easier to explore",
           "titleOrig": "Making global data easier to explore",
           "link": "https://blog.google/innovation-and-ai/technology/ai/google-un-data-commons-platform/",
           "date": "Thu, 17 Sep 2026 20:00:00 +0000",
           "summary": "Google and the UN system have launched the UN System Data Commons, a new open platform making global statistics accessible and easy to search."
         },
         {
-          "title": "社会的影響のためのAI",
+          "title": "AI for Societal Impact",
           "titleOrig": "AI for Societal Impact",
           "link": "https://blog.google/innovation-and-ai/technology/ai/ai-for-societal-impact/",
           "date": "Tue, 15 Sep 2026 16:00:00 +0000",
           "summary": "Explore this collection to see how experts and local leaders are using AI breakthroughs to ensure everyone can share the opportunity of AI."
         },
         {
-          "title": "科学を加速し、生活を改善するためのAIの構築",
+          "title": "Building AI to accelerate science and improve lives",
           "titleOrig": "Building AI to accelerate science and improve lives",
           "link": "https://blog.google/innovation-and-ai/technology/ai/ai-applications-science-people/",
           "date": "Tue, 15 Sep 2026 16:00:00 +0000",
@@ -262,35 +262,35 @@
       "feedUrl": "https://wordpress.org/news/feed/",
       "items": [
         {
-          "title": "WordPress 7.1.1メンテナンスとセキュリティリリース",
+          "title": "WordPress 7.1.1 Maintenance and Security Release",
           "titleOrig": "WordPress 7.1.1 Maintenance and Security Release",
           "link": "https://wordpress.org/news/2026/09/wordpress-7-1-1-maintenance-and-security-release/",
           "date": "Thu, 17 Sep 2026 19:53:09 +0000",
           "summary": "This security and maintenance release features 17 bug fixes on Core, 19 bug fixes for the Block Editor, and 11 security fixes. Because this is a security release, it is recommended that you update you"
         },
         {
-          "title": "バングラデシュで生徒が2週間で108のウェブサイトを構築",
+          "title": "Students Built 108 Websites in Two Weeks in Bangladesh",
           "titleOrig": "Students Built 108 Websites in Two Weeks in Bangladesh",
           "link": "https://wordpress.org/news/2026/09/108-student-websites/",
           "date": "Mon, 07 Sep 2026 23:19:34 +0000",
           "summary": "In July, students at two campuses in Kishoreganj, Bangladesh, built 108 websites. In eastern Uganda, a workshop that arrived to find no electricity at the school ran anyway, for more than 100 learners"
         },
         {
-          "title": "WordPressがオープンウェイトとアメリカのAIリーダーシップレターに署名",
+          "title": "WordPress Signs the Open Weights and American AI Leadership Letter",
           "titleOrig": "WordPress Signs the Open Weights and American AI Leadership Letter",
           "link": "https://wordpress.org/news/2026/08/open-weight/",
           "date": "Thu, 27 Aug 2026 17:00:32 +0000",
           "summary": "We’re proud to announce that WordPress has signed Open Weights and American AI Leadership, an open letter asking US policymakers to not place early restrictions on open weight AI models. These are art"
         },
         {
-          "title": "アーティストがWordCamp US 2026で出荷している間にAIが機会を創出",
+          "title": "AI Creates Opportunity While Artists Ship at WordCamp US 2026",
           "titleOrig": "AI Creates Opportunity While Artists Ship at WordCamp US 2026",
           "link": "https://wordpress.org/news/2026/08/wcus-2026-recap/",
           "date": "Thu, 20 Aug 2026 05:51:52 +0000",
           "summary": "WordCamp US (WCUS) 2026 just wrapped up after 4 days at the Phoenix Convention Center in Phoenix, Arizona. Over 1,100 people from around the world registered to attend, and thousands more watched onli"
         },
         {
-          "title": "WordPress 7.1「Mary Lou」",
+          "title": "WordPress 7.1 “Mary Lou”",
           "titleOrig": "WordPress 7.1 “Mary Lou”",
           "link": "https://wordpress.org/news/2026/08/mary-lou/",
           "date": "Wed, 19 Aug 2026 23:33:49 +0000",
@@ -307,35 +307,35 @@
       "feedUrl": "https://obsidian.md/changelog.xml",
       "items": [
         {
-          "title": "Obsidian 1.14.2モバイル（先行アクセス）",
+          "title": "Obsidian 1.14.2 Mobile (Early access)",
           "titleOrig": "Obsidian 1.14.2 Mobile (Early access)",
           "link": "https://obsidian.md/changelog/2026-09-15-mobile-v1.14.2/",
           "date": "2026-09-15T00:00:00.000Z",
           "summary": "Includes all new features and bug fixes up to Obsidian Desktop 1.14.2. New iOS 27: Added support for the new extra large Quick Capture and View Note widgets. Improvements iOS: Quick Capture's color sc"
         },
         {
-          "title": "Obsidian 1.14.2デスクトップ（先行アクセス）",
+          "title": "Obsidian 1.14.2 Desktop (Early access)",
           "titleOrig": "Obsidian 1.14.2 Desktop (Early access)",
           "link": "https://obsidian.md/changelog/2026-09-15-desktop-v1.14.2/",
           "date": "2026-09-15T00:00:00.000Z",
           "summary": "New You can now open files from outside your vault in Obsidian. The file opens in your current window (Desktop only). Added the \"Open file from outside the vault...\" command. Pick any file on your com"
         },
         {
-          "title": "Obsidian 1.14.1モバイル（早期アクセス）",
+          "title": "Obsidian 1.14.1 Mobile (Early access)",
           "titleOrig": "Obsidian 1.14.1 Mobile (Early access)",
           "link": "https://obsidian.md/changelog/2026-09-08-mobile-v1.14.1/",
           "date": "2026-09-08T00:00:00.000Z",
           "summary": "Includes all new features and bug fixes up to Obsidian Desktop 1.14.1. New iOS 26: Added a configurable Quick Capture Home Screen widget. Add shortcuts to capture directly to different Locations. Impr"
         },
         {
-          "title": "Obsidian 1.14.1デスクトップ（先行アクセス）",
+          "title": "Obsidian 1.14.1 Desktop (Early access)",
           "titleOrig": "Obsidian 1.14.1 Desktop (Early access)",
           "link": "https://obsidian.md/changelog/2026-09-08-desktop-v1.14.1/",
           "date": "2026-09-08T00:00:00.000Z",
           "summary": "Improvements Math rendering now uses MathJax 4.1.3, replacing MathJax 3 and Temml. Bases: Added right-to-left (RTL) support to table views, including keyboard navigation, selections, and horizontal sc"
         },
         {
-          "title": "Obsidian 1.14.0モバイル（先行アクセス）",
+          "title": "Obsidian 1.14.0 Mobile (Early access)",
           "titleOrig": "Obsidian 1.14.0 Mobile (Early access)",
           "link": "https://obsidian.md/changelog/2026-09-02-mobile-v1.14.0/",
           "date": "2026-09-02T00:00:00.000Z",
@@ -352,35 +352,35 @@
       "feedUrl": "https://github.blog/feed/",
       "items": [
         {
-          "title": "あなたはコードを読むべきですか、RAGは死んでいますか、そしてスキルはMCPを殺しましたか？",
+          "title": "Should you read the code, is RAG dead, and did Skills kill MCP?",
           "titleOrig": "Should you read the code, is RAG dead, and did Skills kill MCP?",
           "link": "https://github.blog/ai-and-ml/should-you-read-the-code-is-rag-dead-and-did-skills-kill-mcp/",
           "date": "Fri, 18 Sep 2026 15:00:00 +0000",
           "summary": "We dive into these questions and other AI hot takes on the latest episode of the GitHub Podcast. The post Should you read the code, is RAG dead, and did Skills kill MCP? appeared first on The GitHub B"
         },
         {
-          "title": "Copilotを使用したGitHub CopilotランタイムのRustへの移行",
+          "title": "Migrating the GitHub Copilot runtime to Rust, using Copilot",
           "titleOrig": "Migrating the GitHub Copilot runtime to Rust, using Copilot",
           "link": "https://github.blog/ai-and-ml/generative-ai/migrating-the-github-copilot-runtime-to-rust-using-copilot/",
           "date": "Thu, 17 Sep 2026 00:26:43 +0000",
           "summary": "A rewrite this size wasn't affordable before agents. Here's what porting the Copilot agent runtime to 800,000 lines of production Rust actually took. The post Migrating the GitHub Copilot runtime to R"
         },
         {
-          "title": "コードとしてのマーケティングオペレーション： GitHubでの計画からフォローアップまでのイベントの自動化",
+          "title": "Marketing ops as code: Automating events from planning to follow-up on GitHub",
           "titleOrig": "Marketing ops as code: Automating events from planning to follow-up on GitHub",
           "link": "https://github.blog/ai-and-ml/github-copilot/marketing-ops-as-code-automating-events-from-planning-to-follow-up-on-github/",
           "date": "Fri, 11 Sep 2026 18:26:10 +0000",
           "summary": "If you can write down how you do your work, you can automate it. Here's what I did to support GitHub's APAC marketing team. The post Marketing ops as code: Automating events from planning to follow-up"
         },
         {
-          "title": "初心者向けGitHub Copilotアプリ: diff、ターミナル、ブラウザーの使用",
+          "title": "GitHub Copilot app for Beginners: Using the diff, terminal, and browser",
           "titleOrig": "GitHub Copilot app for Beginners: Using the diff, terminal, and browser",
           "link": "https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-using-the-diff-terminal-and-browser/",
           "date": "Thu, 10 Sep 2026 21:31:19 +0000",
           "summary": "Checking agent-generated code usually means hopping between tabs. Learn how to view diffs, run terminal commands, and preview web apps side by side in the GitHub Copilot app. The post GitHub Copilot a"
         },
         {
-          "title": "GitHub可用性レポート： 2026年8月",
+          "title": "GitHub availability report: August 2026",
           "titleOrig": "GitHub availability report: August 2026",
           "link": "https://github.blog/news-insights/company-news/github-availability-report-august-2026/",
           "date": "Thu, 10 Sep 2026 02:05:17 +0000",
@@ -395,8 +395,39 @@
       "category": "制作・デザイン",
       "sourceType": "media",
       "feedUrl": "https://www.mindfactory.co.jp/blog/feed/",
-      "items": [],
-      "error": "Request timed out after 10000ms"
+      "items": [
+        {
+          "title": "【新入社員インタビュー】プリ機のUIデザインから新天地へ。￼",
+          "link": "https://www.mindfactory.co.jp/blog/8439",
+          "date": "Tue, 28 Jul 2026 01:38:35 +0000",
+          "summary": "マインドファクトリーのクリエイティブチームでは、企業の課題解決を最大化するデジタルマーケティングの一環として、ロジックに基づいた戦略的なデザインの提供に注力しています。チームの多様性とクリエイティブの幅をさらに広げるべく […]"
+        },
+        {
+          "title": "【新入社員インタビュー】5年の経験を経て、マインドファクトリーを選んだ理由￼￼",
+          "link": "https://www.mindfactory.co.jp/blog/8431",
+          "date": "Tue, 21 Jul 2026 07:51:09 +0000",
+          "summary": "マインドファクトリーのクリエイティブチームでは、企業のビジネスを加速させるデジタルマーケティングの一環として、戦略的かつハイクオリティなデザイン制作に取り組んでいます。組織のさらなる成長とクリエイティブ力の強化を目指す中 […]"
+        },
+        {
+          "title": "“伝わる”UIをつくれるデザイナーを目指して - インターン生インタビュー",
+          "link": "https://www.mindfactory.co.jp/blog/8370",
+          "date": "Fri, 27 Feb 2026 11:43:03 +0000",
+          "summary": "今年マインドファクトリーでは、初めてインターンシップの受け入れを行いました。 今回は、インターンで来てくれた名古屋モード学園グラフィック学科の水野君に、デザイナーを志したきっかけや弊社でのインターンの感想をインタビューし […]"
+        },
+        {
+          "title": "WEBメディア「CREATORS STATION」に代表富岡のインタビュー記事が掲載されました",
+          "link": "https://www.mindfactory.co.jp/blog/8364",
+          "date": "Mon, 16 Feb 2026 08:57:39 +0000",
+          "summary": "株式会社フェローズが運営する、日本全国のクリエイターを応援するためのWEBメディア「CREATORS STATION」に、弊社代表 富岡のインタビュー記事が掲載されました。自身のこれまでのキャリアから、事業内容、今後の展 […]"
+        },
+        {
+          "title": "年末年始休暇のお知らせ",
+          "link": "https://www.mindfactory.co.jp/blog/8357",
+          "date": "Fri, 05 Dec 2025 09:20:14 +0000",
+          "summary": "平素は格別のお引き立てを賜り、厚く御礼申し上げます。誠に勝手ながら、弊社は、下記の期間を年末年始休業とさせていただきます。 ■ 年末年始休暇期間2025年12月27日（土）～2026年1月4日（日） ご不便をおかけいたし […]"
+        }
+      ],
+      "error": null
     },
     {
       "tool": "Empathy Writing",
