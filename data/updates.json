@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-23T03:43:46.812Z",
+  "fetchedAt": "2026-09-25T03:52:10.896Z",
   "tools": [
     {
       "tool": "ミエルカ（YouTube）",
@@ -9,8 +9,39 @@
       "type": "youtube",
       "handle": "@mieruca-channel",
       "feedUrl": "",
-      "items": [],
-      "error": "Status code 500"
+      "items": [
+        {
+          "title": "AI検索は裏で何を調べている？ クエリファンアウトから考えるGEO・LLMO対策",
+          "link": "https://www.youtube.com/watch?v=_Wx21D3YOFY",
+          "date": "2026-09-24T23:00:21.000Z",
+          "summary": ""
+        },
+        {
+          "title": "Googleサーチコンソール新機能で何が見える？生成AIパフォーマンスレポートとプラットフォームプロパティ",
+          "link": "https://www.youtube.com/watch?v=1-SnlIN-ByA",
+          "date": "2026-09-23T23:00:09.000Z",
+          "summary": ""
+        },
+        {
+          "title": "AI Overviewsに引用されるYouTube動画の共通点｜登録者数・タイトル・発言内容を検証",
+          "link": "https://www.youtube.com/watch?v=90ZAqVgKHBg",
+          "date": "2026-09-15T23:00:33.000Z",
+          "summary": ""
+        },
+        {
+          "title": "AI時代でも被リンクが2位｜2026年Googleランキング要因TOP3｜SEO Weekly Update",
+          "link": "https://www.youtube.com/watch?v=IbWdTsJfs0U",
+          "date": "2026-09-13T22:30:32.000Z",
+          "summary": ""
+        },
+        {
+          "title": "LLMO対策をしてもAI検索に出ない理由｜5段階で原因を診断",
+          "link": "https://www.youtube.com/watch?v=MCbtwD_SNsg",
+          "date": "2026-09-08T23:00:24.000Z",
+          "summary": ""
+        }
+      ],
+      "error": null
     },
     {
       "tool": "Ahrefs",
@@ -60,6 +91,13 @@
       "feedUrl": "https://www.semrush.com/blog/feed/",
       "items": [
         {
+          "title": "Semrushを使用してAI可視性監査を行う方法",
+          "titleOrig": "How to conduct an AI visibility audit with Semrush",
+          "link": "https://www.semrush.com/blog/ai-visibility-audit-with-semrush-one/",
+          "date": "Wed, 23 Sep 2026 08:39:00 +0000",
+          "summary": "6 steps to perform an AI visibility audit for your brand, including how to deliver the report."
+        },
+        {
           "title": "GoogleのAI貢献パイロットがパブリッシャーに支払い",
           "titleOrig": "Google's AI contribution pilot pays publishers",
           "link": "https://www.semrush.com/blog/google-launches-ai-contribution-pilot/",
@@ -86,13 +124,6 @@
           "link": "https://www.semrush.com/blog/semrush-mcp-use-case/",
           "date": "Fri, 18 Sep 2026 14:17:00 +0000",
           "summary": "Copy-paste Semrush MCP prompts for keyword, competitor, content, and reporting work, tested on a live site."
-        },
-        {
-          "title": "CloudflareのAIトレーニングブロックがGooglebotを救うようになりました",
-          "titleOrig": "Cloudflare's AI training block now spares Googlebot",
-          "link": "https://www.semrush.com/blog/cloudfare-blocks-ai-training/",
-          "date": "Fri, 18 Sep 2026 14:04:00 +0000",
-          "summary": "Cloudflare‘s Disallow AI Training setting blocks AI training crawlers but not Googlebot. Bing won‘t honor it until early 2027."
         }
       ],
       "error": null
@@ -123,6 +154,12 @@
       "feedUrl": "https://rakkokeyword.com/techo/feed/",
       "items": [
         {
+          "title": "マーケティングのペルソナとは？設計手順と具体例を解説",
+          "link": "https://rakkokeyword.com/techo/marketing-persona-guide-examples/",
+          "date": "Fri, 25 Sep 2026 00:06:00 +0000",
+          "summary": "マーケティングのペルソナとは、商品やサービスを使う「たった1人の具体的な顧客像」のことです。 属性を大まかに区切るターゲットと違い、名前や価値観、休日の過ごし方まで作り込むことで、チーム全員が同じ顧客を思い浮かべながら施 ..."
+        },
+        {
           "title": "インスタの自己紹介文の書き方とフォローされる例文",
           "link": "https://rakkokeyword.com/techo/how-to-write-instagram-bio-examples/",
           "date": "Thu, 17 Sep 2026 08:25:46 +0000",
@@ -145,12 +182,6 @@
           "link": "https://rakkokeyword.com/techo/blog-genres-profitable-niche-selection/",
           "date": "Fri, 11 Sep 2026 01:32:51 +0000",
           "summary": "ブログのジャンルは、「需要」と「収益性」を数字で並べれば、感覚に頼らず選べます。 この記事は、これからアフィリエイトブログを始める初心者の方向けに、ラッコの実データ（各ジャンルの月間検索数・SEO難易度と、サイト売買の実 ..."
-        },
-        {
-          "title": "Webライターの年収・単価相場と収入を上げる方法",
-          "link": "https://rakkokeyword.com/techo/web-writer-income-rates-increase/",
-          "date": "Fri, 11 Sep 2026 01:26:06 +0000",
-          "summary": "Webライターの収入は、働き方と単価の付け方で大きく変わります。 相場を正しく理解し、単価の上がりやすい分野を選んで実績を積めば、未経験からでも月5万〜20万円は現実的に目指せます。 この記事を読めば、働き方別の収入相場 ..."
         }
       ],
       "error": null
@@ -171,6 +202,13 @@
       "sourceType": "tool",
       "feedUrl": "https://blog.google/technology/ai/rss/",
       "items": [
+        {
+          "title": "Google Beamは、新しい地域、パートナー、顧客に拡大します",
+          "titleOrig": "Google Beam expands with new regions, partners, and customers",
+          "link": "https://blog.google/innovation-and-ai/technology/research/google-beam-expansion/",
+          "date": "Wed, 23 Sep 2026 18:00:00 +0000",
+          "summary": "We’re expanding Google Beam to five new countries, and partnering with Industrious for an extended network."
+        },
         {
           "title": "GoogleのAI & Economyチームに新しいエキスパートが加わりました",
           "titleOrig": "New experts join Google’s AI & Economy team",
@@ -198,13 +236,6 @@
           "link": "https://blog.google/innovation-and-ai/technology/ai/ai-for-societal-impact/",
           "date": "Tue, 15 Sep 2026 16:00:00 +0000",
           "summary": "Explore this collection to see how experts and local leaders are using AI breakthroughs to ensure everyone can share the opportunity of AI."
-        },
-        {
-          "title": "科学を加速し、生活を改善するためのAIの構築",
-          "titleOrig": "Building AI to accelerate science and improve lives",
-          "link": "https://blog.google/innovation-and-ai/technology/ai/ai-applications-science-people/",
-          "date": "Tue, 15 Sep 2026 16:00:00 +0000",
-          "summary": "The true measure of AI is who it helps. Here’s how it’s impacting lives today. We're focused on key areas where advanced technology can help make extraordinary progress …"
         }
       ],
       "error": null
@@ -352,39 +383,39 @@
       "feedUrl": "https://github.blog/feed/",
       "items": [
         {
+          "title": "チャットが間違ったUIの場合",
+          "titleOrig": "When chat is the wrong UI",
+          "link": "https://github.blog/ai-and-ml/github-copilot/when-chat-is-the-wrong-ui/",
+          "date": "Thu, 24 Sep 2026 20:00:00 +0000",
+          "summary": "What is a developer to do when they need something more tangible than a chat box? Enter canvases. The post When chat is the wrong UI appeared first on The GitHub Blog."
+        },
+        {
+          "title": "GitHubセキュリティラボタスクフローエージェントを使用したAIベースのファジング",
+          "titleOrig": "AI-powered fuzzing with the GitHub Security Lab Taskflow Agent",
+          "link": "https://github.blog/security/application-security/ai-powered-fuzzing-with-the-github-security-lab-taskflow-agent/",
+          "date": "Thu, 24 Sep 2026 18:26:12 +0000",
+          "summary": "In this blog post, I explain how to use the new fuzzing taskflow based on the GitHub Security Lab Taskflow Agent AI framework. The post AI-powered fuzzing with the GitHub Security Lab Taskflow Agent a"
+        },
+        {
+          "title": "GitHub Copilotアプリでの巨大なプルリクエストのレンダリング",
+          "titleOrig": "Rendering huge pull requests in the GitHub Copilot app",
+          "link": "https://github.blog/engineering/user-experience/rendering-huge-pull-requests-in-the-github-copilot-app/",
+          "date": "Wed, 23 Sep 2026 18:29:49 +0000",
+          "summary": "How we rebuilt the diff surface in the GitHub Copilot app to open a million-line pull request with hundreds of inline review comments. The post Rendering huge pull requests in the GitHub Copilot app a"
+        },
+        {
+          "title": "開発者はより効率的なソフトウェアを望んでいます。1,000人以上のGitHubユーザーから必要だと言われたことをご紹介します。",
+          "titleOrig": "Developers want more efficient software. Here’s what over 1,000 GitHub users told us they need.",
+          "link": "https://github.blog/news-insights/research/developers-want-more-efficient-software-heres-what-over-1000-github-users-told-us-they-need/",
+          "date": "Wed, 23 Sep 2026 13:00:00 +0000",
+          "summary": "New research from GitHub and Yale Program on Climate Change Communication finds strong demand for tools, measurement, and practical guidance that can help developers reduce wasted compute. The post De"
+        },
+        {
           "title": "あなたはコードを読むべきですか、RAGは死んでいますか、そしてスキルはMCPを殺しましたか？",
           "titleOrig": "Should you read the code, is RAG dead, and did Skills kill MCP?",
           "link": "https://github.blog/ai-and-ml/should-you-read-the-code-is-rag-dead-and-did-skills-kill-mcp/",
           "date": "Fri, 18 Sep 2026 15:00:00 +0000",
           "summary": "We dive into these questions and other AI hot takes on the latest episode of the GitHub Podcast. The post Should you read the code, is RAG dead, and did Skills kill MCP? appeared first on The GitHub B"
-        },
-        {
-          "title": "Copilotを使用したGitHub CopilotランタイムのRustへの移行",
-          "titleOrig": "Migrating the GitHub Copilot runtime to Rust, using Copilot",
-          "link": "https://github.blog/ai-and-ml/generative-ai/migrating-the-github-copilot-runtime-to-rust-using-copilot/",
-          "date": "Thu, 17 Sep 2026 00:26:43 +0000",
-          "summary": "A rewrite this size wasn't affordable before agents. Here's what porting the Copilot agent runtime to 800,000 lines of production Rust actually took. The post Migrating the GitHub Copilot runtime to R"
-        },
-        {
-          "title": "コードとしてのマーケティングオペレーション： GitHubでの計画からフォローアップまでのイベントの自動化",
-          "titleOrig": "Marketing ops as code: Automating events from planning to follow-up on GitHub",
-          "link": "https://github.blog/ai-and-ml/github-copilot/marketing-ops-as-code-automating-events-from-planning-to-follow-up-on-github/",
-          "date": "Fri, 11 Sep 2026 18:26:10 +0000",
-          "summary": "If you can write down how you do your work, you can automate it. Here's what I did to support GitHub's APAC marketing team. The post Marketing ops as code: Automating events from planning to follow-up"
-        },
-        {
-          "title": "初心者向けGitHub Copilotアプリ: diff、ターミナル、ブラウザーの使用",
-          "titleOrig": "GitHub Copilot app for Beginners: Using the diff, terminal, and browser",
-          "link": "https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-using-the-diff-terminal-and-browser/",
-          "date": "Thu, 10 Sep 2026 21:31:19 +0000",
-          "summary": "Checking agent-generated code usually means hopping between tabs. Learn how to view diffs, run terminal commands, and preview web apps side by side in the GitHub Copilot app. The post GitHub Copilot a"
-        },
-        {
-          "title": "GitHub可用性レポート： 2026年8月",
-          "titleOrig": "GitHub availability report: August 2026",
-          "link": "https://github.blog/news-insights/company-news/github-availability-report-august-2026/",
-          "date": "Thu, 10 Sep 2026 02:05:17 +0000",
-          "summary": "In August, we experienced five incidents that resulted in degraded performance across GitHub services. The post GitHub availability report: August 2026 appeared first on The GitHub Blog."
         }
       ],
       "error": null
