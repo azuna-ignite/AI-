@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-25T03:52:10.896Z",
+  "fetchedAt": "2026-09-26T03:57:24.616Z",
   "tools": [
     {
       "tool": "ミエルカ（YouTube）",
@@ -9,39 +9,8 @@
       "type": "youtube",
       "handle": "@mieruca-channel",
       "feedUrl": "",
-      "items": [
-        {
-          "title": "AI検索は裏で何を調べている？ クエリファンアウトから考えるGEO・LLMO対策",
-          "link": "https://www.youtube.com/watch?v=_Wx21D3YOFY",
-          "date": "2026-09-24T23:00:21.000Z",
-          "summary": ""
-        },
-        {
-          "title": "Googleサーチコンソール新機能で何が見える？生成AIパフォーマンスレポートとプラットフォームプロパティ",
-          "link": "https://www.youtube.com/watch?v=1-SnlIN-ByA",
-          "date": "2026-09-23T23:00:09.000Z",
-          "summary": ""
-        },
-        {
-          "title": "AI Overviewsに引用されるYouTube動画の共通点｜登録者数・タイトル・発言内容を検証",
-          "link": "https://www.youtube.com/watch?v=90ZAqVgKHBg",
-          "date": "2026-09-15T23:00:33.000Z",
-          "summary": ""
-        },
-        {
-          "title": "AI時代でも被リンクが2位｜2026年Googleランキング要因TOP3｜SEO Weekly Update",
-          "link": "https://www.youtube.com/watch?v=IbWdTsJfs0U",
-          "date": "2026-09-13T22:30:32.000Z",
-          "summary": ""
-        },
-        {
-          "title": "LLMO対策をしてもAI検索に出ない理由｜5段階で原因を診断",
-          "link": "https://www.youtube.com/watch?v=MCbtwD_SNsg",
-          "date": "2026-09-08T23:00:24.000Z",
-          "summary": ""
-        }
-      ],
-      "error": null
+      "items": [],
+      "error": "Status code 404"
     },
     {
       "tool": "Ahrefs",
@@ -91,6 +60,20 @@
       "feedUrl": "https://www.semrush.com/blog/feed/",
       "items": [
         {
+          "title": "7日間のSemrush無料トライアルを最大限に活用する方法",
+          "titleOrig": "How to make the most of your 7-day Semrush free trial",
+          "link": "https://www.semrush.com/blog/free-7-day-semrush-one-trial/",
+          "date": "Fri, 25 Sep 2026 13:26:00 +0000",
+          "summary": "Here are 6 ways to use Semrush during your free trial to improve your search + AI visibility."
+        },
+        {
+          "title": "B 2 B回答エンジン最適化： AIでの表示方法",
+          "titleOrig": "B2B answer engine optimization: How to show up in AI",
+          "link": "https://www.semrush.com/blog/b2b-answer-engine-optimization/",
+          "date": "Fri, 25 Sep 2026 09:06:00 +0000",
+          "summary": "B2B answer engine optimization improves your odds of appearing in the AI answers buying committees see."
+        },
+        {
           "title": "Semrushを使用してAI可視性監査を行う方法",
           "titleOrig": "How to conduct an AI visibility audit with Semrush",
           "link": "https://www.semrush.com/blog/ai-visibility-audit-with-semrush-one/",
@@ -110,20 +93,6 @@
           "link": "https://www.semrush.com/blog/ai-citation-outreach/",
           "date": "Mon, 21 Sep 2026 09:49:00 +0000",
           "summary": "AI answers pull brand facts from the pages they cite. Use Semrush data and Claude Code to get on those pages."
-        },
-        {
-          "title": "エージェントSEOとは？ライブサイトで実行される8つのワークフロー",
-          "titleOrig": "What is agentic SEO? 8 workflows run on a live site",
-          "link": "https://www.semrush.com/blog/agentic-seo/",
-          "date": "Fri, 18 Sep 2026 14:37:00 +0000",
-          "summary": "Agentic SEO hands defined workflows to an AI that pulls its own data. See the free Claude setup we used."
-        },
-        {
-          "title": "Semrush MCPのユースケース： ClaudeまたはChatGPTの16のプロンプト",
-          "titleOrig": "Semrush MCP use cases: 16 prompts for Claude or ChatGPT",
-          "link": "https://www.semrush.com/blog/semrush-mcp-use-case/",
-          "date": "Fri, 18 Sep 2026 14:17:00 +0000",
-          "summary": "Copy-paste Semrush MCP prompts for keyword, competitor, content, and reporting work, tested on a live site."
         }
       ],
       "error": null
@@ -154,6 +123,18 @@
       "feedUrl": "https://rakkokeyword.com/techo/feed/",
       "items": [
         {
+          "title": "文章言い換えツール",
+          "link": "https://rakkokeyword.com/techo/tool-synonym-rephrase/",
+          "date": "Fri, 25 Sep 2026 09:26:42 +0000",
+          "summary": "検索 入力した単語の言い換え表現（類語・同義語）を一覧で表示するツールです。「同じ言葉を何度も使ってしまい、文章が単調に見える」「もっとしっくりくる言い回しにして、文章の印象を良くしたい」というときに、言い換えたい単語を ..."
+        },
+        {
+          "title": "オウンドメディアの作り方・立ち上げ手順",
+          "link": "https://rakkokeyword.com/techo/how-to-start-owned-media/",
+          "date": "Fri, 25 Sep 2026 08:50:53 +0000",
+          "summary": "オウンドメディアは、正しい順番で準備すれば専門部署がなくても立ち上げられます。 大切なのは、サイトを作る前に「誰に・何を届けて・どんな成果を出すか」を決めておくことです。 この記事では、はじめてオウンドメディアを担当する ..."
+        },
+        {
           "title": "マーケティングのペルソナとは？設計手順と具体例を解説",
           "link": "https://rakkokeyword.com/techo/marketing-persona-guide-examples/",
           "date": "Fri, 25 Sep 2026 00:06:00 +0000",
@@ -170,18 +151,6 @@
           "link": "https://rakkokeyword.com/techo/instagram-monetization-requirements-followers/",
           "date": "Thu, 17 Sep 2026 02:46:20 +0000",
           "summary": "インスタグラムの収益化に「フォロワー〇人以上」という一律の条件はありません。 アフィリエイトや商品販売のように、フォロワーが少なくても今日から始められる方法もあります。 この記事では、フォロワーが少なくても始められる稼ぎ ..."
-        },
-        {
-          "title": "Webライターのポートフォリオの作り方と受注につながる見せ方",
-          "link": "https://rakkokeyword.com/techo/how-to-create-web-writer-portfolio/",
-          "date": "Tue, 15 Sep 2026 00:24:29 +0000",
-          "summary": "Webライターのポートフォリオは、実績がゼロでも今日から作り始められます。 得意なジャンルのサンプル記事を用意し、自己紹介や対応できる仕事を1ページにまとめれば、未経験でも「この人になら頼めそう」と思ってもらえる名刺にな ..."
-        },
-        {
-          "title": "ブログのジャンル一覧と収益性の高い分野の選び方",
-          "link": "https://rakkokeyword.com/techo/blog-genres-profitable-niche-selection/",
-          "date": "Fri, 11 Sep 2026 01:32:51 +0000",
-          "summary": "ブログのジャンルは、「需要」と「収益性」を数字で並べれば、感覚に頼らず選べます。 この記事は、これからアフィリエイトブログを始める初心者の方向けに、ラッコの実データ（各ジャンルの月間検索数・SEO難易度と、サイト売買の実 ..."
         }
       ],
       "error": null
@@ -383,6 +352,20 @@
       "feedUrl": "https://github.blog/feed/",
       "items": [
         {
+          "title": "初心者向けGitHub Copilotアプリ：キャンバスを使用してカスタムワークフローを構築する方法",
+          "titleOrig": "GitHub Copilot app for Beginners: How to build custom workflows with canvases",
+          "link": "https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-how-to-build-custom-workflows-with-canvases/",
+          "date": "Fri, 25 Sep 2026 18:00:00 +0000",
+          "summary": "Describe the interface you need in plain English, then let the agent build a live surface you can both use and update—so you spend less time adapting to tools and more time getting work done. The post"
+        },
+        {
+          "title": "より多くのCSSを出荷することでサイトのパフォーマンスを向上させる",
+          "titleOrig": "Improving site performance by shipping more CSS",
+          "link": "https://github.blog/engineering/architecture-optimization/improving-site-performance-by-shipping-more-css/",
+          "date": "Fri, 25 Sep 2026 15:00:00 +0000",
+          "summary": "How we fully migrated github.com away from CSS-in-JS. The post Improving site performance by shipping more CSS appeared first on The GitHub Blog."
+        },
+        {
           "title": "チャットが間違ったUIの場合",
           "titleOrig": "When chat is the wrong UI",
           "link": "https://github.blog/ai-and-ml/github-copilot/when-chat-is-the-wrong-ui/",
@@ -402,20 +385,6 @@
           "link": "https://github.blog/engineering/user-experience/rendering-huge-pull-requests-in-the-github-copilot-app/",
           "date": "Wed, 23 Sep 2026 18:29:49 +0000",
           "summary": "How we rebuilt the diff surface in the GitHub Copilot app to open a million-line pull request with hundreds of inline review comments. The post Rendering huge pull requests in the GitHub Copilot app a"
-        },
-        {
-          "title": "開発者はより効率的なソフトウェアを望んでいます。1,000人以上のGitHubユーザーから必要だと言われたことをご紹介します。",
-          "titleOrig": "Developers want more efficient software. Here’s what over 1,000 GitHub users told us they need.",
-          "link": "https://github.blog/news-insights/research/developers-want-more-efficient-software-heres-what-over-1000-github-users-told-us-they-need/",
-          "date": "Wed, 23 Sep 2026 13:00:00 +0000",
-          "summary": "New research from GitHub and Yale Program on Climate Change Communication finds strong demand for tools, measurement, and practical guidance that can help developers reduce wasted compute. The post De"
-        },
-        {
-          "title": "あなたはコードを読むべきですか、RAGは死んでいますか、そしてスキルはMCPを殺しましたか？",
-          "titleOrig": "Should you read the code, is RAG dead, and did Skills kill MCP?",
-          "link": "https://github.blog/ai-and-ml/should-you-read-the-code-is-rag-dead-and-did-skills-kill-mcp/",
-          "date": "Fri, 18 Sep 2026 15:00:00 +0000",
-          "summary": "We dive into these questions and other AI hot takes on the latest episode of the GitHub Podcast. The post Should you read the code, is RAG dead, and did Skills kill MCP? appeared first on The GitHub B"
         }
       ],
       "error": null
