@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-27T04:08:32.971Z",
+  "fetchedAt": "2026-09-29T04:42:14.114Z",
   "tools": [
     {
       "tool": "ミエルカ（YouTube）",
@@ -19,6 +19,12 @@
       "sourceType": "tool",
       "feedUrl": "https://ahrefs.com/blog/ja/feed/",
       "items": [
+        {
+          "title": "Letaido で SEO KPI ダッシュボードをノーコード開発：マーケ責任者・経営層への報告が対話 1 回で完了",
+          "link": "https://ahrefs.com/ja/blog/letaido-seo-kpi-dashboard-guide/",
+          "date": "Tue, 29 Sep 2026 01:03:59 +0000",
+          "summary": "毎月の経営報告のために Excel と GA4 を往復し、資料作成に半日かかっていませんか。Ahrefs の Letaido（レタイド）なら、対話 1 回で直感的な SEO KPI ダッシュボードを構築可能。経営層向け報告の自動化から順位低下の原因分析まで、ノーコードで実務を効率化する手順を解説します。"
+        },
         {
           "title": "品質重視の文章作成 AI 活用法：「AI スロップ」を作らない Ahrefs の手法",
           "link": "https://ahrefs.com/ja/blog/how-we-use-ai-without-making-ai-slop/",
@@ -42,12 +48,6 @@
           "link": "https://ahrefs.com/ja/blog/chatgpt-ahrefs-mcp-guide/",
           "date": "Fri, 04 Sep 2026 06:25:44 +0000",
           "summary": "Chat­G­PT で Ahrefs MCP を使う方法を徹底解説！会話だけでキーワード調査やブランドレーダーを操作する手順から、 Letai­do との使い分け、初期設定、エラー対処法や実務で使えるプロンプト例まで分かりやすくご紹介します。"
-        },
-        {
-          "title": "SEO 歴 17 年の GMO TECH 執行役員 中原卓馬氏が語る、AI 検索時代に変わること、変わらないこと",
-          "link": "https://ahrefs.com/ja/blog/case-study-gmo-tech-vol1/",
-          "date": "Fri, 04 Sep 2026 01:05:26 +0000",
-          "summary": "GMO TECH｜Ahrefs インタビュー 第 1 部 リンク SEO の全盛期からコンテンツの時代、そして AI 検索へ。検索環境の変化を実務と研究の両面から見続けてきた GMO TECH株式会社 執行役員、アルゴリズム研究室長の中原卓馬氏に、キャリア、Ahrefs との関わり、AI 検索時代に企業が向き合うべき変化を伺いました。 中原氏が SEO に携わり始めたのは、31 歳の頃です。それ以"
         }
       ],
       "error": null
@@ -60,39 +60,39 @@
       "feedUrl": "https://www.semrush.com/blog/feed/",
       "items": [
         {
-          "title": "How to make the most of your 7-day Semrush free trial",
+          "title": "Llms.txtとは何ですか？使用する必要がありますか？",
+          "titleOrig": "What is llms.txt & should you use it?",
+          "link": "https://www.semrush.com/blog/llms-txt/",
+          "date": "Mon, 28 Sep 2026 16:15:00 +0000",
+          "summary": "An llms.txt file is designed to help large language models (LLMs) better understand the content on your site."
+        },
+        {
+          "title": "GoogleとAI検索の10のSEOベストプラクティス",
+          "titleOrig": "10 SEO best practices for Google and AI search",
+          "link": "https://www.semrush.com/blog/seo-best-practices/",
+          "date": "Mon, 28 Sep 2026 09:18:00 +0000",
+          "summary": "SEO best practices that hold up in AI search, where Semrush found the average visitor is worth 4.4x an organic one."
+        },
+        {
+          "title": "7日間のSemrush無料トライアルを最大限に活用する方法",
           "titleOrig": "How to make the most of your 7-day Semrush free trial",
           "link": "https://www.semrush.com/blog/free-7-day-semrush-one-trial/",
           "date": "Fri, 25 Sep 2026 13:26:00 +0000",
           "summary": "Here are 6 ways to use Semrush during your free trial to improve your search + AI visibility."
         },
         {
-          "title": "B2B answer engine optimization: How to show up in AI",
+          "title": "B 2 B回答エンジン最適化： AIでの表示方法",
           "titleOrig": "B2B answer engine optimization: How to show up in AI",
           "link": "https://www.semrush.com/blog/b2b-answer-engine-optimization/",
           "date": "Fri, 25 Sep 2026 09:06:00 +0000",
           "summary": "B2B answer engine optimization improves your odds of appearing in the AI answers buying committees see."
         },
         {
-          "title": "How to conduct an AI visibility audit with Semrush",
+          "title": "Semrushを使用してAI可視性監査を行う方法",
           "titleOrig": "How to conduct an AI visibility audit with Semrush",
           "link": "https://www.semrush.com/blog/ai-visibility-audit-with-semrush-one/",
           "date": "Wed, 23 Sep 2026 08:39:00 +0000",
           "summary": "6 steps to perform an AI visibility audit for your brand, including how to deliver the report."
-        },
-        {
-          "title": "Google's AI contribution pilot pays publishers",
-          "titleOrig": "Google's AI contribution pilot pays publishers",
-          "link": "https://www.semrush.com/blog/google-launches-ai-contribution-pilot/",
-          "date": "Tue, 22 Sep 2026 10:22:00 +0000",
-          "summary": "Google‘s AI contribution pilot pays invited publishers through Search Console. Citations and links in AI answers don‘t qualify for payment."
-        },
-        {
-          "title": "AI citation outreach: a Semrush & Claude workflow",
-          "titleOrig": "AI citation outreach: a Semrush & Claude workflow",
-          "link": "https://www.semrush.com/blog/ai-citation-outreach/",
-          "date": "Mon, 21 Sep 2026 09:49:00 +0000",
-          "summary": "AI answers pull brand facts from the pages they cite. Use Semrush data and Claude Code to get on those pages."
         }
       ],
       "error": null
@@ -172,39 +172,39 @@
       "feedUrl": "https://blog.google/technology/ai/rss/",
       "items": [
         {
-          "title": "Google Beam expands with new regions, partners, and customers",
+          "title": "Future Vision XPRIZE、The Giftedの受賞トレーラーをご覧ください。",
+          "titleOrig": "Watch the winning trailer from the Future Vision XPRIZE, The Gifted.",
+          "link": "https://blog.google/innovation-and-ai/technology/ai/winner-future-vision-xprize/",
+          "date": "Mon, 28 Sep 2026 19:00:00 +0000",
+          "summary": "Watch the winning trailer from the Future Vision XPRIZE, The Gifted."
+        },
+        {
+          "title": "Google Beamは、新しい地域、パートナー、顧客に拡大します",
           "titleOrig": "Google Beam expands with new regions, partners, and customers",
           "link": "https://blog.google/innovation-and-ai/technology/research/google-beam-expansion/",
           "date": "Wed, 23 Sep 2026 18:00:00 +0000",
           "summary": "We’re expanding Google Beam to five new countries, and partnering with Industrious for an extended network."
         },
         {
-          "title": "New experts join Google’s AI & Economy team",
+          "title": "GoogleのAI & Economyチームに新しいエキスパートが加わりました",
           "titleOrig": "New experts join Google’s AI & Economy team",
           "link": "https://blog.google/innovation-and-ai/technology/ai/expanding-ai-economy-research-bench/",
           "date": "Fri, 18 Sep 2026 14:00:00 +0000",
           "summary": "We are expanding our AI & Economy team with world-class academic advisors, fellows, and core internal researchers."
         },
         {
-          "title": "Co-creating the future of fashion with Google",
+          "title": "Googleとファッションの未来を共創",
           "titleOrig": "Co-creating the future of fashion with Google",
           "link": "https://blog.google/innovation-and-ai/technology/ai/google-flow-fashion-week/",
           "date": "Fri, 18 Sep 2026 13:00:00 +0000",
           "summary": "Google worked side-by-side with designers Jane Wade and Sergio Hudson to custom-design Google Flow tools to prep for NYFW."
         },
         {
-          "title": "Making global data easier to explore",
+          "title": "グローバルデータを探索しやすくする",
           "titleOrig": "Making global data easier to explore",
           "link": "https://blog.google/innovation-and-ai/technology/ai/google-un-data-commons-platform/",
           "date": "Thu, 17 Sep 2026 20:00:00 +0000",
           "summary": "Google and the UN system have launched the UN System Data Commons, a new open platform making global statistics accessible and easy to search."
-        },
-        {
-          "title": "AI for Societal Impact",
-          "titleOrig": "AI for Societal Impact",
-          "link": "https://blog.google/innovation-and-ai/technology/ai/ai-for-societal-impact/",
-          "date": "Tue, 15 Sep 2026 16:00:00 +0000",
-          "summary": "Explore this collection to see how experts and local leaders are using AI breakthroughs to ensure everyone can share the opportunity of AI."
         }
       ],
       "error": null
@@ -262,35 +262,35 @@
       "feedUrl": "https://wordpress.org/news/feed/",
       "items": [
         {
-          "title": "WordPress 7.1.2 Release",
+          "title": "WordPress 7.1.2リリース",
           "titleOrig": "WordPress 7.1.2 Release",
           "link": "https://wordpress.org/news/2026/09/wordpress-7-1-2-release/",
           "date": "Tue, 22 Sep 2026 14:01:20 +0000",
           "summary": "This security release features a fix for a critical severity security vulnerability. Because this is a security release, it is recommended that you update your sites immediately. You can download Word"
         },
         {
-          "title": "WordPress Takes Its Turn Leading the Open Website Alliance",
+          "title": "WordPressがオープンウェブサイトアライアンスをリード",
           "titleOrig": "WordPress Takes Its Turn Leading the Open Website Alliance",
           "link": "https://wordpress.org/news/2026/09/owa-president/",
           "date": "Mon, 21 Sep 2026 14:28:41 +0000",
           "summary": "I’m happy to announce that I am now serving as president of the Open Website Alliance (OWA), representing the WordPress Foundation. The Alliance brings together the community organizations behind Drup"
         },
         {
-          "title": "WordPress 7.1.1 Maintenance and Security Release",
+          "title": "WordPress 7.1.1メンテナンスとセキュリティリリース",
           "titleOrig": "WordPress 7.1.1 Maintenance and Security Release",
           "link": "https://wordpress.org/news/2026/09/wordpress-7-1-1-maintenance-and-security-release/",
           "date": "Thu, 17 Sep 2026 19:53:09 +0000",
           "summary": "This security and maintenance release features 17 bug fixes on Core, 19 bug fixes for the Block Editor, and 11 security fixes. Because this is a security release, it is recommended that you update you"
         },
         {
-          "title": "Students Built 108 Websites in Two Weeks in Bangladesh",
+          "title": "バングラデシュで生徒が2週間で108のウェブサイトを構築",
           "titleOrig": "Students Built 108 Websites in Two Weeks in Bangladesh",
           "link": "https://wordpress.org/news/2026/09/108-student-websites/",
           "date": "Mon, 07 Sep 2026 23:19:34 +0000",
           "summary": "In July, students at two campuses in Kishoreganj, Bangladesh, built 108 websites. In eastern Uganda, a workshop that arrived to find no electricity at the school ran anyway, for more than 100 learners"
         },
         {
-          "title": "WordPress Signs the Open Weights and American AI Leadership Letter",
+          "title": "WordPressがオープンウェイトとアメリカのAIリーダーシップレターに署名",
           "titleOrig": "WordPress Signs the Open Weights and American AI Leadership Letter",
           "link": "https://wordpress.org/news/2026/08/open-weight/",
           "date": "Thu, 27 Aug 2026 17:00:32 +0000",
@@ -307,35 +307,35 @@
       "feedUrl": "https://obsidian.md/changelog.xml",
       "items": [
         {
-          "title": "Obsidian 1.14.2 Mobile (Early access)",
+          "title": "Obsidian 1.14.2モバイル（先行アクセス）",
           "titleOrig": "Obsidian 1.14.2 Mobile (Early access)",
           "link": "https://obsidian.md/changelog/2026-09-15-mobile-v1.14.2/",
           "date": "2026-09-15T00:00:00.000Z",
-          "summary": "Includes all new features and bug fixes up to Obsidian Desktop 1.14.2. New iOS 27: Added support for the new extra large Quick Capture and View Note widgets. Improvements iOS: Quick Capture's color sc"
+          "summary": "Includes all new features and bug fixes up to Obsidian Desktop 1.14.2. New iOS 27: Added support for the new extra large Quick Capture and View Note widgets. Improvements iOS: Quick Capture’s color sc"
         },
         {
-          "title": "Obsidian 1.14.2 Desktop (Early access)",
+          "title": "Obsidian 1.14.2デスクトップ（先行アクセス）",
           "titleOrig": "Obsidian 1.14.2 Desktop (Early access)",
           "link": "https://obsidian.md/changelog/2026-09-15-desktop-v1.14.2/",
           "date": "2026-09-15T00:00:00.000Z",
-          "summary": "New You can now open files from outside your vault in Obsidian. The file opens in your current window (Desktop only). Added the \"Open file from outside the vault...\" command. Pick any file on your com"
+          "summary": "New You can now open files from outside your vault in Obsidian. The file opens in your current window (Desktop only). Added the “Open file from outside the vault…” command. Pick any file on your compu"
         },
         {
-          "title": "Obsidian 1.14.1 Mobile (Early access)",
+          "title": "Obsidian 1.14.1モバイル（早期アクセス）",
           "titleOrig": "Obsidian 1.14.1 Mobile (Early access)",
           "link": "https://obsidian.md/changelog/2026-09-08-mobile-v1.14.1/",
           "date": "2026-09-08T00:00:00.000Z",
           "summary": "Includes all new features and bug fixes up to Obsidian Desktop 1.14.1. New iOS 26: Added a configurable Quick Capture Home Screen widget. Add shortcuts to capture directly to different Locations. Impr"
         },
         {
-          "title": "Obsidian 1.14.1 Desktop (Early access)",
+          "title": "Obsidian 1.14.1デスクトップ（先行アクセス）",
           "titleOrig": "Obsidian 1.14.1 Desktop (Early access)",
           "link": "https://obsidian.md/changelog/2026-09-08-desktop-v1.14.1/",
           "date": "2026-09-08T00:00:00.000Z",
           "summary": "Improvements Math rendering now uses MathJax 4.1.3, replacing MathJax 3 and Temml. Bases: Added right-to-left (RTL) support to table views, including keyboard navigation, selections, and horizontal sc"
         },
         {
-          "title": "Obsidian 1.14.0 Mobile (Early access)",
+          "title": "Obsidian 1.14.0モバイル（先行アクセス）",
           "titleOrig": "Obsidian 1.14.0 Mobile (Early access)",
           "link": "https://obsidian.md/changelog/2026-09-02-mobile-v1.14.0/",
           "date": "2026-09-02T00:00:00.000Z",
@@ -352,39 +352,39 @@
       "feedUrl": "https://github.blog/feed/",
       "items": [
         {
-          "title": "GitHub Copilot app for Beginners: How to build custom workflows with canvases",
+          "title": "オープンソースのAIセキュリティエージェントを使用して24のAndroid脆弱性を発見した方法",
+          "titleOrig": "How we found 24 Android vulnerabilities using our open source AI security agent",
+          "link": "https://github.blog/security/how-we-found-24-android-vulnerabilities-using-our-open-source-ai-security-agent/",
+          "date": "Mon, 28 Sep 2026 19:00:00 +0000",
+          "summary": "A look at the targeted AI taskflows behind these findings, the critical Android bugs they uncovered, and how to run the same open-source agent on your own app. The post How we found 24 Android vulnera"
+        },
+        {
+          "title": "Git 2.56のハイライト",
+          "titleOrig": "Highlights from Git 2.56",
+          "link": "https://github.blog/open-source/git/highlights-from-git-2-56/",
+          "date": "Mon, 28 Sep 2026 17:23:33 +0000",
+          "summary": "The open source Git project just released Git 2.56. Here is GitHub's look at some of the most interesting features and changes introduced since last time. The post Highlights from Git 2.56 appeared fi"
+        },
+        {
+          "title": "初心者向けGitHub Copilotアプリ：キャンバスを使用してカスタムワークフローを構築する方法",
           "titleOrig": "GitHub Copilot app for Beginners: How to build custom workflows with canvases",
           "link": "https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-how-to-build-custom-workflows-with-canvases/",
           "date": "Fri, 25 Sep 2026 18:00:00 +0000",
           "summary": "Describe the interface you need in plain English, then let the agent build a live surface you can both use and update—so you spend less time adapting to tools and more time getting work done. The post"
         },
         {
-          "title": "Improving site performance by shipping more CSS",
+          "title": "より多くのCSSを出荷することでサイトのパフォーマンスを向上させる",
           "titleOrig": "Improving site performance by shipping more CSS",
           "link": "https://github.blog/engineering/architecture-optimization/improving-site-performance-by-shipping-more-css/",
           "date": "Fri, 25 Sep 2026 15:00:00 +0000",
           "summary": "How we fully migrated github.com away from CSS-in-JS. The post Improving site performance by shipping more CSS appeared first on The GitHub Blog."
         },
         {
-          "title": "When chat is the wrong UI",
+          "title": "チャットが間違ったUIの場合",
           "titleOrig": "When chat is the wrong UI",
           "link": "https://github.blog/ai-and-ml/github-copilot/when-chat-is-the-wrong-ui/",
           "date": "Thu, 24 Sep 2026 20:00:00 +0000",
           "summary": "What is a developer to do when they need something more tangible than a chat box? Enter canvases. The post When chat is the wrong UI appeared first on The GitHub Blog."
-        },
-        {
-          "title": "AI-powered fuzzing with the GitHub Security Lab Taskflow Agent",
-          "titleOrig": "AI-powered fuzzing with the GitHub Security Lab Taskflow Agent",
-          "link": "https://github.blog/security/application-security/ai-powered-fuzzing-with-the-github-security-lab-taskflow-agent/",
-          "date": "Thu, 24 Sep 2026 18:26:12 +0000",
-          "summary": "In this blog post, I explain how to use the new fuzzing taskflow based on the GitHub Security Lab Taskflow Agent AI framework. The post AI-powered fuzzing with the GitHub Security Lab Taskflow Agent a"
-        },
-        {
-          "title": "Rendering huge pull requests in the GitHub Copilot app",
-          "titleOrig": "Rendering huge pull requests in the GitHub Copilot app",
-          "link": "https://github.blog/engineering/user-experience/rendering-huge-pull-requests-in-the-github-copilot-app/",
-          "date": "Wed, 23 Sep 2026 18:29:49 +0000",
-          "summary": "How we rebuilt the diff surface in the GitHub Copilot app to open a million-line pull request with hundreds of inline review comments. The post Rendering huge pull requests in the GitHub Copilot app a"
         }
       ],
       "error": null
@@ -435,8 +435,39 @@
       "category": "制作・デザイン",
       "sourceType": "media",
       "feedUrl": "https://empathywriting.com/feed/",
-      "items": [],
-      "error": "Status code 404"
+      "items": [
+        {
+          "title": "阿部 憲夫(Norio Abe)",
+          "link": "https://empathywriting.com/empathywriting_coach/norio_abe/?utm_source=rss&utm_medium=rss&utm_campaign=norio_abe",
+          "date": "Sun, 29 Aug 2021 23:32:00 +0000",
+          "summary": "ＬＬＣ阿部マネジメントオフィス代表一般社団法人グロウイングクラウド理事エンパシーライティング®認定コーチ経営士／ITコーディネータ ひと言自己紹介 絵本東北を中心に人材育成支援をおこなうコンサルタント。特に『コミュニケー […] The post 阿部 憲夫(Norio Abe) first appeared on エンパシーライティング公式サイト."
+        },
+        {
+          "title": "糸井 謙司(Kenji Itoi)",
+          "link": "https://empathywriting.com/empathywriting_coach/kenji_itoi/?utm_source=rss&utm_medium=rss&utm_campaign=kenji_itoi",
+          "date": "Sat, 28 Aug 2021 08:12:00 +0000",
+          "summary": "式会社白亞 代表取締役社長 Growth Mind Consultant／プロビジネスコーチ／アチーバストレーナー／ビル管理士エンパシーライティング®認定コーチ ひと言自己紹介 ２代目社長向けの経営サポート。組織改革の一 […] The post 糸井 謙司(Kenji Itoi) first appeared on エンパシーライティング公式サイト."
+        },
+        {
+          "title": "岩田 由美子(Yumiko Iwata)",
+          "link": "https://empathywriting.com/empathywriting_coach/yumiko-iwata/?utm_source=rss&utm_medium=rss&utm_campaign=yumiko-iwata",
+          "date": "Sat, 28 Aug 2021 01:51:00 +0000",
+          "summary": "Lifeコーディネーター整理収納アドバイザー１級時短家事コーディネーター®︎認定講師エンパシーライティング®認定コーチ ひと言自己紹介 「ちょっとずつ毎日が楽しくなる、くらしのコーディネート」がテーマ。講座開催・コーディ […] The post 岩田 由美子(Yumiko Iwata) first appeared on エンパシーライティング公式サイト."
+        },
+        {
+          "title": "伊藤あづさ(Adusa Ito)",
+          "link": "https://empathywriting.com/empathywriting_coach/adusa-ito/?utm_source=rss&utm_medium=rss&utm_campaign=adusa-ito",
+          "date": "Sat, 28 Aug 2021 00:17:07 +0000",
+          "summary": "ごきげんな暮らしを叶えるProp-Port COCORO-LABO 代表KAORI CREATOR🄬/臨床発達心理士/ミッションメンタリング®認定マスター/ミッションメンタリング®認定「自分らしさ」トレーナー/ IFA認 […] The post 伊藤あづさ(Adusa Ito) first appeared on エンパシーライティング公式サイト."
+        },
+        {
+          "title": "岡田 仲史(Nakafumi Okada)",
+          "link": "https://empathywriting.com/empathywriting_coach/nakafumi_okada/?utm_source=rss&utm_medium=rss&utm_campaign=nakafumi_okada",
+          "date": "Thu, 26 Aug 2021 23:16:00 +0000",
+          "summary": "一級建築士マンション管理士宅地建物取引士TRINITY LABO.認定 家族信託コンサルタントエンパシーライティング®認定コーチ ひと言自己紹介 『つなぐデザイン』を探求する一級建築士。建築と文章に[つなぐ]という共通点 […] The post 岡田 仲史(Nakafumi Okada) first appeared on エンパシーライティング公式サイト."
+        }
+      ],
+      "error": null
     }
   ]
 }
