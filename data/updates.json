@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-29T04:42:14.114Z",
+  "fetchedAt": "2026-09-30T04:26:49.056Z",
   "tools": [
     {
       "tool": "ミエルカ（YouTube）",
@@ -20,6 +20,18 @@
       "feedUrl": "https://ahrefs.com/blog/ja/feed/",
       "items": [
         {
+          "title": "Wikipedia が首位、YouTube は 5 位に後退。日本で AI が引用するドメイン最新ランキング 2026 年 9 月版",
+          "link": "https://ahrefs.com/ja/blog/brand-radar-top-10-cited-domains-2026-september/",
+          "date": "Wed, 30 Sep 2026 04:10:46 +0000",
+          "summary": "Ahrefs ブランドレーダーで、日本の AI 検索が引用するドメインを再分析。前回（ 2026 年 6 月版）から 3 ヶ月で、総合 1 位が入れ替わり、Reddit は全 AI で TOP 10 から姿を消しました。 AI が回答を生成するとき、どのサイトを情報源として引用しているのか。前回の 6 月版では「 YouTube の首位は不動」「 Red­dit が Chat­G­PT で首位」と"
+        },
+        {
+          "title": "Letaido スキルズ活用ガイド：キーワード調査・コンテンツ企画・レポート作成をプリセットで自動化",
+          "link": "https://ahrefs.com/ja/blog/letaido-skills-ai-workflow-guide/",
+          "date": "Wed, 30 Sep 2026 02:14:22 +0000",
+          "summary": "Letai­do のスキルズを活用し、キーワード調査やコンテンツ企画、競合分析、 SEO レポート作成をチームで共有・再利用できるワークフローに変える方法を解説します。会話モードとの違いから複合ワークフロー、カスタムスキルの自作方法まで実践的にご紹介します。"
+        },
+        {
           "title": "Letaido で SEO KPI ダッシュボードをノーコード開発：マーケ責任者・経営層への報告が対話 1 回で完了",
           "link": "https://ahrefs.com/ja/blog/letaido-seo-kpi-dashboard-guide/",
           "date": "Tue, 29 Sep 2026 01:03:59 +0000",
@@ -36,18 +48,6 @@
           "link": "https://ahrefs.com/ja/blog/mba-metrics-for-seo/",
           "date": "Mon, 07 Sep 2026 05:57:00 +0000",
           "summary": "なぜ SEO レポートは経営陣に響かないのか。経営陣が信頼して使える代替指標とその活用方法を解説します。"
-        },
-        {
-          "title": "SEO 歴 17 年の GMO TECH 執行役員 中原卓馬氏が語る。第 2 部：AI × Ahrefs × MCP で、AI 検索をどう分析するのか",
-          "link": "https://ahrefs.com/ja/blog/https-ahrefs-com-ja-blog-case-study-gmo-tech-vol2/",
-          "date": "Mon, 07 Sep 2026 02:33:55 +0000",
-          "summary": "GMO TECH × Ahrefs インタビュー SEO 歴 17 年の GMO TECH 執行役員 中原卓馬氏が語る、第 2 部：AI × Ahrefs × MCP で、AI 検索をどう分析するのか ブランドレーダーを起点に約 4 万件の AI 回答を読み解き、ファンアウトクエリと「推薦の文法」を実務へつなげる。GMO TECH株式会社 執行役員、アルゴリズム研究室長の中原 卓馬氏に、その分析手"
-        },
-        {
-          "title": "Claude・ChatGPT でAhrefs（エイチレフス）を使う方法：Letaido・MCP・ブランドレーダーを会話だけで操作する実践ガイド",
-          "link": "https://ahrefs.com/ja/blog/chatgpt-ahrefs-mcp-guide/",
-          "date": "Fri, 04 Sep 2026 06:25:44 +0000",
-          "summary": "Chat­G­PT で Ahrefs MCP を使う方法を徹底解説！会話だけでキーワード調査やブランドレーダーを操作する手順から、 Letai­do との使い分け、初期設定、エラー対処法や実務で使えるプロンプト例まで分かりやすくご紹介します。"
         }
       ],
       "error": null
@@ -59,6 +59,20 @@
       "sourceType": "tool",
       "feedUrl": "https://www.semrush.com/blog/feed/",
       "items": [
+        {
+          "title": "LLMのポジショニングラグ：それが何であるか、そしてそれを回避する方法",
+          "titleOrig": "The LLM positioning lag: What it is and how to avoid it",
+          "link": "https://www.semrush.com/blog/llm-positioning-lag/",
+          "date": "Tue, 29 Sep 2026 14:50:00 +0000",
+          "summary": "See why LLMs get your brand positioning wrong and how to fix it."
+        },
+        {
+          "title": "Googleが2026年9月のスパムに関するアップデートをリリース",
+          "titleOrig": "Google releases September 2026 spam update",
+          "link": "https://www.semrush.com/blog/google-spam-update-september-2026/",
+          "date": "Tue, 29 Sep 2026 08:26:00 +0000",
+          "summary": "Google’s September 2026 spam update may take up to two weeks to roll out, making ranking drops harder to diagnose."
+        },
         {
           "title": "Llms.txtとは何ですか？使用する必要がありますか？",
           "titleOrig": "What is llms.txt & should you use it?",
@@ -79,20 +93,6 @@
           "link": "https://www.semrush.com/blog/free-7-day-semrush-one-trial/",
           "date": "Fri, 25 Sep 2026 13:26:00 +0000",
           "summary": "Here are 6 ways to use Semrush during your free trial to improve your search + AI visibility."
-        },
-        {
-          "title": "B 2 B回答エンジン最適化： AIでの表示方法",
-          "titleOrig": "B2B answer engine optimization: How to show up in AI",
-          "link": "https://www.semrush.com/blog/b2b-answer-engine-optimization/",
-          "date": "Fri, 25 Sep 2026 09:06:00 +0000",
-          "summary": "B2B answer engine optimization improves your odds of appearing in the AI answers buying committees see."
-        },
-        {
-          "title": "Semrushを使用してAI可視性監査を行う方法",
-          "titleOrig": "How to conduct an AI visibility audit with Semrush",
-          "link": "https://www.semrush.com/blog/ai-visibility-audit-with-semrush-one/",
-          "date": "Wed, 23 Sep 2026 08:39:00 +0000",
-          "summary": "6 steps to perform an AI visibility audit for your brand, including how to deliver the report."
         }
       ],
       "error": null
@@ -307,6 +307,20 @@
       "feedUrl": "https://obsidian.md/changelog.xml",
       "items": [
         {
+          "title": "Obsidian 1.14.3モバイル（早期アクセス）",
+          "titleOrig": "Obsidian 1.14.3 Mobile (Early access)",
+          "link": "https://obsidian.md/changelog/2026-09-29-mobile-v1.14.3/",
+          "date": "2026-09-29T00:00:00.000Z",
+          "summary": "Includes all new features and bug fixes up to Obsidian Desktop 1.14.3. New iOS: Added template support to Quick Capture when its behavior is set to daily note or a selected note. No longer broken iOS:"
+        },
+        {
+          "title": "Obsidian 1.14.3デスクトップ（先行アクセス）",
+          "titleOrig": "Obsidian 1.14.3 Desktop (Early access)",
+          "link": "https://obsidian.md/changelog/2026-09-29-desktop-v1.14.3/",
+          "date": "2026-09-29T00:00:00.000Z",
+          "summary": "New Added Quick Look previews for Markdown files on macOS (requires latest installer). Added document icons on macOS and Windows for .md, .base and .canvas. Bases: Added a Group menu to the toolbar fo"
+        },
+        {
           "title": "Obsidian 1.14.2モバイル（先行アクセス）",
           "titleOrig": "Obsidian 1.14.2 Mobile (Early access)",
           "link": "https://obsidian.md/changelog/2026-09-15-mobile-v1.14.2/",
@@ -326,20 +340,6 @@
           "link": "https://obsidian.md/changelog/2026-09-08-mobile-v1.14.1/",
           "date": "2026-09-08T00:00:00.000Z",
           "summary": "Includes all new features and bug fixes up to Obsidian Desktop 1.14.1. New iOS 26: Added a configurable Quick Capture Home Screen widget. Add shortcuts to capture directly to different Locations. Impr"
-        },
-        {
-          "title": "Obsidian 1.14.1デスクトップ（先行アクセス）",
-          "titleOrig": "Obsidian 1.14.1 Desktop (Early access)",
-          "link": "https://obsidian.md/changelog/2026-09-08-desktop-v1.14.1/",
-          "date": "2026-09-08T00:00:00.000Z",
-          "summary": "Improvements Math rendering now uses MathJax 4.1.3, replacing MathJax 3 and Temml. Bases: Added right-to-left (RTL) support to table views, including keyboard navigation, selections, and horizontal sc"
-        },
-        {
-          "title": "Obsidian 1.14.0モバイル（先行アクセス）",
-          "titleOrig": "Obsidian 1.14.0 Mobile (Early access)",
-          "link": "https://obsidian.md/changelog/2026-09-02-mobile-v1.14.0/",
-          "date": "2026-09-02T00:00:00.000Z",
-          "summary": "Includes all new features and bug fixes up to Obsidian Desktop v1.14.0. Improvements Settings are now shown in a dismissable sheet over the app. Swipe anywhere to dismiss. iOS Native Quick Capture on "
         }
       ],
       "error": null
@@ -351,6 +351,13 @@
       "sourceType": "tool",
       "feedUrl": "https://github.blog/feed/",
       "items": [
+        {
+          "title": "開発者向けポリシーの最新情報：透明性、州のポリシー、今後の展開",
+          "titleOrig": "Developer policy update: Transparency, state policy, and what’s ahead",
+          "link": "https://github.blog/news-insights/policy-news-and-insights/developer-policy-update-transparency-state-policy-and-whats-ahead/",
+          "date": "Tue, 29 Sep 2026 15:00:00 +0000",
+          "summary": "Explore GitHub’s latest transparency data and learn more about policy updates affecting developers and open source. The post Developer policy update: Transparency, state policy, and what’s ahead appea"
+        },
         {
           "title": "オープンソースのAIセキュリティエージェントを使用して24のAndroid脆弱性を発見した方法",
           "titleOrig": "How we found 24 Android vulnerabilities using our open source AI security agent",
@@ -378,13 +385,6 @@
           "link": "https://github.blog/engineering/architecture-optimization/improving-site-performance-by-shipping-more-css/",
           "date": "Fri, 25 Sep 2026 15:00:00 +0000",
           "summary": "How we fully migrated github.com away from CSS-in-JS. The post Improving site performance by shipping more CSS appeared first on The GitHub Blog."
-        },
-        {
-          "title": "チャットが間違ったUIの場合",
-          "titleOrig": "When chat is the wrong UI",
-          "link": "https://github.blog/ai-and-ml/github-copilot/when-chat-is-the-wrong-ui/",
-          "date": "Thu, 24 Sep 2026 20:00:00 +0000",
-          "summary": "What is a developer to do when they need something more tangible than a chat box? Enter canvases. The post When chat is the wrong UI appeared first on The GitHub Blog."
         }
       ],
       "error": null
