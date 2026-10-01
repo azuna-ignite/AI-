@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-30T04:26:49.056Z",
+  "fetchedAt": "2026-10-01T04:38:13.373Z",
   "tools": [
     {
       "tool": "ミエルカ（YouTube）",
@@ -20,6 +20,18 @@
       "feedUrl": "https://ahrefs.com/blog/ja/feed/",
       "items": [
         {
+          "title": "API ユニット上限 2 倍、AI に対する可視性、セマンティック検索、その他｜2026 年 9 月",
+          "link": "https://ahrefs.com/ja/blog/september-2026-roundup/",
+          "date": "Thu, 01 Oct 2026 03:18:15 +0000",
+          "summary": "今月は 7 件のアップデートがあります。API ユニット上限が全プランで 2 倍に、AI ディスカバラビリティ問題カテゴリの追加、セマンティックキーワード検索の導入など、改善が盛りだくさんです。それでは詳しく見ていきましょう。"
+        },
+        {
+          "title": "進化版 Ahrefs（エイチレフス）ブランドレーダーの基本をおさらい：AI 検索で自社ブランドがどう見られているかを計測・改善する方法",
+          "link": "https://ahrefs.com/ja/blog/ahrefs-brand-radar-ai-visibility-guide/",
+          "date": "Wed, 30 Sep 2026 06:48:48 +0000",
+          "summary": "本記事では Ahrefs ブランドレーダーの基本機能、AI シェア・オブ・ボイス、引用・センチメントの読み方、カスタムプロンプトの設計方法、計測結果から改善サイクルを回す方法を分かりやすく解説します。"
+        },
+        {
           "title": "Wikipedia が首位、YouTube は 5 位に後退。日本で AI が引用するドメイン最新ランキング 2026 年 9 月版",
           "link": "https://ahrefs.com/ja/blog/brand-radar-top-10-cited-domains-2026-september/",
           "date": "Wed, 30 Sep 2026 04:10:46 +0000",
@@ -36,18 +48,6 @@
           "link": "https://ahrefs.com/ja/blog/letaido-seo-kpi-dashboard-guide/",
           "date": "Tue, 29 Sep 2026 01:03:59 +0000",
           "summary": "毎月の経営報告のために Excel と GA4 を往復し、資料作成に半日かかっていませんか。Ahrefs の Letaido（レタイド）なら、対話 1 回で直感的な SEO KPI ダッシュボードを構築可能。経営層向け報告の自動化から順位低下の原因分析まで、ノーコードで実務を効率化する手順を解説します。"
-        },
-        {
-          "title": "品質重視の文章作成 AI 活用法：「AI スロップ」を作らない Ahrefs の手法",
-          "link": "https://ahrefs.com/ja/blog/how-we-use-ai-without-making-ai-slop/",
-          "date": "Wed, 16 Sep 2026 20:30:22 +0000",
-          "summary": "AI を使った文章作成で「AI スロップ」を避ける方法を解説。Ahrefs が実践する品質重視の AI ライティング手法と、人間の判断力を活かすコンテンツ制作プロセスをご紹介します。"
-        },
-        {
-          "title": "「その SEO 指標、経営陣に伝わっていますか？」経営層が納得する KPI の選び方",
-          "link": "https://ahrefs.com/ja/blog/mba-metrics-for-seo/",
-          "date": "Mon, 07 Sep 2026 05:57:00 +0000",
-          "summary": "なぜ SEO レポートは経営陣に響かないのか。経営陣が信頼して使える代替指標とその活用方法を解説します。"
         }
       ],
       "error": null
@@ -59,6 +59,13 @@
       "sourceType": "tool",
       "feedUrl": "https://www.semrush.com/blog/feed/",
       "items": [
+        {
+          "title": "AEOとSEO ：コアの違いと両方の可視性を獲得する方法",
+          "titleOrig": "AEO vs SEO: core differences & how to win visibility in both",
+          "link": "https://www.semrush.com/blog/aeo-vs-seo/",
+          "date": "Wed, 30 Sep 2026 08:36:00 +0000",
+          "summary": "Discover the key differences between SEO and AEO. Learn how each works, where they overlap, and practical strategies to win visibility in both."
+        },
         {
           "title": "LLMのポジショニングラグ：それが何であるか、そしてそれを回避する方法",
           "titleOrig": "The LLM positioning lag: What it is and how to avoid it",
@@ -86,13 +93,6 @@
           "link": "https://www.semrush.com/blog/seo-best-practices/",
           "date": "Mon, 28 Sep 2026 09:18:00 +0000",
           "summary": "SEO best practices that hold up in AI search, where Semrush found the average visitor is worth 4.4x an organic one."
-        },
-        {
-          "title": "7日間のSemrush無料トライアルを最大限に活用する方法",
-          "titleOrig": "How to make the most of your 7-day Semrush free trial",
-          "link": "https://www.semrush.com/blog/free-7-day-semrush-one-trial/",
-          "date": "Fri, 25 Sep 2026 13:26:00 +0000",
-          "summary": "Here are 6 ways to use Semrush during your free trial to improve your search + AI visibility."
         }
       ],
       "error": null
@@ -123,6 +123,18 @@
       "feedUrl": "https://rakkokeyword.com/techo/feed/",
       "items": [
         {
+          "title": "無料の検索順位チェックツールおすすめは？選び方と使い方を解説",
+          "link": "https://rakkokeyword.com/techo/free-search-rank-tracking-tools-guide/",
+          "date": "Thu, 01 Oct 2026 02:59:37 +0000",
+          "summary": "検索順位のチェックは、無料ツールでも十分に効率化できます。 複数のキーワードをまとめて計測できるツールを選べば、手作業で1キーワードずつ検索する手間はなくなります。 この記事では、無料の検索順位チェックツールを比較し、選 ..."
+        },
+        {
+          "title": "検索順位の調べ方は？無料でできる確認方法とツールを解説",
+          "link": "https://rakkokeyword.com/techo/how-to-check-search-rankings/",
+          "date": "Thu, 01 Oct 2026 02:45:09 +0000",
+          "summary": "検索順位は、無料の方法とツールを組み合わせれば、手間をかけずに調べられます。 サイト全体の傾向はGoogleサーチコンソールで、狙ったキーワードの「今の順位」は検索順位チェックツールで確認する、という使い分けが基本です。 ..."
+        },
+        {
           "title": "文章言い換えツール",
           "link": "https://rakkokeyword.com/techo/tool-synonym-rephrase/",
           "date": "Fri, 25 Sep 2026 09:26:42 +0000",
@@ -139,18 +151,6 @@
           "link": "https://rakkokeyword.com/techo/marketing-persona-guide-examples/",
           "date": "Fri, 25 Sep 2026 00:06:00 +0000",
           "summary": "マーケティングのペルソナとは、商品やサービスを使う「たった1人の具体的な顧客像」のことです。 属性を大まかに区切るターゲットと違い、名前や価値観、休日の過ごし方まで作り込むことで、チーム全員が同じ顧客を思い浮かべながら施 ..."
-        },
-        {
-          "title": "インスタの自己紹介文の書き方とフォローされる例文",
-          "link": "https://rakkokeyword.com/techo/how-to-write-instagram-bio-examples/",
-          "date": "Thu, 17 Sep 2026 08:25:46 +0000",
-          "summary": "その原因は、投稿ではなくプロフィール（自己紹介）にあるかもしれません。 プロフィールは、訪問者が「フォローするか」「リンクを押すか」を判断する最後のひと押しになる場所です。 ここを整えるだけで、同じ投稿数でもフォロワーや ..."
-        },
-        {
-          "title": "インスタ収益化の条件とは？機能別の必要フォロワー数まとめ",
-          "link": "https://rakkokeyword.com/techo/instagram-monetization-requirements-followers/",
-          "date": "Thu, 17 Sep 2026 02:46:20 +0000",
-          "summary": "インスタグラムの収益化に「フォロワー〇人以上」という一律の条件はありません。 アフィリエイトや商品販売のように、フォロワーが少なくても今日から始められる方法もあります。 この記事では、フォロワーが少なくても始められる稼ぎ ..."
         }
       ],
       "error": null
