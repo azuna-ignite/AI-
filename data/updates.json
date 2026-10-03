@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-10-01T04:38:13.373Z",
+  "fetchedAt": "2026-10-03T04:13:05.953Z",
   "tools": [
     {
       "tool": "ミエルカ（YouTube）",
@@ -60,6 +60,13 @@
       "feedUrl": "https://www.semrush.com/blog/feed/",
       "items": [
         {
+          "title": "究極のSEOチェックリスト：ウェブサイトを最適化する43のヒント",
+          "titleOrig": "Ultimate SEO checklist: 43 tips to optimize your website",
+          "link": "https://www.semrush.com/blog/seo-checklist/",
+          "date": "Thu, 01 Oct 2026 08:25:00 +0000",
+          "summary": "Use this SEO checklist to optimize your site for both Google and AI-driven search results."
+        },
+        {
           "title": "AEOとSEO ：コアの違いと両方の可視性を獲得する方法",
           "titleOrig": "AEO vs SEO: core differences & how to win visibility in both",
           "link": "https://www.semrush.com/blog/aeo-vs-seo/",
@@ -86,13 +93,6 @@
           "link": "https://www.semrush.com/blog/llms-txt/",
           "date": "Mon, 28 Sep 2026 16:15:00 +0000",
           "summary": "An llms.txt file is designed to help large language models (LLMs) better understand the content on your site."
-        },
-        {
-          "title": "GoogleとAI検索の10のSEOベストプラクティス",
-          "titleOrig": "10 SEO best practices for Google and AI search",
-          "link": "https://www.semrush.com/blog/seo-best-practices/",
-          "date": "Mon, 28 Sep 2026 09:18:00 +0000",
-          "summary": "SEO best practices that hold up in AI search, where Semrush found the average visitor is worth 4.4x an organic one."
         }
       ],
       "error": null
@@ -172,6 +172,13 @@
       "feedUrl": "https://blog.google/technology/ai/rss/",
       "items": [
         {
+          "title": "2026年9月に発表した最新のAIニュース",
+          "titleOrig": "The latest AI news we announced in September 2026",
+          "link": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-september-2026/",
+          "date": "Fri, 02 Oct 2026 15:00:00 +0000",
+          "summary": "Here are Google’s latest AI updates from September 2026"
+        },
+        {
           "title": "Future Vision XPRIZE、The Giftedの受賞トレーラーをご覧ください。",
           "titleOrig": "Watch the winning trailer from the Future Vision XPRIZE, The Gifted.",
           "link": "https://blog.google/innovation-and-ai/technology/ai/winner-future-vision-xprize/",
@@ -198,13 +205,6 @@
           "link": "https://blog.google/innovation-and-ai/technology/ai/google-flow-fashion-week/",
           "date": "Fri, 18 Sep 2026 13:00:00 +0000",
           "summary": "Google worked side-by-side with designers Jane Wade and Sergio Hudson to custom-design Google Flow tools to prep for NYFW."
-        },
-        {
-          "title": "グローバルデータを探索しやすくする",
-          "titleOrig": "Making global data easier to explore",
-          "link": "https://blog.google/innovation-and-ai/technology/ai/google-un-data-commons-platform/",
-          "date": "Thu, 17 Sep 2026 20:00:00 +0000",
-          "summary": "Google and the UN system have launched the UN System Data Commons, a new open platform making global statistics accessible and easy to search."
         }
       ],
       "error": null
@@ -307,11 +307,25 @@
       "feedUrl": "https://obsidian.md/changelog.xml",
       "items": [
         {
+          "title": "Obsidian 1.14.4モバイル（先行アクセス）",
+          "titleOrig": "Obsidian 1.14.4 Mobile (Early access)",
+          "link": "https://obsidian.md/changelog/2026-10-01-mobile-v1.14.4/",
+          "date": "2026-10-01T00:00:00.000Z",
+          "summary": "Includes all new features and bug fixes up to Obsidian Desktop 1.14.4. No longer broken Bases: Fixed kanban view not scrolling horizontally when every card is hidden. Bases: Fixed table view losing it"
+        },
+        {
+          "title": "Obsidian 1.14.4デスクトップ（先行アクセス）",
+          "titleOrig": "Obsidian 1.14.4 Desktop (Early access)",
+          "link": "https://obsidian.md/changelog/2026-10-01-desktop-v1.14.4/",
+          "date": "2026-10-01T00:00:00.000Z",
+          "summary": "Improvements Bases: Added “Hide column” to the right-click menu of a kanban column. Bases: A base made with “Create new base” now names its first view “View” instead of “Table”. Search in the File Exp"
+        },
+        {
           "title": "Obsidian 1.14.3モバイル（早期アクセス）",
           "titleOrig": "Obsidian 1.14.3 Mobile (Early access)",
           "link": "https://obsidian.md/changelog/2026-09-29-mobile-v1.14.3/",
           "date": "2026-09-29T00:00:00.000Z",
-          "summary": "Includes all new features and bug fixes up to Obsidian Desktop 1.14.3. New iOS: Added template support to Quick Capture when its behavior is set to daily note or a selected note. No longer broken iOS:"
+          "summary": "Includes all new features and bug fixes up to Obsidian Desktop 1.14.3. New iOS: Added template support to Quick Capture when its behavior is set to daily note or a selected note. Improvements Bases: I"
         },
         {
           "title": "Obsidian 1.14.3デスクトップ（先行アクセス）",
@@ -326,20 +340,6 @@
           "link": "https://obsidian.md/changelog/2026-09-15-mobile-v1.14.2/",
           "date": "2026-09-15T00:00:00.000Z",
           "summary": "Includes all new features and bug fixes up to Obsidian Desktop 1.14.2. New iOS 27: Added support for the new extra large Quick Capture and View Note widgets. Improvements iOS: Quick Capture’s color sc"
-        },
-        {
-          "title": "Obsidian 1.14.2デスクトップ（先行アクセス）",
-          "titleOrig": "Obsidian 1.14.2 Desktop (Early access)",
-          "link": "https://obsidian.md/changelog/2026-09-15-desktop-v1.14.2/",
-          "date": "2026-09-15T00:00:00.000Z",
-          "summary": "New You can now open files from outside your vault in Obsidian. The file opens in your current window (Desktop only). Added the “Open file from outside the vault…” command. Pick any file on your compu"
-        },
-        {
-          "title": "Obsidian 1.14.1モバイル（早期アクセス）",
-          "titleOrig": "Obsidian 1.14.1 Mobile (Early access)",
-          "link": "https://obsidian.md/changelog/2026-09-08-mobile-v1.14.1/",
-          "date": "2026-09-08T00:00:00.000Z",
-          "summary": "Includes all new features and bug fixes up to Obsidian Desktop 1.14.1. New iOS 26: Added a configurable Quick Capture Home Screen widget. Add shortcuts to capture directly to different Locations. Impr"
         }
       ],
       "error": null
@@ -351,6 +351,20 @@
       "sourceType": "tool",
       "feedUrl": "https://github.blog/feed/",
       "items": [
+        {
+          "title": "AIは開発者の仕事を変えています。ここでは、強化すべき3つのスキルをご紹介します。",
+          "titleOrig": "AI is changing developer work. Here are three skills to strengthen.",
+          "link": "https://github.blog/ai-and-ml/ai-is-rewriting-the-developer-career-ladder-heres-how-to-stand-out/",
+          "date": "Fri, 02 Oct 2026 15:00:00 +0000",
+          "summary": "Learn to direct AI agents, critically review their output, and keep technical judgment at the center of your workflow. The post AI is changing developer work. Here are three skills to strengthen. appe"
+        },
+        {
+          "title": "GitHub Universe 2026でワクワクする10のテクニカルトーク",
+          "titleOrig": "10 technical talks I’m excited about at GitHub Universe 2026",
+          "link": "https://github.blog/news-insights/company-news/10-technical-talks-im-excited-about-at-github-universe-2026/",
+          "date": "Thu, 01 Oct 2026 15:07:16 +0000",
+          "summary": "From verifying AI-written code to securing npm dependencies, these are the sessions I’m building my Universe agenda around. The post 10 technical talks I’m excited about at GitHub Universe 2026 appear"
+        },
         {
           "title": "開発者向けポリシーの最新情報：透明性、州のポリシー、今後の展開",
           "titleOrig": "Developer policy update: Transparency, state policy, and what’s ahead",
@@ -371,20 +385,6 @@
           "link": "https://github.blog/open-source/git/highlights-from-git-2-56/",
           "date": "Mon, 28 Sep 2026 17:23:33 +0000",
           "summary": "The open source Git project just released Git 2.56. Here is GitHub's look at some of the most interesting features and changes introduced since last time. The post Highlights from Git 2.56 appeared fi"
-        },
-        {
-          "title": "初心者向けGitHub Copilotアプリ：キャンバスを使用してカスタムワークフローを構築する方法",
-          "titleOrig": "GitHub Copilot app for Beginners: How to build custom workflows with canvases",
-          "link": "https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-how-to-build-custom-workflows-with-canvases/",
-          "date": "Fri, 25 Sep 2026 18:00:00 +0000",
-          "summary": "Describe the interface you need in plain English, then let the agent build a live surface you can both use and update—so you spend less time adapting to tools and more time getting work done. The post"
-        },
-        {
-          "title": "より多くのCSSを出荷することでサイトのパフォーマンスを向上させる",
-          "titleOrig": "Improving site performance by shipping more CSS",
-          "link": "https://github.blog/engineering/architecture-optimization/improving-site-performance-by-shipping-more-css/",
-          "date": "Fri, 25 Sep 2026 15:00:00 +0000",
-          "summary": "How we fully migrated github.com away from CSS-in-JS. The post Improving site performance by shipping more CSS appeared first on The GitHub Blog."
         }
       ],
       "error": null
