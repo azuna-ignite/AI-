@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-10-04T04:44:40.537Z",
+  "fetchedAt": "2026-10-07T04:47:29.754Z",
   "tools": [
     {
       "tool": "ミエルカ（YouTube）",
@@ -19,6 +19,12 @@
       "sourceType": "tool",
       "feedUrl": "https://ahrefs.com/blog/ja/feed/",
       "items": [
+        {
+          "title": "AI による概要がブランド検索の 83%に表示される現状と影響",
+          "link": "https://ahrefs.com/ja/blog/ai-overviews-on-branded-searches/",
+          "date": "Mon, 05 Oct 2026 07:37:03 +0000",
+          "summary": "Ahrefs チームはブランド検索における AI による概要の出現状況を大規模に調査しました。 その結果、現在 AI による概要はブランド検索の 83%に表示されていることが判明しました。これにより、ブランド公式ウェブサイトへのクリックが減少する恐れがあります。さらに、Wikipedia、YouTube、LinkedIn といったサードパーティの情報源が、検索結果でのブランドの見え方を左右する力を"
+        },
         {
           "title": "API ユニット上限 2 倍、AI に対する可視性、セマンティック検索、その他｜2026 年 9 月",
           "link": "https://ahrefs.com/ja/blog/september-2026-roundup/",
@@ -42,12 +48,6 @@
           "link": "https://ahrefs.com/ja/blog/letaido-skills-ai-workflow-guide/",
           "date": "Wed, 30 Sep 2026 02:14:22 +0000",
           "summary": "Letai­do のスキルズを活用し、キーワード調査やコンテンツ企画、競合分析、 SEO レポート作成をチームで共有・再利用できるワークフローに変える方法を解説します。会話モードとの違いから複合ワークフロー、カスタムスキルの自作方法まで実践的にご紹介します。"
-        },
-        {
-          "title": "Letaido で SEO KPI ダッシュボードをノーコード開発：マーケ責任者・経営層への報告が対話 1 回で完了",
-          "link": "https://ahrefs.com/ja/blog/letaido-seo-kpi-dashboard-guide/",
-          "date": "Tue, 29 Sep 2026 01:03:59 +0000",
-          "summary": "毎月の経営報告のために Excel と GA4 を往復し、資料作成に半日かかっていませんか。Ahrefs の Letaido（レタイド）なら、対話 1 回で直感的な SEO KPI ダッシュボードを構築可能。経営層向け報告の自動化から順位低下の原因分析まで、ノーコードで実務を効率化する手順を解説します。"
         }
       ],
       "error": null
@@ -59,6 +59,20 @@
       "sourceType": "tool",
       "feedUrl": "https://www.semrush.com/blog/feed/",
       "items": [
+        {
+          "title": "Google AIの概要がほとんどの主要ブランドに表示されるようになりました",
+          "titleOrig": "Google AI Overviews now appear for most major brands",
+          "link": "https://www.semrush.com/blog/ai-overviews-appearing-for-major-brands/",
+          "date": "Tue, 06 Oct 2026 09:06:00 +0000",
+          "summary": "Google AI Overviews now appear for more than 80% of the branded queries DemandSphere tracks, up from 26% on Sept. 1. Google hasn‘t explained why."
+        },
+        {
+          "title": "ローカルSEO ：それは何ですか？どのように行うのですか？",
+          "titleOrig": "Local SEO: What is it & how to do it",
+          "link": "https://www.semrush.com/blog/what-is-local-seo/",
+          "date": "Mon, 05 Oct 2026 12:51:00 +0000",
+          "summary": "Local SEO is the process of improving search visibility, traffic, and brand awareness for local businesses."
+        },
         {
           "title": "究極のSEOチェックリスト：ウェブサイトを最適化する43のヒント",
           "titleOrig": "Ultimate SEO checklist: 43 tips to optimize your website",
@@ -79,20 +93,6 @@
           "link": "https://www.semrush.com/blog/llm-positioning-lag/",
           "date": "Tue, 29 Sep 2026 14:50:00 +0000",
           "summary": "See why LLMs get your brand positioning wrong and how to fix it."
-        },
-        {
-          "title": "Googleが2026年9月のスパムに関するアップデートをリリース",
-          "titleOrig": "Google releases September 2026 spam update",
-          "link": "https://www.semrush.com/blog/google-spam-update-september-2026/",
-          "date": "Tue, 29 Sep 2026 08:26:00 +0000",
-          "summary": "Google’s September 2026 spam update may take up to two weeks to roll out, making ranking drops harder to diagnose."
-        },
-        {
-          "title": "Llms.txtとは何ですか？使用する必要がありますか？",
-          "titleOrig": "What is llms.txt & should you use it?",
-          "link": "https://www.semrush.com/blog/llms-txt/",
-          "date": "Mon, 28 Sep 2026 16:15:00 +0000",
-          "summary": "An llms.txt file is designed to help large language models (LLMs) better understand the content on your site."
         }
       ],
       "error": null
@@ -123,6 +123,18 @@
       "feedUrl": "https://rakkokeyword.com/techo/feed/",
       "items": [
         {
+          "title": "キーワードグルーピングのやり方とは？分類のコツとツールを解説",
+          "link": "https://rakkokeyword.com/techo/keyword-grouping-guide-tips-tools/",
+          "date": "Tue, 06 Oct 2026 07:43:43 +0000",
+          "summary": "集めたキーワードは、「検索意図」と「検索結果の重なり」を基準にグルーピングすれば、1記事で狙うキーワードの組み合わせを迷わず決められます。 ポイントは、分類の前に材料となるキーワードを漏れなく集めておくことです。 この記 ..."
+        },
+        {
+          "title": "共起語とは？SEOでの調べ方と抽出のやり方をやさしく解説",
+          "link": "https://rakkokeyword.com/techo/co-occurrence-words-seo-guide/",
+          "date": "Mon, 05 Oct 2026 01:31:15 +0000",
+          "summary": "共起語は「上位記事に共通して登場する語」を手がかりに、読者が知りたい情報の抜け漏れを見つけるための分析材料です。 入れれば順位が上がる魔法の言葉ではありませんが、正しく使えば構成案づくりやリライトの精度を上げられます。 ..."
+        },
+        {
           "title": "無料の検索順位チェックツールおすすめは？選び方と使い方を解説",
           "link": "https://rakkokeyword.com/techo/free-search-rank-tracking-tools-guide/",
           "date": "Thu, 01 Oct 2026 02:59:37 +0000",
@@ -139,18 +151,6 @@
           "link": "https://rakkokeyword.com/techo/tool-synonym-rephrase/",
           "date": "Fri, 25 Sep 2026 09:26:42 +0000",
           "summary": "検索 入力した単語の言い換え表現（類語・同義語）を一覧で表示するツールです。「同じ言葉を何度も使ってしまい、文章が単調に見える」「もっとしっくりくる言い回しにして、文章の印象を良くしたい」というときに、言い換えたい単語を ..."
-        },
-        {
-          "title": "オウンドメディアの作り方・立ち上げ手順",
-          "link": "https://rakkokeyword.com/techo/how-to-start-owned-media/",
-          "date": "Fri, 25 Sep 2026 08:50:53 +0000",
-          "summary": "オウンドメディアは、正しい順番で準備すれば専門部署がなくても立ち上げられます。 大切なのは、サイトを作る前に「誰に・何を届けて・どんな成果を出すか」を決めておくことです。 この記事では、はじめてオウンドメディアを担当する ..."
-        },
-        {
-          "title": "マーケティングのペルソナとは？設計手順と具体例を解説",
-          "link": "https://rakkokeyword.com/techo/marketing-persona-guide-examples/",
-          "date": "Fri, 25 Sep 2026 00:06:00 +0000",
-          "summary": "マーケティングのペルソナとは、商品やサービスを使う「たった1人の具体的な顧客像」のことです。 属性を大まかに区切るターゲットと違い、名前や価値観、休日の過ごし方まで作り込むことで、チーム全員が同じ顧客を思い浮かべながら施 ..."
         }
       ],
       "error": null
@@ -262,6 +262,13 @@
       "feedUrl": "https://wordpress.org/news/feed/",
       "items": [
         {
+          "title": "WordPress 7.1.3メンテナンスとセキュリティリリース",
+          "titleOrig": "WordPress 7.1.3 Maintenance and Security Release",
+          "link": "https://wordpress.org/news/2026/10/wordpress-7-1-3-maintenance-and-security-release/",
+          "date": "Tue, 06 Oct 2026 17:00:00 +0000",
+          "summary": "This security and maintenance release features 7 security fixes and 4 bug fixes. Because this is a security release, it is recommended that you update your sites immediately. You can download WordPres"
+        },
+        {
           "title": "WordPress 7.1.2リリース",
           "titleOrig": "WordPress 7.1.2 Release",
           "link": "https://wordpress.org/news/2026/09/wordpress-7-1-2-release/",
@@ -288,13 +295,6 @@
           "link": "https://wordpress.org/news/2026/09/108-student-websites/",
           "date": "Mon, 07 Sep 2026 23:19:34 +0000",
           "summary": "In July, students at two campuses in Kishoreganj, Bangladesh, built 108 websites. In eastern Uganda, a workshop that arrived to find no electricity at the school ran anyway, for more than 100 learners"
-        },
-        {
-          "title": "WordPressがオープンウェイトとアメリカのAIリーダーシップレターに署名",
-          "titleOrig": "WordPress Signs the Open Weights and American AI Leadership Letter",
-          "link": "https://wordpress.org/news/2026/08/open-weight/",
-          "date": "Thu, 27 Aug 2026 17:00:32 +0000",
-          "summary": "We’re proud to announce that WordPress has signed Open Weights and American AI Leadership, an open letter asking US policymakers to not place early restrictions on open weight AI models. These are art"
         }
       ],
       "error": null
@@ -306,6 +306,20 @@
       "sourceType": "tool",
       "feedUrl": "https://obsidian.md/changelog.xml",
       "items": [
+        {
+          "title": "Obsidian 1.14モバイル（パブリック）",
+          "titleOrig": "Obsidian 1.14 Mobile (Public)",
+          "link": "https://obsidian.md/changelog/2026-10-05-mobile-v1.14.4/",
+          "date": "2026-10-05T00:00:00.000Z",
+          "summary": "Includes all new features and bug fixes up to Obsidian Desktop v1.14.4. While you’re here… Tell us about your favorite plugins, themes, tools, and ways to use Obsidian: take the State of Obsidian 2026"
+        },
+        {
+          "title": "Obsidian 1.14デスクトップ（パブリック）",
+          "titleOrig": "Obsidian 1.14 Desktop (Public)",
+          "link": "https://obsidian.md/changelog/2026-10-05-desktop-v1.14.4/",
+          "date": "2026-10-05T00:00:00.000Z",
+          "summary": "This update introduces support for opening individual Markdown files, a kanban view for Bases, and highlight colors. Important: opening Markdown files requires the latest installer. Download Obsidian "
+        },
         {
           "title": "Obsidian 1.14.4モバイル（先行アクセス）",
           "titleOrig": "Obsidian 1.14.4 Mobile (Early access)",
@@ -326,20 +340,6 @@
           "link": "https://obsidian.md/changelog/2026-09-29-mobile-v1.14.3/",
           "date": "2026-09-29T00:00:00.000Z",
           "summary": "Includes all new features and bug fixes up to Obsidian Desktop 1.14.3. New iOS: Added template support to Quick Capture when its behavior is set to daily note or a selected note. Improvements Bases: I"
-        },
-        {
-          "title": "Obsidian 1.14.3デスクトップ（先行アクセス）",
-          "titleOrig": "Obsidian 1.14.3 Desktop (Early access)",
-          "link": "https://obsidian.md/changelog/2026-09-29-desktop-v1.14.3/",
-          "date": "2026-09-29T00:00:00.000Z",
-          "summary": "New Added Quick Look previews for Markdown files on macOS (requires latest installer). Added document icons on macOS and Windows for .md, .base and .canvas. Bases: Added a Group menu to the toolbar fo"
-        },
-        {
-          "title": "Obsidian 1.14.2モバイル（先行アクセス）",
-          "titleOrig": "Obsidian 1.14.2 Mobile (Early access)",
-          "link": "https://obsidian.md/changelog/2026-09-15-mobile-v1.14.2/",
-          "date": "2026-09-15T00:00:00.000Z",
-          "summary": "Includes all new features and bug fixes up to Obsidian Desktop 1.14.2. New iOS 27: Added support for the new extra large Quick Capture and View Note widgets. Improvements iOS: Quick Capture’s color sc"
         }
       ],
       "error": null
@@ -351,6 +351,20 @@
       "sourceType": "tool",
       "feedUrl": "https://github.blog/feed/",
       "items": [
+        {
+          "title": "エージェント規模の開発のためのGitインフラストラクチャの構築",
+          "titleOrig": "Building Git infrastructure for agent-scale development",
+          "link": "https://github.blog/engineering/architecture-optimization/building-git-infrastructure-for-agent-scale-development/",
+          "date": "Tue, 06 Oct 2026 20:57:56 +0000",
+          "summary": "We're rebuilding GitHub's Git infrastructure while GitHub keeps running, creating a foundation for agent-scale software development. The post Building Git infrastructure for agent-scale development ap"
+        },
+        {
+          "title": "ReviewBench ： AIコードレビューのオープンベンチマーク",
+          "titleOrig": "ReviewBench: An open benchmark for AI code review",
+          "link": "https://github.blog/ai-and-ml/github-copilot/reviewbench-an-open-benchmark-for-ai-code-review/",
+          "date": "Mon, 05 Oct 2026 15:59:40 +0000",
+          "summary": "We’re launching ReviewBench, a benchmark for code review agents built on representative GitHub pull requests, multi-source ground truth, calibrated evaluation, and production-aligned metrics. The post"
+        },
         {
           "title": "AIは開発者の仕事を変えています。ここでは、強化すべき3つのスキルをご紹介します。",
           "titleOrig": "AI is changing developer work. Here are three skills to strengthen.",
@@ -371,20 +385,6 @@
           "link": "https://github.blog/news-insights/policy-news-and-insights/developer-policy-update-transparency-state-policy-and-whats-ahead/",
           "date": "Tue, 29 Sep 2026 15:00:00 +0000",
           "summary": "Explore GitHub’s latest transparency data and learn more about policy updates affecting developers and open source. The post Developer policy update: Transparency, state policy, and what’s ahead appea"
-        },
-        {
-          "title": "オープンソースのAIセキュリティエージェントを使用して24のAndroid脆弱性を発見した方法",
-          "titleOrig": "How we found 24 Android vulnerabilities using our open source AI security agent",
-          "link": "https://github.blog/security/how-we-found-24-android-vulnerabilities-using-our-open-source-ai-security-agent/",
-          "date": "Mon, 28 Sep 2026 19:00:00 +0000",
-          "summary": "A look at the targeted AI taskflows behind these findings, the critical Android bugs they uncovered, and how to run the same open-source agent on your own app. The post How we found 24 Android vulnera"
-        },
-        {
-          "title": "Git 2.56のハイライト",
-          "titleOrig": "Highlights from Git 2.56",
-          "link": "https://github.blog/open-source/git/highlights-from-git-2-56/",
-          "date": "Mon, 28 Sep 2026 17:23:33 +0000",
-          "summary": "The open source Git project just released Git 2.56. Here is GitHub's look at some of the most interesting features and changes introduced since last time. The post Highlights from Git 2.56 appeared fi"
         }
       ],
       "error": null
