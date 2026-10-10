@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-10-07T04:47:29.754Z",
+  "fetchedAt": "2026-10-10T04:46:21.316Z",
   "tools": [
     {
       "tool": "ミエルカ（YouTube）",
@@ -20,6 +20,18 @@
       "feedUrl": "https://ahrefs.com/blog/ja/feed/",
       "items": [
         {
+          "title": "マーケターの 69% が「AI ライティングによるコンテンツ公開が前年より増えた」と回答（最新調査レポート）",
+          "link": "https://ahrefs.com/ja/blog/marketers-ai-content-creation/",
+          "date": "Fri, 09 Oct 2026 03:30:10 +0000",
+          "summary": "Ahrefs チームは 2 年連続で、AI がコンテンツマーケティングのあらゆる側面に与える影響を把握すべく、マーケター調査を実施しました。 301 名のマーケターから、AI の活用目的や生産性への影響、愛用ツールなどについて回答を得ました。 301 名中 280 名（93%）が、コンテンツの作成やその補助に AI を使っていると回答しました。昨年の調査の 87%から上昇しています。 AI を使っ"
+        },
+        {
+          "title": "AI 可視性を任せられるツール：ブランドレーダーの初期設定から継続的な監視まで、一気通貫のワークフロー",
+          "link": "https://ahrefs.com/ja/blog/ai-visibility-workflow/",
+          "date": "Thu, 08 Oct 2026 07:57:36 +0000",
+          "summary": "AI における可視性（AI visibility）は、一つの問題ではありません。遠くから見ると似ているだけで、実際にはまったく異なる複数の問題の集合体です。 ブランドが重要な会話から欠落している、競合に推薦枠を奪われている、間違ったトピックと関連づけられている、古い情報で紹介されているといったケースがあります。そもそも、AI アシスタントがコンテンツにアクセスできていない場合もあります。 これらの"
+        },
+        {
           "title": "AI による概要がブランド検索の 83%に表示される現状と影響",
           "link": "https://ahrefs.com/ja/blog/ai-overviews-on-branded-searches/",
           "date": "Mon, 05 Oct 2026 07:37:03 +0000",
@@ -36,18 +48,6 @@
           "link": "https://ahrefs.com/ja/blog/ahrefs-brand-radar-ai-visibility-guide/",
           "date": "Wed, 30 Sep 2026 06:48:48 +0000",
           "summary": "本記事では Ahrefs ブランドレーダーの基本機能、AI シェア・オブ・ボイス、引用・センチメントの読み方、カスタムプロンプトの設計方法、計測結果から改善サイクルを回す方法を分かりやすく解説します。"
-        },
-        {
-          "title": "Wikipedia が首位、YouTube は 5 位に後退。日本で AI が引用するドメイン最新ランキング 2026 年 9 月版",
-          "link": "https://ahrefs.com/ja/blog/brand-radar-top-10-cited-domains-2026-september/",
-          "date": "Wed, 30 Sep 2026 04:10:46 +0000",
-          "summary": "Ahrefs ブランドレーダーで、日本の AI 検索が引用するドメインを再分析。前回（ 2026 年 6 月版）から 3 ヶ月で、総合 1 位が入れ替わり、Reddit は全 AI で TOP 10 から姿を消しました。 AI が回答を生成するとき、どのサイトを情報源として引用しているのか。前回の 6 月版では「 YouTube の首位は不動」「 Red­dit が Chat­G­PT で首位」と"
-        },
-        {
-          "title": "Letaido スキルズ活用ガイド：キーワード調査・コンテンツ企画・レポート作成をプリセットで自動化",
-          "link": "https://ahrefs.com/ja/blog/letaido-skills-ai-workflow-guide/",
-          "date": "Wed, 30 Sep 2026 02:14:22 +0000",
-          "summary": "Letai­do のスキルズを活用し、キーワード調査やコンテンツ企画、競合分析、 SEO レポート作成をチームで共有・再利用できるワークフローに変える方法を解説します。会話モードとの違いから複合ワークフロー、カスタムスキルの自作方法まで実践的にご紹介します。"
         }
       ],
       "error": null
@@ -59,6 +59,27 @@
       "sourceType": "tool",
       "feedUrl": "https://www.semrush.com/blog/feed/",
       "items": [
+        {
+          "title": "SEOにおける4種類のキーワード（+例）",
+          "titleOrig": "4 types of keywords in SEO (+ examples)",
+          "link": "https://www.semrush.com/blog/types-of-keywords-commercial-informational-navigational-transactional/",
+          "date": "Fri, 09 Oct 2026 09:10:00 +0000",
+          "summary": "Learn the four types of keywords in SEO and how to optimize your content to rank for each type of keyword."
+        },
+        {
+          "title": "SemrushでAIの引用とソースを追跡する方法",
+          "titleOrig": "How to track your AI citations and sources with Semrush",
+          "link": "https://www.semrush.com/blog/track-ai-citation-sources-semrush/",
+          "date": "Wed, 07 Oct 2026 12:01:00 +0000",
+          "summary": "Find the sources that are cited when your brand is missing from AI answers and take action with content or outreach to get more mentions."
+        },
+        {
+          "title": "マルチロケーションSEO ：スケーラブルな戦略を構築する方法",
+          "titleOrig": "Multi-location SEO: How to build a scalable strategy",
+          "link": "https://www.semrush.com/blog/multi-location-seo/",
+          "date": "Wed, 07 Oct 2026 09:39:00 +0000",
+          "summary": "Multi-location SEO starts with one approved record per branch that feeds its page, Google Business Profile, schema, and listings."
+        },
         {
           "title": "Google AIの概要がほとんどの主要ブランドに表示されるようになりました",
           "titleOrig": "Google AI Overviews now appear for most major brands",
@@ -72,27 +93,6 @@
           "link": "https://www.semrush.com/blog/what-is-local-seo/",
           "date": "Mon, 05 Oct 2026 12:51:00 +0000",
           "summary": "Local SEO is the process of improving search visibility, traffic, and brand awareness for local businesses."
-        },
-        {
-          "title": "究極のSEOチェックリスト：ウェブサイトを最適化する43のヒント",
-          "titleOrig": "Ultimate SEO checklist: 43 tips to optimize your website",
-          "link": "https://www.semrush.com/blog/seo-checklist/",
-          "date": "Thu, 01 Oct 2026 08:25:00 +0000",
-          "summary": "Use this SEO checklist to optimize your site for both Google and AI-driven search results."
-        },
-        {
-          "title": "AEOとSEO ：コアの違いと両方の可視性を獲得する方法",
-          "titleOrig": "AEO vs SEO: core differences & how to win visibility in both",
-          "link": "https://www.semrush.com/blog/aeo-vs-seo/",
-          "date": "Wed, 30 Sep 2026 08:36:00 +0000",
-          "summary": "Discover the key differences between SEO and AEO. Learn how each works, where they overlap, and practical strategies to win visibility in both."
-        },
-        {
-          "title": "LLMのポジショニングラグ：それが何であるか、そしてそれを回避する方法",
-          "titleOrig": "The LLM positioning lag: What it is and how to avoid it",
-          "link": "https://www.semrush.com/blog/llm-positioning-lag/",
-          "date": "Tue, 29 Sep 2026 14:50:00 +0000",
-          "summary": "See why LLMs get your brand positioning wrong and how to fix it."
         }
       ],
       "error": null
@@ -172,6 +172,13 @@
       "feedUrl": "https://blog.google/technology/ai/rss/",
       "items": [
         {
+          "title": "プレイグラウンドのご紹介：カスタムゲームの作成とプレイ",
+          "titleOrig": "Introducing Playground: Create and play custom games",
+          "link": "https://blog.google/innovation-and-ai/technology/ai/playground-experimental-gaming-platform/",
+          "date": "Wed, 07 Oct 2026 12:00:00 +0000",
+          "summary": "Playground is a new experimental gaming platform that lets you create, play, and share custom games."
+        },
+        {
           "title": "2026年9月に発表した最新のAIニュース",
           "titleOrig": "The latest AI news we announced in September 2026",
           "link": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-september-2026/",
@@ -198,13 +205,6 @@
           "link": "https://blog.google/innovation-and-ai/technology/ai/expanding-ai-economy-research-bench/",
           "date": "Fri, 18 Sep 2026 14:00:00 +0000",
           "summary": "We are expanding our AI & Economy team with world-class academic advisors, fellows, and core internal researchers."
-        },
-        {
-          "title": "Googleとファッションの未来を共創",
-          "titleOrig": "Co-creating the future of fashion with Google",
-          "link": "https://blog.google/innovation-and-ai/technology/ai/google-flow-fashion-week/",
-          "date": "Fri, 18 Sep 2026 13:00:00 +0000",
-          "summary": "Google worked side-by-side with designers Jane Wade and Sergio Hudson to custom-design Google Flow tools to prep for NYFW."
         }
       ],
       "error": null
@@ -352,6 +352,27 @@
       "feedUrl": "https://github.blog/feed/",
       "items": [
         {
+          "title": "ハッキング・ザ・ワールド：ハッカソンがまだ構築方法を学ぶのに最適な場所である理由",
+          "titleOrig": "Hack the World: Why hackathons are still the best place to learn to build",
+          "link": "https://github.blog/developer-skills/career-growth/hack-the-world-why-hackathons-are-still-the-best-place-to-learn-to-build/",
+          "date": "Fri, 09 Oct 2026 16:00:00 +0000",
+          "summary": "The barriers to building software have collapsed. Today, anyone can build. Hackathons are a great place to start learning. The post Hack the World: Why hackathons are still the best place to learn to "
+        },
+        {
+          "title": "1人のバグ報奨金研究者が調査対象の機能を選択する方法",
+          "titleOrig": "How one bug bounty researcher chooses the features they investigate",
+          "link": "https://github.blog/security/how-one-bug-bounty-researcher-chooses-the-features-they-investigate/",
+          "date": "Thu, 08 Oct 2026 17:02:52 +0000",
+          "summary": "As we kick off Cybersecurity Awareness Month, the GitHub Bug Bounty team spotlights @vaib25vicky, exploring their methodology, techniques, and experiences hacking on GitHub. The post How one bug bount"
+        },
+        {
+          "title": "秘密保護はソフトウェアに合わせて拡張する必要があります",
+          "titleOrig": "Secret protection must scale with software",
+          "link": "https://github.blog/ai-and-ml/github-copilot/secret-protection-must-scale-with-software/",
+          "date": "Wed, 07 Oct 2026 17:45:34 +0000",
+          "summary": "Developers aren’t becoming more careless; they’re being outpaced. The tools that let developers create more software should also take on more of the work of protecting it. The post Secret protection m"
+        },
+        {
           "title": "エージェント規模の開発のためのGitインフラストラクチャの構築",
           "titleOrig": "Building Git infrastructure for agent-scale development",
           "link": "https://github.blog/engineering/architecture-optimization/building-git-infrastructure-for-agent-scale-development/",
@@ -364,27 +385,6 @@
           "link": "https://github.blog/ai-and-ml/github-copilot/reviewbench-an-open-benchmark-for-ai-code-review/",
           "date": "Mon, 05 Oct 2026 15:59:40 +0000",
           "summary": "We’re launching ReviewBench, a benchmark for code review agents built on representative GitHub pull requests, multi-source ground truth, calibrated evaluation, and production-aligned metrics. The post"
-        },
-        {
-          "title": "AIは開発者の仕事を変えています。ここでは、強化すべき3つのスキルをご紹介します。",
-          "titleOrig": "AI is changing developer work. Here are three skills to strengthen.",
-          "link": "https://github.blog/ai-and-ml/ai-is-rewriting-the-developer-career-ladder-heres-how-to-stand-out/",
-          "date": "Fri, 02 Oct 2026 15:00:00 +0000",
-          "summary": "Learn to direct AI agents, critically review their output, and keep technical judgment at the center of your workflow. The post AI is changing developer work. Here are three skills to strengthen. appe"
-        },
-        {
-          "title": "GitHub Universe 2026でワクワクする10のテクニカルトーク",
-          "titleOrig": "10 technical talks I’m excited about at GitHub Universe 2026",
-          "link": "https://github.blog/news-insights/company-news/10-technical-talks-im-excited-about-at-github-universe-2026/",
-          "date": "Thu, 01 Oct 2026 15:07:16 +0000",
-          "summary": "From verifying AI-written code to securing npm dependencies, these are the sessions I’m building my Universe agenda around. The post 10 technical talks I’m excited about at GitHub Universe 2026 appear"
-        },
-        {
-          "title": "開発者向けポリシーの最新情報：透明性、州のポリシー、今後の展開",
-          "titleOrig": "Developer policy update: Transparency, state policy, and what’s ahead",
-          "link": "https://github.blog/news-insights/policy-news-and-insights/developer-policy-update-transparency-state-policy-and-whats-ahead/",
-          "date": "Tue, 29 Sep 2026 15:00:00 +0000",
-          "summary": "Explore GitHub’s latest transparency data and learn more about policy updates affecting developers and open source. The post Developer policy update: Transparency, state policy, and what’s ahead appea"
         }
       ],
       "error": null
