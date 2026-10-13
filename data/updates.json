@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-10-12T04:47:33.805Z",
+  "fetchedAt": "2026-10-13T05:50:55.906Z",
   "tools": [
     {
       "tool": "ミエルカ（YouTube）",
@@ -60,6 +60,13 @@
       "feedUrl": "https://www.semrush.com/blog/feed/",
       "items": [
         {
+          "title": "SemrushでAI可視性ダッシュボードを構築する方法",
+          "titleOrig": "How to build an AI visibility dashboard with Semrush",
+          "link": "https://www.semrush.com/blog/how-to-build-an-ai-visibility-dashboard-semrush/",
+          "date": "Mon, 12 Oct 2026 09:45:00 +0000",
+          "summary": "Learn how to build an AI visibility dashboard that shows whether the pages AI cites are the ones earning Google clicks."
+        },
+        {
           "title": "SEOにおける4種類のキーワード（+例）",
           "titleOrig": "4 types of keywords in SEO (+ examples)",
           "link": "https://www.semrush.com/blog/types-of-keywords-commercial-informational-navigational-transactional/",
@@ -86,13 +93,6 @@
           "link": "https://www.semrush.com/blog/ai-overviews-appearing-for-major-brands/",
           "date": "Tue, 06 Oct 2026 09:06:00 +0000",
           "summary": "Google AI Overviews now appear for more than 80% of the branded queries DemandSphere tracks, up from 26% on Sept. 1. Google hasn‘t explained why."
-        },
-        {
-          "title": "ローカルSEO ：それは何ですか？どのように行うのですか？",
-          "titleOrig": "Local SEO: What is it & how to do it",
-          "link": "https://www.semrush.com/blog/what-is-local-seo/",
-          "date": "Mon, 05 Oct 2026 12:51:00 +0000",
-          "summary": "Local SEO is the process of improving search visibility, traffic, and brand awareness for local businesses."
         }
       ],
       "error": null
@@ -200,7 +200,7 @@
           "summary": "We’re expanding Google Beam to five new countries, and partnering with Industrious for an extended network."
         },
         {
-          "title": "New experts join Google’s AI & Economy team",
+          "title": "GoogleのAI & Economyチームに新しいエキスパートが加わりました",
           "titleOrig": "New experts join Google’s AI & Economy team",
           "link": "https://blog.google/innovation-and-ai/technology/ai/expanding-ai-economy-research-bench/",
           "date": "Fri, 18 Sep 2026 14:00:00 +0000",
@@ -352,6 +352,13 @@
       "feedUrl": "https://github.blog/feed/",
       "items": [
         {
+          "title": "初心者向けGitHub Copilotアプリ：コードベースについてCopilotに教える方法",
+          "titleOrig": "GitHub Copilot app for Beginners: How to teach Copilot about your codebase",
+          "link": "https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-how-to-teach-copilot-about-your-codebase/",
+          "date": "Mon, 12 Oct 2026 17:43:59 +0000",
+          "summary": "Learn how to add custom instructions and skills to your repository, use custom agents, and connect MCP servers like Playwright. The post GitHub Copilot app for Beginners: How to teach Copilot about yo"
+        },
+        {
           "title": "ハッキング・ザ・ワールド：ハッカソンがまだ構築方法を学ぶのに最適な場所である理由",
           "titleOrig": "Hack the World: Why hackathons are still the best place to learn to build",
           "link": "https://github.blog/developer-skills/career-growth/hack-the-world-why-hackathons-are-still-the-best-place-to-learn-to-build/",
@@ -378,13 +385,6 @@
           "link": "https://github.blog/engineering/architecture-optimization/building-git-infrastructure-for-agent-scale-development/",
           "date": "Tue, 06 Oct 2026 20:57:56 +0000",
           "summary": "We're rebuilding GitHub's Git infrastructure while GitHub keeps running, creating a foundation for agent-scale software development. The post Building Git infrastructure for agent-scale development ap"
-        },
-        {
-          "title": "ReviewBench ： AIコードレビューのオープンベンチマーク",
-          "titleOrig": "ReviewBench: An open benchmark for AI code review",
-          "link": "https://github.blog/ai-and-ml/github-copilot/reviewbench-an-open-benchmark-for-ai-code-review/",
-          "date": "Mon, 05 Oct 2026 15:59:40 +0000",
-          "summary": "We’re launching ReviewBench, a benchmark for code review agents built on representative GitHub pull requests, multi-source ground truth, calibrated evaluation, and production-aligned metrics. The post"
         }
       ],
       "error": null
