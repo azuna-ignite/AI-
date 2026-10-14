@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-10-13T05:50:55.906Z",
+  "fetchedAt": "2026-10-14T03:54:15.677Z",
   "tools": [
     {
       "tool": "ミエルカ（YouTube）",
@@ -172,6 +172,13 @@
       "feedUrl": "https://blog.google/technology/ai/rss/",
       "items": [
         {
+          "title": "ジェミニ4アルゴン：最も困難な問題を解決するために作られました",
+          "titleOrig": "Gemini 4 Argon: Built to solve your hardest problems",
+          "link": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-argon/",
+          "date": "Tue, 13 Oct 2026 16:00:00 +0000",
+          "summary": "We’re giving developers, enterprises, scientists, and consumers access to Gemini 4 Argon, our latest frontier model."
+        },
+        {
           "title": "プレイグラウンドのご紹介：カスタムゲームの作成とプレイ",
           "titleOrig": "Introducing Playground: Create and play custom games",
           "link": "https://blog.google/innovation-and-ai/technology/ai/playground-experimental-gaming-platform/",
@@ -198,13 +205,6 @@
           "link": "https://blog.google/innovation-and-ai/technology/research/google-beam-expansion/",
           "date": "Wed, 23 Sep 2026 18:00:00 +0000",
           "summary": "We’re expanding Google Beam to five new countries, and partnering with Industrious for an extended network."
-        },
-        {
-          "title": "GoogleのAI & Economyチームに新しいエキスパートが加わりました",
-          "titleOrig": "New experts join Google’s AI & Economy team",
-          "link": "https://blog.google/innovation-and-ai/technology/ai/expanding-ai-economy-research-bench/",
-          "date": "Fri, 18 Sep 2026 14:00:00 +0000",
-          "summary": "We are expanding our AI & Economy team with world-class academic advisors, fellows, and core internal researchers."
         }
       ],
       "error": null
@@ -352,6 +352,13 @@
       "feedUrl": "https://github.blog/feed/",
       "items": [
         {
+          "title": "秘密検出のためのGitHubのモデル：ノイズの少ないより多くの秘密を見つける",
+          "titleOrig": "GitHub’s model for secret detection: Finding more secrets with less noise",
+          "link": "https://github.blog/ai-and-ml/githubs-model-for-secret-detection-finding-more-secrets-with-less-noise/",
+          "date": "Tue, 13 Oct 2026 17:56:33 +0000",
+          "summary": "GitHub’s context-aware secret classifier improves detection quality, raises weighted acceptance by 11.5%, and reduces median scan execution time by 86%. The post GitHub’s model for secret detection: F"
+        },
+        {
           "title": "初心者向けGitHub Copilotアプリ：コードベースについてCopilotに教える方法",
           "titleOrig": "GitHub Copilot app for Beginners: How to teach Copilot about your codebase",
           "link": "https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-how-to-teach-copilot-about-your-codebase/",
@@ -378,13 +385,6 @@
           "link": "https://github.blog/ai-and-ml/github-copilot/secret-protection-must-scale-with-software/",
           "date": "Wed, 07 Oct 2026 17:45:34 +0000",
           "summary": "Developers aren’t becoming more careless; they’re being outpaced. The tools that let developers create more software should also take on more of the work of protecting it. The post Secret protection m"
-        },
-        {
-          "title": "エージェント規模の開発のためのGitインフラストラクチャの構築",
-          "titleOrig": "Building Git infrastructure for agent-scale development",
-          "link": "https://github.blog/engineering/architecture-optimization/building-git-infrastructure-for-agent-scale-development/",
-          "date": "Tue, 06 Oct 2026 20:57:56 +0000",
-          "summary": "We're rebuilding GitHub's Git infrastructure while GitHub keeps running, creating a foundation for agent-scale software development. The post Building Git infrastructure for agent-scale development ap"
         }
       ],
       "error": null
