@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-10-15T03:35:47.624Z",
+  "fetchedAt": "2026-10-16T03:31:38.917Z",
   "tools": [
     {
       "tool": "ミエルカ（YouTube）",
@@ -19,6 +19,12 @@
       "sourceType": "tool",
       "feedUrl": "https://ahrefs.com/blog/ja/feed/",
       "items": [
+        {
+          "title": "ChatGPTのクエリファンアウト分析：1,500万クエリの調査結果",
+          "link": "https://ahrefs.com/ja/blog/query-fan-out-chatgpt/",
+          "date": "Thu, 15 Oct 2026 08:11:14 +0000",
+          "summary": "ChatGPTがどのようにクエリファンアウトを実行するかを1,500万件の実際のクエリデータから分析。14.4%のレスポンスでWeb検索が実行され、平均1.6回のファンアウトクエリが発生することが判明。"
+        },
         {
           "title": "マーケターの 69% が「AI ライティングによるコンテンツ公開が前年より増えた」と回答（最新調査レポート）",
           "link": "https://ahrefs.com/ja/blog/marketers-ai-content-creation/",
@@ -42,12 +48,6 @@
           "link": "https://ahrefs.com/ja/blog/september-2026-roundup/",
           "date": "Thu, 01 Oct 2026 03:18:15 +0000",
           "summary": "今月は 7 件のアップデートがあります。API ユニット上限が全プランで 2 倍に、AI ディスカバラビリティ問題カテゴリの追加、セマンティックキーワード検索の導入など、改善が盛りだくさんです。それでは詳しく見ていきましょう。"
-        },
-        {
-          "title": "進化版 Ahrefs（エイチレフス）ブランドレーダーの基本をおさらい：AI 検索で自社ブランドがどう見られているかを計測・改善する方法",
-          "link": "https://ahrefs.com/ja/blog/ahrefs-brand-radar-ai-visibility-guide/",
-          "date": "Wed, 30 Sep 2026 06:48:48 +0000",
-          "summary": "本記事では Ahrefs ブランドレーダーの基本機能、AI シェア・オブ・ボイス、引用・センチメントの読み方、カスタムプロンプトの設計方法、計測結果から改善サイクルを回す方法を分かりやすく解説します。"
         }
       ],
       "error": null
@@ -59,6 +59,13 @@
       "sourceType": "tool",
       "feedUrl": "https://www.semrush.com/blog/feed/",
       "items": [
+        {
+          "title": "Claude & the Semrush MCPによるSEO監査の方法",
+          "titleOrig": "How to do an SEO audit with Claude & the Semrush MCP",
+          "link": "https://www.semrush.com/blog/semrush-seo-audit-with-claude/",
+          "date": "Thu, 15 Oct 2026 12:32:00 +0000",
+          "summary": "Scan your website in Site Audit, connect Semrush’s MCP to Claude, and have Claude analyze the audit data."
+        },
         {
           "title": "SemrushでAI可視性ダッシュボードを構築する方法",
           "titleOrig": "How to build an AI visibility dashboard with Semrush",
@@ -86,13 +93,6 @@
           "link": "https://www.semrush.com/blog/multi-location-seo/",
           "date": "Wed, 07 Oct 2026 09:39:00 +0000",
           "summary": "Multi-location SEO starts with one approved record per branch that feeds its page, Google Business Profile, schema, and listings."
-        },
-        {
-          "title": "Google AIの概要がほとんどの主要ブランドに表示されるようになりました",
-          "titleOrig": "Google AI Overviews now appear for most major brands",
-          "link": "https://www.semrush.com/blog/ai-overviews-appearing-for-major-brands/",
-          "date": "Tue, 06 Oct 2026 09:06:00 +0000",
-          "summary": "Google AI Overviews now appear for more than 80% of the branded queries DemandSphere tracks, up from 26% on Sept. 1. Google hasn‘t explained why."
         }
       ],
       "error": null
@@ -123,6 +123,18 @@
       "feedUrl": "https://rakkokeyword.com/techo/feed/",
       "items": [
         {
+          "title": "ブログの競合調査のやり方とは？分析手順とチェック項目を解説",
+          "link": "https://rakkokeyword.com/techo/blog-competitor-analysis-steps-checklist/",
+          "date": "Thu, 15 Oct 2026 05:21:02 +0000",
+          "summary": "ブログの伸び悩みは、上位の競合ブログを「どのキーワードで集客しているか」から調べると、原因と次の打ち手が具体的に見えてきます。 競合調査といっても、大がかりな分析は必要ありません。 競合の獲得キーワードと上位記事の頻出語 ..."
+        },
+        {
+          "title": "指名検索を増やすには？ブランド想起を高める施策と測定方法",
+          "link": "https://rakkokeyword.com/techo/how-to-increase-branded-search-brand-recall/",
+          "date": "Thu, 15 Oct 2026 04:51:04 +0000",
+          "summary": "指名検索は、ブランドを「知ってもらう」施策と「思い出してもらう」施策を組み合わせると増やせます。 SNSやPRなど、施策そのものは少ない予算からでも始められます。 この記事では、自社ブランドの指名検索を増やしたいマーケテ ..."
+        },
+        {
           "title": "検索意図の調べ方は？4分類と意図をつかむ手順を解説",
           "link": "https://rakkokeyword.com/techo/how-to-research-search-intent/",
           "date": "Thu, 15 Oct 2026 00:31:18 +0000",
@@ -139,18 +151,6 @@
           "link": "https://rakkokeyword.com/techo/co-occurrence-words-seo-guide/",
           "date": "Mon, 05 Oct 2026 01:31:15 +0000",
           "summary": "共起語は「上位記事に共通して登場する語」を手がかりに、読者が知りたい情報の抜け漏れを見つけるための分析材料です。 入れれば順位が上がる魔法の言葉ではありませんが、正しく使えば構成案づくりやリライトの精度を上げられます。 ..."
-        },
-        {
-          "title": "無料の検索順位チェックツールおすすめは？選び方と使い方を解説",
-          "link": "https://rakkokeyword.com/techo/free-search-rank-tracking-tools-guide/",
-          "date": "Thu, 01 Oct 2026 02:59:37 +0000",
-          "summary": "検索順位のチェックは、無料ツールでも十分に効率化できます。 複数のキーワードをまとめて計測できるツールを選べば、手作業で1キーワードずつ検索する手間はなくなります。 この記事では、無料の検索順位チェックツールを比較し、選 ..."
-        },
-        {
-          "title": "検索順位の調べ方は？無料でできる確認方法とツールを解説",
-          "link": "https://rakkokeyword.com/techo/how-to-check-search-rankings/",
-          "date": "Thu, 01 Oct 2026 02:45:09 +0000",
-          "summary": "検索順位は、無料の方法とツールを組み合わせれば、手間をかけずに調べられます。 サイト全体の傾向はGoogleサーチコンソールで、狙ったキーワードの「今の順位」は検索順位チェックツールで確認する、という使い分けが基本です。 ..."
         }
       ],
       "error": null
@@ -170,8 +170,44 @@
       "category": "AI・リサーチ",
       "sourceType": "tool",
       "feedUrl": "https://blog.google/technology/ai/rss/",
-      "items": [],
-      "error": "Request timed out after 10000ms"
+      "items": [
+        {
+          "title": "ジェミニ4アルゴン：最も困難な問題を解決するために作られました",
+          "titleOrig": "Gemini 4 Argon: Built to solve your hardest problems",
+          "link": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-argon/",
+          "date": "Tue, 13 Oct 2026 16:00:00 +0000",
+          "summary": "We’re giving developers, enterprises, scientists, and consumers access to Gemini 4 Argon, our latest frontier model."
+        },
+        {
+          "title": "プレイグラウンドのご紹介：カスタムゲームの作成とプレイ",
+          "titleOrig": "Introducing Playground: Create and play custom games",
+          "link": "https://blog.google/innovation-and-ai/technology/ai/playground-experimental-gaming-platform/",
+          "date": "Wed, 07 Oct 2026 12:00:00 +0000",
+          "summary": "Playground is a new experimental gaming platform that lets you create, play, and share custom games."
+        },
+        {
+          "title": "2026年9月に発表した最新のAIニュース",
+          "titleOrig": "The latest AI news we announced in September 2026",
+          "link": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-september-2026/",
+          "date": "Fri, 02 Oct 2026 15:00:00 +0000",
+          "summary": "Here are Google’s latest AI updates from September 2026"
+        },
+        {
+          "title": "Future Vision XPRIZE、The Giftedの受賞トレーラーをご覧ください。",
+          "titleOrig": "Watch the winning trailer from the Future Vision XPRIZE, The Gifted.",
+          "link": "https://blog.google/innovation-and-ai/technology/ai/winner-future-vision-xprize/",
+          "date": "Mon, 28 Sep 2026 19:00:00 +0000",
+          "summary": "Watch the winning trailer from the Future Vision XPRIZE, The Gifted."
+        },
+        {
+          "title": "Google Beamは、新しい地域、パートナー、顧客に拡大します",
+          "titleOrig": "Google Beam expands with new regions, partners, and customers",
+          "link": "https://blog.google/innovation-and-ai/technology/research/google-beam-expansion/",
+          "date": "Wed, 23 Sep 2026 18:00:00 +0000",
+          "summary": "We’re expanding Google Beam to five new countries, and partnering with Industrious for an extended network."
+        }
+      ],
+      "error": null
     },
     {
       "tool": "isgen",
@@ -316,6 +352,20 @@
       "feedUrl": "https://github.blog/feed/",
       "items": [
         {
+          "title": "次の開発者インターフェースはアンビエントインテリジェンスです",
+          "titleOrig": "The next developer interface is ambient intelligence",
+          "link": "https://github.blog/news-insights/company-news/the-next-developer-interface-is-ambient-intelligence/",
+          "date": "Thu, 15 Oct 2026 19:39:27 +0000",
+          "summary": "AI, agents, voice, and physical controls are shifting software development from operating tools to expressing intent—and helping developers stay focused on building. The post The next developer interf"
+        },
+        {
+          "title": "ステイ・エバーグリーン：共有組織で安全なアクセスとリポジトリの衛生を自動化する方法",
+          "titleOrig": "Staying Evergreen: How we automated secure access and repo hygiene in a shared org",
+          "link": "https://github.blog/engineering/platform-security/staying-evergreen-how-we-automated-secure-access-and-repo-hygiene-in-a-shared-org/",
+          "date": "Thu, 15 Oct 2026 18:00:00 +0000",
+          "summary": "Put native GitHub features to work to review outside collaborator access and archive stale repositories. The post Staying Evergreen: How we automated secure access and repo hygiene in a shared org app"
+        },
+        {
           "title": "GitHub可用性レポート： 2026年9月",
           "titleOrig": "GitHub availability report: September 2026",
           "link": "https://github.blog/news-insights/company-news/github-availability-report-september-2026/",
@@ -335,20 +385,6 @@
           "link": "https://github.blog/ai-and-ml/githubs-model-for-secret-detection-finding-more-secrets-with-less-noise/",
           "date": "Tue, 13 Oct 2026 17:56:33 +0000",
           "summary": "GitHub’s context-aware secret classifier improves detection quality, raises weighted acceptance by 11.5%, and reduces median scan execution time by 86%. The post GitHub’s model for secret detection: F"
-        },
-        {
-          "title": "初心者向けGitHub Copilotアプリ：コードベースについてCopilotに教える方法",
-          "titleOrig": "GitHub Copilot app for Beginners: How to teach Copilot about your codebase",
-          "link": "https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-how-to-teach-copilot-about-your-codebase/",
-          "date": "Mon, 12 Oct 2026 17:43:59 +0000",
-          "summary": "Learn how to add custom instructions and skills to your repository, use custom agents, and connect MCP servers like Playwright. The post GitHub Copilot app for Beginners: How to teach Copilot about yo"
-        },
-        {
-          "title": "ハッキング・ザ・ワールド：ハッカソンがまだ構築方法を学ぶのに最適な場所である理由",
-          "titleOrig": "Hack the World: Why hackathons are still the best place to learn to build",
-          "link": "https://github.blog/developer-skills/career-growth/hack-the-world-why-hackathons-are-still-the-best-place-to-learn-to-build/",
-          "date": "Fri, 09 Oct 2026 16:00:00 +0000",
-          "summary": "The barriers to building software have collapsed. Today, anyone can build. Hackathons are a great place to start learning. The post Hack the World: Why hackathons are still the best place to learn to "
         }
       ],
       "error": null
