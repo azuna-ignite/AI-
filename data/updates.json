@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-10-16T03:31:38.917Z",
+  "fetchedAt": "2026-10-17T03:22:20.665Z",
   "tools": [
     {
       "tool": "ミエルカ（YouTube）",
@@ -19,6 +19,12 @@
       "sourceType": "tool",
       "feedUrl": "https://ahrefs.com/blog/ja/feed/",
       "items": [
+        {
+          "title": "AI 検索の ROI 測定方法：計測が難しくても成果を見積もる手順",
+          "link": "https://ahrefs.com/ja/blog/ai-search-roi/",
+          "date": "Fri, 16 Oct 2026 04:00:22 +0000",
+          "summary": "For­resterの調査によると、ビジネス購買担当者の 94%が購入時に AI 検索を利用しており、その評価は販売元のウェブサイト、製品の専門家、営業担当者を上回っています。 B2C もそれほど遅れていません。NielsenIQ の調査によると、消費者の 42% が AI を使って商品を検索しています。 こうした流れを受けて、AI 検索への予算を増やす企業が増えている中、多くのマーケターが「AI"
+        },
         {
           "title": "ChatGPTのクエリファンアウト分析：1,500万クエリの調査結果",
           "link": "https://ahrefs.com/ja/blog/query-fan-out-chatgpt/",
@@ -42,12 +48,6 @@
           "link": "https://ahrefs.com/ja/blog/ai-overviews-on-branded-searches/",
           "date": "Mon, 05 Oct 2026 07:37:03 +0000",
           "summary": "Ahrefs チームはブランド検索における AI による概要の出現状況を大規模に調査しました。 その結果、現在 AI による概要はブランド検索の 83%に表示されていることが判明しました。これにより、ブランド公式ウェブサイトへのクリックが減少する恐れがあります。さらに、Wikipedia、YouTube、LinkedIn といったサードパーティの情報源が、検索結果でのブランドの見え方を左右する力を"
-        },
-        {
-          "title": "API ユニット上限 2 倍、AI に対する可視性、セマンティック検索、その他｜2026 年 9 月",
-          "link": "https://ahrefs.com/ja/blog/september-2026-roundup/",
-          "date": "Thu, 01 Oct 2026 03:18:15 +0000",
-          "summary": "今月は 7 件のアップデートがあります。API ユニット上限が全プランで 2 倍に、AI ディスカバラビリティ問題カテゴリの追加、セマンティックキーワード検索の導入など、改善が盛りだくさんです。それでは詳しく見ていきましょう。"
         }
       ],
       "error": null
@@ -123,6 +123,18 @@
       "feedUrl": "https://rakkokeyword.com/techo/feed/",
       "items": [
         {
+          "title": "YouTubeのタグの付け方とは？効果的な選び方と設定手順を解説",
+          "link": "https://rakkokeyword.com/techo/how-to-add-youtube-tags/",
+          "date": "Fri, 16 Oct 2026 08:32:01 +0000",
+          "summary": "YouTubeのタグは、YouTube Studioの「すべて表示」を開いたところにあるタグ欄に、動画の内容を表すキーワードをカンマ区切りで入力するだけで設定できます。 ただし、タグだけで再生回数が大きく伸びるわけではあ ..."
+        },
+        {
+          "title": "YouTubeのキーワード検索のやり方は？再生数を伸ばす選び方",
+          "link": "https://rakkokeyword.com/techo/youtube-keyword-research-increase-views/",
+          "date": "Fri, 16 Oct 2026 08:12:12 +0000",
+          "summary": "YouTubeで再生数が伸びない原因の多くは、視聴者が実際に検索している言葉と、動画のタイトルの言葉がずれていることです。 キーワードの探し方は難しくなく、無料のツールを使えば数分で候補を洗い出せます。 この記事では、Y ..."
+        },
+        {
           "title": "ブログの競合調査のやり方とは？分析手順とチェック項目を解説",
           "link": "https://rakkokeyword.com/techo/blog-competitor-analysis-steps-checklist/",
           "date": "Thu, 15 Oct 2026 05:21:02 +0000",
@@ -139,18 +151,6 @@
           "link": "https://rakkokeyword.com/techo/how-to-research-search-intent/",
           "date": "Thu, 15 Oct 2026 00:31:18 +0000",
           "summary": "検索意図は、キーワードを4つの分類に当てはめて仮説を立て、検索結果・再検索キーワード・質問で確かめると、誰でも同じ手順でつかめます。 センスや経験に頼る必要はなく、誰でも確認できるデータだけで十分です。 この記事では、狙 ..."
-        },
-        {
-          "title": "キーワードグルーピングのやり方とは？分類のコツとツールを解説",
-          "link": "https://rakkokeyword.com/techo/keyword-grouping-guide-tips-tools/",
-          "date": "Tue, 06 Oct 2026 07:43:43 +0000",
-          "summary": "集めたキーワードは、「検索意図」と「検索結果の重なり」を基準にグルーピングすれば、1記事で狙うキーワードの組み合わせを迷わず決められます。 ポイントは、分類の前に材料となるキーワードを漏れなく集めておくことです。 この記 ..."
-        },
-        {
-          "title": "共起語とは？SEOでの調べ方と抽出のやり方をやさしく解説",
-          "link": "https://rakkokeyword.com/techo/co-occurrence-words-seo-guide/",
-          "date": "Mon, 05 Oct 2026 01:31:15 +0000",
-          "summary": "共起語は「上位記事に共通して登場する語」を手がかりに、読者が知りたい情報の抜け漏れを見つけるための分析材料です。 入れれば順位が上がる魔法の言葉ではありませんが、正しく使えば構成案づくりやリライトの精度を上げられます。 ..."
         }
       ],
       "error": null
