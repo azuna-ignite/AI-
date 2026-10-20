@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-10-19T03:39:03.085Z",
+  "fetchedAt": "2026-10-20T03:49:32.670Z",
   "tools": [
     {
       "tool": "ミエルカ（YouTube）",
@@ -352,6 +352,13 @@
       "feedUrl": "https://github.blog/feed/",
       "items": [
         {
+          "title": "VS CodeでGitHub Copilotアプリセッションを続行する方法",
+          "titleOrig": "How to continue a GitHub Copilot app session in VS Code",
+          "link": "https://github.blog/ai-and-ml/github-copilot/how-to-continue-a-github-copilot-app-session-in-vs-code/",
+          "date": "Mon, 19 Oct 2026 18:47:22 +0000",
+          "summary": "Learn how to move an agent session from the GitHub Copilot app into VS Code without losing the conversation, code changes, or working context. The post How to continue a GitHub Copilot app session in "
+        },
+        {
           "title": "次の開発者インターフェースはアンビエントインテリジェンスです",
           "titleOrig": "The next developer interface is ambient intelligence",
           "link": "https://github.blog/news-insights/company-news/the-next-developer-interface-is-ambient-intelligence/",
@@ -378,13 +385,6 @@
           "link": "https://github.blog/engineering/architecture-optimization/from-2500-requests-to-24-rebuilding-star-history-without-the-stargazers/",
           "date": "Wed, 14 Oct 2026 19:11:33 +0000",
           "summary": "Our new repo star history API now provides trends without returning individual identities or requiring unbounded database work. These are the engineering tradeoffs we made. The post From 2,500 request"
-        },
-        {
-          "title": "秘密検出のためのGitHubのモデル：ノイズの少ないより多くの秘密を見つける",
-          "titleOrig": "GitHub’s model for secret detection: Finding more secrets with less noise",
-          "link": "https://github.blog/ai-and-ml/githubs-model-for-secret-detection-finding-more-secrets-with-less-noise/",
-          "date": "Tue, 13 Oct 2026 17:56:33 +0000",
-          "summary": "GitHub’s context-aware secret classifier improves detection quality, raises weighted acceptance by 11.5%, and reduces median scan execution time by 86%. The post GitHub’s model for secret detection: F"
         }
       ],
       "error": null
