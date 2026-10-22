@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-10-21T03:40:21.416Z",
+  "fetchedAt": "2026-10-22T03:39:55.625Z",
   "tools": [
     {
       "tool": "ミエルカ（YouTube）",
@@ -60,39 +60,39 @@
       "feedUrl": "https://www.semrush.com/blog/feed/",
       "items": [
         {
+          "title": "Semrush StarterとPro +：あなたにぴったりのプランはどれですか？",
+          "titleOrig": "Semrush Starter vs. Pro+: Which plan is right for you?",
+          "link": "https://www.semrush.com/blog/starter-vs-pro-plus-plan-comparison/",
+          "date": "Wed, 21 Oct 2026 19:33:00 +0000",
+          "summary": "Compare limits and features between Semrush Starter and Pro+ plans. Choose what’s best for you based on tracking limits, historical data and domain comparisons, and key features."
+        },
+        {
+          "title": "セムラッシュ対モズ： 2026年にはどちらが良いですか？",
+          "titleOrig": "Semrush vs. Moz: Which is better in 2026?",
+          "link": "https://www.semrush.com/blog/semrush-vs-moz/",
+          "date": "Wed, 21 Oct 2026 19:15:00 +0000",
+          "summary": "Compare Semrush to Moz by key differences in keyword databases, AI visibility research, pricing, tracking frequency, and SEO features to choose the right platform for your team."
+        },
+        {
+          "title": "機能UpvoteがGoogleの間違ったAI概要の回答を修正した方法",
+          "titleOrig": "How Feature Upvote fixed Google’s wrong AI Overview answer",
+          "link": "https://www.semrush.com/blog/how-feature-upvote-fixed-its-google-ai-overview-answer/",
+          "date": "Wed, 21 Oct 2026 15:43:00 +0000",
+          "summary": "Fixing incorrect brand facts in AI search took Feature Upvote days. Here‘s how it got Google‘s AI Overview to say yes to its API."
+        },
+        {
+          "title": "AIの概要は、5つの商用検索モディファイアでほぼ倍増しました",
+          "titleOrig": "AI Overviews have nearly doubled across five commercial search modifiers",
+          "link": "https://www.semrush.com/blog/ai-overviews-commercial-modifiers-study/",
+          "date": "Wed, 21 Oct 2026 12:32:00 +0000",
+          "summary": "AI Overviews now appear on 88% of the commercial keywords we tracked, up from 46%. See how coverage changed for reviews, pricing, comparisons, and more."
+        },
+        {
           "title": "Claude & the Semrush MCPによるSEO監査の方法",
           "titleOrig": "How to do an SEO audit with Claude & the Semrush MCP",
           "link": "https://www.semrush.com/blog/semrush-seo-audit-with-claude/",
           "date": "Thu, 15 Oct 2026 12:32:00 +0000",
           "summary": "Scan your website in Site Audit, connect Semrush’s MCP to Claude, and have Claude analyze the audit data."
-        },
-        {
-          "title": "SemrushでAI可視性ダッシュボードを構築する方法",
-          "titleOrig": "How to build an AI visibility dashboard with Semrush",
-          "link": "https://www.semrush.com/blog/how-to-build-an-ai-visibility-dashboard-semrush/",
-          "date": "Mon, 12 Oct 2026 09:45:00 +0000",
-          "summary": "Learn how to build an AI visibility dashboard that shows whether the pages AI cites are the ones earning Google clicks."
-        },
-        {
-          "title": "SEOにおける4種類のキーワード（+例）",
-          "titleOrig": "4 types of keywords in SEO (+ examples)",
-          "link": "https://www.semrush.com/blog/types-of-keywords-commercial-informational-navigational-transactional/",
-          "date": "Fri, 09 Oct 2026 09:10:00 +0000",
-          "summary": "Learn the four types of keywords in SEO and how to optimize your content to rank for each type of keyword."
-        },
-        {
-          "title": "SemrushでAIの引用とソースを追跡する方法",
-          "titleOrig": "How to track your AI citations and sources with Semrush",
-          "link": "https://www.semrush.com/blog/track-ai-citation-sources-semrush/",
-          "date": "Wed, 07 Oct 2026 12:01:00 +0000",
-          "summary": "Find the sources that are cited when your brand is missing from AI answers and take action with content or outreach to get more mentions."
-        },
-        {
-          "title": "マルチロケーションSEO ：スケーラブルな戦略を構築する方法",
-          "titleOrig": "Multi-location SEO: How to build a scalable strategy",
-          "link": "https://www.semrush.com/blog/multi-location-seo/",
-          "date": "Wed, 07 Oct 2026 09:39:00 +0000",
-          "summary": "Multi-location SEO starts with one approved record per branch that feeds its page, Google Business Profile, schema, and listings."
         }
       ],
       "error": null
@@ -172,6 +172,13 @@
       "feedUrl": "https://blog.google/technology/ai/rss/",
       "items": [
         {
+          "title": "東南アジアのデジタル経済は3680億$に達する",
+          "titleOrig": "Southeast Asia’s digital economy to hit $368 billion",
+          "link": "https://blog.google/company-news/inside-google/around-the-globe/google-asia/e-conomy-sea-report-2026/",
+          "date": "Wed, 21 Oct 2026 04:00:00 +0000",
+          "summary": "Widespread AI adoption is propelling Southeast Asia's digital economy to a projected $368 billion in 2026 and $1 trillion by 2035."
+        },
+        {
           "title": "ジェミニ4アルゴン：最も困難な問題を解決するために作られました",
           "titleOrig": "Gemini 4 Argon: Built to solve your hardest problems",
           "link": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-argon/",
@@ -198,13 +205,6 @@
           "link": "https://blog.google/innovation-and-ai/technology/ai/winner-future-vision-xprize/",
           "date": "Mon, 28 Sep 2026 19:00:00 +0000",
           "summary": "Watch the winning trailer from the Future Vision XPRIZE, The Gifted."
-        },
-        {
-          "title": "Google Beamは、新しい地域、パートナー、顧客に拡大します",
-          "titleOrig": "Google Beam expands with new regions, partners, and customers",
-          "link": "https://blog.google/innovation-and-ai/technology/research/google-beam-expansion/",
-          "date": "Wed, 23 Sep 2026 18:00:00 +0000",
-          "summary": "We’re expanding Google Beam to five new countries, and partnering with Industrious for an extended network."
         }
       ],
       "error": null
@@ -262,6 +262,13 @@
       "feedUrl": "https://wordpress.org/news/feed/",
       "items": [
         {
+          "title": "重要なPHPセキュリティリリース",
+          "titleOrig": "Critical PHP Security Release",
+          "link": "https://wordpress.org/news/2026/10/critical-php-security-release/",
+          "date": "Wed, 21 Oct 2026 13:44:09 +0000",
+          "summary": "The PHP project has announced a security release that fixes two critical security vulnerabilities discovered in PHP. Due to the critical severity of the issues, site owners are encouraged to immediate"
+        },
+        {
           "title": "WordPress 7.2ベータ1はダウンロードとテストの準備ができています",
           "titleOrig": "WordPress 7.2 Beta 1 is Ready for Download and Testing",
           "link": "https://wordpress.org/news/2026/10/wordpress-7-2-beta-1-is-ready-for-download-and-testing/",
@@ -288,13 +295,6 @@
           "link": "https://wordpress.org/news/2026/09/owa-president/",
           "date": "Mon, 21 Sep 2026 14:28:41 +0000",
           "summary": "I’m happy to announce that I am now serving as president of the Open Website Alliance (OWA), representing the WordPress Foundation. The Alliance brings together the community organizations behind Drup"
-        },
-        {
-          "title": "WordPress 7.1.1メンテナンスとセキュリティリリース",
-          "titleOrig": "WordPress 7.1.1 Maintenance and Security Release",
-          "link": "https://wordpress.org/news/2026/09/wordpress-7-1-1-maintenance-and-security-release/",
-          "date": "Thu, 17 Sep 2026 19:53:09 +0000",
-          "summary": "This security and maintenance release features 17 bug fixes on Core, 19 bug fixes for the Block Editor, and 11 security fixes. Because this is a security release, it is recommended that you update you"
         }
       ],
       "error": null
@@ -352,6 +352,13 @@
       "feedUrl": "https://github.blog/feed/",
       "items": [
         {
+          "title": "エージェントスケールのGitインフラストラクチャへのブリッジ",
+          "titleOrig": "The bridge to agent-scale Git infrastructure",
+          "link": "https://github.blog/engineering/architecture-optimization/the-bridge-to-agent-scale-git-infrastructure/",
+          "date": "Wed, 21 Oct 2026 16:00:00 +0000",
+          "summary": "We moved a copy of 99.99999% of GitHub's repositories to Azure. Here's how per-reference quorums will bring over the rest, and how object storage lets reads scale independently. The post The bridge to"
+        },
+        {
           "title": "3人のJavaチャンピオンがGitHub Copilotを使用して生産性を向上させている方法",
           "titleOrig": "How 3 Java Champions are using GitHub Copilot for increased productivity",
           "link": "https://github.blog/ai-and-ml/github-copilot/how-3-java-champions-are-using-github-copilot-for-increased-productivity/",
@@ -378,13 +385,6 @@
           "link": "https://github.blog/engineering/platform-security/staying-evergreen-how-we-automated-secure-access-and-repo-hygiene-in-a-shared-org/",
           "date": "Thu, 15 Oct 2026 18:00:00 +0000",
           "summary": "Put native GitHub features to work to review outside collaborator access and archive stale repositories. The post Staying Evergreen: How we automated secure access and repo hygiene in a shared org app"
-        },
-        {
-          "title": "GitHub可用性レポート： 2026年9月",
-          "titleOrig": "GitHub availability report: September 2026",
-          "link": "https://github.blog/news-insights/company-news/github-availability-report-september-2026/",
-          "date": "Wed, 14 Oct 2026 20:01:35 +0000",
-          "summary": "In September, we experienced two incidents that resulted in degraded performance across GitHub services. The post GitHub availability report: September 2026 appeared first on The GitHub Blog."
         }
       ],
       "error": null
