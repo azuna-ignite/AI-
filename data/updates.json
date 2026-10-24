@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-10-22T03:39:55.625Z",
+  "fetchedAt": "2026-10-24T03:38:43.452Z",
   "tools": [
     {
       "tool": "ミエルカ（YouTube）",
@@ -20,34 +20,34 @@
       "feedUrl": "https://ahrefs.com/blog/ja/feed/",
       "items": [
         {
+          "title": "Google による検索結果の「ポイズニング（偽の検索結果）」に関する最新情報",
+          "link": "https://ahrefs.com/ja/blog/google-search-results-poisoning-update/",
+          "date": "Fri, 23 Oct 2026 01:29:40 +0000",
+          "summary": "Google が SERP データ提供元と疑われるアクセスに異なる検索結果を返す「ポイズニング」が増加。Ahrefs の対応状況をお知らせします。"
+        },
+        {
+          "title": "AI は自社をどう紹介している？ アパレルの実例で学ぶセンチメント・検索意図分析",
+          "link": "https://ahrefs.com/ja/blog/ai-search-sentiment-intent-apparel/",
+          "date": "Thu, 22 Oct 2026 04:28:32 +0000",
+          "summary": "AI の回答に、自社の名前が出ている。では、どんな理由で紹介されているのでしょうか。 「手頃な価格だから」「品質がよいから」。同じブランドでも、ある点では評価され、別の点では注意点が挙げられることがあります。また、広く情報を集める質問と、具体的に購入先を探す質問では、登場するブランドが違うかもしれません。 Ahrefs ブランドレーダーに追加されたセンチメント分析とインテント分析を使うと、こうした"
+        },
+        {
           "title": "Web 制作の提案に、検索データという根拠を。ちょっと株式会社が Ahrefs × Claude で広げる提案の幅",
           "link": "https://ahrefs.com/ja/blog/case-study-chot-inc/",
           "date": "Wed, 21 Oct 2026 02:03:44 +0000",
           "summary": "大規模な Web サイトの制作やフロントエンド開発を手がける、ちょっと株式会社。数千から数万ページに及ぶサイトを、表示速度だけでなく、情報を更新する人の業務や運用体制まで考えて構築しています。 同社が近年、制作・リニューアルの提案に取り入れているのが、Ahrefs の検索データと Claude を組み合わせた SEO 分析です。MCP を通じて Ahrefs と Claude を接続し、顧客サイト"
         },
         {
-          "title": "AI 検索の ROI 測定方法：計測が難しくても成果を見積もる手順",
+          "title": "AI 検索の費用対効果を測る方法：LLMO 対策の ROI を見積もる手順",
           "link": "https://ahrefs.com/ja/blog/ai-search-roi/",
           "date": "Fri, 16 Oct 2026 04:00:22 +0000",
           "summary": "For­resterの調査によると、ビジネス購買担当者の 94%が購入時に AI 検索を利用しており、その評価は販売元のウェブサイト、製品の専門家、営業担当者を上回っています。 B2C もそれほど遅れていません。NielsenIQ の調査によると、消費者の 42% が AI を使って商品を検索しています。 こうした流れを受けて、AI 検索への予算を増やす企業が増えている中、多くのマーケターが「AI"
         },
         {
-          "title": "ChatGPTのクエリファンアウト分析：1,500万クエリの調査結果",
+          "title": "ChatGPT のクエリファンアウト分析：1,500 万件の調査でわかった Web 検索の実態",
           "link": "https://ahrefs.com/ja/blog/query-fan-out-chatgpt/",
           "date": "Thu, 15 Oct 2026 08:11:14 +0000",
           "summary": "ChatGPTがどのようにクエリファンアウトを実行するかを1,500万件の実際のクエリデータから分析。14.4%のレスポンスでWeb検索が実行され、平均1.6回のファンアウトクエリが発生することが判明。"
-        },
-        {
-          "title": "マーケターの 69% が「AI ライティングによるコンテンツ公開が前年より増えた」と回答（最新調査レポート）",
-          "link": "https://ahrefs.com/ja/blog/marketers-ai-content-creation/",
-          "date": "Fri, 09 Oct 2026 03:30:10 +0000",
-          "summary": "Ahrefs チームは 2 年連続で、AI がコンテンツマーケティングのあらゆる側面に与える影響を把握すべく、マーケター調査を実施しました。 301 名のマーケターから、AI の活用目的や生産性への影響、愛用ツールなどについて回答を得ました。 301 名中 280 名（93%）が、コンテンツの作成やその補助に AI を使っていると回答しました。昨年の調査の 87%から上昇しています。 AI を使っ"
-        },
-        {
-          "title": "AI 可視性を任せられるツール：ブランドレーダーの初期設定から継続的な監視まで、一気通貫のワークフロー",
-          "link": "https://ahrefs.com/ja/blog/ai-visibility-workflow/",
-          "date": "Thu, 08 Oct 2026 07:57:36 +0000",
-          "summary": "AI における可視性（AI visibility）は、一つの問題ではありません。遠くから見ると似ているだけで、実際にはまったく異なる複数の問題の集合体です。 ブランドが重要な会話から欠落している、競合に推薦枠を奪われている、間違ったトピックと関連づけられている、古い情報で紹介されているといったケースがあります。そもそも、AI アシスタントがコンテンツにアクセスできていない場合もあります。 これらの"
         }
       ],
       "error": null
@@ -59,6 +59,27 @@
       "sourceType": "tool",
       "feedUrl": "https://www.semrush.com/blog/feed/",
       "items": [
+        {
+          "title": "AI検索戦略：ブランドの可視性の4つのレイヤー",
+          "titleOrig": "AI search strategy: 4 layers of brand visibility",
+          "link": "https://www.semrush.com/blog/ai-search-strategy/",
+          "date": "Fri, 23 Oct 2026 10:58:00 +0000",
+          "summary": "An AI search strategy starts with diagnosis. Rewriting content won‘t help if AI can‘t reach your site or keeps describing your brand wrong."
+        },
+        {
+          "title": "Google検索が情報エージェントとユニバーサルカートでエージェント機能を拡張",
+          "titleOrig": "Google Search expands agentic capabilities with information agents and Universal Cart",
+          "link": "https://www.semrush.com/blog/google-adds-information-agents-and-universal-cart/",
+          "date": "Fri, 23 Oct 2026 10:35:00 +0000",
+          "summary": "Google‘s information agents and Universal Cart stand to change how users discover and buy products online."
+        },
+        {
+          "title": "大規模なSEO ：大規模なWebサイトでSEOを管理する方法",
+          "titleOrig": "SEO at scale: How to manage SEO on a large website",
+          "link": "https://www.semrush.com/blog/seo-at-scale/",
+          "date": "Thu, 22 Oct 2026 10:11:00 +0000",
+          "summary": "SEO at scale starts with revenue, not traffic. A page type with 3,000 visits that drives sales can be worth more than one with 40,000 that doesn‘t."
+        },
         {
           "title": "Semrush StarterとPro +：あなたにぴったりのプランはどれですか？",
           "titleOrig": "Semrush Starter vs. Pro+: Which plan is right for you?",
@@ -72,27 +93,6 @@
           "link": "https://www.semrush.com/blog/semrush-vs-moz/",
           "date": "Wed, 21 Oct 2026 19:15:00 +0000",
           "summary": "Compare Semrush to Moz by key differences in keyword databases, AI visibility research, pricing, tracking frequency, and SEO features to choose the right platform for your team."
-        },
-        {
-          "title": "機能UpvoteがGoogleの間違ったAI概要の回答を修正した方法",
-          "titleOrig": "How Feature Upvote fixed Google’s wrong AI Overview answer",
-          "link": "https://www.semrush.com/blog/how-feature-upvote-fixed-its-google-ai-overview-answer/",
-          "date": "Wed, 21 Oct 2026 15:43:00 +0000",
-          "summary": "Fixing incorrect brand facts in AI search took Feature Upvote days. Here‘s how it got Google‘s AI Overview to say yes to its API."
-        },
-        {
-          "title": "AIの概要は、5つの商用検索モディファイアでほぼ倍増しました",
-          "titleOrig": "AI Overviews have nearly doubled across five commercial search modifiers",
-          "link": "https://www.semrush.com/blog/ai-overviews-commercial-modifiers-study/",
-          "date": "Wed, 21 Oct 2026 12:32:00 +0000",
-          "summary": "AI Overviews now appear on 88% of the commercial keywords we tracked, up from 46%. See how coverage changed for reviews, pricing, comparisons, and more."
-        },
-        {
-          "title": "Claude & the Semrush MCPによるSEO監査の方法",
-          "titleOrig": "How to do an SEO audit with Claude & the Semrush MCP",
-          "link": "https://www.semrush.com/blog/semrush-seo-audit-with-claude/",
-          "date": "Thu, 15 Oct 2026 12:32:00 +0000",
-          "summary": "Scan your website in Site Audit, connect Semrush’s MCP to Claude, and have Claude analyze the audit data."
         }
       ],
       "error": null
@@ -307,6 +307,27 @@
       "feedUrl": "https://obsidian.md/changelog.xml",
       "items": [
         {
+          "title": "Obsidian 1.15.0モバイル（先行アクセス）",
+          "titleOrig": "Obsidian 1.15.0 Mobile (Early access)",
+          "link": "https://obsidian.md/changelog/2026-10-22-mobile-v1.15.0/",
+          "date": "2026-10-22T00:00:00.000Z",
+          "summary": "Includes all new features and bug fixes up to Obsidian Desktop v1.15.0. Voice capture on iOS Quick Capture can now record voice notes and transcribe them as you speak, including on the Lock Screen. Re"
+        },
+        {
+          "title": "Obsidian 1.15.0デスクトップ（先行アクセス）",
+          "titleOrig": "Obsidian 1.15.0 Desktop (Early access)",
+          "link": "https://obsidian.md/changelog/2026-10-22-desktop-v1.15.0/",
+          "date": "2026-10-22T00:00:00.000Z",
+          "summary": "This update brings faster Mermaid diagrams that match your theme, reorderable filters in Bases, and new URI and CLI commands for adding content under a heading. Diagrams and charts Mermaid diagrams an"
+        },
+        {
+          "title": "Obsidian 1.14.5デスクトップ（パブリック）",
+          "titleOrig": "Obsidian 1.14.5 Desktop (Public)",
+          "link": "https://obsidian.md/changelog/2026-10-22-desktop-v1.14.5/",
+          "date": "2026-10-22T00:00:00.000Z",
+          "summary": "This release updates Electron from 43.7.5 to 43.8.3, which includes several important security fixes. Download Obsidian from our website and reinstall the app."
+        },
+        {
           "title": "Obsidian 1.14モバイル（パブリック）",
           "titleOrig": "Obsidian 1.14 Mobile (Public)",
           "link": "https://obsidian.md/changelog/2026-10-05-mobile-v1.14.4/",
@@ -319,27 +340,6 @@
           "link": "https://obsidian.md/changelog/2026-10-05-desktop-v1.14.4/",
           "date": "2026-10-05T00:00:00.000Z",
           "summary": "This update introduces support for opening individual Markdown files, a kanban view for Bases, and highlight colors. Important: opening Markdown files requires the latest installer. Download Obsidian "
-        },
-        {
-          "title": "Obsidian 1.14.4モバイル（先行アクセス）",
-          "titleOrig": "Obsidian 1.14.4 Mobile (Early access)",
-          "link": "https://obsidian.md/changelog/2026-10-01-mobile-v1.14.4/",
-          "date": "2026-10-01T00:00:00.000Z",
-          "summary": "Includes all new features and bug fixes up to Obsidian Desktop 1.14.4. No longer broken Bases: Fixed kanban view not scrolling horizontally when every card is hidden. Bases: Fixed table view losing it"
-        },
-        {
-          "title": "Obsidian 1.14.4デスクトップ（先行アクセス）",
-          "titleOrig": "Obsidian 1.14.4 Desktop (Early access)",
-          "link": "https://obsidian.md/changelog/2026-10-01-desktop-v1.14.4/",
-          "date": "2026-10-01T00:00:00.000Z",
-          "summary": "Improvements Bases: Added “Hide column” to the right-click menu of a kanban column. Bases: A base made with “Create new base” now names its first view “View” instead of “Table”. Search in the File Exp"
-        },
-        {
-          "title": "Obsidian 1.14.3モバイル（早期アクセス）",
-          "titleOrig": "Obsidian 1.14.3 Mobile (Early access)",
-          "link": "https://obsidian.md/changelog/2026-09-29-mobile-v1.14.3/",
-          "date": "2026-09-29T00:00:00.000Z",
-          "summary": "Includes all new features and bug fixes up to Obsidian Desktop 1.14.3. New iOS: Added template support to Quick Capture when its behavior is set to daily note or a selected note. Improvements Bases: I"
         }
       ],
       "error": null
@@ -351,6 +351,13 @@
       "sourceType": "tool",
       "feedUrl": "https://github.blog/feed/",
       "items": [
+        {
+          "title": "バグ報奨金が研究者のセキュリティスキルをどのように磨くか",
+          "titleOrig": "How bug bounty sharpens one researcher’s security skills",
+          "link": "https://github.blog/security/how-bug-bounty-sharpens-one-researchers-security-skills/",
+          "date": "Thu, 22 Oct 2026 17:21:30 +0000",
+          "summary": "As Cybersecurity Awareness Month continues, the GitHub Bug Bounty team spotlights @r31n, diving into their research approach, favorite bug classes, and advice for aspiring hackers. The post How bug bo"
+        },
         {
           "title": "エージェントスケールのGitインフラストラクチャへのブリッジ",
           "titleOrig": "The bridge to agent-scale Git infrastructure",
@@ -378,13 +385,6 @@
           "link": "https://github.blog/news-insights/company-news/the-next-developer-interface-is-ambient-intelligence/",
           "date": "Thu, 15 Oct 2026 19:39:27 +0000",
           "summary": "AI, agents, voice, and physical controls are shifting software development from operating tools to expressing intent—and helping developers stay focused on building. The post The next developer interf"
-        },
-        {
-          "title": "ステイ・エバーグリーン：共有組織で安全なアクセスとリポジトリの衛生を自動化する方法",
-          "titleOrig": "Staying Evergreen: How we automated secure access and repo hygiene in a shared org",
-          "link": "https://github.blog/engineering/platform-security/staying-evergreen-how-we-automated-secure-access-and-repo-hygiene-in-a-shared-org/",
-          "date": "Thu, 15 Oct 2026 18:00:00 +0000",
-          "summary": "Put native GitHub features to work to review outside collaborator access and archive stale repositories. The post Staying Evergreen: How we automated secure access and repo hygiene in a shared org app"
         }
       ],
       "error": null
