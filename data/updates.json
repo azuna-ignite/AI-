@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-10-26T03:39:02.464Z",
+  "fetchedAt": "2026-10-30T04:45:33.196Z",
   "tools": [
     {
       "tool": "ミエルカ（YouTube）",
@@ -20,6 +20,18 @@
       "feedUrl": "https://ahrefs.com/blog/ja/feed/",
       "items": [
         {
+          "title": "Ahrefs の新機能「トラフィック分析」を使ってみた：レシピサイト 4 社で競合のアクセス数と流入元を調べる",
+          "link": "https://ahrefs.com/ja/blog/traffic-analytics-how-to/",
+          "date": "Wed, 28 Oct 2026 02:50:24 +0000",
+          "summary": "競合サイトのアクセス数と流入元を調べる方法を、Ahrefs の新機能「トラフィック分析」の実画面で解説します。検索、SNS、リファラー、AI 検索まで、10 以上のチャネル別に確認できます。レシピサイト 4 社の例で、何が分かり、どう操作し、次に何をするかを紹介します。"
+        },
+        {
+          "title": "AI を通じて顧客の「集合理解」を捉える。freee が Ahrefs で進める GEO と認知施策の連携",
+          "link": "https://ahrefs.com/ja/blog/case-study-freee/",
+          "date": "Mon, 26 Oct 2026 04:41:08 +0000",
+          "summary": "検索順位や流入を分析するために使ってきたデータを、顧客や市場が自社をどう理解しているかを考える材料へ。統合型経営プラットフォームを提供する freee 株式会社では、Ahrefs の活用が SEO・GEO の戦略立案から、AI 検索を通じた認知の把握、全社の情報発信へと広がっています。 その中で重視しているのが、AI の回答を、世の中に発信された顧客や市場の「集合理解」を知る手掛かりとして読む視点"
+        },
+        {
           "title": "Google による検索結果の「ポイズニング（偽の検索結果）」に関する最新情報",
           "link": "https://ahrefs.com/ja/blog/google-search-results-poisoning-update/",
           "date": "Fri, 23 Oct 2026 01:29:40 +0000",
@@ -36,18 +48,6 @@
           "link": "https://ahrefs.com/ja/blog/case-study-chot-inc/",
           "date": "Wed, 21 Oct 2026 02:03:44 +0000",
           "summary": "大規模な Web サイトの制作やフロントエンド開発を手がける、ちょっと株式会社。数千から数万ページに及ぶサイトを、表示速度だけでなく、情報を更新する人の業務や運用体制まで考えて構築しています。 同社が近年、制作・リニューアルの提案に取り入れているのが、Ahrefs の検索データと Claude を組み合わせた SEO 分析です。MCP を通じて Ahrefs と Claude を接続し、顧客サイト"
-        },
-        {
-          "title": "AI 検索の費用対効果を測る方法：LLMO 対策の ROI を見積もる手順",
-          "link": "https://ahrefs.com/ja/blog/ai-search-roi/",
-          "date": "Fri, 16 Oct 2026 04:00:22 +0000",
-          "summary": "For­resterの調査によると、ビジネス購買担当者の 94%が購入時に AI 検索を利用しており、その評価は販売元のウェブサイト、製品の専門家、営業担当者を上回っています。 B2C もそれほど遅れていません。NielsenIQ の調査によると、消費者の 42% が AI を使って商品を検索しています。 こうした流れを受けて、AI 検索への予算を増やす企業が増えている中、多くのマーケターが「AI"
-        },
-        {
-          "title": "ChatGPT のクエリファンアウト分析：1,500 万件の調査でわかった Web 検索の実態",
-          "link": "https://ahrefs.com/ja/blog/query-fan-out-chatgpt/",
-          "date": "Thu, 15 Oct 2026 08:11:14 +0000",
-          "summary": "ChatGPTがどのようにクエリファンアウトを実行するかを1,500万件の実際のクエリデータから分析。14.4%のレスポンスでWeb検索が実行され、平均1.6回のファンアウトクエリが発生することが判明。"
         }
       ],
       "error": null
@@ -59,6 +59,27 @@
       "sourceType": "tool",
       "feedUrl": "https://www.semrush.com/blog/feed/",
       "items": [
+        {
+          "title": "可視性とトラフィックを向上させる7つの無料SEOツール",
+          "titleOrig": "7 free SEO tools to boost visibility & traffic",
+          "link": "https://www.semrush.com/blog/free-seo-tools/",
+          "date": "Tue, 27 Oct 2026 09:05:00 +0000",
+          "summary": "The best free SEO tools include Keyword Magic Tool, Position Tracking, and Ubersuggest."
+        },
+        {
+          "title": "Poisoned SERPs ： SemrushのGoogleランキングデータの更新",
+          "titleOrig": "Poisoned SERPs: An update on Google ranking data in Semrush",
+          "link": "https://www.semrush.com/blog/poisoned-serps/",
+          "date": "Tue, 27 Oct 2026 08:17:00 +0000",
+          "summary": "Learn how Semrush is addressing “poisoned” Google Search results, validating ranking data, and investing in visibility for users."
+        },
+        {
+          "title": "Googleマイビジネス： Googleビジネスプロフィールのガイド",
+          "titleOrig": "Google My Business: A guide to Google Business Profile",
+          "link": "https://www.semrush.com/blog/google-my-business/",
+          "date": "Mon, 26 Oct 2026 11:37:00 +0000",
+          "summary": "Google Business Profile (formerly Google My Business) is a free business listing that supports reviews, Q&As, posts, and more."
+        },
         {
           "title": "AI検索戦略：ブランドの可視性の4つのレイヤー",
           "titleOrig": "AI search strategy: 4 layers of brand visibility",
@@ -72,27 +93,6 @@
           "link": "https://www.semrush.com/blog/google-adds-information-agents-and-universal-cart/",
           "date": "Fri, 23 Oct 2026 10:35:00 +0000",
           "summary": "Google‘s information agents and Universal Cart stand to change how users discover and buy products online."
-        },
-        {
-          "title": "大規模なSEO ：大規模なWebサイトでSEOを管理する方法",
-          "titleOrig": "SEO at scale: How to manage SEO on a large website",
-          "link": "https://www.semrush.com/blog/seo-at-scale/",
-          "date": "Thu, 22 Oct 2026 10:11:00 +0000",
-          "summary": "SEO at scale starts with revenue, not traffic. A page type with 3,000 visits that drives sales can be worth more than one with 40,000 that doesn‘t."
-        },
-        {
-          "title": "Semrush StarterとPro +：あなたにぴったりのプランはどれですか？",
-          "titleOrig": "Semrush Starter vs. Pro+: Which plan is right for you?",
-          "link": "https://www.semrush.com/blog/starter-vs-pro-plus-plan-comparison/",
-          "date": "Wed, 21 Oct 2026 19:33:00 +0000",
-          "summary": "Compare limits and features between Semrush Starter and Pro+ plans. Choose what’s best for you based on tracking limits, historical data and domain comparisons, and key features."
-        },
-        {
-          "title": "セムラッシュ対モズ： 2026年にはどちらが良いですか？",
-          "titleOrig": "Semrush vs. Moz: Which is better in 2026?",
-          "link": "https://www.semrush.com/blog/semrush-vs-moz/",
-          "date": "Wed, 21 Oct 2026 19:15:00 +0000",
-          "summary": "Compare Semrush to Moz by key differences in keyword databases, AI visibility research, pricing, tracking frequency, and SEO features to choose the right platform for your team."
         }
       ],
       "error": null
@@ -123,6 +123,12 @@
       "feedUrl": "https://rakkokeyword.com/techo/feed/",
       "items": [
         {
+          "title": "季節キーワードの選び方！月間検索数で仕込み時期を見極める",
+          "link": "https://rakkokeyword.com/techo/seasonal-keywords-selection-timing/",
+          "date": "Mon, 26 Oct 2026 10:11:46 +0000",
+          "summary": "季節キーワードの選び方で最も大切なのは、検索需要が高まる前に月間検索数の推移を調べ、ピークの2〜3ヶ月前に記事を公開することです。 思いつきや前年の記憶だけで公開時期を決めると、検索の波が過ぎてから順位が上がってしまいま ..."
+        },
+        {
           "title": "Xでバズるには？伸びる投稿の作り方とネタの見つけ方を解説",
           "link": "https://rakkokeyword.com/techo/how-to-go-viral-on-x/",
           "date": "Tue, 20 Oct 2026 08:20:04 +0000",
@@ -145,12 +151,6 @@
           "link": "https://rakkokeyword.com/techo/blog-competitor-analysis-steps-checklist/",
           "date": "Thu, 15 Oct 2026 05:21:02 +0000",
           "summary": "ブログの伸び悩みは、上位の競合ブログを「どのキーワードで集客しているか」から調べると、原因と次の打ち手が具体的に見えてきます。 競合調査といっても、大がかりな分析は必要ありません。 競合の獲得キーワードと上位記事の頻出語 ..."
-        },
-        {
-          "title": "指名検索を増やすには？ブランド想起を高める施策と測定方法",
-          "link": "https://rakkokeyword.com/techo/how-to-increase-branded-search-brand-recall/",
-          "date": "Thu, 15 Oct 2026 04:51:04 +0000",
-          "summary": "指名検索は、ブランドを「知ってもらう」施策と「思い出してもらう」施策を組み合わせると増やせます。 SNSやPRなど、施策そのものは少ない予算からでも始められます。 この記事では、自社ブランドの指名検索を増やしたいマーケテ ..."
         }
       ],
       "error": null
@@ -171,6 +171,13 @@
       "sourceType": "tool",
       "feedUrl": "https://blog.google/technology/ai/rss/",
       "items": [
+        {
+          "title": "最新のAIクエスト：人間の脳のマッピング",
+          "titleOrig": "Our newest AI Quest: Mapping the human brain",
+          "link": "https://blog.google/products-and-platforms/products/education/ai-quests-polar-peaks/",
+          "date": "Mon, 26 Oct 2026 16:00:00 +0000",
+          "summary": "Learn AI literacy via Google’s latest AI Quests lesson on neuroscience, “Polar Peaks.”"
+        },
         {
           "title": "東南アジアのデジタル経済は3680億$に達する",
           "titleOrig": "Southeast Asia’s digital economy to hit $368 billion",
@@ -198,13 +205,6 @@
           "link": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-september-2026/",
           "date": "Fri, 02 Oct 2026 15:00:00 +0000",
           "summary": "Here are Google’s latest AI updates from September 2026"
-        },
-        {
-          "title": "Future Vision XPRIZE、The Giftedの受賞トレーラーをご覧ください。",
-          "titleOrig": "Watch the winning trailer from the Future Vision XPRIZE, The Gifted.",
-          "link": "https://blog.google/innovation-and-ai/technology/ai/winner-future-vision-xprize/",
-          "date": "Mon, 28 Sep 2026 19:00:00 +0000",
-          "summary": "Watch the winning trailer from the Future Vision XPRIZE, The Gifted."
         }
       ],
       "error": null
@@ -262,6 +262,20 @@
       "feedUrl": "https://wordpress.org/news/feed/",
       "items": [
         {
+          "title": "WordPress 7.1.4",
+          "titleOrig": "WordPress 7.1.4",
+          "link": "https://wordpress.org/news/2026/10/wordpress-7-1-4/",
+          "date": "Wed, 28 Oct 2026 17:13:02 +0000",
+          "summary": "This security release features fixes for multiple issues. Because this is a security release, it is recommended that you update your sites immediately. You can download WordPress 7.1.4 from WordPress."
+        },
+        {
+          "title": "WordPress 7.2ベータ2 ",
+          "titleOrig": "WordPress 7.2 Beta 2 ",
+          "link": "https://wordpress.org/news/2026/10/wordpress-7-2-beta-2/",
+          "date": "Tue, 27 Oct 2026 15:49:21 +0000",
+          "summary": "WordPress 7.2 Beta 2 is ready for download and testing! This beta release is intended for testing and development only. Please do not install, run, or test this version of WordPress on production or m"
+        },
+        {
           "title": "重要なPHPセキュリティリリース",
           "titleOrig": "Critical PHP Security Release",
           "link": "https://wordpress.org/news/2026/10/critical-php-security-release/",
@@ -281,20 +295,6 @@
           "link": "https://wordpress.org/news/2026/10/wordpress-7-1-3-maintenance-and-security-release/",
           "date": "Tue, 06 Oct 2026 17:00:00 +0000",
           "summary": "This security and maintenance release features 7 security fixes and 4 bug fixes. Because this is a security release, it is recommended that you update your sites immediately. You can download WordPres"
-        },
-        {
-          "title": "WordPress 7.1.2リリース",
-          "titleOrig": "WordPress 7.1.2 Release",
-          "link": "https://wordpress.org/news/2026/09/wordpress-7-1-2-release/",
-          "date": "Tue, 22 Sep 2026 14:01:20 +0000",
-          "summary": "This security release features a fix for a critical severity security vulnerability. Because this is a security release, it is recommended that you update your sites immediately. You can download Word"
-        },
-        {
-          "title": "WordPressがオープンウェブサイトアライアンスをリード",
-          "titleOrig": "WordPress Takes Its Turn Leading the Open Website Alliance",
-          "link": "https://wordpress.org/news/2026/09/owa-president/",
-          "date": "Mon, 21 Sep 2026 14:28:41 +0000",
-          "summary": "I’m happy to announce that I am now serving as president of the Open Website Alliance (OWA), representing the WordPress Foundation. The Alliance brings together the community organizations behind Drup"
         }
       ],
       "error": null
@@ -352,6 +352,20 @@
       "feedUrl": "https://github.blog/feed/",
       "items": [
         {
+          "title": "GitHub Universe 2026 ：スタックのすべてのレイヤーを進化させる",
+          "titleOrig": "GitHub Universe 2026: Evolving every layer of the stack",
+          "link": "https://github.blog/news-insights/company-news/github-universe-2026-evolving-every-layer-of-the-stack/",
+          "date": "Wed, 28 Oct 2026 16:09:28 +0000",
+          "summary": "Today, we laid out our vision for GitHub as the most comprehensive, end-to-end software delivery system in the world. The post GitHub Universe 2026: Evolving every layer of the stack appeared first on"
+        },
+        {
+          "title": "Octoverse ：開発者がエージェントと共に構築する中で、2026年にコミットし、プッシュし、新たな高値に達する",
+          "titleOrig": "Octoverse: Commits, pushes, reach new highs in 2026 as developers build with agents",
+          "link": "https://github.blog/news-insights/octoverse/octoverse-commits-pushes-reach-new-highs-in-2026-as-developers-build-with-agents/",
+          "date": "Wed, 28 Oct 2026 16:07:40 +0000",
+          "summary": "See how a record year of growth reached every industry, every field, and every kind of builder in the 2026 Octoverse report. The post Octoverse: Commits, pushes, reach new highs in 2026 as developers "
+        },
+        {
           "title": "バグ報奨金が研究者のセキュリティスキルをどのように磨くか",
           "titleOrig": "How bug bounty sharpens one researcher’s security skills",
           "link": "https://github.blog/security/how-bug-bounty-sharpens-one-researchers-security-skills/",
@@ -371,20 +385,6 @@
           "link": "https://github.blog/ai-and-ml/github-copilot/how-3-java-champions-are-using-github-copilot-for-increased-productivity/",
           "date": "Tue, 20 Oct 2026 16:05:03 +0000",
           "summary": "Three Java Champions share how they use GitHub Copilot to solve problems, accelerate development, and keep humans responsible for the results. The post How 3 Java Champions are using GitHub Copilot fo"
-        },
-        {
-          "title": "VS CodeでGitHub Copilotアプリセッションを続行する方法",
-          "titleOrig": "How to continue a GitHub Copilot app session in VS Code",
-          "link": "https://github.blog/ai-and-ml/github-copilot/how-to-continue-a-github-copilot-app-session-in-vs-code/",
-          "date": "Mon, 19 Oct 2026 18:47:22 +0000",
-          "summary": "Learn how to move an agent session from the GitHub Copilot app into VS Code without losing the conversation, code changes, or working context. The post How to continue a GitHub Copilot app session in "
-        },
-        {
-          "title": "次の開発者インターフェースはアンビエントインテリジェンスです",
-          "titleOrig": "The next developer interface is ambient intelligence",
-          "link": "https://github.blog/news-insights/company-news/the-next-developer-interface-is-ambient-intelligence/",
-          "date": "Thu, 15 Oct 2026 19:39:27 +0000",
-          "summary": "AI, agents, voice, and physical controls are shifting software development from operating tools to expressing intent—and helping developers stay focused on building. The post The next developer interf"
         }
       ],
       "error": null
