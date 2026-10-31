@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-10-30T04:45:33.196Z",
+  "fetchedAt": "2026-10-31T04:29:52.085Z",
   "tools": [
     {
       "tool": "ミエルカ（YouTube）",
@@ -121,39 +121,8 @@
       "category": "SEO・キーワード調査",
       "sourceType": "tool",
       "feedUrl": "https://rakkokeyword.com/techo/feed/",
-      "items": [
-        {
-          "title": "季節キーワードの選び方！月間検索数で仕込み時期を見極める",
-          "link": "https://rakkokeyword.com/techo/seasonal-keywords-selection-timing/",
-          "date": "Mon, 26 Oct 2026 10:11:46 +0000",
-          "summary": "季節キーワードの選び方で最も大切なのは、検索需要が高まる前に月間検索数の推移を調べ、ピークの2〜3ヶ月前に記事を公開することです。 思いつきや前年の記憶だけで公開時期を決めると、検索の波が過ぎてから順位が上がってしまいま ..."
-        },
-        {
-          "title": "Xでバズるには？伸びる投稿の作り方とネタの見つけ方を解説",
-          "link": "https://rakkokeyword.com/techo/how-to-go-viral-on-x/",
-          "date": "Tue, 20 Oct 2026 08:20:04 +0000",
-          "summary": "Xのバズは運だけで決まるものではありません。 おすすめ表示の仕組みに沿った「投稿の型」と、今まさに関心が集まっている「旬のネタ」を組み合わせれば、拡散される確率を上げられます。 この記事では、X（旧Twitter）の投稿 ..."
-        },
-        {
-          "title": "YouTubeのタグの付け方とは？効果的な選び方と設定手順を解説",
-          "link": "https://rakkokeyword.com/techo/how-to-add-youtube-tags/",
-          "date": "Fri, 16 Oct 2026 08:32:01 +0000",
-          "summary": "YouTubeのタグは、YouTube Studioの「すべて表示」を開いたところにあるタグ欄に、動画の内容を表すキーワードをカンマ区切りで入力するだけで設定できます。 ただし、タグだけで再生回数が大きく伸びるわけではあ ..."
-        },
-        {
-          "title": "YouTubeのキーワード検索のやり方は？再生数を伸ばす選び方",
-          "link": "https://rakkokeyword.com/techo/youtube-keyword-research-increase-views/",
-          "date": "Fri, 16 Oct 2026 08:12:12 +0000",
-          "summary": "YouTubeで再生数が伸びない原因の多くは、視聴者が実際に検索している言葉と、動画のタイトルの言葉がずれていることです。 キーワードの探し方は難しくなく、無料のツールを使えば数分で候補を洗い出せます。 この記事では、Y ..."
-        },
-        {
-          "title": "ブログの競合調査のやり方とは？分析手順とチェック項目を解説",
-          "link": "https://rakkokeyword.com/techo/blog-competitor-analysis-steps-checklist/",
-          "date": "Thu, 15 Oct 2026 05:21:02 +0000",
-          "summary": "ブログの伸び悩みは、上位の競合ブログを「どのキーワードで集客しているか」から調べると、原因と次の打ち手が具体的に見えてきます。 競合調査といっても、大がかりな分析は必要ありません。 競合の獲得キーワードと上位記事の頻出語 ..."
-        }
-      ],
-      "error": null
+      "items": [],
+      "error": "Status code 415"
     },
     {
       "tool": "Claude / Claude Code",
