@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-10-31T04:29:52.085Z",
+  "fetchedAt": "2026-11-02T04:51:51.671Z",
   "tools": [
     {
       "tool": "ミエルカ（YouTube）",
@@ -121,8 +121,39 @@
       "category": "SEO・キーワード調査",
       "sourceType": "tool",
       "feedUrl": "https://rakkokeyword.com/techo/feed/",
-      "items": [],
-      "error": "Status code 415"
+      "items": [
+        {
+          "title": "Amazonの商品名の付け方とルールとは？検索される商品ページのコツ",
+          "link": "https://rakkokeyword.com/techo/amazon-product-naming-rules-tips/",
+          "date": "Sat, 31 Oct 2026 09:59:12 +0000",
+          "summary": "Amazonの商品名は、公式ルールを守ったうえで、購入者が実際に検索する語を前半に置けば、文字数が減っても検索に強い商品名にできます。 75文字に入りきらないキーワードは、新しく追加された「商品のハイライト」へ移せます。 ..."
+        },
+        {
+          "title": "インスタのネタの探し方は？ネタ切れを防ぐ発想のコツを解説",
+          "link": "https://rakkokeyword.com/techo/instagram-content-ideas-tips/",
+          "date": "Sat, 31 Oct 2026 09:52:40 +0000",
+          "summary": "インスタのネタ切れは、ネタを「ゼロから考える」のをやめると解消できます。 お客様との会話や日々の仕事にあるネタを拾う方法と、検索されている言葉から需要のあるテーマを探す方法の2つを持っておけば、ネタが尽きにくくなります。 ..."
+        },
+        {
+          "title": "TikTokの流行りのネタの見つけ方は？伸びる企画の探し方を解説",
+          "link": "https://rakkokeyword.com/techo/tiktok-trending-content-ideas/",
+          "date": "Sat, 31 Oct 2026 09:37:33 +0000",
+          "summary": "TikTokの流行りネタは、センスや勘で見つけるものではありません。 「どこを見るか」を決めて定点観測し、見つけたネタを検索データで裏づければ、運用経験が浅くても伸びる企画を安定して探せます。 この記事では、TikTok ..."
+        },
+        {
+          "title": "せどりで稼ぐには？売れ筋の仕入れとリサーチのやり方を解説",
+          "link": "https://rakkokeyword.com/techo/sedori-how-to-earn-sourcing-research/",
+          "date": "Sat, 31 Oct 2026 09:28:42 +0000",
+          "summary": "せどりは、「売れる商品を調べてから仕入れる」という順番とルールを守れば、特別なスキルがなくても少額から始められる副業です。 反対に、よくある失敗の原因は、需要を調べずに仕入れることと、手数料や法律の確認不足です。 この記 ..."
+        },
+        {
+          "title": "季節キーワードの選び方！月間検索数で仕込み時期を見極める",
+          "link": "https://rakkokeyword.com/techo/seasonal-keywords-selection-timing/",
+          "date": "Mon, 26 Oct 2026 10:11:46 +0000",
+          "summary": "季節キーワードの選び方で最も大切なのは、検索需要が高まる前に月間検索数の推移を調べ、ピークの2〜3ヶ月前に記事を公開することです。 思いつきや前年の記憶だけで公開時期を決めると、検索の波が過ぎてから順位が上がってしまいま ..."
+        }
+      ],
+      "error": null
     },
     {
       "tool": "Claude / Claude Code",
@@ -321,6 +352,13 @@
       "feedUrl": "https://github.blog/feed/",
       "items": [
         {
+          "title": "2026年ゲームオフ：テーマはシフト",
+          "titleOrig": "Game Off 2026: The theme is SHIFT",
+          "link": "https://github.blog/open-source/gaming/game-off-2026-the-theme-is-shift/",
+          "date": "Sun, 01 Nov 2026 21:36:00 +0000",
+          "summary": "GitHub’s annual month-long game jam is back for its 14th year! This November, make a game inspired by the theme SHIFT. Change gears, swap perspectives, bend reality, or just press a certain key. The p"
+        },
+        {
           "title": "GitHub Universe 2026 ：スタックのすべてのレイヤーを進化させる",
           "titleOrig": "GitHub Universe 2026: Evolving every layer of the stack",
           "link": "https://github.blog/news-insights/company-news/github-universe-2026-evolving-every-layer-of-the-stack/",
@@ -347,13 +385,6 @@
           "link": "https://github.blog/engineering/architecture-optimization/the-bridge-to-agent-scale-git-infrastructure/",
           "date": "Wed, 21 Oct 2026 16:00:00 +0000",
           "summary": "We moved a copy of 99.99999% of GitHub's repositories to Azure. Here's how per-reference quorums will bring over the rest, and how object storage lets reads scale independently. The post The bridge to"
-        },
-        {
-          "title": "3人のJavaチャンピオンがGitHub Copilotを使用して生産性を向上させている方法",
-          "titleOrig": "How 3 Java Champions are using GitHub Copilot for increased productivity",
-          "link": "https://github.blog/ai-and-ml/github-copilot/how-3-java-champions-are-using-github-copilot-for-increased-productivity/",
-          "date": "Tue, 20 Oct 2026 16:05:03 +0000",
-          "summary": "Three Java Champions share how they use GitHub Copilot to solve problems, accelerate development, and keep humans responsible for the results. The post How 3 Java Champions are using GitHub Copilot fo"
         }
       ],
       "error": null
@@ -364,39 +395,8 @@
       "category": "制作・デザイン",
       "sourceType": "media",
       "feedUrl": "https://www.mindfactory.co.jp/blog/feed/",
-      "items": [
-        {
-          "title": "【新入社員インタビュー】プリ機のUIデザインから新天地へ。￼",
-          "link": "https://www.mindfactory.co.jp/blog/8439",
-          "date": "Tue, 28 Jul 2026 01:38:35 +0000",
-          "summary": "マインドファクトリーのクリエイティブチームでは、企業の課題解決を最大化するデジタルマーケティングの一環として、ロジックに基づいた戦略的なデザインの提供に注力しています。チームの多様性とクリエイティブの幅をさらに広げるべく […]"
-        },
-        {
-          "title": "【新入社員インタビュー】5年の経験を経て、マインドファクトリーを選んだ理由￼￼",
-          "link": "https://www.mindfactory.co.jp/blog/8431",
-          "date": "Tue, 21 Jul 2026 07:51:09 +0000",
-          "summary": "マインドファクトリーのクリエイティブチームでは、企業のビジネスを加速させるデジタルマーケティングの一環として、戦略的かつハイクオリティなデザイン制作に取り組んでいます。組織のさらなる成長とクリエイティブ力の強化を目指す中 […]"
-        },
-        {
-          "title": "“伝わる”UIをつくれるデザイナーを目指して - インターン生インタビュー",
-          "link": "https://www.mindfactory.co.jp/blog/8370",
-          "date": "Fri, 27 Feb 2026 11:43:03 +0000",
-          "summary": "今年マインドファクトリーでは、初めてインターンシップの受け入れを行いました。 今回は、インターンで来てくれた名古屋モード学園グラフィック学科の水野君に、デザイナーを志したきっかけや弊社でのインターンの感想をインタビューし […]"
-        },
-        {
-          "title": "WEBメディア「CREATORS STATION」に代表富岡のインタビュー記事が掲載されました",
-          "link": "https://www.mindfactory.co.jp/blog/8364",
-          "date": "Mon, 16 Feb 2026 08:57:39 +0000",
-          "summary": "株式会社フェローズが運営する、日本全国のクリエイターを応援するためのWEBメディア「CREATORS STATION」に、弊社代表 富岡のインタビュー記事が掲載されました。自身のこれまでのキャリアから、事業内容、今後の展 […]"
-        },
-        {
-          "title": "年末年始休暇のお知らせ",
-          "link": "https://www.mindfactory.co.jp/blog/8357",
-          "date": "Fri, 05 Dec 2025 09:20:14 +0000",
-          "summary": "平素は格別のお引き立てを賜り、厚く御礼申し上げます。誠に勝手ながら、弊社は、下記の期間を年末年始休業とさせていただきます。 ■ 年末年始休暇期間2025年12月27日（土）～2026年1月4日（日） ご不便をおかけいたし […]"
-        }
-      ],
-      "error": null
+      "items": [],
+      "error": "Request timed out after 10000ms"
     },
     {
       "tool": "Empathy Writing",
