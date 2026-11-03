@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-11-02T04:51:51.671Z",
+  "fetchedAt": "2026-11-03T05:41:33.070Z",
   "tools": [
     {
       "tool": "ミエルカ（YouTube）",
@@ -19,6 +19,12 @@
       "sourceType": "tool",
       "feedUrl": "https://ahrefs.com/blog/ja/feed/",
       "items": [
+        {
+          "title": "ブランドレーダーが 3,000 万プロンプト規模に拡大：ロングテール質問でブランド露出を発見・改善する方法",
+          "link": "https://ahrefs.com/ja/blog/brand-radar-30m-prompts-expansion-guide/",
+          "date": "Mon, 02 Nov 2026 05:16:24 +0000",
+          "summary": "Ahrefs ブランドレーダーの AI 監視プロンプトが約 3,000 万件へ拡大しました。新たに可視化されたロングテール質問の分析手順、 AI シェア・オブ・ボイス（SOV）や AI 調整済みボリュームを活用したブランド露出ギャップの特定法、業界別傾向まで実務目線で徹底解説します。"
+        },
         {
           "title": "Ahrefs の新機能「トラフィック分析」を使ってみた：レシピサイト 4 社で競合のアクセス数と流入元を調べる",
           "link": "https://ahrefs.com/ja/blog/traffic-analytics-how-to/",
@@ -42,12 +48,6 @@
           "link": "https://ahrefs.com/ja/blog/ai-search-sentiment-intent-apparel/",
           "date": "Thu, 22 Oct 2026 04:28:32 +0000",
           "summary": "AI の回答に、自社の名前が出ている。では、どんな理由で紹介されているのでしょうか。 「手頃な価格だから」「品質がよいから」。同じブランドでも、ある点では評価され、別の点では注意点が挙げられることがあります。また、広く情報を集める質問と、具体的に購入先を探す質問では、登場するブランドが違うかもしれません。 Ahrefs ブランドレーダーに追加されたセンチメント分析とインテント分析を使うと、こうした"
-        },
-        {
-          "title": "Web 制作の提案に、検索データという根拠を。ちょっと株式会社が Ahrefs × Claude で広げる提案の幅",
-          "link": "https://ahrefs.com/ja/blog/case-study-chot-inc/",
-          "date": "Wed, 21 Oct 2026 02:03:44 +0000",
-          "summary": "大規模な Web サイトの制作やフロントエンド開発を手がける、ちょっと株式会社。数千から数万ページに及ぶサイトを、表示速度だけでなく、情報を更新する人の業務や運用体制まで考えて構築しています。 同社が近年、制作・リニューアルの提案に取り入れているのが、Ahrefs の検索データと Claude を組み合わせた SEO 分析です。MCP を通じて Ahrefs と Claude を接続し、顧客サイト"
         }
       ],
       "error": null
@@ -172,6 +172,13 @@
       "feedUrl": "https://blog.google/technology/ai/rss/",
       "items": [
         {
+          "title": "2026年10月に発表した最新のAIニュース",
+          "titleOrig": "The latest AI news we announced in October 2026",
+          "link": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-october-2026/",
+          "date": "Mon, 02 Nov 2026 17:45:00 +0000",
+          "summary": "Here are Google’s latest AI updates from October 2026"
+        },
+        {
           "title": "最新のAIクエスト：人間の脳のマッピング",
           "titleOrig": "Our newest AI Quest: Mapping the human brain",
           "link": "https://blog.google/products-and-platforms/products/education/ai-quests-polar-peaks/",
@@ -198,13 +205,6 @@
           "link": "https://blog.google/innovation-and-ai/technology/ai/playground-experimental-gaming-platform/",
           "date": "Wed, 07 Oct 2026 12:00:00 +0000",
           "summary": "Playground is a new experimental gaming platform that lets you create, play, and share custom games."
-        },
-        {
-          "title": "2026年9月に発表した最新のAIニュース",
-          "titleOrig": "The latest AI news we announced in September 2026",
-          "link": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-september-2026/",
-          "date": "Fri, 02 Oct 2026 15:00:00 +0000",
-          "summary": "Here are Google’s latest AI updates from September 2026"
         }
       ],
       "error": null
@@ -307,6 +307,27 @@
       "feedUrl": "https://obsidian.md/changelog.xml",
       "items": [
         {
+          "title": "Obsidian 1.15モバイル（パブリック）",
+          "titleOrig": "Obsidian 1.15 Mobile (Public)",
+          "link": "https://obsidian.md/changelog/2026-11-02-mobile-v1.15.0/",
+          "date": "2026-11-02T00:00:00.000Z",
+          "summary": "Includes all new features and bug fixes up to Obsidian Desktop v1.15.0. PDF export You can now export notes to PDF on iOS and Android. Voice capture on iOS Quick Capture can now record voice notes and"
+        },
+        {
+          "title": "Obsidian 1.15デスクトップ（パブリック）",
+          "titleOrig": "Obsidian 1.15 Desktop (Public)",
+          "link": "https://obsidian.md/changelog/2026-11-02-desktop-v1.15.0/",
+          "date": "2026-11-02T00:00:00.000Z",
+          "summary": "This update brings faster Mermaid diagrams that match your theme, reorderable filters in Bases, and new URI and CLI commands for adding content under a heading. Diagrams and charts Mermaid diagrams an"
+        },
+        {
+          "title": "Obsidian 2026.10.27公開（公開）",
+          "titleOrig": "Obsidian 2026.10.27 Publish (Public)",
+          "link": "https://obsidian.md/changelog/2026-10-27-publish/",
+          "date": "2026-10-27T00:00:00.000Z",
+          "summary": "Improvements Added support for highlight colors: 🔴, 🟠, 🟡, 🟢, 🔵, and 🟣. Add a color emoji at the start of a highlight, e.g. ==🔴red highlight==. Mermaid diagrams and charts are now rendered using"
+        },
+        {
           "title": "Obsidian 1.15.0モバイル（先行アクセス）",
           "titleOrig": "Obsidian 1.15.0 Mobile (Early access)",
           "link": "https://obsidian.md/changelog/2026-10-22-mobile-v1.15.0/",
@@ -319,27 +340,6 @@
           "link": "https://obsidian.md/changelog/2026-10-22-desktop-v1.15.0/",
           "date": "2026-10-22T00:00:00.000Z",
           "summary": "This update brings faster Mermaid diagrams that match your theme, reorderable filters in Bases, and new URI and CLI commands for adding content under a heading. Diagrams and charts Mermaid diagrams an"
-        },
-        {
-          "title": "Obsidian 1.14.5デスクトップ（パブリック）",
-          "titleOrig": "Obsidian 1.14.5 Desktop (Public)",
-          "link": "https://obsidian.md/changelog/2026-10-22-desktop-v1.14.5/",
-          "date": "2026-10-22T00:00:00.000Z",
-          "summary": "This release updates Electron from 43.7.5 to 43.8.3, which includes several important security fixes. Download Obsidian from our website and reinstall the app."
-        },
-        {
-          "title": "Obsidian 1.14モバイル（パブリック）",
-          "titleOrig": "Obsidian 1.14 Mobile (Public)",
-          "link": "https://obsidian.md/changelog/2026-10-05-mobile-v1.14.4/",
-          "date": "2026-10-05T00:00:00.000Z",
-          "summary": "Includes all new features and bug fixes up to Obsidian Desktop v1.14.4. While you’re here… Tell us about your favorite plugins, themes, tools, and ways to use Obsidian: take the State of Obsidian 2026"
-        },
-        {
-          "title": "Obsidian 1.14デスクトップ（パブリック）",
-          "titleOrig": "Obsidian 1.14 Desktop (Public)",
-          "link": "https://obsidian.md/changelog/2026-10-05-desktop-v1.14.4/",
-          "date": "2026-10-05T00:00:00.000Z",
-          "summary": "This update introduces support for opening individual Markdown files, a kanban view for Bases, and highlight colors. Important: opening Markdown files requires the latest installer. Download Obsidian "
         }
       ],
       "error": null
@@ -395,8 +395,39 @@
       "category": "制作・デザイン",
       "sourceType": "media",
       "feedUrl": "https://www.mindfactory.co.jp/blog/feed/",
-      "items": [],
-      "error": "Request timed out after 10000ms"
+      "items": [
+        {
+          "title": "【新入社員インタビュー】プリ機のUIデザインから新天地へ。￼",
+          "link": "https://www.mindfactory.co.jp/blog/8439",
+          "date": "Tue, 28 Jul 2026 01:38:35 +0000",
+          "summary": "マインドファクトリーのクリエイティブチームでは、企業の課題解決を最大化するデジタルマーケティングの一環として、ロジックに基づいた戦略的なデザインの提供に注力しています。チームの多様性とクリエイティブの幅をさらに広げるべく […]"
+        },
+        {
+          "title": "【新入社員インタビュー】5年の経験を経て、マインドファクトリーを選んだ理由￼￼",
+          "link": "https://www.mindfactory.co.jp/blog/8431",
+          "date": "Tue, 21 Jul 2026 07:51:09 +0000",
+          "summary": "マインドファクトリーのクリエイティブチームでは、企業のビジネスを加速させるデジタルマーケティングの一環として、戦略的かつハイクオリティなデザイン制作に取り組んでいます。組織のさらなる成長とクリエイティブ力の強化を目指す中 […]"
+        },
+        {
+          "title": "“伝わる”UIをつくれるデザイナーを目指して - インターン生インタビュー",
+          "link": "https://www.mindfactory.co.jp/blog/8370",
+          "date": "Fri, 27 Feb 2026 11:43:03 +0000",
+          "summary": "今年マインドファクトリーでは、初めてインターンシップの受け入れを行いました。 今回は、インターンで来てくれた名古屋モード学園グラフィック学科の水野君に、デザイナーを志したきっかけや弊社でのインターンの感想をインタビューし […]"
+        },
+        {
+          "title": "WEBメディア「CREATORS STATION」に代表富岡のインタビュー記事が掲載されました",
+          "link": "https://www.mindfactory.co.jp/blog/8364",
+          "date": "Mon, 16 Feb 2026 08:57:39 +0000",
+          "summary": "株式会社フェローズが運営する、日本全国のクリエイターを応援するためのWEBメディア「CREATORS STATION」に、弊社代表 富岡のインタビュー記事が掲載されました。自身のこれまでのキャリアから、事業内容、今後の展 […]"
+        },
+        {
+          "title": "年末年始休暇のお知らせ",
+          "link": "https://www.mindfactory.co.jp/blog/8357",
+          "date": "Fri, 05 Dec 2025 09:20:14 +0000",
+          "summary": "平素は格別のお引き立てを賜り、厚く御礼申し上げます。誠に勝手ながら、弊社は、下記の期間を年末年始休業とさせていただきます。 ■ 年末年始休暇期間2025年12月27日（土）～2026年1月4日（日） ご不便をおかけいたし […]"
+        }
+      ],
+      "error": null
     },
     {
       "tool": "Empathy Writing",
