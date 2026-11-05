@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-11-03T05:41:33.070Z",
+  "fetchedAt": "2026-11-05T05:33:27.595Z",
   "tools": [
     {
       "tool": "ミエルカ（YouTube）",
@@ -20,34 +20,34 @@
       "feedUrl": "https://ahrefs.com/blog/ja/feed/",
       "items": [
         {
-          "title": "ブランドレーダーが 3,000 万プロンプト規模に拡大：ロングテール質問でブランド露出を発見・改善する方法",
-          "link": "https://ahrefs.com/ja/blog/brand-radar-30m-prompts-expansion-guide/",
-          "date": "Mon, 02 Nov 2026 05:16:24 +0000",
-          "summary": "Ahrefs ブランドレーダーの AI 監視プロンプトが約 3,000 万件へ拡大しました。新たに可視化されたロングテール質問の分析手順、 AI シェア・オブ・ボイス（SOV）や AI 調整済みボリュームを活用したブランド露出ギャップの特定法、業界別傾向まで実務目線で徹底解説します。"
+          "title": "AI 引用の安定性を検証：37,500 件の引用を追跡して分かった 10 のこと",
+          "link": "https://ahrefs.com/ja/blog/how-stable-are-ai-citations/",
+          "date": "Wed, 04 Nov 2026 03:05:55 +0000",
+          "summary": "重要なポイント： この記事では、引用の挙動、本当の喪失と一時的な変動の見分け方、長続きする引用の要因の順に解説します。 Ahrefs のデータサイエンティストのシベイジャ・グアンは、5 つの AI ツールに毎日同じ質問を投げかける調査を 20 日間続けました。初日に引用されたすべてのウェブサイトを追跡し、翌日も、さらにその翌日も引用されているかを確認しています。一度消えた場合は、再び戻ってきたかど"
         },
         {
-          "title": "Ahrefs の新機能「トラフィック分析」を使ってみた：レシピサイト 4 社で競合のアクセス数と流入元を調べる",
-          "link": "https://ahrefs.com/ja/blog/traffic-analytics-how-to/",
-          "date": "Wed, 28 Oct 2026 02:50:24 +0000",
-          "summary": "競合サイトのアクセス数と流入元を調べる方法を、Ahrefs の新機能「トラフィック分析」の実画面で解説します。検索、SNS、リファラー、AI 検索まで、10 以上のチャネル別に確認できます。レシピサイト 4 社の例で、何が分かり、どう操作し、次に何をするかを紹介します。"
+          "title": "Google 検索ランキング：日本と世界で最も検索されているキーワード 100（2026年11月版）",
+          "link": "https://ahrefs.com/ja/blog/google-keyword-ranking/",
+          "date": "Wed, 04 Nov 2026 02:40:31 +0000",
+          "summary": "Ahrefs の287 億件のキーワードデータベースをもとに、日本と世界で最も検索されているキーワードを 100 件ずつまとめました。 ランキングは毎月更新しています。 日本の Google で検索ボリュームが多いキーワードは次のとおりです。 # キーワード 月間検索ボリューム 1 天気 26,430,000 2 チャットg­pt 22,380,000 3 youtube 19,220,000 4"
         },
         {
-          "title": "AI を通じて顧客の「集合理解」を捉える。freee が Ahrefs で進める GEO と認知施策の連携",
-          "link": "https://ahrefs.com/ja/blog/case-study-freee/",
-          "date": "Mon, 26 Oct 2026 04:41:08 +0000",
-          "summary": "検索順位や流入を分析するために使ってきたデータを、顧客や市場が自社をどう理解しているかを考える材料へ。統合型経営プラットフォームを提供する freee 株式会社では、Ahrefs の活用が SEO・GEO の戦略立案から、AI 検索を通じた認知の把握、全社の情報発信へと広がっています。 その中で重視しているのが、AI の回答を、世の中に発信された顧客や市場の「集合理解」を知る手掛かりとして読む視点"
+          "title": "Google で最も検索されている人物 100 人（日本・世界／2026年11月版）",
+          "link": "https://ahrefs.com/ja/blog/top-searches-famous-people/",
+          "date": "Wed, 04 Nov 2026 02:40:27 +0000",
+          "summary": "Ahrefs の287 億件のキーワードデータベースを使って、日本と世界で最もよく検索されている人物を 100 人ずつ集計しました。 ランキングは毎月更新しています。 日本の Google で検索ボリュームが多い人物は次のとおりです。 # 人物 月間検索ボリューム 1 大谷翔平 1,670,000 2 目黒蓮 1,010,000 3 ちゃんみな 852,000 4 瀬戸環奈 732,000 5 高"
         },
         {
-          "title": "Google による検索結果の「ポイズニング（偽の検索結果）」に関する最新情報",
-          "link": "https://ahrefs.com/ja/blog/google-search-results-poisoning-update/",
-          "date": "Fri, 23 Oct 2026 01:29:40 +0000",
-          "summary": "Google が SERP データ提供元と疑われるアクセスに異なる検索結果を返す「ポイズニング」が増加。Ahrefs の対応状況をお知らせします。"
+          "title": "Google で最もよく検索されている質問 100（日本・世界／2026年11月版）",
+          "link": "https://ahrefs.com/ja/blog/top-questions-searched/",
+          "date": "Wed, 04 Nov 2026 02:40:24 +0000",
+          "summary": "Ahrefs の287 億件のキーワードデータベースを使って、日本と世界で最もよく検索されている質問を 100 件ずつ集計しました。 ランキングは毎月更新しています。コンテンツのネタ探しや、検索ユーザーの関心を知るための参考にしてください。 日本の Google で検索ボリュームが多い質問は次のとおりです。 # 質問 月間検索ボリューム 1 令和何年 855,000 2 今令和何年 379,000"
         },
         {
-          "title": "AI は自社をどう紹介している？ アパレルの実例で学ぶセンチメント・検索意図分析",
-          "link": "https://ahrefs.com/ja/blog/ai-search-sentiment-intent-apparel/",
-          "date": "Thu, 22 Oct 2026 04:28:32 +0000",
-          "summary": "AI の回答に、自社の名前が出ている。では、どんな理由で紹介されているのでしょうか。 「手頃な価格だから」「品質がよいから」。同じブランドでも、ある点では評価され、別の点では注意点が挙げられることがあります。また、広く情報を集める質問と、具体的に購入先を探す質問では、登場するブランドが違うかもしれません。 Ahrefs ブランドレーダーに追加されたセンチメント分析とインテント分析を使うと、こうした"
+          "title": "日本でアクセスの多いウェブサイト 100（2026年 11月版）",
+          "link": "https://ahrefs.com/ja/blog/website-search-ranking/",
+          "date": "Wed, 04 Nov 2026 02:33:47 +0000",
+          "summary": "Ahrefs のサイトエクスプローラーのデータをもとに、日本と世界でアクセスの多いウェブサイトを 100 件ずつまとめました。 ランキングは毎月更新しています。 日本の Google からのアクセスが多いウェブサイトは次のとおりです。 # ウェブサイト 月間オーガニックトラフィック 1 yahoo.co.jp 216,592,353 2 wikipedia.org 178,488,727 3 yo"
         }
       ],
       "error": null
@@ -60,39 +60,39 @@
       "feedUrl": "https://www.semrush.com/blog/feed/",
       "items": [
         {
-          "title": "可視性とトラフィックを向上させる7つの無料SEOツール",
-          "titleOrig": "7 free SEO tools to boost visibility & traffic",
-          "link": "https://www.semrush.com/blog/free-seo-tools/",
-          "date": "Tue, 27 Oct 2026 09:05:00 +0000",
-          "summary": "The best free SEO tools include Keyword Magic Tool, Position Tracking, and Ubersuggest."
+          "title": "ChatGPTの可視性を追跡する方法：実用的なガイド",
+          "titleOrig": "How to track ChatGPT visibility: a practical guide",
+          "link": "https://www.semrush.com/blog/how-to-track-your-chatgpt-visibility/",
+          "date": "Wed, 04 Nov 2026 16:14:00 +0000",
+          "summary": "Learn how to measure ChatGPT visibility, track brand mentions and citations, compare competitors, identify gaps, and improve your AI search presence."
         },
         {
-          "title": "Poisoned SERPs ： SemrushのGoogleランキングデータの更新",
-          "titleOrig": "Poisoned SERPs: An update on Google ranking data in Semrush",
-          "link": "https://www.semrush.com/blog/poisoned-serps/",
-          "date": "Tue, 27 Oct 2026 08:17:00 +0000",
-          "summary": "Learn how Semrush is addressing “poisoned” Google Search results, validating ranking data, and investing in visibility for users."
+          "title": "WebMCP ：それが何であるか、なぜそれが重要なのか、そして今何をすべきか",
+          "titleOrig": "WebMCP: What it is, why it matters, and what to do now",
+          "link": "https://www.semrush.com/blog/webmcp/",
+          "date": "Wed, 04 Nov 2026 10:56:00 +0000",
+          "summary": "WebMCP is a proposed browser-level web standard that lets any webpage declare its capabilities as structured, callable tools for AI agents."
         },
         {
-          "title": "Googleマイビジネス： Googleビジネスプロフィールのガイド",
-          "titleOrig": "Google My Business: A guide to Google Business Profile",
-          "link": "https://www.semrush.com/blog/google-my-business/",
-          "date": "Mon, 26 Oct 2026 11:37:00 +0000",
-          "summary": "Google Business Profile (formerly Google My Business) is a free business listing that supports reviews, Q&As, posts, and more."
+          "title": "ChatGPTショッピングに最適化する方法",
+          "titleOrig": "How to optimize for ChatGPT shopping",
+          "link": "https://www.semrush.com/blog/optimize-for-chatgpt-shopping/",
+          "date": "Wed, 04 Nov 2026 10:36:00 +0000",
+          "summary": "How to optimize for ChatGPT shopping: 83% of its carousel products also rank in Google‘s top 40 Shopping results."
         },
         {
-          "title": "AI検索戦略：ブランドの可視性の4つのレイヤー",
-          "titleOrig": "AI search strategy: 4 layers of brand visibility",
-          "link": "https://www.semrush.com/blog/ai-search-strategy/",
-          "date": "Fri, 23 Oct 2026 10:58:00 +0000",
-          "summary": "An AI search strategy starts with diagnosis. Rewriting content won‘t help if AI can‘t reach your site or keeps describing your brand wrong."
+          "title": "製品マーケティングのためのAI （ 7つの実用的なユースケース）",
+          "titleOrig": "AI for product marketing (7 actionable use cases)",
+          "link": "https://www.semrush.com/blog/ai-for-product-marketing/",
+          "date": "Wed, 04 Nov 2026 10:22:00 +0000",
+          "summary": "Learn how to use AI for product marketing, with use cases for messaging, customer interviews, battlecards, and more."
         },
         {
-          "title": "Google検索が情報エージェントとユニバーサルカートでエージェント機能を拡張",
-          "titleOrig": "Google Search expands agentic capabilities with information agents and Universal Cart",
-          "link": "https://www.semrush.com/blog/google-adds-information-agents-and-universal-cart/",
-          "date": "Fri, 23 Oct 2026 10:35:00 +0000",
-          "summary": "Google‘s information agents and Universal Cart stand to change how users discover and buy products online."
+          "title": "Googleアナリティクスでウェブサイトのキーワードを見つける方法4",
+          "titleOrig": "How to find your website’s keywords in Google Analytics 4",
+          "link": "https://www.semrush.com/blog/google-analytics-keywords/",
+          "date": "Tue, 03 Nov 2026 12:05:00 +0000",
+          "summary": "Learn how to use Google Search Console & Google Analytics to find your keywords and study performance."
         }
       ],
       "error": null
@@ -262,6 +262,13 @@
       "feedUrl": "https://wordpress.org/news/feed/",
       "items": [
         {
+          "title": "WordPress 7.2ベータ4",
+          "titleOrig": "WordPress 7.2 Beta 4",
+          "link": "https://wordpress.org/news/2026/11/wordpress-7-2-beta-4/",
+          "date": "Tue, 03 Nov 2026 15:45:29 +0000",
+          "summary": "WordPress 7.2 Beta 4 is ready for download and testing! This beta release is intended for testing and development only. Please do not install, run, or test this version of WordPress on production or m"
+        },
+        {
           "title": "WordPress 7.1.4",
           "titleOrig": "WordPress 7.1.4",
           "link": "https://wordpress.org/news/2026/10/wordpress-7-1-4/",
@@ -288,13 +295,6 @@
           "link": "https://wordpress.org/news/2026/10/wordpress-7-2-beta-1-is-ready-for-download-and-testing/",
           "date": "Tue, 20 Oct 2026 16:02:09 +0000",
           "summary": "This beta release is intended for testing and development only. Please do not install, run, or test this version of WordPress on production or mission-critical websites. Instead, use a test environmen"
-        },
-        {
-          "title": "WordPress 7.1.3メンテナンスとセキュリティリリース",
-          "titleOrig": "WordPress 7.1.3 Maintenance and Security Release",
-          "link": "https://wordpress.org/news/2026/10/wordpress-7-1-3-maintenance-and-security-release/",
-          "date": "Tue, 06 Oct 2026 17:00:00 +0000",
-          "summary": "This security and maintenance release features 7 security fixes and 4 bug fixes. Because this is a security release, it is recommended that you update your sites immediately. You can download WordPres"
         }
       ],
       "error": null
@@ -306,6 +306,20 @@
       "sourceType": "tool",
       "feedUrl": "https://obsidian.md/changelog.xml",
       "items": [
+        {
+          "title": "Obsidian 1.15.1モバイル（早期アクセス）",
+          "titleOrig": "Obsidian 1.15.1 Mobile (Early access)",
+          "link": "https://obsidian.md/changelog/2026-11-03-mobile-v1.15.1/",
+          "date": "2026-11-03T00:00:00.000Z",
+          "summary": "Includes all new features and bug fixes up to Obsidian Desktop v1.15.1. New Added the Web viewer core plugin. With Open external links turned on in its settings, links to web pages open in an in-app b"
+        },
+        {
+          "title": "Obsidian 1.15.1デスクトップ（先行アクセス）",
+          "titleOrig": "Obsidian 1.15.1 Desktop (Early access)",
+          "link": "https://obsidian.md/changelog/2026-11-03-desktop-v1.15.1/",
+          "date": "2026-11-03T00:00:00.000Z",
+          "summary": "Search Added Relevance sort option that sorts notes based on the best match for your query. Search and search filters in other views (e.g. Backlinks, Outline and Bookmarks) now ignore accents, so cafe"
+        },
         {
           "title": "Obsidian 1.15モバイル（パブリック）",
           "titleOrig": "Obsidian 1.15 Mobile (Public)",
@@ -326,20 +340,6 @@
           "link": "https://obsidian.md/changelog/2026-10-27-publish/",
           "date": "2026-10-27T00:00:00.000Z",
           "summary": "Improvements Added support for highlight colors: 🔴, 🟠, 🟡, 🟢, 🔵, and 🟣. Add a color emoji at the start of a highlight, e.g. ==🔴red highlight==. Mermaid diagrams and charts are now rendered using"
-        },
-        {
-          "title": "Obsidian 1.15.0モバイル（先行アクセス）",
-          "titleOrig": "Obsidian 1.15.0 Mobile (Early access)",
-          "link": "https://obsidian.md/changelog/2026-10-22-mobile-v1.15.0/",
-          "date": "2026-10-22T00:00:00.000Z",
-          "summary": "Includes all new features and bug fixes up to Obsidian Desktop v1.15.0. Voice capture on iOS Quick Capture can now record voice notes and transcribe them as you speak, including on the Lock Screen. Re"
-        },
-        {
-          "title": "Obsidian 1.15.0デスクトップ（先行アクセス）",
-          "titleOrig": "Obsidian 1.15.0 Desktop (Early access)",
-          "link": "https://obsidian.md/changelog/2026-10-22-desktop-v1.15.0/",
-          "date": "2026-10-22T00:00:00.000Z",
-          "summary": "This update brings faster Mermaid diagrams that match your theme, reorderable filters in Bases, and new URI and CLI commands for adding content under a heading. Diagrams and charts Mermaid diagrams an"
         }
       ],
       "error": null
@@ -351,6 +351,13 @@
       "sourceType": "tool",
       "feedUrl": "https://github.blog/feed/",
       "items": [
+        {
+          "title": "Arnisは地球上のあらゆる場所をMinecraftの世界に変えます",
+          "titleOrig": "Arnis turns any place on Earth into a Minecraft world",
+          "link": "https://github.blog/open-source/maintainers/arnis-turns-any-place-on-earth-into-a-minecraft-world/",
+          "date": "Tue, 03 Nov 2026 16:00:00 +0000",
+          "summary": "Louis Erbkamm built the first prototype in his free time. Now GitHub Copilot helps him maintain it alone. The post Arnis turns any place on Earth into a Minecraft world appeared first on The GitHub Bl"
+        },
         {
           "title": "2026年ゲームオフ：テーマはシフト",
           "titleOrig": "Game Off 2026: The theme is SHIFT",
@@ -378,13 +385,6 @@
           "link": "https://github.blog/security/how-bug-bounty-sharpens-one-researchers-security-skills/",
           "date": "Thu, 22 Oct 2026 17:21:30 +0000",
           "summary": "As Cybersecurity Awareness Month continues, the GitHub Bug Bounty team spotlights @r31n, diving into their research approach, favorite bug classes, and advice for aspiring hackers. The post How bug bo"
-        },
-        {
-          "title": "エージェントスケールのGitインフラストラクチャへのブリッジ",
-          "titleOrig": "The bridge to agent-scale Git infrastructure",
-          "link": "https://github.blog/engineering/architecture-optimization/the-bridge-to-agent-scale-git-infrastructure/",
-          "date": "Wed, 21 Oct 2026 16:00:00 +0000",
-          "summary": "We moved a copy of 99.99999% of GitHub's repositories to Azure. Here's how per-reference quorums will bring over the rest, and how object storage lets reads scale independently. The post The bridge to"
         }
       ],
       "error": null
