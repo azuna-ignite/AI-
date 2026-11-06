@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-11-05T05:33:27.595Z",
+  "fetchedAt": "2026-11-06T05:30:43.885Z",
   "tools": [
     {
       "tool": "ミエルカ（YouTube）",
@@ -20,6 +20,18 @@
       "feedUrl": "https://ahrefs.com/blog/ja/feed/",
       "items": [
         {
+          "title": "AI 検索時代に「逆効果」になる従来の SEO 戦略 5 選：Ahrefs（エイチレフス）データで見る検索行動の変化と対応策",
+          "link": "https://ahrefs.com/ja/blog/counterproductive-seo-tactics-in-ai-search-era/",
+          "date": "Fri, 06 Nov 2026 02:31:55 +0000",
+          "summary": "Ahrefs の調査（2026 年 6 月）では、日本の情報収集型キーワードにおける検索 1 位の CTR が予測値に対して 62.7% 低下し、従来の SEO 施策がそのままでは成果につながりにくくなっています。Ahrefs の最新データをもとに、クリック誘導、キーワード密度、薄い記事の量産、SEO 単独運用、流入偏重の KPI という 5 つの見直しポイントと対応策を解説します。"
+        },
+        {
+          "title": "AI 検索のシェアオブボイスを競合と比較する方法：日本のゲーム機市場をブランドレーダーで分析してみた",
+          "link": "https://ahrefs.com/ja/blog/ai-search-share-of-voice-brand-radar-guide/",
+          "date": "Fri, 06 Nov 2026 02:03:43 +0000",
+          "summary": "日本エンタメの中核であるゲーム機市場を題材に、 AI 検索におけるシェアオブボイスを競合と比較する分析手順を解説します。 Ahrefs のブランドレーダーを用いて「ゲーム機のおすすめ」をはじめとする比較・購入プロンプトや引用ドメインを多角的に分析し、自社の業界に応用できる実践知をお届けします。"
+        },
+        {
           "title": "AI 引用の安定性を検証：37,500 件の引用を追跡して分かった 10 のこと",
           "link": "https://ahrefs.com/ja/blog/how-stable-are-ai-citations/",
           "date": "Wed, 04 Nov 2026 03:05:55 +0000",
@@ -36,18 +48,6 @@
           "link": "https://ahrefs.com/ja/blog/top-searches-famous-people/",
           "date": "Wed, 04 Nov 2026 02:40:27 +0000",
           "summary": "Ahrefs の287 億件のキーワードデータベースを使って、日本と世界で最もよく検索されている人物を 100 人ずつ集計しました。 ランキングは毎月更新しています。 日本の Google で検索ボリュームが多い人物は次のとおりです。 # 人物 月間検索ボリューム 1 大谷翔平 1,670,000 2 目黒蓮 1,010,000 3 ちゃんみな 852,000 4 瀬戸環奈 732,000 5 高"
-        },
-        {
-          "title": "Google で最もよく検索されている質問 100（日本・世界／2026年11月版）",
-          "link": "https://ahrefs.com/ja/blog/top-questions-searched/",
-          "date": "Wed, 04 Nov 2026 02:40:24 +0000",
-          "summary": "Ahrefs の287 億件のキーワードデータベースを使って、日本と世界で最もよく検索されている質問を 100 件ずつ集計しました。 ランキングは毎月更新しています。コンテンツのネタ探しや、検索ユーザーの関心を知るための参考にしてください。 日本の Google で検索ボリュームが多い質問は次のとおりです。 # 質問 月間検索ボリューム 1 令和何年 855,000 2 今令和何年 379,000"
-        },
-        {
-          "title": "日本でアクセスの多いウェブサイト 100（2026年 11月版）",
-          "link": "https://ahrefs.com/ja/blog/website-search-ranking/",
-          "date": "Wed, 04 Nov 2026 02:33:47 +0000",
-          "summary": "Ahrefs のサイトエクスプローラーのデータをもとに、日本と世界でアクセスの多いウェブサイトを 100 件ずつまとめました。 ランキングは毎月更新しています。 日本の Google からのアクセスが多いウェブサイトは次のとおりです。 # ウェブサイト 月間オーガニックトラフィック 1 yahoo.co.jp 216,592,353 2 wikipedia.org 178,488,727 3 yo"
         }
       ],
       "error": null
@@ -60,39 +60,39 @@
       "feedUrl": "https://www.semrush.com/blog/feed/",
       "items": [
         {
-          "title": "ChatGPTの可視性を追跡する方法：実用的なガイド",
+          "title": "How to use Google Keyword Planner",
+          "titleOrig": "How to use Google Keyword Planner",
+          "link": "https://www.semrush.com/blog/google-keyword-planner/",
+          "date": "Thu, 05 Nov 2026 10:43:00 +0000",
+          "summary": "Google Keyword Planner is a free tool. Here’s how to use it to find terms and where to get accurate search volume from."
+        },
+        {
+          "title": "How to track ChatGPT visibility: a practical guide",
           "titleOrig": "How to track ChatGPT visibility: a practical guide",
           "link": "https://www.semrush.com/blog/how-to-track-your-chatgpt-visibility/",
           "date": "Wed, 04 Nov 2026 16:14:00 +0000",
           "summary": "Learn how to measure ChatGPT visibility, track brand mentions and citations, compare competitors, identify gaps, and improve your AI search presence."
         },
         {
-          "title": "WebMCP ：それが何であるか、なぜそれが重要なのか、そして今何をすべきか",
+          "title": "WebMCP: What it is, why it matters, and what to do now",
           "titleOrig": "WebMCP: What it is, why it matters, and what to do now",
           "link": "https://www.semrush.com/blog/webmcp/",
           "date": "Wed, 04 Nov 2026 10:56:00 +0000",
           "summary": "WebMCP is a proposed browser-level web standard that lets any webpage declare its capabilities as structured, callable tools for AI agents."
         },
         {
-          "title": "ChatGPTショッピングに最適化する方法",
+          "title": "How to optimize for ChatGPT shopping",
           "titleOrig": "How to optimize for ChatGPT shopping",
           "link": "https://www.semrush.com/blog/optimize-for-chatgpt-shopping/",
           "date": "Wed, 04 Nov 2026 10:36:00 +0000",
           "summary": "How to optimize for ChatGPT shopping: 83% of its carousel products also rank in Google‘s top 40 Shopping results."
         },
         {
-          "title": "製品マーケティングのためのAI （ 7つの実用的なユースケース）",
+          "title": "AI for product marketing (7 actionable use cases)",
           "titleOrig": "AI for product marketing (7 actionable use cases)",
           "link": "https://www.semrush.com/blog/ai-for-product-marketing/",
           "date": "Wed, 04 Nov 2026 10:22:00 +0000",
           "summary": "Learn how to use AI for product marketing, with use cases for messaging, customer interviews, battlecards, and more."
-        },
-        {
-          "title": "Googleアナリティクスでウェブサイトのキーワードを見つける方法4",
-          "titleOrig": "How to find your website’s keywords in Google Analytics 4",
-          "link": "https://www.semrush.com/blog/google-analytics-keywords/",
-          "date": "Tue, 03 Nov 2026 12:05:00 +0000",
-          "summary": "Learn how to use Google Search Console & Google Analytics to find your keywords and study performance."
         }
       ],
       "error": null
@@ -172,39 +172,39 @@
       "feedUrl": "https://blog.google/technology/ai/rss/",
       "items": [
         {
-          "title": "2026年10月に発表した最新のAIニュース",
+          "title": "Gemini Omni 1.2 Flash: Fast and cost-effective with longer clips",
+          "titleOrig": "Gemini Omni 1.2 Flash: Fast and cost-effective with longer clips",
+          "link": "https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemini-omni-1-2-flash/",
+          "date": "Thu, 05 Nov 2026 17:00:00 +0000",
+          "summary": "Gemini Omni 1.2 Flash brings native 15-second video generation and editing, stronger consistency, and 30% lower pricing."
+        },
+        {
+          "title": "The latest AI news we announced in October 2026",
           "titleOrig": "The latest AI news we announced in October 2026",
           "link": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-october-2026/",
           "date": "Mon, 02 Nov 2026 17:45:00 +0000",
           "summary": "Here are Google’s latest AI updates from October 2026"
         },
         {
-          "title": "最新のAIクエスト：人間の脳のマッピング",
+          "title": "Our newest AI Quest: Mapping the human brain",
           "titleOrig": "Our newest AI Quest: Mapping the human brain",
           "link": "https://blog.google/products-and-platforms/products/education/ai-quests-polar-peaks/",
           "date": "Mon, 26 Oct 2026 16:00:00 +0000",
           "summary": "Learn AI literacy via Google’s latest AI Quests lesson on neuroscience, “Polar Peaks.”"
         },
         {
-          "title": "東南アジアのデジタル経済は3680億$に達する",
+          "title": "Southeast Asia’s digital economy to hit $368 billion",
           "titleOrig": "Southeast Asia’s digital economy to hit $368 billion",
           "link": "https://blog.google/company-news/inside-google/around-the-globe/google-asia/e-conomy-sea-report-2026/",
           "date": "Wed, 21 Oct 2026 04:00:00 +0000",
           "summary": "Widespread AI adoption is propelling Southeast Asia's digital economy to a projected $368 billion in 2026 and $1 trillion by 2035."
         },
         {
-          "title": "ジェミニ4アルゴン：最も困難な問題を解決するために作られました",
+          "title": "Gemini 4 Argon: Built to solve your hardest problems",
           "titleOrig": "Gemini 4 Argon: Built to solve your hardest problems",
           "link": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-argon/",
           "date": "Tue, 13 Oct 2026 16:00:00 +0000",
           "summary": "We’re giving developers, enterprises, scientists, and consumers access to Gemini 4 Argon, our latest frontier model."
-        },
-        {
-          "title": "プレイグラウンドのご紹介：カスタムゲームの作成とプレイ",
-          "titleOrig": "Introducing Playground: Create and play custom games",
-          "link": "https://blog.google/innovation-and-ai/technology/ai/playground-experimental-gaming-platform/",
-          "date": "Wed, 07 Oct 2026 12:00:00 +0000",
-          "summary": "Playground is a new experimental gaming platform that lets you create, play, and share custom games."
         }
       ],
       "error": null
@@ -262,7 +262,7 @@
       "feedUrl": "https://wordpress.org/news/feed/",
       "items": [
         {
-          "title": "WordPress 7.2ベータ4",
+          "title": "WordPress 7.2 Beta 4",
           "titleOrig": "WordPress 7.2 Beta 4",
           "link": "https://wordpress.org/news/2026/11/wordpress-7-2-beta-4/",
           "date": "Tue, 03 Nov 2026 15:45:29 +0000",
@@ -276,21 +276,21 @@
           "summary": "This security release features fixes for multiple issues. Because this is a security release, it is recommended that you update your sites immediately. You can download WordPress 7.1.4 from WordPress."
         },
         {
-          "title": "WordPress 7.2ベータ2 ",
+          "title": "WordPress 7.2 Beta 2 ",
           "titleOrig": "WordPress 7.2 Beta 2 ",
           "link": "https://wordpress.org/news/2026/10/wordpress-7-2-beta-2/",
           "date": "Tue, 27 Oct 2026 15:49:21 +0000",
           "summary": "WordPress 7.2 Beta 2 is ready for download and testing! This beta release is intended for testing and development only. Please do not install, run, or test this version of WordPress on production or m"
         },
         {
-          "title": "重要なPHPセキュリティリリース",
+          "title": "Critical PHP Security Release",
           "titleOrig": "Critical PHP Security Release",
           "link": "https://wordpress.org/news/2026/10/critical-php-security-release/",
           "date": "Wed, 21 Oct 2026 13:44:09 +0000",
           "summary": "The PHP project has announced a security release that fixes two critical security vulnerabilities discovered in PHP. Due to the critical severity of the issues, site owners are encouraged to immediate"
         },
         {
-          "title": "WordPress 7.2ベータ1はダウンロードとテストの準備ができています",
+          "title": "WordPress 7.2 Beta 1 is Ready for Download and Testing",
           "titleOrig": "WordPress 7.2 Beta 1 is Ready for Download and Testing",
           "link": "https://wordpress.org/news/2026/10/wordpress-7-2-beta-1-is-ready-for-download-and-testing/",
           "date": "Tue, 20 Oct 2026 16:02:09 +0000",
@@ -307,35 +307,35 @@
       "feedUrl": "https://obsidian.md/changelog.xml",
       "items": [
         {
-          "title": "Obsidian 1.15.1モバイル（早期アクセス）",
+          "title": "Obsidian 1.15.1 Mobile (Early access)",
           "titleOrig": "Obsidian 1.15.1 Mobile (Early access)",
           "link": "https://obsidian.md/changelog/2026-11-03-mobile-v1.15.1/",
           "date": "2026-11-03T00:00:00.000Z",
           "summary": "Includes all new features and bug fixes up to Obsidian Desktop v1.15.1. New Added the Web viewer core plugin. With Open external links turned on in its settings, links to web pages open in an in-app b"
         },
         {
-          "title": "Obsidian 1.15.1デスクトップ（先行アクセス）",
+          "title": "Obsidian 1.15.1 Desktop (Early access)",
           "titleOrig": "Obsidian 1.15.1 Desktop (Early access)",
           "link": "https://obsidian.md/changelog/2026-11-03-desktop-v1.15.1/",
           "date": "2026-11-03T00:00:00.000Z",
           "summary": "Search Added Relevance sort option that sorts notes based on the best match for your query. Search and search filters in other views (e.g. Backlinks, Outline and Bookmarks) now ignore accents, so cafe"
         },
         {
-          "title": "Obsidian 1.15モバイル（パブリック）",
+          "title": "Obsidian 1.15 Mobile (Public)",
           "titleOrig": "Obsidian 1.15 Mobile (Public)",
           "link": "https://obsidian.md/changelog/2026-11-02-mobile-v1.15.0/",
           "date": "2026-11-02T00:00:00.000Z",
           "summary": "Includes all new features and bug fixes up to Obsidian Desktop v1.15.0. PDF export You can now export notes to PDF on iOS and Android. Voice capture on iOS Quick Capture can now record voice notes and"
         },
         {
-          "title": "Obsidian 1.15デスクトップ（パブリック）",
+          "title": "Obsidian 1.15 Desktop (Public)",
           "titleOrig": "Obsidian 1.15 Desktop (Public)",
           "link": "https://obsidian.md/changelog/2026-11-02-desktop-v1.15.0/",
           "date": "2026-11-02T00:00:00.000Z",
           "summary": "This update brings faster Mermaid diagrams that match your theme, reorderable filters in Bases, and new URI and CLI commands for adding content under a heading. Diagrams and charts Mermaid diagrams an"
         },
         {
-          "title": "Obsidian 2026.10.27公開（公開）",
+          "title": "Obsidian 2026.10.27 Publish (Public)",
           "titleOrig": "Obsidian 2026.10.27 Publish (Public)",
           "link": "https://obsidian.md/changelog/2026-10-27-publish/",
           "date": "2026-10-27T00:00:00.000Z",
@@ -352,39 +352,39 @@
       "feedUrl": "https://github.blog/feed/",
       "items": [
         {
-          "title": "Arnisは地球上のあらゆる場所をMinecraftの世界に変えます",
+          "title": "Inside GitHub’s new Git storage architecture",
+          "titleOrig": "Inside GitHub’s new Git storage architecture",
+          "link": "https://github.blog/engineering/architecture-optimization/inside-githubs-new-git-storage-architecture/",
+          "date": "Thu, 05 Nov 2026 20:23:21 +0000",
+          "summary": "GitHub's new Git storage architecture is built so thousands of agents can push to a single repository at once. Here's how it works. The post Inside GitHub’s new Git storage architecture appeared first"
+        },
+        {
+          "title": "Accessibility statements now have a home on GitHub",
+          "titleOrig": "Accessibility statements now have a home on GitHub",
+          "link": "https://github.blog/open-source/maintainers/accessibility-statements-now-have-a-home-on-github/",
+          "date": "Thu, 05 Nov 2026 16:00:00 +0000",
+          "summary": "GitHub now highlights ACCESSIBILITY.md files and helps maintainers document accessibility goals, known barriers, supported environments, contributor expectations, and reporting processes. The post Acc"
+        },
+        {
+          "title": "Arnis turns any place on Earth into a Minecraft world",
           "titleOrig": "Arnis turns any place on Earth into a Minecraft world",
           "link": "https://github.blog/open-source/maintainers/arnis-turns-any-place-on-earth-into-a-minecraft-world/",
           "date": "Tue, 03 Nov 2026 16:00:00 +0000",
           "summary": "Louis Erbkamm built the first prototype in his free time. Now GitHub Copilot helps him maintain it alone. The post Arnis turns any place on Earth into a Minecraft world appeared first on The GitHub Bl"
         },
         {
-          "title": "2026年ゲームオフ：テーマはシフト",
+          "title": "Game Off 2026: The theme is SHIFT",
           "titleOrig": "Game Off 2026: The theme is SHIFT",
           "link": "https://github.blog/open-source/gaming/game-off-2026-the-theme-is-shift/",
           "date": "Sun, 01 Nov 2026 21:36:00 +0000",
           "summary": "GitHub’s annual month-long game jam is back for its 14th year! This November, make a game inspired by the theme SHIFT. Change gears, swap perspectives, bend reality, or just press a certain key. The p"
         },
         {
-          "title": "GitHub Universe 2026 ：スタックのすべてのレイヤーを進化させる",
+          "title": "GitHub Universe 2026: Evolving every layer of the stack",
           "titleOrig": "GitHub Universe 2026: Evolving every layer of the stack",
           "link": "https://github.blog/news-insights/company-news/github-universe-2026-evolving-every-layer-of-the-stack/",
           "date": "Wed, 28 Oct 2026 16:09:28 +0000",
           "summary": "Today, we laid out our vision for GitHub as the most comprehensive, end-to-end software delivery system in the world. The post GitHub Universe 2026: Evolving every layer of the stack appeared first on"
-        },
-        {
-          "title": "Octoverse ：開発者がエージェントと共に構築する中で、2026年にコミットし、プッシュし、新たな高値に達する",
-          "titleOrig": "Octoverse: Commits, pushes, reach new highs in 2026 as developers build with agents",
-          "link": "https://github.blog/news-insights/octoverse/octoverse-commits-pushes-reach-new-highs-in-2026-as-developers-build-with-agents/",
-          "date": "Wed, 28 Oct 2026 16:07:40 +0000",
-          "summary": "See how a record year of growth reached every industry, every field, and every kind of builder in the 2026 Octoverse report. The post Octoverse: Commits, pushes, reach new highs in 2026 as developers "
-        },
-        {
-          "title": "バグ報奨金が研究者のセキュリティスキルをどのように磨くか",
-          "titleOrig": "How bug bounty sharpens one researcher’s security skills",
-          "link": "https://github.blog/security/how-bug-bounty-sharpens-one-researchers-security-skills/",
-          "date": "Thu, 22 Oct 2026 17:21:30 +0000",
-          "summary": "As Cybersecurity Awareness Month continues, the GitHub Bug Bounty team spotlights @r31n, diving into their research approach, favorite bug classes, and advice for aspiring hackers. The post How bug bo"
         }
       ],
       "error": null
