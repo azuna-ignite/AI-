@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-11-09T05:01:29.143Z",
+  "fetchedAt": "2026-11-10T06:18:34.206Z",
   "tools": [
     {
       "tool": "ミエルカ（YouTube）",
@@ -20,34 +20,34 @@
       "feedUrl": "https://ahrefs.com/blog/ja/feed/",
       "items": [
         {
+          "title": "日本と世界で注目されているテック系スタートアップランキング（2026年11月時点）",
+          "link": "https://ahrefs.com/ja/blog/tech-startup-ranking/",
+          "date": "Mon, 09 Nov 2026 07:45:20 +0000",
+          "summary": "Ahrefs のデータをもとに、2015 年以降に設立された日本のテック系スタートアップ 約 90 社の指名検索数を比べ、伸びている 19 社をランキングにしました。世界のランキングとして、英語版の記事で紹介している海外のスタートアップ 25 社も載せています。 ランキングは毎月更新しています。 日本の Google で、社名・サービス名の検索が前年より伸びているスタートアップは次のとおりです。 "
+        },
+        {
+          "title": "日本と世界で伸びているサイバーセキュリティ企業ランキング（2026年11月時点）",
+          "link": "https://ahrefs.com/ja/blog/cybersecurity-company-ranking/",
+          "date": "Mon, 09 Nov 2026 07:44:14 +0000",
+          "summary": "Ahrefs のデータをもとに、日本のサイバーセキュリティ企業 約 60 社の指名検索数を比べました。前年より検索が増えていたのは 13 社です。世界のランキングとして、英語版の記事で紹介している海外のセキュリティ企業 25 社も載せています。 ランキングは毎月更新しています。 英語版はオーガニックトラフィックの伸びで順位を付けています。ただ、日本の SaaS やセキュリティ企業のサイトは、ブログ"
+        },
+        {
+          "title": "日本と世界で伸びている SaaS 企業ランキング（2026年11月時点）",
+          "link": "https://ahrefs.com/ja/blog/saas-company-ranking/",
+          "date": "Mon, 09 Nov 2026 07:43:29 +0000",
+          "summary": "Ahrefs のデータをもとに、日本の SaaS 企業 約 200 社の指名検索数を比べ、伸びている 25 社をランキングにしました。世界のランキングとして、英語版の記事で紹介している海外の SaaS スタートアップ 25 社も載せています。 ランキングは毎月更新しています。 英語版はオーガニックトラフィックの伸びで順位を付けています。ただ、日本の SaaS やセキュリティ企業のサイトは、ブログや"
+        },
+        {
+          "title": "AI 発見可能性スコア、トラフィック分析レポート、ソーシャルパフォーマンス分析、その他｜2026年 10月",
+          "link": "https://ahrefs.com/ja/blog/october-2026-roundup/",
+          "date": "Mon, 09 Nov 2026 06:20:35 +0000",
+          "summary": "ソーシャルメディアマネージャーにパフォーマンスレポートを追加 投稿パフォーマンス、投稿に最適な時間帯、投稿タイプ別パフォーマンスの 3 つの新しいレポートが追加されました。投稿パフォーマンスでは各プラットフォームの全公開投稿の生データを確認でき、投稿に最適な時間帯では時間帯別の過去のエンゲージメント率と投稿あたりの閲覧数を分析できます。また、投稿タイプ別パフォーマンスでは動画、テキストのみ、画像、"
+        },
+        {
           "title": "AI 検索時代に「逆効果」になる従来の SEO 戦略 5 選：Ahrefs（エイチレフス）データで見る検索行動の変化と対応策",
           "link": "https://ahrefs.com/ja/blog/counterproductive-seo-tactics-in-ai-search-era/",
           "date": "Fri, 06 Nov 2026 02:31:55 +0000",
           "summary": "Ahrefs の調査（2026 年 6 月）では、日本の情報収集型キーワードにおける検索 1 位の CTR が予測値に対して 62.7% 低下し、従来の SEO 施策がそのままでは成果につながりにくくなっています。Ahrefs の最新データをもとに、クリック誘導、キーワード密度、薄い記事の量産、SEO 単独運用、流入偏重の KPI という 5 つの見直しポイントと対応策を解説します。"
-        },
-        {
-          "title": "AI 検索のシェアオブボイスを競合と比較する方法：日本のゲーム機市場をブランドレーダーで分析してみた",
-          "link": "https://ahrefs.com/ja/blog/ai-search-share-of-voice-brand-radar-guide/",
-          "date": "Fri, 06 Nov 2026 02:03:43 +0000",
-          "summary": "日本エンタメの中核であるゲーム機市場を題材に、 AI 検索におけるシェアオブボイスを競合と比較する分析手順を解説します。 Ahrefs のブランドレーダーを用いて「ゲーム機のおすすめ」をはじめとする比較・購入プロンプトや引用ドメインを多角的に分析し、自社の業界に応用できる実践知をお届けします。"
-        },
-        {
-          "title": "AI 引用の安定性を検証：37,500 件の引用を追跡して分かった 10 のこと",
-          "link": "https://ahrefs.com/ja/blog/how-stable-are-ai-citations/",
-          "date": "Wed, 04 Nov 2026 03:05:55 +0000",
-          "summary": "重要なポイント： この記事では、引用の挙動、本当の喪失と一時的な変動の見分け方、長続きする引用の要因の順に解説します。 Ahrefs のデータサイエンティストのシベイジャ・グアンは、5 つの AI ツールに毎日同じ質問を投げかける調査を 20 日間続けました。初日に引用されたすべてのウェブサイトを追跡し、翌日も、さらにその翌日も引用されているかを確認しています。一度消えた場合は、再び戻ってきたかど"
-        },
-        {
-          "title": "Google 検索ランキング：日本と世界で最も検索されているキーワード 100（2026年11月版）",
-          "link": "https://ahrefs.com/ja/blog/google-keyword-ranking/",
-          "date": "Wed, 04 Nov 2026 02:40:31 +0000",
-          "summary": "Ahrefs の287 億件のキーワードデータベースをもとに、日本と世界で最も検索されているキーワードを 100 件ずつまとめました。 ランキングは毎月更新しています。 日本の Google で検索ボリュームが多いキーワードは次のとおりです。 # キーワード 月間検索ボリューム 1 天気 26,430,000 2 チャットg­pt 22,380,000 3 youtube 19,220,000 4"
-        },
-        {
-          "title": "Google で最も検索されている人物 100 人（日本・世界／2026年11月版）",
-          "link": "https://ahrefs.com/ja/blog/top-searches-famous-people/",
-          "date": "Wed, 04 Nov 2026 02:40:27 +0000",
-          "summary": "Ahrefs の287 億件のキーワードデータベースを使って、日本と世界で最もよく検索されている人物を 100 人ずつ集計しました。 ランキングは毎月更新しています。 日本の Google で検索ボリュームが多い人物は次のとおりです。 # 人物 月間検索ボリューム 1 大谷翔平 1,670,000 2 目黒蓮 1,010,000 3 ちゃんみな 852,000 4 瀬戸環奈 732,000 5 高"
         }
       ],
       "error": null
@@ -59,6 +59,20 @@
       "sourceType": "tool",
       "feedUrl": "https://www.semrush.com/blog/feed/",
       "items": [
+        {
+          "title": "SEOの未来： 2027年の検索の方向性",
+          "titleOrig": "The future of SEO: Where search is heading in 2027",
+          "link": "https://www.semrush.com/blog/future-of-seo/",
+          "date": "Mon, 09 Nov 2026 14:24:00 +0000",
+          "summary": "SEO will remain relevant as AI changes how people search. Learn what to expect and how to prepare."
+        },
+        {
+          "title": "ソーシャルメディアの競合他社分析[+無料テンプレート]",
+          "titleOrig": "Social media competitor analysis [+ free template]",
+          "link": "https://www.semrush.com/blog/social-media-competitor-analysis/",
+          "date": "Mon, 09 Nov 2026 13:49:00 +0000",
+          "summary": "Social media competitor analysis starts with the competitors you’re missing. Learn what to measure and turn their content into strategy with a free template."
+        },
         {
           "title": "Googleキーワードプランナーの使い方",
           "titleOrig": "How to use Google Keyword Planner",
@@ -79,20 +93,6 @@
           "link": "https://www.semrush.com/blog/webmcp/",
           "date": "Wed, 04 Nov 2026 10:56:00 +0000",
           "summary": "WebMCP is a proposed browser-level web standard that lets any webpage declare its capabilities as structured, callable tools for AI agents."
-        },
-        {
-          "title": "ChatGPTショッピングに最適化する方法",
-          "titleOrig": "How to optimize for ChatGPT shopping",
-          "link": "https://www.semrush.com/blog/optimize-for-chatgpt-shopping/",
-          "date": "Wed, 04 Nov 2026 10:36:00 +0000",
-          "summary": "How to optimize for ChatGPT shopping: 83% of its carousel products also rank in Google‘s top 40 Shopping results."
-        },
-        {
-          "title": "製品マーケティングのためのAI （ 7つの実用的なユースケース）",
-          "titleOrig": "AI for product marketing (7 actionable use cases)",
-          "link": "https://www.semrush.com/blog/ai-for-product-marketing/",
-          "date": "Wed, 04 Nov 2026 10:22:00 +0000",
-          "summary": "Learn how to use AI for product marketing, with use cases for messaging, customer interviews, battlecards, and more."
         }
       ],
       "error": null
@@ -123,6 +123,12 @@
       "feedUrl": "https://rakkokeyword.com/techo/feed/",
       "items": [
         {
+          "title": "比較記事の書き方は？読者が選べる構成と商品選定のコツ",
+          "link": "https://rakkokeyword.com/techo/how-to-write-comparison-articles/",
+          "date": "Tue, 10 Nov 2026 06:13:29 +0000",
+          "summary": "比較記事は、「読者が選べる構成」と「比較する商品の選び方」の2つを押さえれば、スペックの羅列から抜け出せます。 構成には型があり、商品選びもキーワードから逆算すれば迷いません。 この記事では、アフィリエイトで比較記事を書 ..."
+        },
+        {
           "title": "ハンドメイドが売れない理由は？売れ筋と需要の見直し方を解説",
           "link": "https://rakkokeyword.com/techo/handmade-not-selling-reasons-demand-review/",
           "date": "Mon, 09 Nov 2026 02:40:58 +0000",
@@ -145,12 +151,6 @@
           "link": "https://rakkokeyword.com/techo/amazon-product-naming-rules-tips/",
           "date": "Sat, 31 Oct 2026 09:59:12 +0000",
           "summary": "Amazonの商品名は、公式ルールを守ったうえで、購入者が実際に検索する語を前半に置けば、文字数が減っても検索に強い商品名にできます。 75文字に入りきらないキーワードは、新しく追加された「商品のハイライト」へ移せます。 ..."
-        },
-        {
-          "title": "インスタのネタの探し方は？ネタ切れを防ぐ発想のコツを解説",
-          "link": "https://rakkokeyword.com/techo/instagram-content-ideas-tips/",
-          "date": "Sat, 31 Oct 2026 09:52:40 +0000",
-          "summary": "インスタのネタ切れは、ネタを「ゼロから考える」のをやめると解消できます。 お客様との会話や日々の仕事にあるネタを拾う方法と、検索されている言葉から需要のあるテーマを探す方法の2つを持っておけば、ネタが尽きにくくなります。 ..."
         }
       ],
       "error": null
@@ -262,6 +262,13 @@
       "feedUrl": "https://wordpress.org/news/feed/",
       "items": [
         {
+          "title": "WordPressクレジットは50以上の機関を歓迎",
+          "titleOrig": "WordPress Credits Welcomes More Than 50 Institutions",
+          "link": "https://wordpress.org/news/2026/11/wp-credits-reaches-50/",
+          "date": "Mon, 09 Nov 2026 16:01:18 +0000",
+          "summary": "More than 50 educational institutions have joined WordPress Credits, giving students worldwide a way to earn academic recognition for contributing to WordPress. The program had two participating insti"
+        },
+        {
           "title": "WordPress 7.2ベータ4",
           "titleOrig": "WordPress 7.2 Beta 4",
           "link": "https://wordpress.org/news/2026/11/wordpress-7-2-beta-4/",
@@ -288,13 +295,6 @@
           "link": "https://wordpress.org/news/2026/10/critical-php-security-release/",
           "date": "Wed, 21 Oct 2026 13:44:09 +0000",
           "summary": "The PHP project has announced a security release that fixes two critical security vulnerabilities discovered in PHP. Due to the critical severity of the issues, site owners are encouraged to immediate"
-        },
-        {
-          "title": "WordPress 7.2ベータ1はダウンロードとテストの準備ができています",
-          "titleOrig": "WordPress 7.2 Beta 1 is Ready for Download and Testing",
-          "link": "https://wordpress.org/news/2026/10/wordpress-7-2-beta-1-is-ready-for-download-and-testing/",
-          "date": "Tue, 20 Oct 2026 16:02:09 +0000",
-          "summary": "This beta release is intended for testing and development only. Please do not install, run, or test this version of WordPress on production or mission-critical websites. Instead, use a test environmen"
         }
       ],
       "error": null
