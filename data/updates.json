@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-11-10T06:18:34.206Z",
+  "fetchedAt": "2026-11-11T05:03:35.267Z",
   "tools": [
     {
       "tool": "ミエルカ（YouTube）",
@@ -60,6 +60,27 @@
       "feedUrl": "https://www.semrush.com/blog/feed/",
       "items": [
         {
+          "title": "SemrushとAhrefs ：あなたのチームに適しているのはどれですか？",
+          "titleOrig": "Semrush vs. Ahrefs: Which is right for your team?",
+          "link": "https://www.semrush.com/blog/semrush-vs-ahrefs/",
+          "date": "Tue, 10 Nov 2026 13:12:00 +0000",
+          "summary": "Semrush vs. Ahrefs compared on AI visibility, backlinks, rank tracking, pricing, features, add-ons, scalability, and more."
+        },
+        {
+          "title": "AIの可視性を測定するための迅速な追跡方法論",
+          "titleOrig": "Prompt tracking methodology to measure AI visibility",
+          "link": "https://www.semrush.com/blog/ai-prompt-tracking-methodology/",
+          "date": "Tue, 10 Nov 2026 12:59:00 +0000",
+          "summary": "Learn why tracking more AI prompts can still create blind spots and use a prompt tracking methodology that balances coverage, discovery, and verification."
+        },
+        {
+          "title": "競争力のあるインテリジェンスのためにAIを使用する方法（ 10のプロンプトを試す）",
+          "titleOrig": "How to use AI for competitive intelligence (10 prompts to try)",
+          "link": "https://www.semrush.com/blog/ai-in-competitive-intelligence/",
+          "date": "Tue, 10 Nov 2026 12:38:00 +0000",
+          "summary": "Learn to use AI to speed up competitive intelligence and sharpen your decision making."
+        },
+        {
           "title": "SEOの未来： 2027年の検索の方向性",
           "titleOrig": "The future of SEO: Where search is heading in 2027",
           "link": "https://www.semrush.com/blog/future-of-seo/",
@@ -72,27 +93,6 @@
           "link": "https://www.semrush.com/blog/social-media-competitor-analysis/",
           "date": "Mon, 09 Nov 2026 13:49:00 +0000",
           "summary": "Social media competitor analysis starts with the competitors you’re missing. Learn what to measure and turn their content into strategy with a free template."
-        },
-        {
-          "title": "Googleキーワードプランナーの使い方",
-          "titleOrig": "How to use Google Keyword Planner",
-          "link": "https://www.semrush.com/blog/google-keyword-planner/",
-          "date": "Thu, 05 Nov 2026 10:43:00 +0000",
-          "summary": "Google Keyword Planner is a free tool. Here’s how to use it to find terms and where to get accurate search volume from."
-        },
-        {
-          "title": "ChatGPTの可視性を追跡する方法：実用的なガイド",
-          "titleOrig": "How to track ChatGPT visibility: a practical guide",
-          "link": "https://www.semrush.com/blog/how-to-track-your-chatgpt-visibility/",
-          "date": "Wed, 04 Nov 2026 16:14:00 +0000",
-          "summary": "Learn how to measure ChatGPT visibility, track brand mentions and citations, compare competitors, identify gaps, and improve your AI search presence."
-        },
-        {
-          "title": "WebMCP ：それが何であるか、なぜそれが重要なのか、そして今何をすべきか",
-          "titleOrig": "WebMCP: What it is, why it matters, and what to do now",
-          "link": "https://www.semrush.com/blog/webmcp/",
-          "date": "Wed, 04 Nov 2026 10:56:00 +0000",
-          "summary": "WebMCP is a proposed browser-level web standard that lets any webpage declare its capabilities as structured, callable tools for AI agents."
         }
       ],
       "error": null
@@ -123,6 +123,12 @@
       "feedUrl": "https://rakkokeyword.com/techo/feed/",
       "items": [
         {
+          "title": "レビュー記事の書き方は？売れる訴求と検索されるキーワード",
+          "link": "https://rakkokeyword.com/techo/how-to-write-review-articles-selling-keywords/",
+          "date": "Tue, 10 Nov 2026 07:08:10 +0000",
+          "summary": "レビュー記事は、決まった「型」に沿って書き、読者が実際に検索している言葉を見出しに入れるだけで、成約に近づきます。 センスや文章力よりも、構成と言葉選びで差がつく記事です。 この記事では、アフィリエイトで商品を紹介したい ..."
+        },
+        {
           "title": "比較記事の書き方は？読者が選べる構成と商品選定のコツ",
           "link": "https://rakkokeyword.com/techo/how-to-write-comparison-articles/",
           "date": "Tue, 10 Nov 2026 06:13:29 +0000",
@@ -145,12 +151,6 @@
           "link": "https://rakkokeyword.com/techo/topic-clusters-seo-site-design-keywords/",
           "date": "Sun, 08 Nov 2026 12:33:50 +0000",
           "summary": "記事数が増えたのに順位が伸びないときは、記事を1本ずつ足すのをやめて、サイト全体を「親子トピック」で設計し直すのが有効な打ち手です。 その設計図になるのがトピッククラスターです。 この記事では、既存のオウンドメディアを運 ..."
-        },
-        {
-          "title": "Amazonの商品名の付け方とルールとは？検索される商品ページのコツ",
-          "link": "https://rakkokeyword.com/techo/amazon-product-naming-rules-tips/",
-          "date": "Sat, 31 Oct 2026 09:59:12 +0000",
-          "summary": "Amazonの商品名は、公式ルールを守ったうえで、購入者が実際に検索する語を前半に置けば、文字数が減っても検索に強い商品名にできます。 75文字に入りきらないキーワードは、新しく追加された「商品のハイライト」へ移せます。 ..."
         }
       ],
       "error": null
@@ -172,6 +172,27 @@
       "feedUrl": "https://blog.google/technology/ai/rss/",
       "items": [
         {
+          "title": "ジェミニインテリジェンス：新機能、より多くのデバイスで",
+          "titleOrig": "Gemini Intelligence: New features, on more devices",
+          "link": "https://blog.google/products-and-platforms/platforms/android/gemini-intelligence-november-features-devices/",
+          "date": "Tue, 10 Nov 2026 19:00:00 +0000",
+          "summary": "Gemini Intelligence is rolling out to more devices. See how expanded capabilities across these devices help you do more."
+        },
+        {
+          "title": "アドビのクリエイティブおよび生産性向上ツールを、日常のGoogleアプリに近づけています。",
+          "titleOrig": "We’re bringing Adobe’s creative and productivity tools closer to your everyday Google apps.",
+          "link": "https://blog.google/company-news/inside-google/company-announcements/adobe-google-partnership-integration/",
+          "date": "Tue, 10 Nov 2026 14:00:00 +0000",
+          "summary": "Google and Adobe are integrating creative and productivity tools. Edit PDFs in Drive and use Adobe AI in Gemini. See what’s new in this partnership."
+        },
+        {
+          "title": "Google Cloudがヘルスケア向けにGeminiを発表。",
+          "titleOrig": "Google Cloud launches Gemini for healthcare.",
+          "link": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/gemini-for-healthcare/",
+          "date": "Tue, 10 Nov 2026 13:00:00 +0000",
+          "summary": "Google Cloud launches Gemini for healthcare to unify clinical data and automate workflows. Reduce administrative burnout. See how it works."
+        },
+        {
           "title": "Gemini Omni 1.2フラッシュ：より長いクリップで高速でコスト効率に優れています",
           "titleOrig": "Gemini Omni 1.2 Flash: Fast and cost-effective with longer clips",
           "link": "https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemini-omni-1-2-flash/",
@@ -184,27 +205,6 @@
           "link": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-october-2026/",
           "date": "Mon, 02 Nov 2026 17:45:00 +0000",
           "summary": "Here are Google’s latest AI updates from October 2026"
-        },
-        {
-          "title": "最新のAIクエスト：人間の脳のマッピング",
-          "titleOrig": "Our newest AI Quest: Mapping the human brain",
-          "link": "https://blog.google/products-and-platforms/products/education/ai-quests-polar-peaks/",
-          "date": "Mon, 26 Oct 2026 16:00:00 +0000",
-          "summary": "Learn AI literacy via Google’s latest AI Quests lesson on neuroscience, “Polar Peaks.”"
-        },
-        {
-          "title": "東南アジアのデジタル経済は3680億$に達する",
-          "titleOrig": "Southeast Asia’s digital economy to hit $368 billion",
-          "link": "https://blog.google/company-news/inside-google/around-the-globe/google-asia/e-conomy-sea-report-2026/",
-          "date": "Wed, 21 Oct 2026 04:00:00 +0000",
-          "summary": "Widespread AI adoption is propelling Southeast Asia's digital economy to a projected $368 billion in 2026 and $1 trillion by 2035."
-        },
-        {
-          "title": "ジェミニ4アルゴン：最も困難な問題を解決するために作られました",
-          "titleOrig": "Gemini 4 Argon: Built to solve your hardest problems",
-          "link": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-argon/",
-          "date": "Tue, 13 Oct 2026 16:00:00 +0000",
-          "summary": "We’re giving developers, enterprises, scientists, and consumers access to Gemini 4 Argon, our latest frontier model."
         }
       ],
       "error": null
@@ -262,6 +262,13 @@
       "feedUrl": "https://wordpress.org/news/feed/",
       "items": [
         {
+          "title": "WordPress 7.2ベータ5",
+          "titleOrig": "WordPress 7.2 Beta 5",
+          "link": "https://wordpress.org/news/2026/11/wordpress-7-2-beta-5/",
+          "date": "Tue, 10 Nov 2026 16:59:09 +0000",
+          "summary": "WordPress 7.2 Beta 5 is ready for download and testing! This beta release is intended for testing and development only. Please do not install, run, or test this version of WordPress on production or m"
+        },
+        {
           "title": "WordPressクレジットは50以上の機関を歓迎",
           "titleOrig": "WordPress Credits Welcomes More Than 50 Institutions",
           "link": "https://wordpress.org/news/2026/11/wp-credits-reaches-50/",
@@ -288,13 +295,6 @@
           "link": "https://wordpress.org/news/2026/10/wordpress-7-2-beta-2/",
           "date": "Tue, 27 Oct 2026 15:49:21 +0000",
           "summary": "WordPress 7.2 Beta 2 is ready for download and testing! This beta release is intended for testing and development only. Please do not install, run, or test this version of WordPress on production or m"
-        },
-        {
-          "title": "重要なPHPセキュリティリリース",
-          "titleOrig": "Critical PHP Security Release",
-          "link": "https://wordpress.org/news/2026/10/critical-php-security-release/",
-          "date": "Wed, 21 Oct 2026 13:44:09 +0000",
-          "summary": "The PHP project has announced a security release that fixes two critical security vulnerabilities discovered in PHP. Due to the critical severity of the issues, site owners are encouraged to immediate"
         }
       ],
       "error": null
@@ -352,6 +352,13 @@
       "feedUrl": "https://github.blog/feed/",
       "items": [
         {
+          "title": "Gitのセキュリティ脆弱性が発表されました",
+          "titleOrig": "Git security vulnerabilities announced",
+          "link": "https://github.blog/open-source/git/git-security-vulnerabilities-announced-7/",
+          "date": "Tue, 10 Nov 2026 18:00:00 +0000",
+          "summary": "Git is releasing updates addressing six security vulnerabilities affecting recursive clones, reference handling, merges, binary patches, and imports. Here is what users need to know. The post Git secu"
+        },
+        {
           "title": "コード生成を超えて：エージェントエンジニアリングの開発者ガイド",
           "titleOrig": "Beyond code generation: A developer’s guide to agentic engineering",
           "link": "https://github.blog/ai-and-ml/github-copilot/beyond-code-generation-a-developers-guide-to-agentic-engineering/",
@@ -378,13 +385,6 @@
           "link": "https://github.blog/open-source/maintainers/arnis-turns-any-place-on-earth-into-a-minecraft-world/",
           "date": "Tue, 03 Nov 2026 16:00:00 +0000",
           "summary": "Louis Erbkamm built the first prototype in his free time. Now GitHub Copilot helps him maintain it alone. The post Arnis turns any place on Earth into a Minecraft world appeared first on The GitHub Bl"
-        },
-        {
-          "title": "2026年ゲームオフ：テーマはシフト",
-          "titleOrig": "Game Off 2026: The theme is SHIFT",
-          "link": "https://github.blog/open-source/gaming/game-off-2026-the-theme-is-shift/",
-          "date": "Sun, 01 Nov 2026 21:36:00 +0000",
-          "summary": "GitHub’s annual month-long game jam is back for its 14th year! This November, make a game inspired by the theme SHIFT. Change gears, swap perspectives, bend reality, or just press a certain key. The p"
         }
       ],
       "error": null
