@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-11-12T06:07:52.428Z",
+  "fetchedAt": "2026-11-13T05:30:05.530Z",
   "tools": [
     {
       "tool": "ミエルカ（YouTube）",
@@ -41,7 +41,7 @@
           "title": "AI 発見可能性スコア、トラフィック分析レポート、ソーシャルパフォーマンス分析、その他｜2026年 10月",
           "link": "https://ahrefs.com/ja/blog/october-2026-roundup/",
           "date": "Mon, 09 Nov 2026 06:20:35 +0000",
-          "summary": "ソーシャルメディアマネージャーにパフォーマンスレポートを追加 投稿パフォーマンス、投稿に最適な時間帯、投稿タイプ別パフォーマンスの 3 つの新しいレポートが追加されました。投稿パフォーマンスでは各プラットフォームの全公開投稿の生データを確認でき、投稿に最適な時間帯では時間帯別の過去のエンゲージメント率と投稿あたりの閲覧数を分析できます。また、投稿タイプ別パフォーマンスでは動画、テキストのみ、画像、"
+          "summary": "動画の視聴はこちら👇 ソーシャルメディアマネージャーにパフォーマンスレポートを追加 投稿パフォーマンス、投稿に最適な時間帯、投稿タイプ別パフォーマンスの 3 つの新しいレポートが追加されました。投稿パフォーマンスでは各プラットフォームの全公開投稿の生データを確認でき、投稿に最適な時間帯では時間帯別の過去のエンゲージメント率と投稿あたりの閲覧数を分析できます。また、投稿タイプ別パフォーマンスでは動"
         },
         {
           "title": "AI 検索時代に「逆効果」になる従来の SEO 戦略 5 選：Ahrefs（エイチレフス）データで見る検索行動の変化と対応策",
@@ -59,6 +59,13 @@
       "sourceType": "tool",
       "feedUrl": "https://www.semrush.com/blog/feed/",
       "items": [
+        {
+          "title": "AIトラフィックの品質：業界のベンチマークを超えて、ROIを測定する",
+          "titleOrig": "AI traffic quality: Look past the industry benchmarks and measure ROI",
+          "link": "https://www.semrush.com/blog/ai-traffic-quality/",
+          "date": "Thu, 12 Nov 2026 11:21:00 +0000",
+          "summary": "Published benchmarks describe someone else‘s site. Here‘s how to measure AI traffic quality in your own analytics and decide whether to invest more."
+        },
         {
           "title": "SemrushをGoogle Search Consoleと併用する方法",
           "titleOrig": "How to use Semrush with Google Search Console",
@@ -81,18 +88,11 @@
           "summary": "Learn why tracking more AI prompts can still create blind spots and use a prompt tracking methodology that balances coverage, discovery, and verification."
         },
         {
-          "title": "競合他社に関する情報を収集するために AI を活用する方法 (試してみたい 10 のプロンプト)",
+          "title": "競合他社に関する情報を収集するために AI を活用する方法 (試すべき 10 のプロンプト)",
           "titleOrig": "How to use AI for competitive intelligence (10 prompts to try)",
           "link": "https://www.semrush.com/blog/ai-in-competitive-intelligence/",
           "date": "Tue, 10 Nov 2026 12:38:00 +0000",
           "summary": "Learn to use AI to speed up competitive intelligence and sharpen your decision making."
-        },
-        {
-          "title": "SEOの未来：2027年の検索の方向性",
-          "titleOrig": "The future of SEO: Where search is heading in 2027",
-          "link": "https://www.semrush.com/blog/future-of-seo/",
-          "date": "Mon, 09 Nov 2026 14:24:00 +0000",
-          "summary": "SEO will remain relevant as AI changes how people search. Learn what to expect and how to prepare."
         }
       ],
       "error": null
@@ -172,6 +172,13 @@
       "feedUrl": "https://blog.google/technology/ai/rss/",
       "items": [
         {
+          "title": "Google検索がGemini 4 Hydrogenで大幅にアップグレード",
+          "titleOrig": "Google Search gets a major upgrade with Gemini 4 Hydrogen",
+          "link": "https://blog.google/products-and-platforms/products/search/gemini-4-hydrogen-search-upgrade/",
+          "date": "Thu, 12 Nov 2026 18:00:00 +0000",
+          "summary": "We are bringing Gemini 4 Hydrogen to Google Search globally to provide you with more helpful, visual, and intuitive responses."
+        },
+        {
           "title": "Gemini Decisions API：迅速で調整されたマルチモーダルな意思決定",
           "titleOrig": "Gemini Decisions API: Fast, calibrated multimodal decisions",
           "link": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api/",
@@ -179,32 +186,25 @@
           "summary": "Meet the Gemini Decisions API, powered by our state-of-the-art model Gemini Decision for fast, calibrated multimodal decisions."
         },
         {
-          "title": "Tabletopをお試しください。グループが一緒に計画を立てたり、ゲームをしたり、さまざまなことを行ったりできる、カスタマイズ可能なコラボレーションスペースです。",
+          "title": "Tabletopをお試しください。グループで計画を立てたり、ゲームをしたり、一緒にさまざまなことを行ったりできる、カスタマイズ可能なコラボレーションスペースです。",
           "titleOrig": "Try Tabletop: Customizable, collaborative spaces for groups to plan, play and do more together.",
           "link": "https://blog.google/innovation-and-ai/models-and-research/google-labs/tabletop/",
           "date": "Wed, 11 Nov 2026 16:00:00 +0000",
           "summary": "Tabletop is a new Google Labs experiment for group collaboration. Build interactive itineraries, polls, and brackets with your team. Join the waitlist."
         },
         {
-          "title": "エスター・マフラング博士の芸術と功績を体験する",
+          "title": "エスター・マフラング博士の芸術と遺産を体験する",
           "titleOrig": "Experience the art and legacy of Dr. Esther Mahlangu",
           "link": "https://blog.google/company-news/outreach-and-initiatives/arts-culture/esther-mahlangu/",
           "date": "Wed, 11 Nov 2026 09:00:00 +0000",
           "summary": "A new online archive of Esther Mahlangu’s life and art is now on Google Arts & Culture."
         },
         {
-          "title": "GeminiのAI機能：新しい機能をより多くのデバイスで",
+          "title": "Gemini AI：より多くのデバイスで利用できる新機能",
           "titleOrig": "Gemini Intelligence: New features, on more devices",
           "link": "https://blog.google/products-and-platforms/platforms/android/gemini-intelligence-november-features-devices/",
           "date": "Tue, 10 Nov 2026 19:00:00 +0000",
           "summary": "Gemini Intelligence is rolling out to more devices. See how expanded capabilities across these devices help you do more."
-        },
-        {
-          "title": "Adobeのクリエイティブツールと生産性向上ツールを、皆さんが日々使用するGoogleアプリにより近づけます。",
-          "titleOrig": "We’re bringing Adobe’s creative and productivity tools closer to your everyday Google apps.",
-          "link": "https://blog.google/company-news/inside-google/company-announcements/adobe-google-partnership-integration/",
-          "date": "Tue, 10 Nov 2026 14:00:00 +0000",
-          "summary": "Google and Adobe are integrating creative and productivity tools. Edit PDFs in Drive and use Adobe AI in Gemini. See what’s new in this partnership."
         }
       ],
       "error": null
@@ -269,7 +269,7 @@
           "summary": "Next year, WordCamp Asia 2027 heads to Penang, Malaysia. From April 9 to 11, the WordPress community will gather at the Penang Waterfront Convention Centre for three days of contribution, learning, an"
         },
         {
-          "title": "WordPress 7.2ベータ5",
+          "title": "WordPress 7.2ベータ版5",
           "titleOrig": "WordPress 7.2 Beta 5",
           "link": "https://wordpress.org/news/2026/11/wordpress-7-2-beta-5/",
           "date": "Tue, 10 Nov 2026 16:59:09 +0000",
@@ -307,6 +307,20 @@
       "feedUrl": "https://obsidian.md/changelog.xml",
       "items": [
         {
+          "title": "Obsidian 1.15.1モバイル（公開）",
+          "titleOrig": "Obsidian 1.15.1 Mobile (Public)",
+          "link": "https://obsidian.md/changelog/2026-11-12-mobile-v1.15.1/",
+          "date": "2026-11-12T00:00:00.000Z",
+          "summary": "Includes all new features and bug fixes up to Obsidian Desktop v1.15.1. New Added the Web viewer core plugin. With Open external links turned on in its settings, links to web pages open in an in-app b"
+        },
+        {
+          "title": "Obsidian 1.15.1 デスクトップ（公開）",
+          "titleOrig": "Obsidian 1.15.1 Desktop (Public)",
+          "link": "https://obsidian.md/changelog/2026-11-12-desktop-v1.15.1/",
+          "date": "2026-11-12T00:00:00.000Z",
+          "summary": "New Search Added Relevance sort option that sorts notes based on the best match for your query. Improvements Search Search and search filters in other views (e.g. Backlinks, Outline and Bookmarks) now"
+        },
+        {
           "title": "Obsidian 1.15.1モバイル（早期アクセス）",
           "titleOrig": "Obsidian 1.15.1 Mobile (Early access)",
           "link": "https://obsidian.md/changelog/2026-11-03-mobile-v1.15.1/",
@@ -314,7 +328,7 @@
           "summary": "Includes all new features and bug fixes up to Obsidian Desktop v1.15.1. New Added the Web viewer core plugin. With Open external links turned on in its settings, links to web pages open in an in-app b"
         },
         {
-          "title": "Obsidian 1.15.1 デスクトップ版（早期アクセス）",
+          "title": "Obsidian 1.15.1 デスクトップ（早期アクセス）",
           "titleOrig": "Obsidian 1.15.1 Desktop (Early access)",
           "link": "https://obsidian.md/changelog/2026-11-03-desktop-v1.15.1/",
           "date": "2026-11-03T00:00:00.000Z",
@@ -326,20 +340,6 @@
           "link": "https://obsidian.md/changelog/2026-11-02-mobile-v1.15.0/",
           "date": "2026-11-02T00:00:00.000Z",
           "summary": "Includes all new features and bug fixes up to Obsidian Desktop v1.15.0. PDF export You can now export notes to PDF on iOS and Android. Voice capture on iOS Quick Capture can now record voice notes and"
-        },
-        {
-          "title": "Obsidian 1.15 デスクトップ版（公開版）",
-          "titleOrig": "Obsidian 1.15 Desktop (Public)",
-          "link": "https://obsidian.md/changelog/2026-11-02-desktop-v1.15.0/",
-          "date": "2026-11-02T00:00:00.000Z",
-          "summary": "This update brings faster Mermaid diagrams that match your theme, reorderable filters in Bases, and new URI and CLI commands for adding content under a heading. Diagrams and charts Mermaid diagrams an"
-        },
-        {
-          "title": "Obsidian 2026年10月27日公開（公開）",
-          "titleOrig": "Obsidian 2026.10.27 Publish (Public)",
-          "link": "https://obsidian.md/changelog/2026-10-27-publish/",
-          "date": "2026-10-27T00:00:00.000Z",
-          "summary": "Improvements Added support for highlight colors: 🔴, 🟠, 🟡, 🟢, 🔵, and 🟣. Add a color emoji at the start of a highlight, e.g. ==🔴red highlight==. Mermaid diagrams and charts are now rendered using"
         }
       ],
       "error": null
@@ -351,6 +351,20 @@
       "sourceType": "tool",
       "feedUrl": "https://github.blog/feed/",
       "items": [
+        {
+          "title": "GitHub稼働状況レポート：2026年10月",
+          "titleOrig": "GitHub availability report: October 2026",
+          "link": "https://github.blog/news-insights/company-news/github-availability-report-october-2026/",
+          "date": "Fri, 13 Nov 2026 00:20:16 +0000",
+          "summary": "In October, we experienced eight incidents that resulted in degraded performance across GitHub services. The post GitHub availability report: October 2026 appeared first on The GitHub Blog."
+        },
+        {
+          "title": "一度構築すれば、どのエージェントでも実行可能：エージェントスキルの実践ガイド",
+          "titleOrig": "Build once, run on any agent: A practical guide to agent skills",
+          "link": "https://github.blog/ai-and-ml/github-copilot/build-once-run-on-any-agent-a-practical-guide-to-agent-skills/",
+          "date": "Thu, 12 Nov 2026 22:54:52 +0000",
+          "summary": "Agent skills capture repeatable engineering work in files teams can review and reuse, while tools, project context, and permissions remain specific to the host that runs them. The post Build once, run"
+        },
         {
           "title": "Gitのセキュリティ脆弱性が発表されました",
           "titleOrig": "Git security vulnerabilities announced",
@@ -371,20 +385,6 @@
           "link": "https://github.blog/engineering/architecture-optimization/inside-githubs-new-git-storage-architecture/",
           "date": "Thu, 05 Nov 2026 20:23:21 +0000",
           "summary": "GitHub's new Git storage architecture is built so thousands of agents can push to a single repository at once. Here's how it works. The post Inside GitHub’s new Git storage architecture appeared first"
-        },
-        {
-          "title": "アクセシビリティに関する声明がGitHubに掲載されました",
-          "titleOrig": "Accessibility statements now have a home on GitHub",
-          "link": "https://github.blog/open-source/maintainers/accessibility-statements-now-have-a-home-on-github/",
-          "date": "Thu, 05 Nov 2026 16:00:00 +0000",
-          "summary": "GitHub now highlights ACCESSIBILITY.md files and helps maintainers document accessibility goals, known barriers, supported environments, contributor expectations, and reporting processes. The post Acc"
-        },
-        {
-          "title": "Arnisは、地球上のあらゆる場所をMinecraftの世界に変えます",
-          "titleOrig": "Arnis turns any place on Earth into a Minecraft world",
-          "link": "https://github.blog/open-source/maintainers/arnis-turns-any-place-on-earth-into-a-minecraft-world/",
-          "date": "Tue, 03 Nov 2026 16:00:00 +0000",
-          "summary": "Louis Erbkamm built the first prototype in his free time. Now GitHub Copilot helps him maintain it alone. The post Arnis turns any place on Earth into a Minecraft world appeared first on The GitHub Bl"
         }
       ],
       "error": null
