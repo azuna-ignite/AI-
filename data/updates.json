@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-11-13T05:30:05.530Z",
+  "fetchedAt": "2026-11-14T05:20:49.790Z",
   "tools": [
     {
       "tool": "ミエルカ（YouTube）",
@@ -19,6 +19,12 @@
       "sourceType": "tool",
       "feedUrl": "https://ahrefs.com/blog/ja/feed/",
       "items": [
+        {
+          "title": "AEO 対策で重視すべきメンションの種類は？AI 可視性との相関を 2.6 億プロンプトで分析【Reddit・ニュース・YouTube 比較】",
+          "link": "https://ahrefs.com/ja/blog/mention-types-ai-visibility/",
+          "date": "Fri, 13 Nov 2026 06:53:35 +0000",
+          "summary": "GEO 対策で重視すべきメンションの種類を、1 万ブランド・2.6 億件の AI プロンプトで検証。Reddit は相関 0.75 で最強、ニュース記事は 0.67 と一般ページの 0.70 を下回る結果に。PR 施策の優先順位づけに役立つデータを紹介します。"
+        },
         {
           "title": "日本と世界で注目されているテック系スタートアップランキング（2026年11月時点）",
           "link": "https://ahrefs.com/ja/blog/tech-startup-ranking/",
@@ -42,12 +48,6 @@
           "link": "https://ahrefs.com/ja/blog/october-2026-roundup/",
           "date": "Mon, 09 Nov 2026 06:20:35 +0000",
           "summary": "動画の視聴はこちら👇 ソーシャルメディアマネージャーにパフォーマンスレポートを追加 投稿パフォーマンス、投稿に最適な時間帯、投稿タイプ別パフォーマンスの 3 つの新しいレポートが追加されました。投稿パフォーマンスでは各プラットフォームの全公開投稿の生データを確認でき、投稿に最適な時間帯では時間帯別の過去のエンゲージメント率と投稿あたりの閲覧数を分析できます。また、投稿タイプ別パフォーマンスでは動"
-        },
-        {
-          "title": "AI 検索時代に「逆効果」になる従来の SEO 戦略 5 選：Ahrefs（エイチレフス）データで見る検索行動の変化と対応策",
-          "link": "https://ahrefs.com/ja/blog/counterproductive-seo-tactics-in-ai-search-era/",
-          "date": "Fri, 06 Nov 2026 02:31:55 +0000",
-          "summary": "Ahrefs の調査（2026 年 6 月）では、日本の情報収集型キーワードにおける検索 1 位の CTR が予測値に対して 62.7% 低下し、従来の SEO 施策がそのままでは成果につながりにくくなっています。Ahrefs の最新データをもとに、クリック誘導、キーワード密度、薄い記事の量産、SEO 単独運用、流入偏重の KPI という 5 つの見直しポイントと対応策を解説します。"
         }
       ],
       "error": null
@@ -60,7 +60,21 @@
       "feedUrl": "https://www.semrush.com/blog/feed/",
       "items": [
         {
-          "title": "AIトラフィックの品質：業界のベンチマークを超えて、ROIを測定する",
+          "title": "ピラーページとは何か、そしてその作成方法（＋例）",
+          "titleOrig": "What is a pillar page & how to create one (+ examples)",
+          "link": "https://www.semrush.com/blog/pillar-page/",
+          "date": "Fri, 13 Nov 2026 14:40:00 +0000",
+          "summary": "Pillar pages can build your authority and increase visibility. Here’s why they matter and how to create them."
+        },
+        {
+          "title": "Semrush MCPを使用してSEO競合他社分析を行う方法",
+          "titleOrig": "How to do an SEO competitor analysis with the Semrush MCP",
+          "link": "https://www.semrush.com/blog/competitor-analysis-semrush-mcp/",
+          "date": "Fri, 13 Nov 2026 12:24:00 +0000",
+          "summary": "Learn how to use the Semrush MCP to analyze your competitors’ keywords, pages, and backlinks."
+        },
+        {
+          "title": "AIトラフィックの品質：業界のベンチマークを超えてROIを測定する",
           "titleOrig": "AI traffic quality: Look past the industry benchmarks and measure ROI",
           "link": "https://www.semrush.com/blog/ai-traffic-quality/",
           "date": "Thu, 12 Nov 2026 11:21:00 +0000",
@@ -79,20 +93,6 @@
           "link": "https://www.semrush.com/blog/semrush-vs-ahrefs/",
           "date": "Tue, 10 Nov 2026 13:12:00 +0000",
           "summary": "Semrush vs. Ahrefs compared on AI visibility, backlinks, rank tracking, pricing, features, add-ons, scalability, and more."
-        },
-        {
-          "title": "AIの可視性を測定するためのプロンプト追跡手法",
-          "titleOrig": "Prompt tracking methodology to measure AI visibility",
-          "link": "https://www.semrush.com/blog/ai-prompt-tracking-methodology/",
-          "date": "Tue, 10 Nov 2026 12:59:00 +0000",
-          "summary": "Learn why tracking more AI prompts can still create blind spots and use a prompt tracking methodology that balances coverage, discovery, and verification."
-        },
-        {
-          "title": "競合他社に関する情報を収集するために AI を活用する方法 (試すべき 10 のプロンプト)",
-          "titleOrig": "How to use AI for competitive intelligence (10 prompts to try)",
-          "link": "https://www.semrush.com/blog/ai-in-competitive-intelligence/",
-          "date": "Tue, 10 Nov 2026 12:38:00 +0000",
-          "summary": "Learn to use AI to speed up competitive intelligence and sharpen your decision making."
         }
       ],
       "error": null
@@ -193,7 +193,7 @@
           "summary": "Tabletop is a new Google Labs experiment for group collaboration. Build interactive itineraries, polls, and brackets with your team. Join the waitlist."
         },
         {
-          "title": "エスター・マフラング博士の芸術と遺産を体験する",
+          "title": "エスター・マフランク博士の芸術と功績を体験する",
           "titleOrig": "Experience the art and legacy of Dr. Esther Mahlangu",
           "link": "https://blog.google/company-news/outreach-and-initiatives/arts-culture/esther-mahlangu/",
           "date": "Wed, 11 Nov 2026 09:00:00 +0000",
@@ -262,6 +262,13 @@
       "feedUrl": "https://wordpress.org/news/feed/",
       "items": [
         {
+          "title": "ReprintでWordPressサイトをコピーする",
+          "titleOrig": "Copy Your WordPress Site with Reprint",
+          "link": "https://wordpress.org/news/2026/11/reprint-your-site/",
+          "date": "Fri, 13 Nov 2026 12:00:00 +0000",
+          "summary": "Reprint is a free, open-source, PHP-based tool that copies a WordPress site’s files and database. The plugin is available in the WordPress.org Plugin Directory, along with the command-line client used"
+        },
+        {
           "title": "WordCamp Asia 2027はペナンで開催されます",
           "titleOrig": "WordCamp Asia 2027 Is Coming to Penang",
           "link": "https://wordpress.org/news/2026/11/wc-asia-2027-penang/",
@@ -283,18 +290,11 @@
           "summary": "More than 50 educational institutions have joined WordPress Credits, giving students worldwide a way to earn academic recognition for contributing to WordPress. The program had two participating insti"
         },
         {
-          "title": "WordPress 7.2ベータ版4",
+          "title": "WordPress 7.2ベータ4",
           "titleOrig": "WordPress 7.2 Beta 4",
           "link": "https://wordpress.org/news/2026/11/wordpress-7-2-beta-4/",
           "date": "Tue, 03 Nov 2026 15:45:29 +0000",
           "summary": "WordPress 7.2 Beta 4 is ready for download and testing! This beta release is intended for testing and development only. Please do not install, run, or test this version of WordPress on production or m"
-        },
-        {
-          "title": "WordPress 7.1.4",
-          "titleOrig": "WordPress 7.1.4",
-          "link": "https://wordpress.org/news/2026/10/wordpress-7-1-4/",
-          "date": "Wed, 28 Oct 2026 17:13:02 +0000",
-          "summary": "This security release features fixes for multiple issues. Because this is a security release, it is recommended that you update your sites immediately. You can download WordPress 7.1.4 from WordPress."
         }
       ],
       "error": null
@@ -314,7 +314,7 @@
           "summary": "Includes all new features and bug fixes up to Obsidian Desktop v1.15.1. New Added the Web viewer core plugin. With Open external links turned on in its settings, links to web pages open in an in-app b"
         },
         {
-          "title": "Obsidian 1.15.1 デスクトップ（公開）",
+          "title": "Obsidian 1.15.1 デスクトップ版（公開版）",
           "titleOrig": "Obsidian 1.15.1 Desktop (Public)",
           "link": "https://obsidian.md/changelog/2026-11-12-desktop-v1.15.1/",
           "date": "2026-11-12T00:00:00.000Z",
@@ -328,7 +328,7 @@
           "summary": "Includes all new features and bug fixes up to Obsidian Desktop v1.15.1. New Added the Web viewer core plugin. With Open external links turned on in its settings, links to web pages open in an in-app b"
         },
         {
-          "title": "Obsidian 1.15.1 デスクトップ（早期アクセス）",
+          "title": "Obsidian 1.15.1 デスクトップ版（早期アクセス）",
           "titleOrig": "Obsidian 1.15.1 Desktop (Early access)",
           "link": "https://obsidian.md/changelog/2026-11-03-desktop-v1.15.1/",
           "date": "2026-11-03T00:00:00.000Z",
