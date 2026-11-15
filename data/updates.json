@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-11-14T05:20:49.790Z",
+  "fetchedAt": "2026-11-15T05:16:44.178Z",
   "tools": [
     {
       "tool": "ミエルカ（YouTube）",
@@ -60,7 +60,7 @@
       "feedUrl": "https://www.semrush.com/blog/feed/",
       "items": [
         {
-          "title": "ピラーページとは何か、そしてその作成方法（＋例）",
+          "title": "ピラーページとは何か、およびその作成方法（＋例）",
           "titleOrig": "What is a pillar page & how to create one (+ examples)",
           "link": "https://www.semrush.com/blog/pillar-page/",
           "date": "Fri, 13 Nov 2026 14:40:00 +0000",
@@ -186,7 +186,7 @@
           "summary": "Meet the Gemini Decisions API, powered by our state-of-the-art model Gemini Decision for fast, calibrated multimodal decisions."
         },
         {
-          "title": "Tabletopをお試しください。グループで計画を立てたり、ゲームをしたり、一緒にさまざまなことを行ったりできる、カスタマイズ可能なコラボレーションスペースです。",
+          "title": "Tabletopをお試しください。グループが一緒に計画を立てたり、ゲームをしたり、さまざまなことを行ったりできる、カスタマイズ可能なコラボレーションスペースです。",
           "titleOrig": "Try Tabletop: Customizable, collaborative spaces for groups to plan, play and do more together.",
           "link": "https://blog.google/innovation-and-ai/models-and-research/google-labs/tabletop/",
           "date": "Wed, 11 Nov 2026 16:00:00 +0000",
@@ -200,7 +200,7 @@
           "summary": "A new online archive of Esther Mahlangu’s life and art is now on Google Arts & Culture."
         },
         {
-          "title": "Gemini AI：より多くのデバイスで利用できる新機能",
+          "title": "GeminiのAI機能：新しい機能をより多くのデバイスで",
           "titleOrig": "Gemini Intelligence: New features, on more devices",
           "link": "https://blog.google/products-and-platforms/platforms/android/gemini-intelligence-november-features-devices/",
           "date": "Tue, 10 Nov 2026 19:00:00 +0000",
@@ -276,7 +276,7 @@
           "summary": "Next year, WordCamp Asia 2027 heads to Penang, Malaysia. From April 9 to 11, the WordPress community will gather at the Penang Waterfront Convention Centre for three days of contribution, learning, an"
         },
         {
-          "title": "WordPress 7.2ベータ版5",
+          "title": "WordPress 7.2ベータ5",
           "titleOrig": "WordPress 7.2 Beta 5",
           "link": "https://wordpress.org/news/2026/11/wordpress-7-2-beta-5/",
           "date": "Tue, 10 Nov 2026 16:59:09 +0000",
@@ -328,7 +328,7 @@
           "summary": "Includes all new features and bug fixes up to Obsidian Desktop v1.15.1. New Added the Web viewer core plugin. With Open external links turned on in its settings, links to web pages open in an in-app b"
         },
         {
-          "title": "Obsidian 1.15.1 デスクトップ版（早期アクセス）",
+          "title": "Obsidian 1.15.1 デスクトップ（早期アクセス）",
           "titleOrig": "Obsidian 1.15.1 Desktop (Early access)",
           "link": "https://obsidian.md/changelog/2026-11-03-desktop-v1.15.1/",
           "date": "2026-11-03T00:00:00.000Z",
