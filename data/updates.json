@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-11-15T05:16:44.178Z",
+  "fetchedAt": "2026-11-16T05:14:11.061Z",
   "tools": [
     {
       "tool": "ミエルカ（YouTube）",
@@ -60,7 +60,7 @@
       "feedUrl": "https://www.semrush.com/blog/feed/",
       "items": [
         {
-          "title": "ピラーページとは何か、およびその作成方法（＋例）",
+          "title": "ピラーページとは何か、そしてその作成方法（＋例）",
           "titleOrig": "What is a pillar page & how to create one (+ examples)",
           "link": "https://www.semrush.com/blog/pillar-page/",
           "date": "Fri, 13 Nov 2026 14:40:00 +0000",
@@ -123,6 +123,18 @@
       "feedUrl": "https://rakkokeyword.com/techo/feed/",
       "items": [
         {
+          "title": "Xでフォロワーを増やすには？伸びるアカウントの運用のコツ",
+          "link": "https://rakkokeyword.com/techo/how-to-increase-x-followers/",
+          "date": "Mon, 16 Nov 2026 00:34:18 +0000",
+          "summary": "Xのフォロワーは、投稿の回数よりも「誰に向けて、何を、どう届けるか」を整えると増え始めます。 必要なのは特別な裏技ではなく、アルゴリズムの仕組みに沿った土台作り・発信テーマ選び・交流の3つです。 この記事では、企業や個人 ..."
+        },
+        {
+          "title": "Threadsの伸ばし方は？フォロワーを増やす投稿のコツを解説",
+          "link": "https://rakkokeyword.com/techo/threads-follower-growth-tips/",
+          "date": "Mon, 16 Nov 2026 00:11:31 +0000",
+          "summary": "Threadsは、フォロワーが0人でも「おすすめ」フィードを通じて投稿が届くSNSです。 伸ばすために必要なのは、特別なテクニックよりも「会話が生まれる投稿」と「読まれる話題選び」の2つです。 この記事を読めば、フォロワ ..."
+        },
+        {
           "title": "レビュー記事の書き方は？売れる訴求と検索されるキーワード",
           "link": "https://rakkokeyword.com/techo/how-to-write-review-articles-selling-keywords/",
           "date": "Tue, 10 Nov 2026 07:08:10 +0000",
@@ -139,18 +151,6 @@
           "link": "https://rakkokeyword.com/techo/handmade-not-selling-reasons-demand-review/",
           "date": "Mon, 09 Nov 2026 02:40:58 +0000",
           "summary": "ハンドメイドが売れないのは、才能やセンスが足りないからではありません。 多くの場合、「写真・価格・説明文・集客」の見せ方と、買う人が探している作品（需要）とのズレが原因です。 原因さえ分かれば、作品そのものを大きく変えな ..."
-        },
-        {
-          "title": "YouTubeチャンネル名の決め方は？検索される名前のアイデアと付け方",
-          "link": "https://rakkokeyword.com/techo/how-to-choose-youtube-channel-name/",
-          "date": "Sun, 08 Nov 2026 12:47:09 +0000",
-          "summary": "YouTubeのチャンネル名は、「検索される語」と「覚えやすい名前」を組み合わせる型を知れば、センスに頼らず決められます。 名前の候補に入れる語は、YouTubeのサジェスト（検索窓に表示される予測キーワード）を調べると ..."
-        },
-        {
-          "title": "トピッククラスターとは？SEOに効くサイト設計とキーワードの考え方",
-          "link": "https://rakkokeyword.com/techo/topic-clusters-seo-site-design-keywords/",
-          "date": "Sun, 08 Nov 2026 12:33:50 +0000",
-          "summary": "記事数が増えたのに順位が伸びないときは、記事を1本ずつ足すのをやめて、サイト全体を「親子トピック」で設計し直すのが有効な打ち手です。 その設計図になるのがトピッククラスターです。 この記事では、既存のオウンドメディアを運 ..."
         }
       ],
       "error": null
@@ -314,7 +314,7 @@
           "summary": "Includes all new features and bug fixes up to Obsidian Desktop v1.15.1. New Added the Web viewer core plugin. With Open external links turned on in its settings, links to web pages open in an in-app b"
         },
         {
-          "title": "Obsidian 1.15.1 デスクトップ版（公開版）",
+          "title": "Obsidian 1.15.1 デスクトップ版（公開）",
           "titleOrig": "Obsidian 1.15.1 Desktop (Public)",
           "link": "https://obsidian.md/changelog/2026-11-12-desktop-v1.15.1/",
           "date": "2026-11-12T00:00:00.000Z",
@@ -328,7 +328,7 @@
           "summary": "Includes all new features and bug fixes up to Obsidian Desktop v1.15.1. New Added the Web viewer core plugin. With Open external links turned on in its settings, links to web pages open in an in-app b"
         },
         {
-          "title": "Obsidian 1.15.1 デスクトップ（早期アクセス）",
+          "title": "Obsidian 1.15.1 デスクトップ版（早期アクセス）",
           "titleOrig": "Obsidian 1.15.1 Desktop (Early access)",
           "link": "https://obsidian.md/changelog/2026-11-03-desktop-v1.15.1/",
           "date": "2026-11-03T00:00:00.000Z",
@@ -395,39 +395,8 @@
       "category": "制作・デザイン",
       "sourceType": "media",
       "feedUrl": "https://www.mindfactory.co.jp/blog/feed/",
-      "items": [
-        {
-          "title": "【新入社員インタビュー】プリ機のUIデザインから新天地へ。￼",
-          "link": "https://www.mindfactory.co.jp/blog/8439",
-          "date": "Tue, 28 Jul 2026 01:38:35 +0000",
-          "summary": "マインドファクトリーのクリエイティブチームでは、企業の課題解決を最大化するデジタルマーケティングの一環として、ロジックに基づいた戦略的なデザインの提供に注力しています。チームの多様性とクリエイティブの幅をさらに広げるべく […]"
-        },
-        {
-          "title": "【新入社員インタビュー】5年の経験を経て、マインドファクトリーを選んだ理由￼￼",
-          "link": "https://www.mindfactory.co.jp/blog/8431",
-          "date": "Tue, 21 Jul 2026 07:51:09 +0000",
-          "summary": "マインドファクトリーのクリエイティブチームでは、企業のビジネスを加速させるデジタルマーケティングの一環として、戦略的かつハイクオリティなデザイン制作に取り組んでいます。組織のさらなる成長とクリエイティブ力の強化を目指す中 […]"
-        },
-        {
-          "title": "“伝わる”UIをつくれるデザイナーを目指して - インターン生インタビュー",
-          "link": "https://www.mindfactory.co.jp/blog/8370",
-          "date": "Fri, 27 Feb 2026 11:43:03 +0000",
-          "summary": "今年マインドファクトリーでは、初めてインターンシップの受け入れを行いました。 今回は、インターンで来てくれた名古屋モード学園グラフィック学科の水野君に、デザイナーを志したきっかけや弊社でのインターンの感想をインタビューし […]"
-        },
-        {
-          "title": "WEBメディア「CREATORS STATION」に代表富岡のインタビュー記事が掲載されました",
-          "link": "https://www.mindfactory.co.jp/blog/8364",
-          "date": "Mon, 16 Feb 2026 08:57:39 +0000",
-          "summary": "株式会社フェローズが運営する、日本全国のクリエイターを応援するためのWEBメディア「CREATORS STATION」に、弊社代表 富岡のインタビュー記事が掲載されました。自身のこれまでのキャリアから、事業内容、今後の展 […]"
-        },
-        {
-          "title": "年末年始休暇のお知らせ",
-          "link": "https://www.mindfactory.co.jp/blog/8357",
-          "date": "Fri, 05 Dec 2025 09:20:14 +0000",
-          "summary": "平素は格別のお引き立てを賜り、厚く御礼申し上げます。誠に勝手ながら、弊社は、下記の期間を年末年始休業とさせていただきます。 ■ 年末年始休暇期間2025年12月27日（土）～2026年1月4日（日） ご不便をおかけいたし […]"
-        }
-      ],
-      "error": null
+      "items": [],
+      "error": "Request timed out after 10000ms"
     },
     {
       "tool": "Empathy Writing",
