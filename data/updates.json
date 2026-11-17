@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-11-16T05:14:11.061Z",
+  "fetchedAt": "2026-11-17T06:57:10.640Z",
   "tools": [
     {
       "tool": "ミエルカ（YouTube）",
@@ -9,8 +9,39 @@
       "type": "youtube",
       "handle": "@mieruca-channel",
       "feedUrl": "",
-      "items": [],
-      "error": "Status code 404"
+      "items": [
+        {
+          "title": "【2026年11月】Googleコアアップデート開始｜展開中にやるべきこと・やらないこと｜SEO Weekly Update",
+          "link": "https://www.youtube.com/watch?v=Nu1HqbjVI9w",
+          "date": "2026-11-15T22:30:13.000Z",
+          "summary": ""
+        },
+        {
+          "title": "【AIO対策】BtoBサービスページの作り方｜問い合わせ前に買い手が知りたいこと",
+          "link": "https://www.youtube.com/watch?v=GBSCOMPbmGI",
+          "date": "2026-11-10T23:00:26.000Z",
+          "summary": ""
+        },
+        {
+          "title": "AI Overviews・AIモードは流入を奪うだけ？ オプトアウト実験の結果｜SEO Weekly Update",
+          "link": "https://www.youtube.com/watch?v=f5ixGPxBk_Y",
+          "date": "2026-11-08T22:30:01.000Z",
+          "summary": ""
+        },
+        {
+          "title": "画像SEOの基本をGoogle公式ガイドで解説｜画像検索やGoogleレンズで見つけてもらうには",
+          "link": "https://www.youtube.com/watch?v=_Xl44xn1K5c",
+          "date": "2026-11-03T23:00:27.000Z",
+          "summary": ""
+        },
+        {
+          "title": "AI検索で最も引用されたのは、手を抜かれがちな会社概要ページ｜SEO Weekly Update",
+          "link": "https://www.youtube.com/watch?v=UVaFO74R5AY",
+          "date": "2026-11-01T22:30:32.000Z",
+          "summary": ""
+        }
+      ],
+      "error": null
     },
     {
       "tool": "Ahrefs",
@@ -60,7 +91,14 @@
       "feedUrl": "https://www.semrush.com/blog/feed/",
       "items": [
         {
-          "title": "ピラーページとは何か、そしてその作成方法（＋例）",
+          "title": "Citation Coreとは？AI検索の可視性に関するガイド",
+          "titleOrig": "What is citation core? A guide to AI search visibility",
+          "link": "https://www.semrush.com/blog/citation-core/",
+          "date": "Mon, 16 Nov 2026 12:38:00 +0000",
+          "summary": "Citation core is the small group of sites AI platforms repeatedly cite. Learn how to find these sites."
+        },
+        {
+          "title": "ピラーページとは何か、およびその作成方法（＋例）",
           "titleOrig": "What is a pillar page & how to create one (+ examples)",
           "link": "https://www.semrush.com/blog/pillar-page/",
           "date": "Fri, 13 Nov 2026 14:40:00 +0000",
@@ -86,13 +124,6 @@
           "link": "https://www.semrush.com/blog/semrush-google-search-console/",
           "date": "Wed, 11 Nov 2026 11:40:00 +0000",
           "summary": "Learn how to use Semrush with Google Search Console: which tools connect, how to set each one up, and six ways to use your GSC data in Semrush."
-        },
-        {
-          "title": "SemrushとAhrefsの比較: どちらがあなたのチームに適していますか？",
-          "titleOrig": "Semrush vs. Ahrefs: Which is right for your team?",
-          "link": "https://www.semrush.com/blog/semrush-vs-ahrefs/",
-          "date": "Tue, 10 Nov 2026 13:12:00 +0000",
-          "summary": "Semrush vs. Ahrefs compared on AI visibility, backlinks, rank tracking, pricing, features, add-ons, scalability, and more."
         }
       ],
       "error": null
@@ -172,6 +203,13 @@
       "feedUrl": "https://blog.google/technology/ai/rss/",
       "items": [
         {
+          "title": "ホリデーシーズンの旅行や準備に役立つ「Ask Maps」の新機能",
+          "titleOrig": "New Ask Maps features to help with holiday travel and prep",
+          "link": "https://blog.google/products-and-platforms/products/maps/ask-maps-holiday-travel-features-2026/",
+          "date": "Mon, 16 Nov 2026 14:00:00 +0000",
+          "summary": "Plan holiday road trips, get route tips, find local appointments, and search your saved lists with new Ask Maps features."
+        },
+        {
           "title": "Google検索がGemini 4 Hydrogenで大幅にアップグレード",
           "titleOrig": "Google Search gets a major upgrade with Gemini 4 Hydrogen",
           "link": "https://blog.google/products-and-platforms/products/search/gemini-4-hydrogen-search-upgrade/",
@@ -193,18 +231,11 @@
           "summary": "Tabletop is a new Google Labs experiment for group collaboration. Build interactive itineraries, polls, and brackets with your team. Join the waitlist."
         },
         {
-          "title": "エスター・マフランク博士の芸術と功績を体験する",
+          "title": "エスター・マフラング博士の芸術と功績を体験する",
           "titleOrig": "Experience the art and legacy of Dr. Esther Mahlangu",
           "link": "https://blog.google/company-news/outreach-and-initiatives/arts-culture/esther-mahlangu/",
           "date": "Wed, 11 Nov 2026 09:00:00 +0000",
           "summary": "A new online archive of Esther Mahlangu’s life and art is now on Google Arts & Culture."
-        },
-        {
-          "title": "GeminiのAI機能：新しい機能をより多くのデバイスで",
-          "titleOrig": "Gemini Intelligence: New features, on more devices",
-          "link": "https://blog.google/products-and-platforms/platforms/android/gemini-intelligence-november-features-devices/",
-          "date": "Tue, 10 Nov 2026 19:00:00 +0000",
-          "summary": "Gemini Intelligence is rolling out to more devices. See how expanded capabilities across these devices help you do more."
         }
       ],
       "error": null
@@ -276,7 +307,7 @@
           "summary": "Next year, WordCamp Asia 2027 heads to Penang, Malaysia. From April 9 to 11, the WordPress community will gather at the Penang Waterfront Convention Centre for three days of contribution, learning, an"
         },
         {
-          "title": "WordPress 7.2ベータ5",
+          "title": "WordPress 7.2ベータ版5",
           "titleOrig": "WordPress 7.2 Beta 5",
           "link": "https://wordpress.org/news/2026/11/wordpress-7-2-beta-5/",
           "date": "Tue, 10 Nov 2026 16:59:09 +0000",
@@ -395,8 +426,39 @@
       "category": "制作・デザイン",
       "sourceType": "media",
       "feedUrl": "https://www.mindfactory.co.jp/blog/feed/",
-      "items": [],
-      "error": "Request timed out after 10000ms"
+      "items": [
+        {
+          "title": "【新入社員インタビュー】プリ機のUIデザインから新天地へ。￼",
+          "link": "https://www.mindfactory.co.jp/blog/8439",
+          "date": "Tue, 28 Jul 2026 01:38:35 +0000",
+          "summary": "マインドファクトリーのクリエイティブチームでは、企業の課題解決を最大化するデジタルマーケティングの一環として、ロジックに基づいた戦略的なデザインの提供に注力しています。チームの多様性とクリエイティブの幅をさらに広げるべく […]"
+        },
+        {
+          "title": "【新入社員インタビュー】5年の経験を経て、マインドファクトリーを選んだ理由￼￼",
+          "link": "https://www.mindfactory.co.jp/blog/8431",
+          "date": "Tue, 21 Jul 2026 07:51:09 +0000",
+          "summary": "マインドファクトリーのクリエイティブチームでは、企業のビジネスを加速させるデジタルマーケティングの一環として、戦略的かつハイクオリティなデザイン制作に取り組んでいます。組織のさらなる成長とクリエイティブ力の強化を目指す中 […]"
+        },
+        {
+          "title": "“伝わる”UIをつくれるデザイナーを目指して - インターン生インタビュー",
+          "link": "https://www.mindfactory.co.jp/blog/8370",
+          "date": "Fri, 27 Feb 2026 11:43:03 +0000",
+          "summary": "今年マインドファクトリーでは、初めてインターンシップの受け入れを行いました。 今回は、インターンで来てくれた名古屋モード学園グラフィック学科の水野君に、デザイナーを志したきっかけや弊社でのインターンの感想をインタビューし […]"
+        },
+        {
+          "title": "WEBメディア「CREATORS STATION」に代表富岡のインタビュー記事が掲載されました",
+          "link": "https://www.mindfactory.co.jp/blog/8364",
+          "date": "Mon, 16 Feb 2026 08:57:39 +0000",
+          "summary": "株式会社フェローズが運営する、日本全国のクリエイターを応援するためのWEBメディア「CREATORS STATION」に、弊社代表 富岡のインタビュー記事が掲載されました。自身のこれまでのキャリアから、事業内容、今後の展 […]"
+        },
+        {
+          "title": "年末年始休暇のお知らせ",
+          "link": "https://www.mindfactory.co.jp/blog/8357",
+          "date": "Fri, 05 Dec 2025 09:20:14 +0000",
+          "summary": "平素は格別のお引き立てを賜り、厚く御礼申し上げます。誠に勝手ながら、弊社は、下記の期間を年末年始休業とさせていただきます。 ■ 年末年始休暇期間2025年12月27日（土）～2026年1月4日（日） ご不便をおかけいたし […]"
+        }
+      ],
+      "error": null
     },
     {
       "tool": "Empathy Writing",
