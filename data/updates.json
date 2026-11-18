@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-11-17T06:57:10.640Z",
+  "fetchedAt": "2026-11-18T06:19:00.554Z",
   "tools": [
     {
       "tool": "ミエルカ（YouTube）",
@@ -10,6 +10,12 @@
       "handle": "@mieruca-channel",
       "feedUrl": "",
       "items": [
+        {
+          "title": "AI生成コンテンツはSEOで不利？Google公式ガイダンスの更新点とスパムになる使い方",
+          "link": "https://www.youtube.com/watch?v=nUp1coqcgtg",
+          "date": "2026-11-17T23:00:04.000Z",
+          "summary": ""
+        },
         {
           "title": "【2026年11月】Googleコアアップデート開始｜展開中にやるべきこと・やらないこと｜SEO Weekly Update",
           "link": "https://www.youtube.com/watch?v=Nu1HqbjVI9w",
@@ -32,12 +38,6 @@
           "title": "画像SEOの基本をGoogle公式ガイドで解説｜画像検索やGoogleレンズで見つけてもらうには",
           "link": "https://www.youtube.com/watch?v=_Xl44xn1K5c",
           "date": "2026-11-03T23:00:27.000Z",
-          "summary": ""
-        },
-        {
-          "title": "AI検索で最も引用されたのは、手を抜かれがちな会社概要ページ｜SEO Weekly Update",
-          "link": "https://www.youtube.com/watch?v=UVaFO74R5AY",
-          "date": "2026-11-01T22:30:32.000Z",
           "summary": ""
         }
       ],
@@ -91,39 +91,39 @@
       "feedUrl": "https://www.semrush.com/blog/feed/",
       "items": [
         {
+          "title": "AI Overviewsがマップパックを乗っ取っています。私が発見したことは次のとおりです。",
+          "titleOrig": "AI Overviews are taking over the map pack. Here’s what I found",
+          "link": "https://www.semrush.com/blog/ai-overviews-are-taking-over-the-map-pack/",
+          "date": "Tue, 17 Nov 2026 13:58:00 +0000",
+          "summary": "AI Overviews are taking over the map pack. Learn why ranking in the pack isn’t enough anymore and what your business needs to do to show up."
+        },
+        {
+          "title": "ChatGPTビジネスハブにメンションとクリック数が表示されるようになりました",
+          "titleOrig": "ChatGPT Business Hub now shows mentions and clicks",
+          "link": "https://www.semrush.com/blog/chatgpt-business-hub/",
+          "date": "Tue, 17 Nov 2026 12:56:00 +0000",
+          "summary": "ChatGPT Business Hub lets you claim your listing and track mentions and clicks, but your brand name alone doesn’t count as a mention."
+        },
+        {
+          "title": "Google 2026年11月のコアアップデート：マーケターが知っておくべきこと",
+          "titleOrig": "Google November 2026 core update: What marketers should know",
+          "link": "https://www.semrush.com/blog/google-core-update-november-2026/",
+          "date": "Tue, 17 Nov 2026 12:48:00 +0000",
+          "summary": "Google‘s November 2026 core update could run into Black Friday week, so track your rankings now and hold off on big site changes."
+        },
+        {
+          "title": "コンテンツ作成にAIを活用する方法（段階的なワークフロー）",
+          "titleOrig": "How to use AI for content creation (step-by-step workflow)",
+          "link": "https://www.semrush.com/blog/how-to-use-ai-for-content-creation/",
+          "date": "Tue, 17 Nov 2026 12:38:00 +0000",
+          "summary": "How to use AI for content creation, based on the Semrush blog team‘s own process. Includes the research skill we use, ready to copy into Claude."
+        },
+        {
           "title": "Citation Coreとは？AI検索の可視性に関するガイド",
           "titleOrig": "What is citation core? A guide to AI search visibility",
           "link": "https://www.semrush.com/blog/citation-core/",
           "date": "Mon, 16 Nov 2026 12:38:00 +0000",
           "summary": "Citation core is the small group of sites AI platforms repeatedly cite. Learn how to find these sites."
-        },
-        {
-          "title": "ピラーページとは何か、およびその作成方法（＋例）",
-          "titleOrig": "What is a pillar page & how to create one (+ examples)",
-          "link": "https://www.semrush.com/blog/pillar-page/",
-          "date": "Fri, 13 Nov 2026 14:40:00 +0000",
-          "summary": "Pillar pages can build your authority and increase visibility. Here’s why they matter and how to create them."
-        },
-        {
-          "title": "Semrush MCPを使用してSEO競合他社分析を行う方法",
-          "titleOrig": "How to do an SEO competitor analysis with the Semrush MCP",
-          "link": "https://www.semrush.com/blog/competitor-analysis-semrush-mcp/",
-          "date": "Fri, 13 Nov 2026 12:24:00 +0000",
-          "summary": "Learn how to use the Semrush MCP to analyze your competitors’ keywords, pages, and backlinks."
-        },
-        {
-          "title": "AIトラフィックの品質：業界のベンチマークを超えてROIを測定する",
-          "titleOrig": "AI traffic quality: Look past the industry benchmarks and measure ROI",
-          "link": "https://www.semrush.com/blog/ai-traffic-quality/",
-          "date": "Thu, 12 Nov 2026 11:21:00 +0000",
-          "summary": "Published benchmarks describe someone else‘s site. Here‘s how to measure AI traffic quality in your own analytics and decide whether to invest more."
-        },
-        {
-          "title": "SemrushをGoogle Search Consoleと併用する方法",
-          "titleOrig": "How to use Semrush with Google Search Console",
-          "link": "https://www.semrush.com/blog/semrush-google-search-console/",
-          "date": "Wed, 11 Nov 2026 11:40:00 +0000",
-          "summary": "Learn how to use Semrush with Google Search Console: which tools connect, how to set each one up, and six ways to use your GSC data in Semrush."
         }
       ],
       "error": null
@@ -203,7 +203,14 @@
       "feedUrl": "https://blog.google/technology/ai/rss/",
       "items": [
         {
-          "title": "ホリデーシーズンの旅行や準備に役立つ「Ask Maps」の新機能",
+          "title": "Gemini を活用しましょう",
+          "titleOrig": "Put Gemini to work for you",
+          "link": "https://blog.google/innovation-and-ai/products/gemini-app/tasks-in-gemini-free-new-features/",
+          "date": "Tue, 17 Nov 2026 17:00:00 +0000",
+          "summary": "Tasks in Gemini is now free of charge in six countries, with new features starting in the U.S. and deeper Google Workspace integration to get things done on your behalf."
+        },
+        {
+          "title": "ホリデーシーズンの旅行や準備に役立つ、Ask Mapsの新しい機能",
           "titleOrig": "New Ask Maps features to help with holiday travel and prep",
           "link": "https://blog.google/products-and-platforms/products/maps/ask-maps-holiday-travel-features-2026/",
           "date": "Mon, 16 Nov 2026 14:00:00 +0000",
@@ -217,7 +224,7 @@
           "summary": "We are bringing Gemini 4 Hydrogen to Google Search globally to provide you with more helpful, visual, and intuitive responses."
         },
         {
-          "title": "Gemini Decisions API：迅速で調整されたマルチモーダルな意思決定",
+          "title": "Gemini Decisions API：迅速で調整されたマルチモーダル意思決定",
           "titleOrig": "Gemini Decisions API: Fast, calibrated multimodal decisions",
           "link": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api/",
           "date": "Wed, 11 Nov 2026 18:00:00 +0000",
@@ -229,13 +236,6 @@
           "link": "https://blog.google/innovation-and-ai/models-and-research/google-labs/tabletop/",
           "date": "Wed, 11 Nov 2026 16:00:00 +0000",
           "summary": "Tabletop is a new Google Labs experiment for group collaboration. Build interactive itineraries, polls, and brackets with your team. Join the waitlist."
-        },
-        {
-          "title": "エスター・マフラング博士の芸術と功績を体験する",
-          "titleOrig": "Experience the art and legacy of Dr. Esther Mahlangu",
-          "link": "https://blog.google/company-news/outreach-and-initiatives/arts-culture/esther-mahlangu/",
-          "date": "Wed, 11 Nov 2026 09:00:00 +0000",
-          "summary": "A new online archive of Esther Mahlangu’s life and art is now on Google Arts & Culture."
         }
       ],
       "error": null
@@ -293,6 +293,13 @@
       "feedUrl": "https://wordpress.org/news/feed/",
       "items": [
         {
+          "title": "WordPress 7.2 リリース候補版 1",
+          "titleOrig": "WordPress 7.2 Release Candidate 1",
+          "link": "https://wordpress.org/news/2026/11/wordpress-7-2-release-candidate-1/",
+          "date": "Tue, 17 Nov 2026 16:04:13 +0000",
+          "summary": "The first Release Candidate (“RC1”) for WordPress 7.2 is ready for download and testing! This version of the WordPress software is still under development. Please do not install, run, or test this ver"
+        },
+        {
           "title": "ReprintでWordPressサイトをコピーする",
           "titleOrig": "Copy Your WordPress Site with Reprint",
           "link": "https://wordpress.org/news/2026/11/reprint-your-site/",
@@ -307,7 +314,7 @@
           "summary": "Next year, WordCamp Asia 2027 heads to Penang, Malaysia. From April 9 to 11, the WordPress community will gather at the Penang Waterfront Convention Centre for three days of contribution, learning, an"
         },
         {
-          "title": "WordPress 7.2ベータ版5",
+          "title": "WordPress 7.2ベータ5",
           "titleOrig": "WordPress 7.2 Beta 5",
           "link": "https://wordpress.org/news/2026/11/wordpress-7-2-beta-5/",
           "date": "Tue, 10 Nov 2026 16:59:09 +0000",
@@ -319,13 +326,6 @@
           "link": "https://wordpress.org/news/2026/11/wp-credits-reaches-50/",
           "date": "Mon, 09 Nov 2026 16:01:18 +0000",
           "summary": "More than 50 educational institutions have joined WordPress Credits, giving students worldwide a way to earn academic recognition for contributing to WordPress. The program had two participating insti"
-        },
-        {
-          "title": "WordPress 7.2ベータ4",
-          "titleOrig": "WordPress 7.2 Beta 4",
-          "link": "https://wordpress.org/news/2026/11/wordpress-7-2-beta-4/",
-          "date": "Tue, 03 Nov 2026 15:45:29 +0000",
-          "summary": "WordPress 7.2 Beta 4 is ready for download and testing! This beta release is intended for testing and development only. Please do not install, run, or test this version of WordPress on production or m"
         }
       ],
       "error": null
@@ -345,7 +345,7 @@
           "summary": "Includes all new features and bug fixes up to Obsidian Desktop v1.15.1. New Added the Web viewer core plugin. With Open external links turned on in its settings, links to web pages open in an in-app b"
         },
         {
-          "title": "Obsidian 1.15.1 デスクトップ版（公開）",
+          "title": "Obsidian 1.15.1 デスクトップ版（公開版）",
           "titleOrig": "Obsidian 1.15.1 Desktop (Public)",
           "link": "https://obsidian.md/changelog/2026-11-12-desktop-v1.15.1/",
           "date": "2026-11-12T00:00:00.000Z",
@@ -383,6 +383,20 @@
       "feedUrl": "https://github.blog/feed/",
       "items": [
         {
+          "title": "メンテナーが必要としているのは、AIによるバグレポートの増加ではなく、修正です。 ",
+          "titleOrig": "Maintainers don’t need more AI bug reports. They need fixes. ",
+          "link": "https://github.blog/open-source/maintainers/maintainers-dont-need-more-ai-bug-reports-they-need-fixes/",
+          "date": "Tue, 17 Nov 2026 18:29:29 +0000",
+          "summary": "In the Codename MDASH pilot, GitHub and Microsoft turned thousands of raw AI findings into 99 checked, private reports with suggested fixes for six widely used open source projects. Maintainers have a"
+        },
+        {
+          "title": "デバイス間で継続するセッション用のエージェントホストプロトコルの構築",
+          "titleOrig": "Building the Agent Host Protocol for sessions that continue across devices",
+          "link": "https://github.blog/engineering/engineering-principles/building-the-agent-host-protocol-for-sessions-that-continue-across-devices/",
+          "date": "Tue, 17 Nov 2026 18:20:40 +0000",
+          "summary": "Discover how we built the open Agent Host Protocol to keep your agent sessions accessible across editors, apps, phones, and the cloud. The post Building the Agent Host Protocol for sessions that conti"
+        },
+        {
           "title": "GitHub稼働状況レポート：2026年10月",
           "titleOrig": "GitHub availability report: October 2026",
           "link": "https://github.blog/news-insights/company-news/github-availability-report-october-2026/",
@@ -401,21 +415,7 @@
           "titleOrig": "Git security vulnerabilities announced",
           "link": "https://github.blog/open-source/git/git-security-vulnerabilities-announced-7/",
           "date": "Tue, 10 Nov 2026 18:00:00 +0000",
-          "summary": "Git is releasing updates addressing six security vulnerabilities affecting recursive clones, reference handling, merges, binary patches, and imports. Here is what users need to know. The post Git secu"
-        },
-        {
-          "title": "コード生成を超えて：エージェントエンジニアリングに関するデベロッパー向けガイド",
-          "titleOrig": "Beyond code generation: A developer’s guide to agentic engineering",
-          "link": "https://github.blog/ai-and-ml/github-copilot/beyond-code-generation-a-developers-guide-to-agentic-engineering/",
-          "date": "Fri, 06 Nov 2026 22:15:59 +0000",
-          "summary": "Writing code got faster. The work around it didn't. See how you can plan, write code, review changes, and investigate production issues with GitHub Copilot, and what work still needs your judgment. Th"
-        },
-        {
-          "title": "GitHubの新しいGitストレージアーキテクチャの内側",
-          "titleOrig": "Inside GitHub’s new Git storage architecture",
-          "link": "https://github.blog/engineering/architecture-optimization/inside-githubs-new-git-storage-architecture/",
-          "date": "Thu, 05 Nov 2026 20:23:21 +0000",
-          "summary": "GitHub's new Git storage architecture is built so thousands of agents can push to a single repository at once. Here's how it works. The post Inside GitHub’s new Git storage architecture appeared first"
+          "summary": "Git is releasing updates addressing six security vulnerabilities affecting clones, reference handling, merges, binary patches, and imports. Here is what users need to know. The post Git security vulne"
         }
       ],
       "error": null
