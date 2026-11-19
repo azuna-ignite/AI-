@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-11-18T06:19:00.554Z",
+  "fetchedAt": "2026-11-19T06:21:00.203Z",
   "tools": [
     {
       "tool": "ミエルカ（YouTube）",
@@ -91,6 +91,13 @@
       "feedUrl": "https://www.semrush.com/blog/feed/",
       "items": [
         {
+          "title": "AIの影響を受けるトラフィック：AI検索パフォーマンスを測定する新しいSemrush指標",
+          "titleOrig": "AI-influenced traffic: A new Semrush metric to measure AI search performance",
+          "link": "https://www.semrush.com/blog/ai-influenced-traffic-metric/",
+          "date": "Wed, 18 Nov 2026 09:00:00 +0000",
+          "summary": "Traffic is the missing step between AI visibility and revenue. Now you can see it."
+        },
+        {
           "title": "AI Overviewsがマップパックを乗っ取っています。私が発見したことは次のとおりです。",
           "titleOrig": "AI Overviews are taking over the map pack. Here’s what I found",
           "link": "https://www.semrush.com/blog/ai-overviews-are-taking-over-the-map-pack/",
@@ -117,13 +124,6 @@
           "link": "https://www.semrush.com/blog/how-to-use-ai-for-content-creation/",
           "date": "Tue, 17 Nov 2026 12:38:00 +0000",
           "summary": "How to use AI for content creation, based on the Semrush blog team‘s own process. Includes the research skill we use, ready to copy into Claude."
-        },
-        {
-          "title": "Citation Coreとは？AI検索の可視性に関するガイド",
-          "titleOrig": "What is citation core? A guide to AI search visibility",
-          "link": "https://www.semrush.com/blog/citation-core/",
-          "date": "Mon, 16 Nov 2026 12:38:00 +0000",
-          "summary": "Citation core is the small group of sites AI platforms repeatedly cite. Learn how to find these sites."
         }
       ],
       "error": null
@@ -203,14 +203,21 @@
       "feedUrl": "https://blog.google/technology/ai/rss/",
       "items": [
         {
-          "title": "Gemini を活用しましょう",
+          "title": "Geminiアプリが、メモリ容量の少ないAndroid端末でも利用できるようになりました。",
+          "titleOrig": "The Gemini app is now available on lower-memory Android devices.",
+          "link": "https://blog.google/innovation-and-ai/products/gemini-app/gemini-lower-memory-devices/",
+          "date": "Wed, 18 Nov 2026 17:00:00 +0000",
+          "summary": "The Google Gemini app now supports lower-memory Android devices. Access Gemini Live and custom image creation on your phone. Download the app today."
+        },
+        {
+          "title": "Geminiを業務に活用しましょう",
           "titleOrig": "Put Gemini to work for you",
           "link": "https://blog.google/innovation-and-ai/products/gemini-app/tasks-in-gemini-free-new-features/",
           "date": "Tue, 17 Nov 2026 17:00:00 +0000",
           "summary": "Tasks in Gemini is now free of charge in six countries, with new features starting in the U.S. and deeper Google Workspace integration to get things done on your behalf."
         },
         {
-          "title": "ホリデーシーズンの旅行や準備に役立つ、Ask Mapsの新しい機能",
+          "title": "ホリデーシーズンの旅行や準備に役立つ「Ask Maps」の新機能",
           "titleOrig": "New Ask Maps features to help with holiday travel and prep",
           "link": "https://blog.google/products-and-platforms/products/maps/ask-maps-holiday-travel-features-2026/",
           "date": "Mon, 16 Nov 2026 14:00:00 +0000",
@@ -224,18 +231,11 @@
           "summary": "We are bringing Gemini 4 Hydrogen to Google Search globally to provide you with more helpful, visual, and intuitive responses."
         },
         {
-          "title": "Gemini Decisions API：迅速で調整されたマルチモーダル意思決定",
+          "title": "Gemini Decisions API：迅速で調整されたマルチモーダルな意思決定",
           "titleOrig": "Gemini Decisions API: Fast, calibrated multimodal decisions",
           "link": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api/",
           "date": "Wed, 11 Nov 2026 18:00:00 +0000",
           "summary": "Meet the Gemini Decisions API, powered by our state-of-the-art model Gemini Decision for fast, calibrated multimodal decisions."
-        },
-        {
-          "title": "Tabletopをお試しください。グループが一緒に計画を立てたり、ゲームをしたり、さまざまなことを行ったりできる、カスタマイズ可能なコラボレーションスペースです。",
-          "titleOrig": "Try Tabletop: Customizable, collaborative spaces for groups to plan, play and do more together.",
-          "link": "https://blog.google/innovation-and-ai/models-and-research/google-labs/tabletop/",
-          "date": "Wed, 11 Nov 2026 16:00:00 +0000",
-          "summary": "Tabletop is a new Google Labs experiment for group collaboration. Build interactive itineraries, polls, and brackets with your team. Join the waitlist."
         }
       ],
       "error": null
@@ -293,6 +293,13 @@
       "feedUrl": "https://wordpress.org/news/feed/",
       "items": [
         {
+          "title": "WordPress 7.1.5 リリース",
+          "titleOrig": "WordPress 7.1.5 Release",
+          "link": "https://wordpress.org/news/2026/11/wordpress-7-1-5-release/",
+          "date": "Wed, 18 Nov 2026 17:08:59 +0000",
+          "summary": "This security release features fixes for multiple issues. Because this is a security release, it is recommended that you update your sites immediately. You can download WordPress 7.1.5 from WordPress."
+        },
+        {
           "title": "WordPress 7.2 リリース候補版 1",
           "titleOrig": "WordPress 7.2 Release Candidate 1",
           "link": "https://wordpress.org/news/2026/11/wordpress-7-2-release-candidate-1/",
@@ -314,18 +321,11 @@
           "summary": "Next year, WordCamp Asia 2027 heads to Penang, Malaysia. From April 9 to 11, the WordPress community will gather at the Penang Waterfront Convention Centre for three days of contribution, learning, an"
         },
         {
-          "title": "WordPress 7.2ベータ5",
+          "title": "WordPress 7.2ベータ版5",
           "titleOrig": "WordPress 7.2 Beta 5",
           "link": "https://wordpress.org/news/2026/11/wordpress-7-2-beta-5/",
           "date": "Tue, 10 Nov 2026 16:59:09 +0000",
           "summary": "WordPress 7.2 Beta 5 is ready for download and testing! This beta release is intended for testing and development only. Please do not install, run, or test this version of WordPress on production or m"
-        },
-        {
-          "title": "WordPress Creditsが50以上の機関を歓迎",
-          "titleOrig": "WordPress Credits Welcomes More Than 50 Institutions",
-          "link": "https://wordpress.org/news/2026/11/wp-credits-reaches-50/",
-          "date": "Mon, 09 Nov 2026 16:01:18 +0000",
-          "summary": "More than 50 educational institutions have joined WordPress Credits, giving students worldwide a way to earn academic recognition for contributing to WordPress. The program had two participating insti"
         }
       ],
       "error": null
@@ -345,7 +345,7 @@
           "summary": "Includes all new features and bug fixes up to Obsidian Desktop v1.15.1. New Added the Web viewer core plugin. With Open external links turned on in its settings, links to web pages open in an in-app b"
         },
         {
-          "title": "Obsidian 1.15.1 デスクトップ版（公開版）",
+          "title": "Obsidian 1.15.1 デスクトップ版（公開）",
           "titleOrig": "Obsidian 1.15.1 Desktop (Public)",
           "link": "https://obsidian.md/changelog/2026-11-12-desktop-v1.15.1/",
           "date": "2026-11-12T00:00:00.000Z",
