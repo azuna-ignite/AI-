@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-11-19T06:21:00.203Z",
+  "fetchedAt": "2026-11-20T06:05:13.421Z",
   "tools": [
     {
       "tool": "ミエルカ（YouTube）",
@@ -51,6 +51,12 @@
       "feedUrl": "https://ahrefs.com/blog/ja/feed/",
       "items": [
         {
+          "title": "Google AI モードとは？使い方・消し方と、AI による概要との違いをデータで解説",
+          "link": "https://ahrefs.com/ja/blog/google-ai-mode-new/",
+          "date": "Thu, 19 Nov 2026 07:16:03 +0000",
+          "summary": "Google 検索の AI モードとは何か、使い方・出し方と消し方、AI による概要や Gem­i­ni との違いを解説します。日本の AI モードでよく引用されるサイトを Ahrefs のデータで紹介し、自社サイトが引用されているかを調べる方法もまとめました。"
+        },
+        {
           "title": "AEO 対策で重視すべきメンションの種類は？AI 可視性との相関を 2.6 億プロンプトで分析【Reddit・ニュース・YouTube 比較】",
           "link": "https://ahrefs.com/ja/blog/mention-types-ai-visibility/",
           "date": "Fri, 13 Nov 2026 06:53:35 +0000",
@@ -73,12 +79,6 @@
           "link": "https://ahrefs.com/ja/blog/saas-company-ranking/",
           "date": "Mon, 09 Nov 2026 07:43:29 +0000",
           "summary": "Ahrefs のデータをもとに、日本の SaaS 企業 約 200 社の指名検索数を比べ、伸びている 25 社をランキングにしました。世界のランキングとして、英語版の記事で紹介している海外の SaaS スタートアップ 25 社も載せています。 ランキングは毎月更新しています。 英語版はオーガニックトラフィックの伸びで順位を付けています。ただ、日本の SaaS やセキュリティ企業のサイトは、ブログや"
-        },
-        {
-          "title": "AI 発見可能性スコア、トラフィック分析レポート、ソーシャルパフォーマンス分析、その他｜2026年 10月",
-          "link": "https://ahrefs.com/ja/blog/october-2026-roundup/",
-          "date": "Mon, 09 Nov 2026 06:20:35 +0000",
-          "summary": "動画の視聴はこちら👇 ソーシャルメディアマネージャーにパフォーマンスレポートを追加 投稿パフォーマンス、投稿に最適な時間帯、投稿タイプ別パフォーマンスの 3 つの新しいレポートが追加されました。投稿パフォーマンスでは各プラットフォームの全公開投稿の生データを確認でき、投稿に最適な時間帯では時間帯別の過去のエンゲージメント率と投稿あたりの閲覧数を分析できます。また、投稿タイプ別パフォーマンスでは動"
         }
       ],
       "error": null
@@ -90,6 +90,20 @@
       "sourceType": "tool",
       "feedUrl": "https://www.semrush.com/blog/feed/",
       "items": [
+        {
+          "title": "AIがSEOに取って代わる5つの方法（と変わらない4つのこと）",
+          "titleOrig": "5 ways AI is replacing SEO (and 4 things that aren’t changing)",
+          "link": "https://www.semrush.com/blog/will-ai-replace-seo/",
+          "date": "Thu, 19 Nov 2026 11:14:00 +0000",
+          "summary": "Will AI replace SEO? Yes, by expanding search and taking clicks from publishers. But 4 things stay the same."
+        },
+        {
+          "title": "SEOにおけるトピックオーソリティとは？2027年を見据えたガイド",
+          "titleOrig": "What is topical authority in SEO? A forward-looking guide for 2027",
+          "link": "https://www.semrush.com/blog/topical-authority/",
+          "date": "Thu, 19 Nov 2026 11:00:00 +0000",
+          "summary": "Topical authority in SEO, updated for AI search: define it, pick the right topics, measure your share against competitors, and track progress."
+        },
         {
           "title": "AIの影響を受けるトラフィック：AI検索パフォーマンスを測定する新しいSemrush指標",
           "titleOrig": "AI-influenced traffic: A new Semrush metric to measure AI search performance",
@@ -110,20 +124,6 @@
           "link": "https://www.semrush.com/blog/chatgpt-business-hub/",
           "date": "Tue, 17 Nov 2026 12:56:00 +0000",
           "summary": "ChatGPT Business Hub lets you claim your listing and track mentions and clicks, but your brand name alone doesn’t count as a mention."
-        },
-        {
-          "title": "Google 2026年11月のコアアップデート：マーケターが知っておくべきこと",
-          "titleOrig": "Google November 2026 core update: What marketers should know",
-          "link": "https://www.semrush.com/blog/google-core-update-november-2026/",
-          "date": "Tue, 17 Nov 2026 12:48:00 +0000",
-          "summary": "Google‘s November 2026 core update could run into Black Friday week, so track your rankings now and hold off on big site changes."
-        },
-        {
-          "title": "コンテンツ作成にAIを活用する方法（段階的なワークフロー）",
-          "titleOrig": "How to use AI for content creation (step-by-step workflow)",
-          "link": "https://www.semrush.com/blog/how-to-use-ai-for-content-creation/",
-          "date": "Tue, 17 Nov 2026 12:38:00 +0000",
-          "summary": "How to use AI for content creation, based on the Semrush blog team‘s own process. Includes the research skill we use, ready to copy into Claude."
         }
       ],
       "error": null
@@ -203,7 +203,21 @@
       "feedUrl": "https://blog.google/technology/ai/rss/",
       "items": [
         {
-          "title": "Geminiアプリが、メモリ容量の少ないAndroid端末でも利用できるようになりました。",
+          "title": "Gemini APIにおけるツール検索の導入",
+          "titleOrig": "Introducing Tool Retrieval in the Gemini API",
+          "link": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-api-tool-retrieval/",
+          "date": "Thu, 19 Nov 2026 18:00:00 +0000",
+          "summary": "Give your agents access to hundreds of tools while using fewer tokens with Tool Retrieval, now in preview in the Gemini API."
+        },
+        {
+          "title": "ウォルター・アイザックソン氏が語る、AI時代の好奇心と創造性。",
+          "titleOrig": "Walter Isaacson on curiosity and creativity in the AI age.",
+          "link": "https://blog.google/innovation-and-ai/technology/ai/dialogues-walter-isaacson/",
+          "date": "Thu, 19 Nov 2026 17:00:00 +0000",
+          "summary": "Walter Isaacson joins Google to discuss how history’s greatest innovators inspire creativity and human judgment in the AI age. Watch the episode."
+        },
+        {
+          "title": "Geminiアプリが、メモリ容量の少ないAndroidデバイスでも利用できるようになりました。",
           "titleOrig": "The Gemini app is now available on lower-memory Android devices.",
           "link": "https://blog.google/innovation-and-ai/products/gemini-app/gemini-lower-memory-devices/",
           "date": "Wed, 18 Nov 2026 17:00:00 +0000",
@@ -217,25 +231,11 @@
           "summary": "Tasks in Gemini is now free of charge in six countries, with new features starting in the U.S. and deeper Google Workspace integration to get things done on your behalf."
         },
         {
-          "title": "ホリデーシーズンの旅行や準備に役立つ「Ask Maps」の新機能",
+          "title": "ホリデーシーズンの旅行や準備に役立つ、Ask Mapsの新しい機能",
           "titleOrig": "New Ask Maps features to help with holiday travel and prep",
           "link": "https://blog.google/products-and-platforms/products/maps/ask-maps-holiday-travel-features-2026/",
           "date": "Mon, 16 Nov 2026 14:00:00 +0000",
           "summary": "Plan holiday road trips, get route tips, find local appointments, and search your saved lists with new Ask Maps features."
-        },
-        {
-          "title": "Google検索がGemini 4 Hydrogenで大幅にアップグレード",
-          "titleOrig": "Google Search gets a major upgrade with Gemini 4 Hydrogen",
-          "link": "https://blog.google/products-and-platforms/products/search/gemini-4-hydrogen-search-upgrade/",
-          "date": "Thu, 12 Nov 2026 18:00:00 +0000",
-          "summary": "We are bringing Gemini 4 Hydrogen to Google Search globally to provide you with more helpful, visual, and intuitive responses."
-        },
-        {
-          "title": "Gemini Decisions API：迅速で調整されたマルチモーダルな意思決定",
-          "titleOrig": "Gemini Decisions API: Fast, calibrated multimodal decisions",
-          "link": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api/",
-          "date": "Wed, 11 Nov 2026 18:00:00 +0000",
-          "summary": "Meet the Gemini Decisions API, powered by our state-of-the-art model Gemini Decision for fast, calibrated multimodal decisions."
         }
       ],
       "error": null
@@ -321,7 +321,7 @@
           "summary": "Next year, WordCamp Asia 2027 heads to Penang, Malaysia. From April 9 to 11, the WordPress community will gather at the Penang Waterfront Convention Centre for three days of contribution, learning, an"
         },
         {
-          "title": "WordPress 7.2ベータ版5",
+          "title": "WordPress 7.2ベータ5",
           "titleOrig": "WordPress 7.2 Beta 5",
           "link": "https://wordpress.org/news/2026/11/wordpress-7-2-beta-5/",
           "date": "Tue, 10 Nov 2026 16:59:09 +0000",
@@ -345,7 +345,7 @@
           "summary": "Includes all new features and bug fixes up to Obsidian Desktop v1.15.1. New Added the Web viewer core plugin. With Open external links turned on in its settings, links to web pages open in an in-app b"
         },
         {
-          "title": "Obsidian 1.15.1 デスクトップ版（公開）",
+          "title": "Obsidian 1.15.1 デスクトップ版（公開版）",
           "titleOrig": "Obsidian 1.15.1 Desktop (Public)",
           "link": "https://obsidian.md/changelog/2026-11-12-desktop-v1.15.1/",
           "date": "2026-11-12T00:00:00.000Z",
@@ -359,7 +359,7 @@
           "summary": "Includes all new features and bug fixes up to Obsidian Desktop v1.15.1. New Added the Web viewer core plugin. With Open external links turned on in its settings, links to web pages open in an in-app b"
         },
         {
-          "title": "Obsidian 1.15.1 デスクトップ版（早期アクセス）",
+          "title": "Obsidian 1.15.1 デスクトップ（早期アクセス）",
           "titleOrig": "Obsidian 1.15.1 Desktop (Early access)",
           "link": "https://obsidian.md/changelog/2026-11-03-desktop-v1.15.1/",
           "date": "2026-11-03T00:00:00.000Z",
@@ -382,6 +382,13 @@
       "sourceType": "tool",
       "feedUrl": "https://github.blog/feed/",
       "items": [
+        {
+          "title": "オープンソースの最大の利点は、みんなで一緒に作り上げる点です。",
+          "titleOrig": "The best things in open source are built together",
+          "link": "https://github.blog/open-source/maintainers/the-best-things-in-open-source-are-built-together/",
+          "date": "Thu, 19 Nov 2026 16:00:00 +0000",
+          "summary": "Introducing Replica and the Open Source Accessibility Framework, new open source projects for collaboration and inclusion. The post The best things in open source are built together appeared first on "
+        },
         {
           "title": "メンテナーが必要としているのは、AIによるバグレポートの増加ではなく、修正です。 ",
           "titleOrig": "Maintainers don’t need more AI bug reports. They need fixes. ",
@@ -409,13 +416,6 @@
           "link": "https://github.blog/ai-and-ml/github-copilot/build-once-run-on-any-agent-a-practical-guide-to-agent-skills/",
           "date": "Thu, 12 Nov 2026 22:54:52 +0000",
           "summary": "Agent skills capture repeatable engineering work in files teams can review and reuse, while tools, project context, and permissions remain specific to the host that runs them. The post Build once, run"
-        },
-        {
-          "title": "Gitのセキュリティ脆弱性が発表されました",
-          "titleOrig": "Git security vulnerabilities announced",
-          "link": "https://github.blog/open-source/git/git-security-vulnerabilities-announced-7/",
-          "date": "Tue, 10 Nov 2026 18:00:00 +0000",
-          "summary": "Git is releasing updates addressing six security vulnerabilities affecting clones, reference handling, merges, binary patches, and imports. Here is what users need to know. The post Git security vulne"
         }
       ],
       "error": null
