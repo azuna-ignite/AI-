@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-11-20T06:05:13.421Z",
+  "fetchedAt": "2026-11-21T05:57:50.645Z",
   "tools": [
     {
       "tool": "ミエルカ（YouTube）",
@@ -91,6 +91,13 @@
       "feedUrl": "https://www.semrush.com/blog/feed/",
       "items": [
         {
+          "title": "EコマースSEO：検索とAIでの可視性を高める8つのステップ",
+          "titleOrig": "Ecommerce SEO: 8 steps to grow visibility in search and AI",
+          "link": "https://www.semrush.com/blog/ecommerce-seo/",
+          "date": "Fri, 20 Nov 2026 14:59:00 +0000",
+          "summary": "Learn how to get your online store found in search engines and AI platforms with these 8 ecommerce SEO steps."
+        },
+        {
           "title": "AIがSEOに取って代わる5つの方法（と変わらない4つのこと）",
           "titleOrig": "5 ways AI is replacing SEO (and 4 things that aren’t changing)",
           "link": "https://www.semrush.com/blog/will-ai-replace-seo/",
@@ -105,7 +112,7 @@
           "summary": "Topical authority in SEO, updated for AI search: define it, pick the right topics, measure your share against competitors, and track progress."
         },
         {
-          "title": "AIの影響を受けるトラフィック：AI検索パフォーマンスを測定する新しいSemrush指標",
+          "title": "AIの影響を受けたトラフィック：AI検索パフォーマンスを測定する新しいSemrush指標",
           "titleOrig": "AI-influenced traffic: A new Semrush metric to measure AI search performance",
           "link": "https://www.semrush.com/blog/ai-influenced-traffic-metric/",
           "date": "Wed, 18 Nov 2026 09:00:00 +0000",
@@ -117,13 +124,6 @@
           "link": "https://www.semrush.com/blog/ai-overviews-are-taking-over-the-map-pack/",
           "date": "Tue, 17 Nov 2026 13:58:00 +0000",
           "summary": "AI Overviews are taking over the map pack. Learn why ranking in the pack isn’t enough anymore and what your business needs to do to show up."
-        },
-        {
-          "title": "ChatGPTビジネスハブにメンションとクリック数が表示されるようになりました",
-          "titleOrig": "ChatGPT Business Hub now shows mentions and clicks",
-          "link": "https://www.semrush.com/blog/chatgpt-business-hub/",
-          "date": "Tue, 17 Nov 2026 12:56:00 +0000",
-          "summary": "ChatGPT Business Hub lets you claim your listing and track mentions and clicks, but your brand name alone doesn’t count as a mention."
         }
       ],
       "error": null
@@ -203,7 +203,7 @@
       "feedUrl": "https://blog.google/technology/ai/rss/",
       "items": [
         {
-          "title": "Gemini APIにおけるツール検索の導入",
+          "title": "Gemini APIにおけるツール取得の導入",
           "titleOrig": "Introducing Tool Retrieval in the Gemini API",
           "link": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-api-tool-retrieval/",
           "date": "Thu, 19 Nov 2026 18:00:00 +0000",
@@ -231,7 +231,7 @@
           "summary": "Tasks in Gemini is now free of charge in six countries, with new features starting in the U.S. and deeper Google Workspace integration to get things done on your behalf."
         },
         {
-          "title": "ホリデーシーズンの旅行や準備に役立つ、Ask Mapsの新しい機能",
+          "title": "ホリデーシーズンの旅行や準備に役立つ「Ask Maps」の新機能",
           "titleOrig": "New Ask Maps features to help with holiday travel and prep",
           "link": "https://blog.google/products-and-platforms/products/maps/ask-maps-holiday-travel-features-2026/",
           "date": "Mon, 16 Nov 2026 14:00:00 +0000",
@@ -293,6 +293,20 @@
       "feedUrl": "https://wordpress.org/news/feed/",
       "items": [
         {
+          "title": "2026年第3四半期のグローバルパートナー",
+          "titleOrig": "Global Partners Across the Third Quarter of the 2026",
+          "link": "https://wordpress.org/news/2026/11/global-partners-third-quarter-2026/",
+          "date": "Fri, 20 Nov 2026 17:17:24 +0000",
+          "summary": "From July through September 2026, the WordPress Community organized 39 events with the financial support of the project’s five Global Partners: Jetpack, WordPress.com, WooCommerce, Bluehost, and Hosti"
+        },
+        {
+          "title": "WordPressクレジットで翻訳を強化",
+          "titleOrig": "WordPress Credits Boost Translation",
+          "link": "https://wordpress.org/news/2026/11/wp-credits-boost-translation/",
+          "date": "Fri, 20 Nov 2026 13:48:10 +0000",
+          "summary": "Contributors to the Costa Rican Spanish locale are making WordPress more accessible to Spanish-speaking communities in Costa Rica. Students from local schools and universities have joined the Polyglot"
+        },
+        {
           "title": "WordPress 7.1.5 リリース",
           "titleOrig": "WordPress 7.1.5 Release",
           "link": "https://wordpress.org/news/2026/11/wordpress-7-1-5-release/",
@@ -312,20 +326,6 @@
           "link": "https://wordpress.org/news/2026/11/reprint-your-site/",
           "date": "Fri, 13 Nov 2026 12:00:00 +0000",
           "summary": "Reprint is a free, open-source, PHP-based tool that copies a WordPress site’s files and database. The plugin is available in the WordPress.org Plugin Directory, along with the command-line client used"
-        },
-        {
-          "title": "WordCamp Asia 2027はペナンで開催されます",
-          "titleOrig": "WordCamp Asia 2027 Is Coming to Penang",
-          "link": "https://wordpress.org/news/2026/11/wc-asia-2027-penang/",
-          "date": "Wed, 11 Nov 2026 14:00:00 +0000",
-          "summary": "Next year, WordCamp Asia 2027 heads to Penang, Malaysia. From April 9 to 11, the WordPress community will gather at the Penang Waterfront Convention Centre for three days of contribution, learning, an"
-        },
-        {
-          "title": "WordPress 7.2ベータ5",
-          "titleOrig": "WordPress 7.2 Beta 5",
-          "link": "https://wordpress.org/news/2026/11/wordpress-7-2-beta-5/",
-          "date": "Tue, 10 Nov 2026 16:59:09 +0000",
-          "summary": "WordPress 7.2 Beta 5 is ready for download and testing! This beta release is intended for testing and development only. Please do not install, run, or test this version of WordPress on production or m"
         }
       ],
       "error": null
@@ -383,7 +383,7 @@
       "feedUrl": "https://github.blog/feed/",
       "items": [
         {
-          "title": "オープンソースの最大の利点は、みんなで一緒に作り上げる点です。",
+          "title": "オープンソースの最大の利点は、みんなで一緒に作り上げることです。",
           "titleOrig": "The best things in open source are built together",
           "link": "https://github.blog/open-source/maintainers/the-best-things-in-open-source-are-built-together/",
           "date": "Thu, 19 Nov 2026 16:00:00 +0000",
