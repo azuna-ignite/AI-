@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-11-21T05:57:50.645Z",
+  "fetchedAt": "2026-11-22T05:32:05.912Z",
   "tools": [
     {
       "tool": "ミエルカ（YouTube）",
@@ -91,7 +91,7 @@
       "feedUrl": "https://www.semrush.com/blog/feed/",
       "items": [
         {
-          "title": "EコマースSEO：検索とAIでの可視性を高める8つのステップ",
+          "title": "EコマースSEO：検索とAIでの認知度を高める8つのステップ",
           "titleOrig": "Ecommerce SEO: 8 steps to grow visibility in search and AI",
           "link": "https://www.semrush.com/blog/ecommerce-seo/",
           "date": "Fri, 20 Nov 2026 14:59:00 +0000",
@@ -105,14 +105,14 @@
           "summary": "Will AI replace SEO? Yes, by expanding search and taking clicks from publishers. But 4 things stay the same."
         },
         {
-          "title": "SEOにおけるトピックオーソリティとは？2027年を見据えたガイド",
+          "title": "SEOにおけるトピックオーソリティとは？2027年に向けた将来を見据えたガイド",
           "titleOrig": "What is topical authority in SEO? A forward-looking guide for 2027",
           "link": "https://www.semrush.com/blog/topical-authority/",
           "date": "Thu, 19 Nov 2026 11:00:00 +0000",
           "summary": "Topical authority in SEO, updated for AI search: define it, pick the right topics, measure your share against competitors, and track progress."
         },
         {
-          "title": "AIの影響を受けたトラフィック：AI検索パフォーマンスを測定する新しいSemrush指標",
+          "title": "AIの影響を受けるトラフィック：AI検索パフォーマンスを測定する新しいSemrush指標",
           "titleOrig": "AI-influenced traffic: A new Semrush metric to measure AI search performance",
           "link": "https://www.semrush.com/blog/ai-influenced-traffic-metric/",
           "date": "Wed, 18 Nov 2026 09:00:00 +0000",
@@ -203,7 +203,7 @@
       "feedUrl": "https://blog.google/technology/ai/rss/",
       "items": [
         {
-          "title": "Gemini APIにおけるツール取得の導入",
+          "title": "Gemini APIのツール取得機能のご紹介",
           "titleOrig": "Introducing Tool Retrieval in the Gemini API",
           "link": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-api-tool-retrieval/",
           "date": "Thu, 19 Nov 2026 18:00:00 +0000",
@@ -345,7 +345,7 @@
           "summary": "Includes all new features and bug fixes up to Obsidian Desktop v1.15.1. New Added the Web viewer core plugin. With Open external links turned on in its settings, links to web pages open in an in-app b"
         },
         {
-          "title": "Obsidian 1.15.1 デスクトップ版（公開版）",
+          "title": "Obsidian 1.15.1 デスクトップ版（公開）",
           "titleOrig": "Obsidian 1.15.1 Desktop (Public)",
           "link": "https://obsidian.md/changelog/2026-11-12-desktop-v1.15.1/",
           "date": "2026-11-12T00:00:00.000Z",
@@ -359,7 +359,7 @@
           "summary": "Includes all new features and bug fixes up to Obsidian Desktop v1.15.1. New Added the Web viewer core plugin. With Open external links turned on in its settings, links to web pages open in an in-app b"
         },
         {
-          "title": "Obsidian 1.15.1 デスクトップ（早期アクセス）",
+          "title": "Obsidian 1.15.1 デスクトップ版（早期アクセス）",
           "titleOrig": "Obsidian 1.15.1 Desktop (Early access)",
           "link": "https://obsidian.md/changelog/2026-11-03-desktop-v1.15.1/",
           "date": "2026-11-03T00:00:00.000Z",
