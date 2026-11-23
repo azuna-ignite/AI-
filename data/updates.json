@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-11-22T05:32:05.912Z",
+  "fetchedAt": "2026-11-23T06:13:10.417Z",
   "tools": [
     {
       "tool": "ミエルカ（YouTube）",
@@ -105,7 +105,7 @@
           "summary": "Will AI replace SEO? Yes, by expanding search and taking clicks from publishers. But 4 things stay the same."
         },
         {
-          "title": "SEOにおけるトピックオーソリティとは？2027年に向けた将来を見据えたガイド",
+          "title": "SEOにおけるトピックオーソリティとは？2027年を見据えたガイド",
           "titleOrig": "What is topical authority in SEO? A forward-looking guide for 2027",
           "link": "https://www.semrush.com/blog/topical-authority/",
           "date": "Thu, 19 Nov 2026 11:00:00 +0000",
@@ -203,7 +203,7 @@
       "feedUrl": "https://blog.google/technology/ai/rss/",
       "items": [
         {
-          "title": "Gemini APIのツール取得機能のご紹介",
+          "title": "Gemini APIのツール検索機能のご紹介",
           "titleOrig": "Introducing Tool Retrieval in the Gemini API",
           "link": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-api-tool-retrieval/",
           "date": "Thu, 19 Nov 2026 18:00:00 +0000",
@@ -224,7 +224,7 @@
           "summary": "The Google Gemini app now supports lower-memory Android devices. Access Gemini Live and custom image creation on your phone. Download the app today."
         },
         {
-          "title": "Geminiを業務に活用しましょう",
+          "title": "Gemini を活用しましょう",
           "titleOrig": "Put Gemini to work for you",
           "link": "https://blog.google/innovation-and-ai/products/gemini-app/tasks-in-gemini-free-new-features/",
           "date": "Tue, 17 Nov 2026 17:00:00 +0000",
@@ -345,7 +345,7 @@
           "summary": "Includes all new features and bug fixes up to Obsidian Desktop v1.15.1. New Added the Web viewer core plugin. With Open external links turned on in its settings, links to web pages open in an in-app b"
         },
         {
-          "title": "Obsidian 1.15.1 デスクトップ版（公開）",
+          "title": "Obsidian 1.15.1 デスクトップ版（公開版）",
           "titleOrig": "Obsidian 1.15.1 Desktop (Public)",
           "link": "https://obsidian.md/changelog/2026-11-12-desktop-v1.15.1/",
           "date": "2026-11-12T00:00:00.000Z",
@@ -383,7 +383,7 @@
       "feedUrl": "https://github.blog/feed/",
       "items": [
         {
-          "title": "オープンソースの最大の利点は、みんなで一緒に作り上げることです。",
+          "title": "オープンソースの最大の利点は、みんなで一緒に作り上げる点です。",
           "titleOrig": "The best things in open source are built together",
           "link": "https://github.blog/open-source/maintainers/the-best-things-in-open-source-are-built-together/",
           "date": "Thu, 19 Nov 2026 16:00:00 +0000",
