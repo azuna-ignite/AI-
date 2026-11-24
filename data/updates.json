@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-11-23T06:13:10.417Z",
+  "fetchedAt": "2026-11-24T08:49:23.247Z",
   "tools": [
     {
       "tool": "ミエルカ（YouTube）",
@@ -10,6 +10,12 @@
       "handle": "@mieruca-channel",
       "feedUrl": "",
       "items": [
+        {
+          "title": "世界の上位100万サイトで総訪問数が12%減。大手への集中は進んだのか？｜SEO Weekly Update",
+          "link": "https://www.youtube.com/watch?v=T3cO8uxVqKM",
+          "date": "2026-11-23T22:30:10.000Z",
+          "summary": ""
+        },
         {
           "title": "AI生成コンテンツはSEOで不利？Google公式ガイダンスの更新点とスパムになる使い方",
           "link": "https://www.youtube.com/watch?v=nUp1coqcgtg",
@@ -33,12 +39,6 @@
           "link": "https://www.youtube.com/watch?v=f5ixGPxBk_Y",
           "date": "2026-11-08T22:30:01.000Z",
           "summary": ""
-        },
-        {
-          "title": "画像SEOの基本をGoogle公式ガイドで解説｜画像検索やGoogleレンズで見つけてもらうには",
-          "link": "https://www.youtube.com/watch?v=_Xl44xn1K5c",
-          "date": "2026-11-03T23:00:27.000Z",
-          "summary": ""
         }
       ],
       "error": null
@@ -50,6 +50,12 @@
       "sourceType": "tool",
       "feedUrl": "https://ahrefs.com/blog/ja/feed/",
       "items": [
+        {
+          "title": "Ahrefs（エイチレフス）MCP サーバー徹底活用：AI に最新 SEO データをリアルタイムで取得させる実践ガイド",
+          "link": "https://ahrefs.com/ja/blog/ahrefs-mcp-server-guide/",
+          "date": "Tue, 24 Nov 2026 01:12:30 +0000",
+          "summary": "Ahrefs MCP サーバーの仕組みと主要 AI への接続手順を徹底解説。最新の SEO データをリアルタイム取得し、SEO 競合分析や被リンクチェック、SEO レポート作成を対話だけで完結させる 3 つの実践ワークフローをお届けします。"
+        },
         {
           "title": "Google AI モードとは？使い方・消し方と、AI による概要との違いをデータで解説",
           "link": "https://ahrefs.com/ja/blog/google-ai-mode-new/",
@@ -73,12 +79,6 @@
           "link": "https://ahrefs.com/ja/blog/cybersecurity-company-ranking/",
           "date": "Mon, 09 Nov 2026 07:44:14 +0000",
           "summary": "Ahrefs のデータをもとに、日本のサイバーセキュリティ企業 約 60 社の指名検索数を比べました。前年より検索が増えていたのは 13 社です。世界のランキングとして、英語版の記事で紹介している海外のセキュリティ企業 25 社も載せています。 ランキングは毎月更新しています。 英語版はオーガニックトラフィックの伸びで順位を付けています。ただ、日本の SaaS やセキュリティ企業のサイトは、ブログ"
-        },
-        {
-          "title": "日本と世界で伸びている SaaS 企業ランキング（2026年11月時点）",
-          "link": "https://ahrefs.com/ja/blog/saas-company-ranking/",
-          "date": "Mon, 09 Nov 2026 07:43:29 +0000",
-          "summary": "Ahrefs のデータをもとに、日本の SaaS 企業 約 200 社の指名検索数を比べ、伸びている 25 社をランキングにしました。世界のランキングとして、英語版の記事で紹介している海外の SaaS スタートアップ 25 社も載せています。 ランキングは毎月更新しています。 英語版はオーガニックトラフィックの伸びで順位を付けています。ただ、日本の SaaS やセキュリティ企業のサイトは、ブログや"
         }
       ],
       "error": null
@@ -90,6 +90,20 @@
       "sourceType": "tool",
       "feedUrl": "https://www.semrush.com/blog/feed/",
       "items": [
+        {
+          "title": "SEOとAIの可視性をトピック別にまとめて測定：Semrushの新機能",
+          "titleOrig": "Measure SEO and AI visibility together by topic: New in Semrush",
+          "link": "https://www.semrush.com/blog/measure-seo-ai-visibility-by-topic/",
+          "date": "Mon, 23 Nov 2026 14:20:00 +0000",
+          "summary": "Keywords and prompts, measured together. See which topics you own across Google and AI answers, find your gaps, and benchmark competitors."
+        },
+        {
+          "title": "ソーシャルメディアとUGCに関するAI引用は、GoogleのAIプラットフォームでは52%増加し、ChatGPTでは44%減少しました。",
+          "titleOrig": "AI citations to social media & UGC grew 52% on Google's AI platforms, fell 44% on ChatGPT",
+          "link": "https://www.semrush.com/blog/ai-citations-social-media-ugc/",
+          "date": "Mon, 23 Nov 2026 13:42:00 +0000",
+          "summary": "Social media and UGC content appears to play a role in AI search, but the growth of that role isn’t the same on every AI platform."
+        },
         {
           "title": "EコマースSEO：検索とAIでの認知度を高める8つのステップ",
           "titleOrig": "Ecommerce SEO: 8 steps to grow visibility in search and AI",
@@ -105,25 +119,11 @@
           "summary": "Will AI replace SEO? Yes, by expanding search and taking clicks from publishers. But 4 things stay the same."
         },
         {
-          "title": "SEOにおけるトピックオーソリティとは？2027年を見据えたガイド",
+          "title": "SEOにおけるトピックオーソリティとは？2027年に向けた将来志向のガイド",
           "titleOrig": "What is topical authority in SEO? A forward-looking guide for 2027",
           "link": "https://www.semrush.com/blog/topical-authority/",
           "date": "Thu, 19 Nov 2026 11:00:00 +0000",
           "summary": "Topical authority in SEO, updated for AI search: define it, pick the right topics, measure your share against competitors, and track progress."
-        },
-        {
-          "title": "AIの影響を受けるトラフィック：AI検索パフォーマンスを測定する新しいSemrush指標",
-          "titleOrig": "AI-influenced traffic: A new Semrush metric to measure AI search performance",
-          "link": "https://www.semrush.com/blog/ai-influenced-traffic-metric/",
-          "date": "Wed, 18 Nov 2026 09:00:00 +0000",
-          "summary": "Traffic is the missing step between AI visibility and revenue. Now you can see it."
-        },
-        {
-          "title": "AI Overviewsがマップパックを乗っ取っています。私が発見したことは次のとおりです。",
-          "titleOrig": "AI Overviews are taking over the map pack. Here’s what I found",
-          "link": "https://www.semrush.com/blog/ai-overviews-are-taking-over-the-map-pack/",
-          "date": "Tue, 17 Nov 2026 13:58:00 +0000",
-          "summary": "AI Overviews are taking over the map pack. Learn why ranking in the pack isn’t enough anymore and what your business needs to do to show up."
         }
       ],
       "error": null
@@ -203,7 +203,14 @@
       "feedUrl": "https://blog.google/technology/ai/rss/",
       "items": [
         {
-          "title": "Gemini APIのツール検索機能のご紹介",
+          "title": "あなただけの、よりカスタマイズされたGoogle検索",
+          "titleOrig": "A more tailored Google Search that’s uniquely yours",
+          "link": "https://blog.google/products-and-platforms/products/search/google-search-personal-intelligence-apps/",
+          "date": "Mon, 23 Nov 2026 17:00:00 +0000",
+          "summary": "Get more helpful Search responses by securely opting in to connect Google Wallet, Drive, and the Gemini app to Personal Intelligence in AI Mode."
+        },
+        {
+          "title": "Gemini APIにおけるツール取得の導入",
           "titleOrig": "Introducing Tool Retrieval in the Gemini API",
           "link": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-api-tool-retrieval/",
           "date": "Thu, 19 Nov 2026 18:00:00 +0000",
@@ -217,7 +224,7 @@
           "summary": "Walter Isaacson joins Google to discuss how history’s greatest innovators inspire creativity and human judgment in the AI age. Watch the episode."
         },
         {
-          "title": "Geminiアプリが、メモリ容量の少ないAndroidデバイスでも利用できるようになりました。",
+          "title": "Geminiアプリが、メモリ容量の少ないAndroid端末でも利用できるようになりました。",
           "titleOrig": "The Gemini app is now available on lower-memory Android devices.",
           "link": "https://blog.google/innovation-and-ai/products/gemini-app/gemini-lower-memory-devices/",
           "date": "Wed, 18 Nov 2026 17:00:00 +0000",
@@ -229,13 +236,6 @@
           "link": "https://blog.google/innovation-and-ai/products/gemini-app/tasks-in-gemini-free-new-features/",
           "date": "Tue, 17 Nov 2026 17:00:00 +0000",
           "summary": "Tasks in Gemini is now free of charge in six countries, with new features starting in the U.S. and deeper Google Workspace integration to get things done on your behalf."
-        },
-        {
-          "title": "ホリデーシーズンの旅行や準備に役立つ「Ask Maps」の新機能",
-          "titleOrig": "New Ask Maps features to help with holiday travel and prep",
-          "link": "https://blog.google/products-and-platforms/products/maps/ask-maps-holiday-travel-features-2026/",
-          "date": "Mon, 16 Nov 2026 14:00:00 +0000",
-          "summary": "Plan holiday road trips, get route tips, find local appointments, and search your saved lists with new Ask Maps features."
         }
       ],
       "error": null
@@ -293,6 +293,13 @@
       "feedUrl": "https://wordpress.org/news/feed/",
       "items": [
         {
+          "title": "WordPress 7.2リリース記念ライブストリームに参加しましょう",
+          "titleOrig": "Join the WordPress 7.2 Release Celebration Livestream",
+          "link": "https://wordpress.org/news/2026/11/7-2-release-celebration/",
+          "date": "Mon, 23 Nov 2026 19:06:10 +0000",
+          "summary": "On December 8, 2026, at 16:00 UTC, contributors to WordPress 7.2 will livestream the release, and you’re invited. Expect demos of what’s new and time to hear from the contributors themselves. Anyone c"
+        },
+        {
           "title": "2026年第3四半期のグローバルパートナー",
           "titleOrig": "Global Partners Across the Third Quarter of the 2026",
           "link": "https://wordpress.org/news/2026/11/global-partners-third-quarter-2026/",
@@ -319,13 +326,6 @@
           "link": "https://wordpress.org/news/2026/11/wordpress-7-2-release-candidate-1/",
           "date": "Tue, 17 Nov 2026 16:04:13 +0000",
           "summary": "The first Release Candidate (“RC1”) for WordPress 7.2 is ready for download and testing! This version of the WordPress software is still under development. Please do not install, run, or test this ver"
-        },
-        {
-          "title": "ReprintでWordPressサイトをコピーする",
-          "titleOrig": "Copy Your WordPress Site with Reprint",
-          "link": "https://wordpress.org/news/2026/11/reprint-your-site/",
-          "date": "Fri, 13 Nov 2026 12:00:00 +0000",
-          "summary": "Reprint is a free, open-source, PHP-based tool that copies a WordPress site’s files and database. The plugin is available in the WordPress.org Plugin Directory, along with the command-line client used"
         }
       ],
       "error": null
@@ -359,7 +359,7 @@
           "summary": "Includes all new features and bug fixes up to Obsidian Desktop v1.15.1. New Added the Web viewer core plugin. With Open external links turned on in its settings, links to web pages open in an in-app b"
         },
         {
-          "title": "Obsidian 1.15.1 デスクトップ版（早期アクセス）",
+          "title": "Obsidian 1.15.1 デスクトップ（早期アクセス）",
           "titleOrig": "Obsidian 1.15.1 Desktop (Early access)",
           "link": "https://obsidian.md/changelog/2026-11-03-desktop-v1.15.1/",
           "date": "2026-11-03T00:00:00.000Z",
@@ -411,7 +411,7 @@
           "summary": "In October, we experienced eight incidents that resulted in degraded performance across GitHub services. The post GitHub availability report: October 2026 appeared first on The GitHub Blog."
         },
         {
-          "title": "一度構築すれば、どのエージェントでも実行可能：エージェントスキルの実践ガイド",
+          "title": "一度構築すれば、どのエージェントでも実行可能：エージェントスキルの実践的ガイド",
           "titleOrig": "Build once, run on any agent: A practical guide to agent skills",
           "link": "https://github.blog/ai-and-ml/github-copilot/build-once-run-on-any-agent-a-practical-guide-to-agent-skills/",
           "date": "Thu, 12 Nov 2026 22:54:52 +0000",
