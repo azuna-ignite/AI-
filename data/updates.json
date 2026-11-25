@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-11-24T08:49:23.247Z",
+  "fetchedAt": "2026-11-25T07:24:23.473Z",
   "tools": [
     {
       "tool": "ミエルカ（YouTube）",
@@ -51,6 +51,12 @@
       "feedUrl": "https://ahrefs.com/blog/ja/feed/",
       "items": [
         {
+          "title": "ドメインレーティング（DR4）プレビュー｜Ahrefs のドメインパワー新モデルで何が変わる？サブドメイン別スコアと対象ドメイン約半減を解説",
+          "link": "https://ahrefs.com/ja/blog/domain-rating-dr4/",
+          "date": "Wed, 25 Nov 2026 02:27:57 +0000",
+          "summary": "Ahrefs のドメインレーティング（DR）が DR4 に更新予定です。対象ドメインは DR3 の約半分に絞られ、サブドメインにも個別の DR が付与されます。help.ahrefs.com は DR 91 から 75 に。変更点と確認方法を解説します。"
+        },
+        {
           "title": "Ahrefs（エイチレフス）MCP サーバー徹底活用：AI に最新 SEO データをリアルタイムで取得させる実践ガイド",
           "link": "https://ahrefs.com/ja/blog/ahrefs-mcp-server-guide/",
           "date": "Tue, 24 Nov 2026 01:12:30 +0000",
@@ -73,12 +79,6 @@
           "link": "https://ahrefs.com/ja/blog/tech-startup-ranking/",
           "date": "Mon, 09 Nov 2026 07:45:20 +0000",
           "summary": "Ahrefs のデータをもとに、2015 年以降に設立された日本のテック系スタートアップ 約 90 社の指名検索数を比べ、伸びている 19 社をランキングにしました。世界のランキングとして、英語版の記事で紹介している海外のスタートアップ 25 社も載せています。 ランキングは毎月更新しています。 日本の Google で、社名・サービス名の検索が前年より伸びているスタートアップは次のとおりです。 "
-        },
-        {
-          "title": "日本と世界で伸びているサイバーセキュリティ企業ランキング（2026年11月時点）",
-          "link": "https://ahrefs.com/ja/blog/cybersecurity-company-ranking/",
-          "date": "Mon, 09 Nov 2026 07:44:14 +0000",
-          "summary": "Ahrefs のデータをもとに、日本のサイバーセキュリティ企業 約 60 社の指名検索数を比べました。前年より検索が増えていたのは 13 社です。世界のランキングとして、英語版の記事で紹介している海外のセキュリティ企業 25 社も載せています。 ランキングは毎月更新しています。 英語版はオーガニックトラフィックの伸びで順位を付けています。ただ、日本の SaaS やセキュリティ企業のサイトは、ブログ"
         }
       ],
       "error": null
@@ -91,6 +91,13 @@
       "feedUrl": "https://www.semrush.com/blog/feed/",
       "items": [
         {
+          "title": "AIによる引用数の減少：減少時に必要な対処方法",
+          "titleOrig": "AI citation decay: how to tell when a drop needs action",
+          "link": "https://www.semrush.com/blog/ai-citation-decay/",
+          "date": "Tue, 24 Nov 2026 12:14:00 +0000",
+          "summary": "Learn how to tell AI citation decay from normal variation, investigate lost citations, and decide whether your content needs an update."
+        },
+        {
           "title": "SEOとAIの可視性をトピック別にまとめて測定：Semrushの新機能",
           "titleOrig": "Measure SEO and AI visibility together by topic: New in Semrush",
           "link": "https://www.semrush.com/blog/measure-seo-ai-visibility-by-topic/",
@@ -98,14 +105,14 @@
           "summary": "Keywords and prompts, measured together. See which topics you own across Google and AI answers, find your gaps, and benchmark competitors."
         },
         {
-          "title": "ソーシャルメディアとUGCに関するAI引用は、GoogleのAIプラットフォームでは52%増加し、ChatGPTでは44%減少しました。",
+          "title": "ソーシャルメディアとUGCに関するAI引用は、GoogleのAIプラットフォームでは52%増加したが、ChatGPTでは44%減少した。",
           "titleOrig": "AI citations to social media & UGC grew 52% on Google's AI platforms, fell 44% on ChatGPT",
           "link": "https://www.semrush.com/blog/ai-citations-social-media-ugc/",
           "date": "Mon, 23 Nov 2026 13:42:00 +0000",
           "summary": "Social media and UGC content appears to play a role in AI search, but the growth of that role isn’t the same on every AI platform."
         },
         {
-          "title": "EコマースSEO：検索とAIでの認知度を高める8つのステップ",
+          "title": "EコマースSEO：検索とAIでの可視性を高める8つのステップ",
           "titleOrig": "Ecommerce SEO: 8 steps to grow visibility in search and AI",
           "link": "https://www.semrush.com/blog/ecommerce-seo/",
           "date": "Fri, 20 Nov 2026 14:59:00 +0000",
@@ -117,13 +124,6 @@
           "link": "https://www.semrush.com/blog/will-ai-replace-seo/",
           "date": "Thu, 19 Nov 2026 11:14:00 +0000",
           "summary": "Will AI replace SEO? Yes, by expanding search and taking clicks from publishers. But 4 things stay the same."
-        },
-        {
-          "title": "SEOにおけるトピックオーソリティとは？2027年に向けた将来志向のガイド",
-          "titleOrig": "What is topical authority in SEO? A forward-looking guide for 2027",
-          "link": "https://www.semrush.com/blog/topical-authority/",
-          "date": "Thu, 19 Nov 2026 11:00:00 +0000",
-          "summary": "Topical authority in SEO, updated for AI search: define it, pick the right topics, measure your share against competitors, and track progress."
         }
       ],
       "error": null
@@ -203,14 +203,21 @@
       "feedUrl": "https://blog.google/technology/ai/rss/",
       "items": [
         {
-          "title": "あなただけの、よりカスタマイズされたGoogle検索",
+          "title": "Geminiがゴールデンステートの組織とファンにとってのゲームを変えている方法。",
+          "titleOrig": "How Gemini is changing the game for Golden State's organization and fans.",
+          "link": "https://blog.google/products-and-platforms/products/gemini/gemini-golden-state/",
+          "date": "Tue, 24 Nov 2026 16:00:00 +0000",
+          "summary": "Google Gemini partners with Golden State to power fan experiences and business operations for the Warriors, Valkyries, and Chase Center. See the news."
+        },
+        {
+          "title": "あなただけの、よりパーソナライズされたGoogle検索",
           "titleOrig": "A more tailored Google Search that’s uniquely yours",
           "link": "https://blog.google/products-and-platforms/products/search/google-search-personal-intelligence-apps/",
           "date": "Mon, 23 Nov 2026 17:00:00 +0000",
           "summary": "Get more helpful Search responses by securely opting in to connect Google Wallet, Drive, and the Gemini app to Personal Intelligence in AI Mode."
         },
         {
-          "title": "Gemini APIにおけるツール取得の導入",
+          "title": "Gemini APIのツール検索機能のご紹介",
           "titleOrig": "Introducing Tool Retrieval in the Gemini API",
           "link": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-api-tool-retrieval/",
           "date": "Thu, 19 Nov 2026 18:00:00 +0000",
@@ -224,18 +231,11 @@
           "summary": "Walter Isaacson joins Google to discuss how history’s greatest innovators inspire creativity and human judgment in the AI age. Watch the episode."
         },
         {
-          "title": "Geminiアプリが、メモリ容量の少ないAndroid端末でも利用できるようになりました。",
+          "title": "Geminiアプリが、メモリ容量の少ないAndroidデバイスでも利用できるようになりました。",
           "titleOrig": "The Gemini app is now available on lower-memory Android devices.",
           "link": "https://blog.google/innovation-and-ai/products/gemini-app/gemini-lower-memory-devices/",
           "date": "Wed, 18 Nov 2026 17:00:00 +0000",
           "summary": "The Google Gemini app now supports lower-memory Android devices. Access Gemini Live and custom image creation on your phone. Download the app today."
-        },
-        {
-          "title": "Gemini を活用しましょう",
-          "titleOrig": "Put Gemini to work for you",
-          "link": "https://blog.google/innovation-and-ai/products/gemini-app/tasks-in-gemini-free-new-features/",
-          "date": "Tue, 17 Nov 2026 17:00:00 +0000",
-          "summary": "Tasks in Gemini is now free of charge in six countries, with new features starting in the U.S. and deeper Google Workspace integration to get things done on your behalf."
         }
       ],
       "error": null
@@ -293,6 +293,13 @@
       "feedUrl": "https://wordpress.org/news/feed/",
       "items": [
         {
+          "title": "WordPress 7.2 リリース候補版 3",
+          "titleOrig": "WordPress 7.2 Release Candidate 3",
+          "link": "https://wordpress.org/news/2026/11/wordpress-7-2-release-candidate-3/",
+          "date": "Tue, 24 Nov 2026 15:53:15 +0000",
+          "summary": "Release Candidate 3 (“RC3”) for WordPress 7.2 is ready for download and testing! This version of the WordPress software is still under development. Please do not install, run, or test this version of "
+        },
+        {
           "title": "WordPress 7.2リリース記念ライブストリームに参加しましょう",
           "titleOrig": "Join the WordPress 7.2 Release Celebration Livestream",
           "link": "https://wordpress.org/news/2026/11/7-2-release-celebration/",
@@ -307,7 +314,7 @@
           "summary": "From July through September 2026, the WordPress Community organized 39 events with the financial support of the project’s five Global Partners: Jetpack, WordPress.com, WooCommerce, Bluehost, and Hosti"
         },
         {
-          "title": "WordPressクレジットで翻訳を強化",
+          "title": "WordPressクレジットで翻訳を促進",
           "titleOrig": "WordPress Credits Boost Translation",
           "link": "https://wordpress.org/news/2026/11/wp-credits-boost-translation/",
           "date": "Fri, 20 Nov 2026 13:48:10 +0000",
@@ -319,13 +326,6 @@
           "link": "https://wordpress.org/news/2026/11/wordpress-7-1-5-release/",
           "date": "Wed, 18 Nov 2026 17:08:59 +0000",
           "summary": "This security release features fixes for multiple issues. Because this is a security release, it is recommended that you update your sites immediately. You can download WordPress 7.1.5 from WordPress."
-        },
-        {
-          "title": "WordPress 7.2 リリース候補版 1",
-          "titleOrig": "WordPress 7.2 Release Candidate 1",
-          "link": "https://wordpress.org/news/2026/11/wordpress-7-2-release-candidate-1/",
-          "date": "Tue, 17 Nov 2026 16:04:13 +0000",
-          "summary": "The first Release Candidate (“RC1”) for WordPress 7.2 is ready for download and testing! This version of the WordPress software is still under development. Please do not install, run, or test this ver"
         }
       ],
       "error": null
@@ -359,7 +359,7 @@
           "summary": "Includes all new features and bug fixes up to Obsidian Desktop v1.15.1. New Added the Web viewer core plugin. With Open external links turned on in its settings, links to web pages open in an in-app b"
         },
         {
-          "title": "Obsidian 1.15.1 デスクトップ（早期アクセス）",
+          "title": "Obsidian 1.15.1 デスクトップ版（早期アクセス）",
           "titleOrig": "Obsidian 1.15.1 Desktop (Early access)",
           "link": "https://obsidian.md/changelog/2026-11-03-desktop-v1.15.1/",
           "date": "2026-11-03T00:00:00.000Z",
@@ -382,6 +382,13 @@
       "sourceType": "tool",
       "feedUrl": "https://github.blog/feed/",
       "items": [
+        {
+          "title": "これらは開発者が実際に欲しいと思うギフトです",
+          "titleOrig": "These are the gifts developers will actually want",
+          "link": "https://github.blog/news-insights/company-news/these-are-the-gifts-developers-will-actually-want/",
+          "date": "Tue, 24 Nov 2026 16:00:00 +0000",
+          "summary": "The developer you're shopping for hasn’t shared their holiday wish list with you yet? Check out these gifts, plus our Black Friday discount all week long. The post These are the gifts developers will "
+        },
         {
           "title": "オープンソースの最大の利点は、みんなで一緒に作り上げる点です。",
           "titleOrig": "The best things in open source are built together",
@@ -409,13 +416,6 @@
           "link": "https://github.blog/news-insights/company-news/github-availability-report-october-2026/",
           "date": "Fri, 13 Nov 2026 00:20:16 +0000",
           "summary": "In October, we experienced eight incidents that resulted in degraded performance across GitHub services. The post GitHub availability report: October 2026 appeared first on The GitHub Blog."
-        },
-        {
-          "title": "一度構築すれば、どのエージェントでも実行可能：エージェントスキルの実践的ガイド",
-          "titleOrig": "Build once, run on any agent: A practical guide to agent skills",
-          "link": "https://github.blog/ai-and-ml/github-copilot/build-once-run-on-any-agent-a-practical-guide-to-agent-skills/",
-          "date": "Thu, 12 Nov 2026 22:54:52 +0000",
-          "summary": "Agent skills capture repeatable engineering work in files teams can review and reuse, while tools, project context, and permissions remain specific to the host that runs them. The post Build once, run"
         }
       ],
       "error": null
