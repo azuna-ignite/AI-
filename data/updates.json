@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-11-25T07:24:23.473Z",
+  "fetchedAt": "2026-11-27T07:09:38.337Z",
   "tools": [
     {
       "tool": "ミエルカ（YouTube）",
@@ -9,39 +9,8 @@
       "type": "youtube",
       "handle": "@mieruca-channel",
       "feedUrl": "",
-      "items": [
-        {
-          "title": "世界の上位100万サイトで総訪問数が12%減。大手への集中は進んだのか？｜SEO Weekly Update",
-          "link": "https://www.youtube.com/watch?v=T3cO8uxVqKM",
-          "date": "2026-11-23T22:30:10.000Z",
-          "summary": ""
-        },
-        {
-          "title": "AI生成コンテンツはSEOで不利？Google公式ガイダンスの更新点とスパムになる使い方",
-          "link": "https://www.youtube.com/watch?v=nUp1coqcgtg",
-          "date": "2026-11-17T23:00:04.000Z",
-          "summary": ""
-        },
-        {
-          "title": "【2026年11月】Googleコアアップデート開始｜展開中にやるべきこと・やらないこと｜SEO Weekly Update",
-          "link": "https://www.youtube.com/watch?v=Nu1HqbjVI9w",
-          "date": "2026-11-15T22:30:13.000Z",
-          "summary": ""
-        },
-        {
-          "title": "【AIO対策】BtoBサービスページの作り方｜問い合わせ前に買い手が知りたいこと",
-          "link": "https://www.youtube.com/watch?v=GBSCOMPbmGI",
-          "date": "2026-11-10T23:00:26.000Z",
-          "summary": ""
-        },
-        {
-          "title": "AI Overviews・AIモードは流入を奪うだけ？ オプトアウト実験の結果｜SEO Weekly Update",
-          "link": "https://www.youtube.com/watch?v=f5ixGPxBk_Y",
-          "date": "2026-11-08T22:30:01.000Z",
-          "summary": ""
-        }
-      ],
-      "error": null
+      "items": [],
+      "error": "Status code 503"
     },
     {
       "tool": "Ahrefs",
@@ -91,39 +60,39 @@
       "feedUrl": "https://www.semrush.com/blog/feed/",
       "items": [
         {
+          "title": "マーケティングファネル：その概要と構築方法",
+          "titleOrig": "The marketing funnel: what it is and how to build one",
+          "link": "https://www.semrush.com/blog/marketing-funnel/",
+          "date": "Thu, 26 Nov 2026 15:08:00 +0000",
+          "summary": "Marketing funnels model the customer journey. Follow these 5 steps to build your own."
+        },
+        {
+          "title": "ブランドの認知度を高めるためのコンテンツマーケティングのヒント14選",
+          "titleOrig": "14 Content marketing tips to improve your brand visibility",
+          "link": "https://www.semrush.com/blog/content-marketing-tips/",
+          "date": "Thu, 26 Nov 2026 11:48:00 +0000",
+          "summary": "Use these 14 content marketing tips to plan, create, distribute, and optimize content that‘s built to be found and cited in search and AI answers"
+        },
+        {
+          "title": "2027年にサイトへのバックリンクを獲得するために実際に効果のある10の戦術",
+          "titleOrig": "10 tactics that actually work to get backlinks to your site in 2027",
+          "link": "https://www.semrush.com/blog/how-to-get-backlinks/",
+          "date": "Wed, 25 Nov 2026 14:58:00 +0000",
+          "summary": "Here’s how to get quality backlinks to your website + what real SEO practitioners are saying still drives results."
+        },
+        {
+          "title": "Semrushの履歴データを使用する10の方法（例付き）",
+          "titleOrig": "10 ways to use Semrush historical data (with examples)",
+          "link": "https://www.semrush.com/blog/semrush-historical-data/",
+          "date": "Wed, 25 Nov 2026 12:07:00 +0000",
+          "summary": "Learn 10 ways to use Semrush historical data to diagnose traffic drops, track keyword ranking history, spot seasonality, and research AI visibility."
+        },
+        {
           "title": "AIによる引用数の減少：減少時に必要な対処方法",
           "titleOrig": "AI citation decay: how to tell when a drop needs action",
           "link": "https://www.semrush.com/blog/ai-citation-decay/",
           "date": "Tue, 24 Nov 2026 12:14:00 +0000",
           "summary": "Learn how to tell AI citation decay from normal variation, investigate lost citations, and decide whether your content needs an update."
-        },
-        {
-          "title": "SEOとAIの可視性をトピック別にまとめて測定：Semrushの新機能",
-          "titleOrig": "Measure SEO and AI visibility together by topic: New in Semrush",
-          "link": "https://www.semrush.com/blog/measure-seo-ai-visibility-by-topic/",
-          "date": "Mon, 23 Nov 2026 14:20:00 +0000",
-          "summary": "Keywords and prompts, measured together. See which topics you own across Google and AI answers, find your gaps, and benchmark competitors."
-        },
-        {
-          "title": "ソーシャルメディアとUGCに関するAI引用は、GoogleのAIプラットフォームでは52%増加したが、ChatGPTでは44%減少した。",
-          "titleOrig": "AI citations to social media & UGC grew 52% on Google's AI platforms, fell 44% on ChatGPT",
-          "link": "https://www.semrush.com/blog/ai-citations-social-media-ugc/",
-          "date": "Mon, 23 Nov 2026 13:42:00 +0000",
-          "summary": "Social media and UGC content appears to play a role in AI search, but the growth of that role isn’t the same on every AI platform."
-        },
-        {
-          "title": "EコマースSEO：検索とAIでの可視性を高める8つのステップ",
-          "titleOrig": "Ecommerce SEO: 8 steps to grow visibility in search and AI",
-          "link": "https://www.semrush.com/blog/ecommerce-seo/",
-          "date": "Fri, 20 Nov 2026 14:59:00 +0000",
-          "summary": "Learn how to get your online store found in search engines and AI platforms with these 8 ecommerce SEO steps."
-        },
-        {
-          "title": "AIがSEOに取って代わる5つの方法（と変わらない4つのこと）",
-          "titleOrig": "5 ways AI is replacing SEO (and 4 things that aren’t changing)",
-          "link": "https://www.semrush.com/blog/will-ai-replace-seo/",
-          "date": "Thu, 19 Nov 2026 11:14:00 +0000",
-          "summary": "Will AI replace SEO? Yes, by expanding search and taking clicks from publishers. But 4 things stay the same."
         }
       ],
       "error": null
@@ -154,6 +123,12 @@
       "feedUrl": "https://rakkokeyword.com/techo/feed/",
       "items": [
         {
+          "title": "楽天SEO対策とは？検索される商品名と上位表示のコツを解説",
+          "link": "https://rakkokeyword.com/techo/rakuten-seo-ranking-tips/",
+          "date": "Thu, 26 Nov 2026 00:34:29 +0000",
+          "summary": "楽天SEO対策とは、楽天市場内の検索（楽天サーチ）で自社商品を上位に表示させるための施策です。 土台になるのは、購入者が実際に検索している語を調べ、その語を商品名と商品ページに正しく入れることです。 難しい分析や大きな予 ..."
+        },
+        {
           "title": "Xでフォロワーを増やすには？伸びるアカウントの運用のコツ",
           "link": "https://rakkokeyword.com/techo/how-to-increase-x-followers/",
           "date": "Mon, 16 Nov 2026 00:34:18 +0000",
@@ -176,12 +151,6 @@
           "link": "https://rakkokeyword.com/techo/how-to-write-comparison-articles/",
           "date": "Tue, 10 Nov 2026 06:13:29 +0000",
           "summary": "比較記事は、「読者が選べる構成」と「比較する商品の選び方」の2つを押さえれば、スペックの羅列から抜け出せます。 構成には型があり、商品選びもキーワードから逆算すれば迷いません。 この記事では、アフィリエイトで比較記事を書 ..."
-        },
-        {
-          "title": "ハンドメイドが売れない理由は？売れ筋と需要の見直し方を解説",
-          "link": "https://rakkokeyword.com/techo/handmade-not-selling-reasons-demand-review/",
-          "date": "Mon, 09 Nov 2026 02:40:58 +0000",
-          "summary": "ハンドメイドが売れないのは、才能やセンスが足りないからではありません。 多くの場合、「写真・価格・説明文・集客」の見せ方と、買う人が探している作品（需要）とのズレが原因です。 原因さえ分かれば、作品そのものを大きく変えな ..."
         }
       ],
       "error": null
@@ -203,7 +172,7 @@
       "feedUrl": "https://blog.google/technology/ai/rss/",
       "items": [
         {
-          "title": "Geminiがゴールデンステートの組織とファンにとってのゲームを変えている方法。",
+          "title": "Geminiがゴールデンステートの組織とファンを変革している方法。",
           "titleOrig": "How Gemini is changing the game for Golden State's organization and fans.",
           "link": "https://blog.google/products-and-platforms/products/gemini/gemini-golden-state/",
           "date": "Tue, 24 Nov 2026 16:00:00 +0000",
@@ -217,7 +186,7 @@
           "summary": "Get more helpful Search responses by securely opting in to connect Google Wallet, Drive, and the Gemini app to Personal Intelligence in AI Mode."
         },
         {
-          "title": "Gemini APIのツール検索機能のご紹介",
+          "title": "Gemini APIのツール取得機能のご紹介",
           "titleOrig": "Introducing Tool Retrieval in the Gemini API",
           "link": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-api-tool-retrieval/",
           "date": "Thu, 19 Nov 2026 18:00:00 +0000",
@@ -359,7 +328,7 @@
           "summary": "Includes all new features and bug fixes up to Obsidian Desktop v1.15.1. New Added the Web viewer core plugin. With Open external links turned on in its settings, links to web pages open in an in-app b"
         },
         {
-          "title": "Obsidian 1.15.1 デスクトップ版（早期アクセス）",
+          "title": "Obsidian 1.15.1 デスクトップ（早期アクセス）",
           "titleOrig": "Obsidian 1.15.1 Desktop (Early access)",
           "link": "https://obsidian.md/changelog/2026-11-03-desktop-v1.15.1/",
           "date": "2026-11-03T00:00:00.000Z",
@@ -383,7 +352,21 @@
       "feedUrl": "https://github.blog/feed/",
       "items": [
         {
-          "title": "これらは開発者が実際に欲しいと思うギフトです",
+          "title": "AI時代の遊びの芸術",
+          "titleOrig": "Art of play in the age of AI",
+          "link": "https://github.blog/news-insights/company-news/art-of-play-in-the-age-of-ai/",
+          "date": "Wed, 25 Nov 2026 16:00:00 +0000",
+          "summary": "Now that code ships faster than ever, you have more time to spend on projects just for the fun of it. Here's what we can learn through that process as developers. The post Art of play in the age of AI"
+        },
+        {
+          "title": "アプリケーションのモダナイゼーションにおける次の安全なステップの選び方",
+          "titleOrig": "How to choose the next safe step in application modernization",
+          "link": "https://github.blog/ai-and-ml/github-copilot/how-to-choose-the-next-safe-step-in-application-modernization/",
+          "date": "Wed, 25 Nov 2026 15:00:00 +0000",
+          "summary": "Learn how to assess a legacy application, choose a bounded modernization step, and reuse the method with a GitHub Copilot agent skill. The post How to choose the next safe step in application moderniz"
+        },
+        {
+          "title": "これらは開発者が本当に欲しいギフトです",
           "titleOrig": "These are the gifts developers will actually want",
           "link": "https://github.blog/news-insights/company-news/these-are-the-gifts-developers-will-actually-want/",
           "date": "Tue, 24 Nov 2026 16:00:00 +0000",
@@ -402,20 +385,6 @@
           "link": "https://github.blog/open-source/maintainers/maintainers-dont-need-more-ai-bug-reports-they-need-fixes/",
           "date": "Tue, 17 Nov 2026 18:29:29 +0000",
           "summary": "In the Codename MDASH pilot, GitHub and Microsoft turned thousands of raw AI findings into 99 checked, private reports with suggested fixes for six widely used open source projects. Maintainers have a"
-        },
-        {
-          "title": "デバイス間で継続するセッション用のエージェントホストプロトコルの構築",
-          "titleOrig": "Building the Agent Host Protocol for sessions that continue across devices",
-          "link": "https://github.blog/engineering/engineering-principles/building-the-agent-host-protocol-for-sessions-that-continue-across-devices/",
-          "date": "Tue, 17 Nov 2026 18:20:40 +0000",
-          "summary": "Discover how we built the open Agent Host Protocol to keep your agent sessions accessible across editors, apps, phones, and the cloud. The post Building the Agent Host Protocol for sessions that conti"
-        },
-        {
-          "title": "GitHub稼働状況レポート：2026年10月",
-          "titleOrig": "GitHub availability report: October 2026",
-          "link": "https://github.blog/news-insights/company-news/github-availability-report-october-2026/",
-          "date": "Fri, 13 Nov 2026 00:20:16 +0000",
-          "summary": "In October, we experienced eight incidents that resulted in degraded performance across GitHub services. The post GitHub availability report: October 2026 appeared first on The GitHub Blog."
         }
       ],
       "error": null
