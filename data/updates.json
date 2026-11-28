@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-11-27T07:09:38.337Z",
+  "fetchedAt": "2026-11-28T06:42:51.349Z",
   "tools": [
     {
       "tool": "ミエルカ（YouTube）",
@@ -60,6 +60,13 @@
       "feedUrl": "https://www.semrush.com/blog/feed/",
       "items": [
         {
+          "title": "2027年の競合他社分析ツールおすすめ 16 選 (比較)",
+          "titleOrig": "16 best competitor analysis tools for 2027 (compared)",
+          "link": "https://www.semrush.com/blog/competitor-analysis-tools/",
+          "date": "Fri, 27 Nov 2026 15:14:00 +0000",
+          "summary": "Compare 16 competitor analysis tools for SEO, AI visibility, social media, and more, with starting prices and free options."
+        },
+        {
           "title": "マーケティングファネル：その概要と構築方法",
           "titleOrig": "The marketing funnel: what it is and how to build one",
           "link": "https://www.semrush.com/blog/marketing-funnel/",
@@ -86,13 +93,6 @@
           "link": "https://www.semrush.com/blog/semrush-historical-data/",
           "date": "Wed, 25 Nov 2026 12:07:00 +0000",
           "summary": "Learn 10 ways to use Semrush historical data to diagnose traffic drops, track keyword ranking history, spot seasonality, and research AI visibility."
-        },
-        {
-          "title": "AIによる引用数の減少：減少時に必要な対処方法",
-          "titleOrig": "AI citation decay: how to tell when a drop needs action",
-          "link": "https://www.semrush.com/blog/ai-citation-decay/",
-          "date": "Tue, 24 Nov 2026 12:14:00 +0000",
-          "summary": "Learn how to tell AI citation decay from normal variation, investigate lost citations, and decide whether your content needs an update."
         }
       ],
       "error": null
@@ -179,7 +179,7 @@
           "summary": "Google Gemini partners with Golden State to power fan experiences and business operations for the Warriors, Valkyries, and Chase Center. See the news."
         },
         {
-          "title": "あなただけの、よりパーソナライズされたGoogle検索",
+          "title": "あなただけの、よりカスタマイズされたGoogle検索",
           "titleOrig": "A more tailored Google Search that’s uniquely yours",
           "link": "https://blog.google/products-and-platforms/products/search/google-search-personal-intelligence-apps/",
           "date": "Mon, 23 Nov 2026 17:00:00 +0000",
@@ -283,7 +283,7 @@
           "summary": "From July through September 2026, the WordPress Community organized 39 events with the financial support of the project’s five Global Partners: Jetpack, WordPress.com, WooCommerce, Bluehost, and Hosti"
         },
         {
-          "title": "WordPressクレジットで翻訳を促進",
+          "title": "WordPressクレジットで翻訳を強化",
           "titleOrig": "WordPress Credits Boost Translation",
           "link": "https://wordpress.org/news/2026/11/wp-credits-boost-translation/",
           "date": "Fri, 20 Nov 2026 13:48:10 +0000",
@@ -314,7 +314,7 @@
           "summary": "Includes all new features and bug fixes up to Obsidian Desktop v1.15.1. New Added the Web viewer core plugin. With Open external links turned on in its settings, links to web pages open in an in-app b"
         },
         {
-          "title": "Obsidian 1.15.1 デスクトップ版（公開版）",
+          "title": "Obsidian 1.15.1 デスクトップ（公開）",
           "titleOrig": "Obsidian 1.15.1 Desktop (Public)",
           "link": "https://obsidian.md/changelog/2026-11-12-desktop-v1.15.1/",
           "date": "2026-11-12T00:00:00.000Z",
@@ -328,7 +328,7 @@
           "summary": "Includes all new features and bug fixes up to Obsidian Desktop v1.15.1. New Added the Web viewer core plugin. With Open external links turned on in its settings, links to web pages open in an in-app b"
         },
         {
-          "title": "Obsidian 1.15.1 デスクトップ（早期アクセス）",
+          "title": "Obsidian 1.15.1 デスクトップ版（早期アクセス）",
           "titleOrig": "Obsidian 1.15.1 Desktop (Early access)",
           "link": "https://obsidian.md/changelog/2026-11-03-desktop-v1.15.1/",
           "date": "2026-11-03T00:00:00.000Z",
